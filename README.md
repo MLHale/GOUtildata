@@ -1,6 +1,6 @@
 # GOUtildata
 Data for the Pathway Viz project
-
+[For dec2017 tag, use this README.md, instead of the one from that tag (some lines were hidden :)]
 ## Naming convention for the filenames with multiple organisms and namespaces
 \<filetype\>.\<organism\>.\<namespace\>.txt
 
