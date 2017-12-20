@@ -26,13 +26,14 @@ Data for the Pathway Viz project
 
 ## Summary of files
 
+**Edges from one term to the other from the go.obo file for a given namespace.
 ```
 edgelist.<namespace>.txt
 ```
-** Edges from one term to the other from the go.obo file for a given namespace.
 
+**Gene centric annotation for a given organism and given namespace.
 ```
 ann.<organism>.<namespace>.txt
 ```
-** Gene centric annotation for a given organism and given namespace.
+
 
