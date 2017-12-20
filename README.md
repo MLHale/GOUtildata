@@ -2,8 +2,8 @@
 Data for the Pathway Viz project
 [For dec2017 tag, use this README.md, instead of the one from that tag (some lines were hidden :)]
 ## Naming convention for the filenames with multiple organisms and namespaces
-\<filetype\>.\<organism\>.\<namespace\>.txt
-
+```<filetype>.<organism>.<namespace>.txt
+```
 ## Organism key-value:
 * hsa = Homo sapiens (human)
 * gga = Gallus gallus (chicken)
@@ -25,10 +25,11 @@ Data for the Pathway Viz project
 
 ## Summary of files
 
-edgelist.\<namespace\>.txt
-
+```edgelist.<namespace>.txt
+```
 ** Edges from one term to the other from the go.obo file for a given namespace.
 
-ann.\<organism\>.\<namespace\>.txt
-
+```ann.<organism>.<namespace>.txt
+```
 ** Gene centric annotation for a given organisma and given namespace.
+
