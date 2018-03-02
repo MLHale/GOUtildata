@@ -1,0 +1,179 @@
+GO:0005783	neu4	psmg1	lsg1	hsd17b3	anp32a	psen1	mlec	neu3.1	lpcat1	cnpy1
+GO:0030425	gria4a
+GO:0005789	pgap2	dullard	dullardl	asah2	agpat9l	agpat9	atp2a1	dpm1	DKEY-162B23.1	DKEY-162B23.1	sacm1lb	vma21	sacm1la
+GO:0031262	ndc80	nuf2	spc24
+GO:0035267	meaf6
+GO:0019867	ankhb
+GO:0016592	med26
+GO:0070937	igf2bp1
+GO:0030057	jup
+GO:0000151	rnf168	rnf8	mib2	mib	mib
+GO:0043203	avpl
+GO:0070724	bmpr1aa	acvr1l
+GO:0031982	vamp2	vamp2
+GO:0080008	wdr32	wdsof1	si:ch211-245g15.4	wdr40a
+GO:0031514	rsph9
+GO:0016021	slc8a1a	crfb5	si:dkey-263h23.3	osta	b4galt7	tmpo	plxnd1	npy7r	itga5	cacna1da	atp1a1	atp1a1a.4	atp1a1b	c1galt1b	timm23	psenen	nrp1a	vangl2	jag1b	s1pr1	opn1mw1	opn1mw4	opn1lw1	opn1sw2	opn1sw1	crfb7	rho	ankhb	crfb8	c1galt1a	crfb4	crfb2	crfb6	cnga5
+GO:0016020	atp2a1	has1	pard6gb	ctnnb1	has2	pikfyve	neu3.3
+GO:0005777	mul1	urah
+GO:0000164	shoc2
+GO:0000922	cep63	ccdc99
+GO:0016513	cbfb
+GO:0030877	ankrd6
+GO:0031372	ube2nl
+GO:0005675	ercc3
+GO:0070531	merit40	fam175a	bre
+GO:0032133	cdca8
+GO:0071339	prpf31	rnf2	tex10	ruvbl1	chd8	max	ruvbl2
+GO:0031901	zfyve28
+GO:0005794	ticam1	smpd2	b4galt7	tsc1a	adam10b	mmgt1	golga5	tmem111	psen1	lpcat1
+GO:0005793	atp2a1
+GO:0032154	rab11fip4a	pard6gb	vamp2	vamp2	rab11fip3	rab11fip4b
+GO:0000793	tmpo	brd4
+GO:0000790	tipin	brpf1	myst3
+GO:0005788	trpc4apa	sep15	foxred2
+GO:0000502	psmc5	adrm1b	elp2
+GO:0030424	alcama	Ctnna2	Ctnna2	nlcam
+GO:0001750	opn1mw1	opn1sw2	opn1sw2
+GO:0070876	obfc2a	ssbip1	ints3
+GO:0001518	scn1a	scn8aa	scn8aa	scn1ba	scn1ba
+GO:0005879	ttc30
+GO:0005829	pink1	ctu2	gys2	neu3.2	fyna	pdzd11	shmt1	nubp1	spg21	ctu1	mocs3	prkci	zfyve28	wdyhv1	prmt7
+GO:0005902	ctnnb1	cdh1
+GO:0000815	chmp7
+GO:0001917	mpp5a
+GO:0044429	bcl2l10
+GO:0005667	sox1a	mafk	mafg1	mafg2	jun	sox2	maff	nfe2	nfe2	npas2	npas2	npas2	nfe2l2	her1	arntl1a	arntl1a	pbx4	clock	clock	ptf1a	sox19b	arntl2	arntl1b	arntl1b	sox19a	sox1b	clock3	cry1a	cry1a
+GO:0071203	ccdc53	zgc:55908	Wash1
+GO:0045495	cugbp1
+GO:0009897	oep
+GO:0030687	wdr12	pes
+GO:0070545	wdr12	bop1	pes
+GO:0030176	ext1c	ext1b	ext1a	mboat4
+GO:0005929	ift172	cdh23	ift88	arl13b	ttc30	ttll3
+GO:0005922	cx35	gja1
+GO:0005923	epb41l5	cldn15l	tjp3	cxadr	cldng	cldnd
+GO:0005856	gys2	tubb5
+GO:0016605	ttrap	chfr
+GO:0005852	eif3hb	eif3ha	eif3g	eif3ea	eif3a	eif3c	eif3d	eif3ja	eif3l	eif3i	eif3jb	eif3eb	eif3k
+GO:0043679	il1rapl1b
+GO:0031673	atp2a1
+GO:0060388	znf711
+GO:0031674	atp2a1
+GO:0035085	rsph9	lrrc50	ttll3
+GO:0005654	tfe3a	srrt	wdr12	mitfb	myf5	mitfa	pes
+GO:0005741	DKEY-162B23.1	kmo
+GO:0005876	ska1	ska2	ska3
+GO:0005665	polr2g
+GO:0048471	atp2a1	epcam	ap1s1	lamb1	anp32a	dld	dlc	mib2	akap12	akap12	fbxl5	epo	pikfyve	mib
+GO:0043025	gria4a	scn1bb	il1rapl1b
+GO:0042383	ilk	sgcd	cav3
+GO:0042382	cpsf5
+GO:0030140	spg21	tmem111
+GO:0030141	scube2
+GO:0031252	jmy	scrib
+GO:0008305	itga2b
+GO:0031314	zgc:123195
+GO:0005938	gys2	ctnnb1	cdh1	acvr1l	org	amotl2
+GO:0035301	sufu	gli1	kif7
+GO:0005930	ift20	ift52	ift88	kif17
+GO:0005932	ofd1	ift20	ift52	ift57	ift88	ift88	ippk	kif17
+GO:0010494	lin28
+GO:0016442	dicer1
+GO:0005840	rps19
+GO:0031080	nup85	seh1l
+GO:0005643	nupl1	nup155
+GO:0030864	gys2
+GO:0043209	mbp	mpz	scn1bb	zwi
+GO:0019005	fbxl14	fbxl14a	fbxl5
+GO:0031410	mib2	mib
+GO:0033268	spna2
+GO:0070695	hook1	aktip	fam160a2
+GO:0019897	epb41
+GO:0008021	sept5b	sept5a
+GO:0035145	wibg
+GO:0008023	elp3	elp4
+GO:0055038	rab11fip4a	rab11fip4b
+GO:0031012	bglap
+GO:0042175	tmpo
+GO:0031307	mul1	rhot1a	rhot2
+GO:0005871	kif3a	zgc:165446	kif17
+GO:0005833	ba2	ba1	hbaa1
+GO:0031226	mpp5a	robo4	prkci	hhip
+GO:0031227	pgap3
+GO:0030018	speg	obscn	parvb	ilk	capza1	unc45b	hsp90a.1
+GO:0005737	piwil2	asrgl1	aox3	elp3	numb	nr3c1	tbpl1	srrt	merit40	k31	numbl	mycbp2	snd1	gys2	psmg1	hspb1	psmc5	lrrc6	glrx5	dpyd	ilk	pard3	pard6gb	metap2	dnl2l	tob1a	mpx	mpx	adam10b	slc26a5	pdcl3	stub1	lcp1	adi1	csnk1a1	mtf1	unc45b	pknox1.1	sult1st1	meis3	eomesa	sox9a	acvr1l	dkk1b	ahr2	mylipa	rgn	dzip1	dnd	sult1st3	mak10	ddit4	pafah1b1a	themis	ptf1a	anp32a	sult1st2	qtrtd1	zranb1	pafah1b1b	mlst8	piwil1	dld	dld	cyfip1	eif4e1a	mapk14a	dlc	nr6a1a	dazl	mib2	dclk2	prkra	Ctnna2	org	akap12	akap12	mylipb	glyctk	znf711	ecsit	fbxo5	shoc2	mib	mib	ktu	nr6a1b	ngly1	elp4	gfap	tdrd1	kif7
+GO:0000124	eny2	atxn7l3
+GO:0005732	nhp2
+GO:0005730	meaf6	pinx1	wdr55	gnl3	bxdc5	sdad1	wdr12	ilf2	npm1	myf5	pno1	plk4	pes	CH211-202H22.4-001
+GO:0005637	lbr
+GO:0005634	piwil2	yap1	atxn1b	mpp5a	obfc2a	mysm1	mcm10	nr3c1	znf346	tbpl1	ahrra	ofd1	mettl1	merit40	tipin	nr2e3	kop	hspb1	gcm2	psmc5	noc3l	gnl3	fyna	rela	cwc15	ptmaa	jmy	prmt6	hif1ab	esrrd	esrrga	esrra	fibpl	pard6gb	ilf2	mettl14	rbm22	shmt1	foxl1	dnl2l	tob1a	adam10b	rbbp4	dcaf7	ube2nl	alg2	adi1	nfe2	def	wdr4	jmjd6	wdr48	csnk1a1	sinup	ctnnb2	mtf1	hnf1a	ctnnb1	her5	pknox1.1	adarb1	sox32	meis3	snai1a	snai1a	eomesa	eomesa	fmr1	klf4	mespb	jup	dmrt2a	ahr2	prox1	prox1	skib	rgn	znf503	tbp	zgpat	rxrba	rnf168	themis	dbr1	ptf1a	ptmab	chd1l	anp32a	ssbip1	zranb1	esrp2	polr2g	rnf8	lin28	exo1	tbx1	lmo1	chfr	ascl1a	ascl1b	pax2a	rxrab	rxrga	rxrbb	myod1	hic2	prkci	znf703	msgn1	rarga	thraa	ncoa2	supt5h	eif4e1a	arnt2	mapk14a	foxh1	hey2	ccdc99	hhex	mycl1a	lmo2	pcna	nr6a1a	usp16	smarcal1	pnrc2	rcl	no66	ldb1a	tal1	tal1	P0CB65	myca	max	isl1	isl1	isl1	esrp1	ruvbl2	cep290	hnf1ba	ntla	ntla	ecsit	srf	fbxo5	brd4	tbpl2	tbpl2	shoc2	fam175a	wdyhv1	ints3	psmg2	rnmt	prmt7	dscr6	ripply2	ripply1	tcf21	mych	nr6a1b	myst3	ier2	samhd1	zbtb24	pax7b	pax3a	pax7a	bre	cry1a
+GO:0005635	lmnb2	nrm
+GO:0005739	DKEY-238O13.2	pink1	sdhaf2	glrx5	romo1	qtrtd1	hsdl1	gbas	psen1	alas2	kbp	ecsit	shmt2	slc25a37	map1d	CH211-1N9.8-001
+GO:0009925	cacna1da
+GO:0016585	mysm1	baz1b
+GO:0016324	slc4a2a	asah2	pard3	pard3	pard6gb	slc34a2b	slc34a2a	pard6b	pard6ga
+GO:0009986	scube2	sprn2	adam10b	robo2
+GO:0033270	spna2
+GO:0016323	dlg1l	dlg1	numb	slc4a2a	slc12a2	pdzd11
+GO:0000118	znf703
+GO:0045211	musk	scrib
+GO:0005913	ctnnb1	ctnnb1	cdh1	jup	jup	scrib
+GO:0005912	Ctnna2	Ctnna2
+GO:0005911	cldn15l	rap1b
+GO:0022627	mrps7
+GO:0030127	vma21
+GO:0005861	tnnt2
+GO:0030139	mib
+GO:0042734	cdh2	scrib
+GO:0005625	gys2	neu3.2
+GO:0005624	igf1ra	igf1rb	psen1
+GO:0005626	gys2
+GO:0030496	rab11fip4a	rab11fip3	rab11fip4b
+GO:0070776	meaf6
+GO:0005622	kcnj11l	prickle1a	mkrn2
+GO:0005743	slc25a22	sdha	alas2	slc25a26
+GO:0016010	sgcb	dag1	dmd
+GO:0016529	atp2a1
+GO:0043073	dnd
+GO:0005744	timm50	timm23
+GO:0045098	gfap
+GO:0014704	ctnnb1
+GO:0043265	gys2
+GO:0005891	cacnb1	cacnb1	cacna1c
+GO:0045202	dlg4
+GO:0000139	pgap2	asah2	scamp5
+GO:0030136	clvs2
+GO:0005819	fbxo5
+GO:0043186	dnl2l	dnd	piwil1	tdrd7	vasa
+GO:0005615	bmper	fgf8a	fgf3
+GO:0005813	ofd1	rab11fip3	cep63	kiz	sass6	cep290	ippk	cep72
+GO:0000940	ska1	ccdc99	ska2	ska3
+GO:0070552	merit40	bre
+GO:0005814	plk4	cep76
+GO:0005759	supv3l1	hspd1	cs	pitrm1
+GO:0015630	dclk2
+GO:0016342	ctnnb1	cdh1	jup	cdh2
+GO:0070652	haus6
+GO:0017053	hes6	hes6
+GO:0017059	sssptb	ssspta
+GO:0005798	adam10b
+GO:0005887	scara5	dscam	tspan12	robo3	orai1	accn4b	accn4a	accn4a	accn2c	accn2c	accn2b	accn2a	adra2db	adra2da	psen1	slc39a6
+GO:0005886	prmt8	numb	snap25a	asah2	kcnj11l	sept5b	epcam	ap1s1	sept5a	chrnd	scamp5	vamp2	slc26a5	slc26a5	adi1	fzd7a	cryaba	paqr7b	phlda3	vangl2	dld	cdh2	dlc	celsr2	cdc42se2	gja1	gja1	wnt11	wnt11	slc39a1	cx36.7	pcdh18a	kirrel3	scrib	gper
+GO:0000777	ndc80
+GO:0043190	abcg2a
+GO:0042719	timm23
+GO:0043296	mpp5a
+GO:0005802	clvs2	m6pr
+GO:0000932	lin28	pnrc2	mov10a	mov10b
+GO:0071546	piwil2	tdrd1
+GO:0005769	snx5	appl1
+GO:0005764	fgf8a
+GO:0005576	scube2	fstl1a	igf1	igf2a	dkk1b	mdkb	thbs4b	thbs3a	sepp1b	sepp1a	gdnf	igfbp2a	fsta	igfbp2b	igfbp2b	mstnb	apoa1	tll1	vegfaa	vegfaa	vegfaa	spon1b	zgc:113312
+GO:0005760	CH211-1N9.8-001
+GO:0005762	mrpl51	mrpl41	mrps24	mrpl10
+GO:0015030	lsg1
+GO:0005768	clvs2	rab5c	appl2
+GO:0005578	spon2b	bmper	wnt2	wnt5b	wnt4a	fgf3	spon2a
+GO:0005681	tfip11	cwc22
+GO:0005680	cdc26	ube2s

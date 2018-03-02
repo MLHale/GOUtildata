@@ -1,0 +1,1718 @@
+GO:0034609	lev-11	lev-11
+GO:0034608	kin-10	lov-1	lov-1	lov-1	lov-1	pkd-2	pkd-2	pkd-2
+GO:0034607	bas-1	bas-1	cat-2
+GO:0034606	cwp-5	cwp-5	kin-10	lov-1	lov-1	lov-1	lov-1	pkd-2	pkd-2	pkd-2
+GO:0034605	daf-16	daf-16
+GO:0016358	unc-70	unc-70	fkh-2	fkh-2	unc-70
+GO:0036342	eff-1	eff-1	pdi-3	pdi-3	eff-1	eff-1
+GO:0080144	laat-1
+GO:0051493	unc-15	unc-15	unc-96	unc-96	unc-96	unc-96	unc-15	unc-15
+GO:0007080	hcp-4
+GO:0030856	elt-2
+GO:0007084	let-92	let-92	lem-4l	lem-4l	lem-4l	ima-2
+GO:0007088	cye-1
+GO:0034514	atfs-1	haf-1	ubl-5	atfs-1	atfs-1	atfs-1
+GO:0006287	F10C2.4
+GO:0006284	exo-3	exo-3	ung-1	ung-1	ung-1	ung-1	apn-1	exo-3	exo-3	ung-1	ung-1	ung-1	ung-1
+GO:0031103	unc-34	unc-34	mig-10	ced-10
+GO:0006283	rpb-9
+GO:0006281	brc-1	brc-1	exo-3	his-12	ubc-1	nth-1	fan-1	fan-1	brd-1	cku-80	snfc-5	exo-3	lig-4	lig-4	crn-1	cku-70
+GO:0035176	daf-14	daf-14	aha-1
+GO:0035177	nphp-4	mks-1	mks-1	mksr-1	mksr-2
+GO:0045859	strd-1	cki-2	kin-2	kin-2	elpc-4	cki-2	elpc-3	old-2
+GO:0006289	brc-1	brc-1	brc-1	brc-1	fcd-2	fcd-2	mrt-2	hus-1	dog-1	dog-1	mrt-1	lig-4	fcd-2
+GO:0050832	cnc-11	dbl-1	daf-4	rga-6	rga-6	lys-7	cnc-2	cnc-4	cnc-5	cnc-1	nlp-31	abl-1	sma-3	daf-4	sma-6	tir-1	daf-4
+GO:0050830	sek-1	dkf-2	nsy-1	spp-1	spp-5
+GO:0001189	F23H11.2
+GO:0006571	pah-1	pah-1
+GO:0006572	hpd-1
+GO:0006573	alh-8
+GO:0051783	nepr-1	cnep-1	scpl-2	T19A6.3	lpin-1
+GO:0051781	gon-4	gon-4
+GO:0006376	rsp-3
+GO:0006378	gld-4	CELE_T15H9.6	pap-1
+GO:0051788	epi-1	epi-1	epi-1	epi-1	cup-2
+GO:0048560	lin-17	lin-17	lin-18	lin-18	lin-17	lin-17
+GO:0048563	ten-1	ten-1	ten-1	sel-12	ten-1
+GO:0048565	vps-16
+GO:0048566	lin-59	CELE_F38A5.7	CELE_F38A5.7	CELE_F38A5.7
+GO:0006597	smd-1
+GO:0050787	pcs-1	pcs-1
+GO:0060065	egl-38	T27F2.1
+GO:0072334	srf-3	srf-3	srf-3
+GO:0035556	dyf-5	crh-1	crh-1	mes-1	crh-1	crh-1	kqt-1	gck-3	pak-2	dyf-5	gck-1	hda-4	gck-4	pptr-1	dkf-2	vab-1	sma-3	kin-18	C01C4.3	C03B1.5	B0198.3	pmk-1	pak-1	CELE_T07F12.4	gck-2	mig-15	CELE_F18F11.5	crh-1	crh-1	kqt-1	pmk-2	tol-1	flr-4	crh-1
+GO:0060069	dsh-1	dsh-1	mig-5	mig-5	mom-5	mom-5	dsh-1	kin-19	dsh-2	dsh-2	dsh-2	mig-5	mig-5	mom-1	mom-1	mom-1	mig-14	mig-5	mig-5	gsk-3
+GO:0015992	pept-3	vha-2	vha-2	vha-10	vha-12	vha-1
+GO:0015993	Y38F1A.6
+GO:0016311	scpl-1	unc-26	unc-26	eya-1	cdc-14	cel-1	eya-1	cel-1	scpl-1	scpl-1	gob-1	lpin-1
+GO:0006112	ogt-1	ogt-1
+GO:0060465	aph-2	lim-7	med-2	sqv-1	med-1	ten-1	ten-1	rib-1	rib-2	lam-1	aph-1	nas-7	nas-5	sqv-8	tbx-35	hlh-6	pha-4	pha-4	pyr-1	apy-1	aph-2	nas-6	ceh-51	tbx-37	pen-2	nas-6	tbx-38
+GO:0043148	rsa-1	spd-1	rsa-1
+GO:0006119	clk-1
+GO:0007626	unc-31	unc-31	unc-2	unc-49	unc-49	fax-1	unc-49	unc-49	unc-49	unc-2	unc-49	nmr-1	unc-31	unc-31	unc-31	unc-31	myo-3	snt-1	flp-1	vab-15	unc-49	lnp-1	lite-1	flp-9	C47E8.4	unc-98	syd-2	unc-10	unc-31	unc-31	unc-49	unc-2	unc-2	unc-2	dyc-1	snt-1	dys-1	dyb-1
+GO:0030001	cup-5	cuc-1	snf-11	cup-5	cup-5	snf-6	dat-1	dat-1	lov-1	cup-5	cup-5
+GO:0007624	flr-1	hipr-1
+GO:0007622	shn-1	egl-10	egl-10	egl-10	shn-1	shn-1	itr-1
+GO:0006624	spe-39	vps-41	spe-39
+GO:0006626	C18E9.6
+GO:0009263	rnr-1
+GO:0042438	pah-1	pah-1	cat-4
+GO:0009267	bec-1
+GO:0009266	mek-1	mek-1
+GO:0009269	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1	lea-1
+GO:0019856	umps-1	pyr-1
+GO:0050658	sid-2
+GO:0048813	kpc-1	kpc-1
+GO:0048812	mig-2	tax-2	ced-10	ced-10	tax-4	lin-23	mig-15	rac-2	cmk-1
+GO:0048815	cogc-1
+GO:0006750	gcs-1
+GO:0006020	F46F11.1
+GO:0006754	vha-10	ndx-4	ndx-4
+GO:0006024	sqv-4	sqv-2
+GO:0051123	taf-7.1
+GO:0032981	ZK1128.1
+GO:0048149	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1
+GO:0048147	mdl-1
+GO:0048382	sdz-1	skn-1
+GO:0000288	dcs-1	dcs-1
+GO:0030703	chs-1	sep-1	sep-1	emb-27	cyp-31a2	rab-11.1	cpg-2	cpg-2	emb-8	cpg-1	cpg-1	cyp-31a3
+GO:0060280	egrh-1
+GO:0060281	gck-1	gck-1	gck-1	gck-1
+GO:0000280	gld-3
+GO:0000281	nmy-2	sep-1	mbk-2	mbk-2	emr-1	act-2	act-2	cls-2	cpg-2	cdc-14	ptr-2	mlc-4	cpg-1	evl-20	rack-1	ect-2	gld-3	csn-3	ect-2	lem-2	mbk-2	cyk-4	cyk-4	mlc-5
+GO:0060284	cdc-14
+GO:0008284	frk-1	cye-1	hop-1	mls-2	mus-101	lmn-1	der-2	frk-1	uri-1	uri-1	pvf-1	F23C8.9
+GO:0008285	skr-2	puf-6	daf-16	aak-1	aak-1	lin-23	lin-23	lin-23	lin-23	cul-1	snfc-5
+GO:0055002	rnf-5
+GO:0008283	skr-10	cdc-25.1
+GO:0051013	spas-1	spas-1	spas-1
+GO:0051017	eps-8	eps-8	eps-8	frg-1	unc-87	eps-8	eps-8
+GO:0051016	eps-8	eps-8	eps-8	eps-8	add-1	eps-8	eps-8	gsnl-1	gsnl-1	eps-8	eps-8	eps-8	eps-8	add-1
+GO:0051014	unc-60	unc-60	gsnl-1	gsnl-1
+GO:0006974	brc-1	brc-1	C47D12.8	lem-3	lem-3	rad-51	smk-1	smk-1	daf-16	daf-16	hda-4	CELE_F26B1.2	mus-101	brd-1	xpa-1	xpa-1	dvc-1	smk-1	CELE_F26B1.2	CELE_F26B1.2	CELE_F26B1.2	CELE_F26B1.2	gei-17	rad-51
+GO:0007220	hop-1	sel-12	spe-4
+GO:0006970	osm-7	osm-6	T28F2.4	pmk-3	osm-11	osm-7	pmk-1	nhr-31	pmk-2	daf-25
+GO:0006972	gpdh-2	gpdh-2	che-12	che-12	osm-9	osm-9	osm-9	jkk-1	lea-1	kvs-1	kvs-1	glr-1	gpdh-2	flp-1	che-11	grk-2	tax-6	tax-6	tax-6	che-12	pmk-1	dyf-11	odr-3	odr-3	mps-1	gpdh-2	kvs-1	tax-6	tax-6	tax-6	jnk-1	sol-1	tax-6	tax-6	tax-6	sol-2
+GO:0006973	gpdh-2	gpdh-2	gpdh-2	gpdh-2
+GO:0044257	ppt-1
+GO:0010172	hmp-1	hmp-1	jac-1	jac-1	frk-1	unc-70	hmp-1	hmp-1	spc-1	sma-1	eff-1	sma-1	eff-1	mel-11	ptp-3	ptp-3	mel-11	sma-1	nob-1	mel-11	pxn-2	unc-70	sma-1	nob-1	ten-1	mel-11	ten-1	ten-1	wip-1	hmp-2	mrck-1	hmp-2	gex-2	mog-4	vab-1	vab-1	ceh-16	gex-3	hmp-1	hmp-1	uaf-1	let-502	let-502	let-502	mlc-4	mlc-4	mog-5	dpy-18	wrm-1	pak-1	vha-17	spc-1	frk-1	tbx-9	tbx-8	rhgf-2	sym-2	sym-2	paf-2	vab-23	vab-23	ptp-3	eff-1	ten-1	eff-1	uaf-1	wip-1	ddx-23	mab-20	ptp-3	ptp-3	jac-1	unc-70
+GO:0044255	ceeh-2	ceeh-1	ceeh-2	klf-1
+GO:0044254	bli-5	cul-3	dcn-1	dcn-1
+GO:0043928	ccf-1
+GO:0006979	hcf-1	pmr-1	pmr-1	CELE_F11A3.2	pmr-1	CELE_F11A3.2	pah-1	pah-1	T28F2.4	bli-3	gsto-1	gsto-1	skn-1	phb-2	che-11	pah-1	pah-1	cep-1	pept-1	pept-1	ctl-2	age-1	smf-3	Y54G2A.17	phb-1	par-4	lrk-1
+GO:0007400	unc-4
+GO:0018107	pig-1	pig-1	gck-3	unc-43	unc-43	unc-43	gck-3	unc-43	gck-3	pkc-2	mbk-2	mbk-2	air-2	unc-43	pkc-2	unc-22	mps-1	mps-1	par-4	par-4	mbk-2
+GO:0018105	pig-1	pig-1	gck-3	par-1	par-1	par-1	gck-3	par-1	par-1	gck-3	pkc-2	par-1	par-1	mbk-2	mbk-2	air-2	dkf-2	egl-4	mpk-1	pkc-2	pmk-1	pek-1	sad-1	unc-22	mps-1	mps-1	aak-2	par-1	mbk-2	dkf-1	dkf-1	dkf-1
+GO:0031106	ani-1
+GO:0018108	let-23	let-23	mes-1	cam-1	src-1	cam-1	mbk-2	mbk-2	vab-1	abl-1	let-23	wee-1.1	cam-1	daf-2	mbk-2
+GO:0008608	hcp-4	spdl-1	him-10
+GO:0045448	cdk-7
+GO:0022401	ttx-3	osm-9	osm-9	ttx-3	odr-7
+GO:0051307	brc-1	brc-1	him-6
+GO:0043631	gld-2	gld-2	gld-3
+GO:0051304	rack-1
+GO:0008356	mes-1	egl-20	cyp-31a2	par-2	par-2	pop-1	par-3	dsh-2	apr-1	par-2	par-4	cyp-31a3	lit-1	lit-1	mom-4
+GO:0051302	gld-2	lin-39	bed-3	bed-3
+GO:0008354	ceh-18	ceh-18	ceh-18
+GO:0008355	odr-1	odr-1	ttx-3	osm-9	osm-9	casy-1	ttx-3	casy-1	gpa-2	tax-6	tax-6	sra-11	sra-11	odr-1	odr-1	bbs-8	elpc-3	casy-1	olrn-1	tax-6	tax-6	daf-11	olrn-1	tax-6	tax-6	elpc-1
+GO:0032350	let-767
+GO:2000117	srp-2
+GO:2000114	acy-3	pde-1	let-607	let-754	kin-2	gsa-1	ric-8
+GO:0015849	sulp-4
+GO:0019217	nhr-49	nhr-49	mdt-15
+GO:0019216	nhr-49	nhr-49
+GO:0040011	sin-3	unc-16	unc-16	vab-8	seu-1	unc-26	unc-15	unc-15	unc-68	unc-16	unc-119	unc-16	unc-7	unc-7	unc-52	eff-1	unc-129	smn-1	lim-7	eff-1	aex-1	unc-26	chn-1	unc-26	jkk-1	eor-1	eor-2	nud-1	smu-1	unc-52	unc-26	ldb-1	aex-1	smn-1	unc-45	unc-45	hid-1	eor-2	unc-119	unc-83	unc-96	unc-96	seu-1	seu-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-68	unc-68	sin-3	unc-108	unc-64	hda-4	eya-1	unc-39	unc-39	lin-59	unc-96	unc-96	unc-54	unc-15	unc-15	act-2	mlc-1	mlc-2	unc-4	unc-32	unc-36	mig-10	unc-116	unc-16	dpy-10	dyn-1	ceh-10	lin-5	klc-2	unc-29	mab-9	maco-1	aex-5	unc-7	unc-7	unc-52	unc-60	unc-60	hlh-14	unc-83	unc-119	dpy-30	rpm-1	twk-18	unc-112	unc-98	unc-98	unc-98	unc-98	tbx-2	nmy-1	unc-84	unc-84	crml-1	vab-8	mdt-15	unc-8	unc-8	unc-58	unc-58	unc-10	jph-1	mtm-3	T27F2.1	lev-11	unc-38	unc-83	fat-3	lev-11	eya-1	hid-1	syd-1	eff-1	ldb-1	rol-3	seu-1	eff-1	unc-68	slo-1	unc-27	smu-2	unc-63	lis-1	unc-59	ldb-1	ani-1	sbp-1	unc-11
+GO:0040010	dab-1	dab-1	mca-3	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	hpl-2	hpl-2	hpl-1	trr-1	swsn-1	hpl-2	hpl-2	peb-1	lon-1	lon-1	swsn-1	swsn-1	unc-104	clk-1	arr-1	lon-1	lon-1	grk-2	hlh-14	tax-6	ncr-1	kin-29	kin-29	pept-1	pept-1	pept-1	pept-1	pept-1	rad-8	rad-8	trr-1	trr-1	peb-1	tax-6	dab-1	dab-1	dab-1	dab-1	lon-1	lon-1	mca-3	nhx-2	nhx-2	tax-6	mca-3	mca-3	dab-1	dab-1	hpl-2	hpl-2	rbd-1
+GO:0040013	gpb-1	flp-7	eat-16	gpb-1	unc-32	dgk-1	pde-4	pde-4	dgk-1	dgk-1	dgk-1	dgk-1	eat-16	stn-1
+GO:0040012	unc-73	lev-1	unc-70	spc-1	egl-8	sma-1	sma-1	sma-1	sma-1	sep-1	hyl-1	hyl-1	ace-2	ace-2	ace-2	ace-2	sma-1	sma-1	unc-70	sma-1	sma-1	ctn-1	unc-73	unc-73	unc-73	ctn-1	ctn-1	sup-12	unc-30	unc-30	pkc-1	eat-16	sup-12	unc-73	tpst-1	unc-17	pkc-1	ace-1	ace-1	goa-1	unc-30	cat-2	nfi-1	unc-78	unc-78	dgk-1	sphk-1	sphk-1	clhm-1	gpb-2	gpb-2	spc-1	rhgf-2	lev-1	dgk-1	dgk-1	dgk-1	nfi-1	nfi-1	egl-8	dop-3	dop-3	dop-3	unc-73	unc-73	dgk-1	unc-73	dop-1	dop-1	dop-1	dop-1	eat-16	ctn-1	sol-1	rab-3	unc-73	rab-3	egl-8	jmjd-1.2	unc-63	unc-63	unc-70	sol-2
+GO:0040015	lon-8	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	sop-2	sop-2	daf-16	egl-4	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	sor-3	lon-2	lon-2	lon-3	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	lon-1	sop-2
+GO:0051276	him-6	baf-1
+GO:0040017	dab-1	hlb-1	mca-3	epi-1	epi-1	egl-10	egl-10	egl-10	egl-10	unc-52	unc-36	egl-8	unc-79	unc-79	spd-1	nca-2	unc-52	epi-1	nca-2	egl-30	egl-30	egl-30	egl-30	egl-30	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	ccb-1	lam-1	snf-6	fbl-1	unc-36	pat-2	rbf-1	rbf-1	rbf-1	rbf-1	unc-79	unc-79	egl-10	egl-10	unc-41	lrp-1	unc-52	lam-2	acy-1	epi-1	rho-1	dgn-1	unc-5	unc-5	pat-3	unc-77	unc-77	unc-77	egl-8	dab-1	dab-1	unc-77	mca-3	dyc-1	egl-30	egl-30	egl-30	egl-30	egl-30	stn-1	T21H8.1	egl-8	mca-3	mca-3	sand-1	par-4	dys-1	dab-1	unc-80	calf-1	dyb-1
+GO:0040016	mel-47
+GO:0040019	pdi-3	epg-8	epg-8	epg-8
+GO:0040018	unc-26	sma-9	sma-9	sma-9	sma-9	wdr-23	unc-53	spc-1	dpy-1	sma-1	sma-1	sma-1	unc-53	sma-1	sma-1	sma-1	dpy-11	unc-26	sma-9	sma-9	unc-26	lin-35	unc-26	dbl-1	dbl-1	dbl-1	dbl-1	dbl-1	dbl-1	dbl-1	unc-53	swsn-1	hst-6	hst-6	rnt-1	sma-1	sma-1	sma-1	sma-1	sma-1	sma-1	daf-4	daf-4	sma-10	sma-10	swsn-1	swsn-1	nac-2	hst-2	hst-2	unc-104	nac-2	sma-3	sma-3	sma-3	sma-4	sma-4	sma-4	hse-5	hse-5	phb-2	daf-4	daf-4	wdr-23	sma-2	sma-2	lrp-1	sma-6	sma-6	sma-6	sma-6	sma-6	sma-6	sma-6	sma-6	tax-6	dpy-18	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	kin-29	kin-29	kin-29	kin-29	kin-29	pept-1	pept-1	spc-1	sma-9	sma-9	unc-10	raga-1	sma-9	sma-9	sma-4	sma-4	sma-4	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	unc-53	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	adt-2	tax-6	daf-4	daf-4	sma-9	sma-9	nhx-2	tax-6	dss-1	gld-3	sma-10	sma-10	daf-2	phb-1	dpy-1
+GO:0019693	ndx-4
+GO:0010753	daf-25
+GO:0070407	C06C3.8	C06C3.8	C34B2.6	CELE_R13H4.6	CELE_F46F5.5	C08G5.1
+GO:2000249	add-1	add-1
+GO:0007160	unc-112	unc-112
+GO:0007163	par-1	par-1	par-1	mes-1	strd-1	lin-17	par-1	par-1	par-1	par-1	let-413	let-413	cdc-42	cdc-42	egl-27	par-3	pkc-3	cdh-4	sad-1	vrk-1	lin-44	sax-1	ooc-3	lin-17	par-4	par-4	par-6	par-1	ooc-3
+GO:0007165	syg-1	clr-1	clr-1	dyf-5	lev-1	unc-53	unc-76	unc-76	unc-76	unc-76	mes-1	unc-53	aex-1	exp-1	lad-2	ptp-3	ptp-3	gck-3	aex-1	unc-53	unc-40	pak-2	dyf-5	ida-1	nmr-1	tra-2	clr-1	clr-1	clr-1	clr-1	clr-1	clr-1	gck-1	syg-1	lad-2	acr-15	gck-4	gab-1	tra-2	kin-18	unc-29	acr-2	acr-11	hum-6	C01C4.3	C03B1.5	B0198.3	pak-1	sra-10	sra-11	sra-13	CELE_T07F12.4	unc-38	unc-38	unc-38	gck-2	lev-1	unc-76	unc-76	unc-53	CELE_F18F11.5	ptp-3	acr-3	ptp-3	unc-63	unc-63	ced-2	flr-4	syg-2	itr-1
+GO:0007166	cav-2	tol-1
+GO:0007168	gcy-23	gcy-18	gcy-8
+GO:0007169	num-1
+GO:0016185	unc-26	unc-26	unc-26	unc-26
+GO:0007368	cog-1	cog-1
+GO:0007369	ptp-3	ptp-3	ama-1	let-858	par-3	ptp-3	ptp-3	par-6
+GO:0071688	unc-82	unc-82	unc-82	unc-82	unc-82	unc-82	unc-82	unc-82	unc-96	unc-96	unc-96	unc-96
+GO:0045664	ham-2	ham-2	ttx-3	pag-3	ttx-3	tax-2	ham-2	hda-4	tax-4	hlh-14	egl-43	egl-43	cmk-1
+GO:0070536	cyld-1
+GO:0033396	upb-1
+GO:0019985	CELE_Y47D3A.29	CELE_Y37B11A.2	CELE_Y47D3A.29
+GO:0016567	brc-1	brc-1	uba-1	chn-1	kel-8	sel-1	taf-1	let-70	ubc-1	ubc-1	rnf-121	ufd-2	brd-1	ubc-18	uba-1	zer-1	uba-1	ufd-2	ufd-2	wwp-1	wwp-1	pdr-1
+GO:0030845	eat-16	eat-16
+GO:0016560	prx-5	prx-5
+GO:0016568	hda-3	hda-4	hda-2
+GO:0045840	prg-1
+GO:0006297	F10C2.4
+GO:0045842	cyb-3
+GO:0046710	ntp-1	uda-1
+GO:0046712	apy-1	apy-1	mig-23	mig-23
+GO:0007040	cup-5	cln-3.1	glo-1	cln-3.1	cln-3.2	umps-1	cln-3.3	mrp-4	cup-5	cup-5	apb-3	apb-3	apm-3	cup-5	cup-5	tat-1	ccz-1
+GO:0006298	pms-2	msh-6	msh-6	msh-2	msh-2	msh-2	mlh-1	pms-2
+GO:0046716	unc-70	unc-70	dyc-1	stn-1	dys-1	unc-70	dyb-1
+GO:0050829	atf-7	CELE_F55G11.4	sek-1	sek-1	hsf-1	lys-7	daf-16	cnc-2	dkf-2	lipl-5	lys-1	abl-1	pmk-1	pmk-1	atf-7	aqp-1	aqp-1	aqp-1	aqp-1	nsy-1	zip-2	spp-1	spp-1	spp-1	spp-5	atf-7	aqp-1	aqp-1	aqp-1	aqp-1	grd-3	atf-7
+GO:1900194	pde-6	ceh-18	inx-14	kin-2	ceh-18	kin-2	ceh-18	pde-6	inx-22
+GO:1900195	kin-1	acy-4
+GO:0006370	cel-1	cel-1	Y53F4B.13	tag-72
+GO:0006569	pah-1	pah-1
+GO:0006360	rpac-19	rpb-6	rpb-8	rpoa-2	rpoa-49	rpb-10	rpb-5	rpb-12	rpac-40
+GO:0006363	rpoa-12
+GO:0010884	F21H12.6	sbp-1	sbp-1
+GO:0006364	rps-6	rps-6	C16C10.2	F56D2.6	pro-1	pro-1	pro-1	sbds-1	rps-7	nol-6	rps-6	nol-9
+GO:0006367	TFIIE-beta	TFIIE-alpha	rpb-9
+GO:0006366	mec-3	ttx-1	sma-9	sma-9	elt-3	elt-3	elt-3	daf-12	elt-3	sma-9	pag-3	end-1	lin-48	ceh-28	ham-1	hlh-2	pos-1	lin-22	daf-12	egl-46	daf-12	pes-1	hif-1	hlh-30	hlh-30	hlh-30	hlh-30	hlh-30	ceh-27	elt-1	elt-1	elt-1	elt-1	elt-1	elt-1	unc-30	unc-30	aha-1	fkh-10	C46E10.9	mec-3	unc-86	hlh-1	elt-1	elt-1	ceh-26	lin-31	pal-1	unc-30	let-381	hlh-6	rpb-2	elt-2	fkh-6	pha-4	pha-4	rpb-6	spe-44	hlh-15	unc-130	unc-130	mxl-3	ztf-2	rpb-8	egl-44	aptf-3	aptf-4	zip-2	fkh-9	sma-9	tbx-9	tbx-8	fkh-2	hlh-3	hbl-1	hbl-1	sma-9	fkh-9	daf-12	elt-1	elt-1	hlh-30	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	fkh-9	hlh-30	hlh-30	sma-9	rpb-3	tbx-7	fkh-2	sdz-12	rpb-10	rpb-5	ceh-24	ttx-1	ttx-1	rpb-12	rpb-11	ceh-27	CELE_Y5F2A.4	sbp-1	hbl-1	hbl-1
+GO:0061098	old-2
+GO:0006368	R03D7.4
+GO:0007186	egl-47	egl-47	str-2	gpa-11	gpc-1	gar-2	lite-1	egl-47	egl-47	dop-4	odr-10	odr-10	sra-10	dop-3	gar-2	gar-2	gar-2	srsx-3	acy-4
+GO:0006914	atg-7	sepa-1	epg-8	epg-8	atg-18	atg-18	lgg-1	atg-10	bec-1	bec-1	unc-51	atg-5	atg-5	epg-8
+GO:0006589	tdc-1	tdc-1
+GO:0048557	let-418	lin-35	lin-35	lin-35	lin-35	lin-35	lin-35	lin-35	lin-35	efl-1	efl-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	sup-37	sup-37	sup-37	sup-37	sup-37	sup-37	hda-1	lin-36	lin-53	ubc-18	ubc-18	ubc-18	ubc-18	ubc-18	ubc-18	ubc-18	ubc-18	lin-37	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	pha-1	sup-37	sup-37	sup-37
+GO:0060271	dyf-2	osm-6	mks-1	arl-13	mks-1	mksr-1	arl-13	mksr-2
+GO:0006581	ace-2	ace-2	ace-1	ace-1	ace-1	ace-1	unc-63	ace-3	ace-3
+GO:0050790	rgs-1	rgs-1	egl-10	egl-10	rgl-1	rgs-2	rgs-2	smg-5	rgs-8.2	strd-1	cki-2	ced-5	rgs-2	rgs-2	rgs-2	rgs-2	rgs-4	rgs-4	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	ags-3	rga-4	rga-4	CELE_Y71H2AM.20	rga-3	rga-3	rgs-10	rgs-11	kin-2	pac-1	rgs-1	rgs-1	ced-9	rgs-2	rgs-2	egl-10	gpr-2	gpr-2	C56G2.7	kin-2	elpc-4	rgs-3	rgs-6	rgl-1	ags-3	rgs-7	rgs-7	rgs-7	taf-7.1	cki-2	rgs-9	elpc-3	old-2	rgs-3	ags-3	rgs-3	dyc-1	rgs-7	rgs-7	rgs-7	gpr-1	gpr-1	rga-4	rga-4	CELE_Y71H2AM.20	ric-8
+GO:0017015	sel-12
+GO:0006587	tph-1	tph-1	tph-1	tph-1
+GO:0060278	nhr-6	nhr-6
+GO:0060071	mig-5	vang-1	dsh-2	mig-5	mig-5	vang-1
+GO:0060070	mig-5	cfz-2	lin-17	lin-17	mom-5	mig-1	egl-20	pry-1	pop-1	dsh-2	mig-5	lin-17	lin-17	mig-5	sfrp-1	mig-1	cfz-2
+GO:0035545	nsy-7	mig-21	mig-21	unc-2	unc-2	unc-40	unc-40	unc-2	unc-2	egl-19	nsy-7	inx-19	unc-2	unc-2	unc-2	unc-2	unc-2	unc-2	egl-19	nsy-4	calf-1
+GO:1902470	npp-20
+GO:0046660	sel-10
+GO:0046662	scpl-1	unc-119	lev-1	gpb-1	mig-32	egl-10	egl-10	cln-3.1	egl-8	cln-3.1	unc-103	cln-3.2	unc-103	unc-13	unc-13	unc-103	tph-1	egl-17	cln-3.3	swsn-1	unc-103	unc-103	unc-103	unc-103	aff-1	unc-119	unc-103	egl-30	egl-30	egl-30	cav-1	swsn-1	swsn-1	cav-1	eat-16	egl-4	gpb-1	unc-13	unc-13	lap-1	flp-1	unc-29	egl-10	goa-1	irk-1	nfi-1	unc-119	lnp-1	dgk-1	spr-2	cav-2	ncr-1	mig-32	gpb-2	mtm-3	hlh-3	unc-38	lev-1	lin-44	tph-1	dgk-1	dgk-1	dgk-1	nfi-1	nfi-1	egl-8	spr-2	dgk-1	dyc-1	eat-16	scpl-1	scpl-1	egl-30	egl-30	egl-30	stn-1	stn-1	cav-1	egl-8	daf-25	unc-63
+GO:0015986	unc-32	asb-2	asb-1
+GO:0042542	prdx-2	prdx-2	gst-10	frh-1
+GO:0002119	xbp-1	dab-1	flh-1	sca-1	ksr-2	let-23	let-23	mca-3	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	mcd-1	uba-1	unc-73	flh-1	unc-101	unc-70	spc-1	catp-1	mtm-6	sma-1	erm-1	exo-3	nmy-2	smn-1	qua-1	ptp-2	sma-1	lim-7	catp-1	mec-8	csk-1	lin-3	lin-3	egl-38	eps-8	rme-8	mtm-6	ksr-2	hpl-2	sur-6	lin-35	lin-35	lin-35	eor-1	lag-1	piki-1	eor-2	smu-1	hlh-2	sca-1	vha-5	dbl-1	lpr-1	erm-1	alg-1	hpl-1	ksr-2	swsn-1	swsn-1	ksr-1	ksr-1	eps-8	smn-1	prx-6	hpl-2	sma-1	lin-3	unc-70	sma-1	pes-1	eor-2	egl-18	pha-1	vha-6	alg-1	egl-30	egl-30	gpn-1	daf-4	hsp-60	unc-73	unc-73	unc-73	pod-2	feh-1	feh-1	swsn-1	swsn-1	swsn-1	swsn-1	sop-2	sop-2	unc-108	mrck-1	hop-1	snb-1	alg-2	daf-16	acy-2	eat-16	ruvb-1	eya-1	eya-1	wee-1.3	coq-3	eps-8	hoe-1	lin-59	plx-2	wts-1	act-5	bli-3	unc-73	rme-8	mig-6	glp-1	lin-12	emb-9	mlc-1	mlc-2	mlc-2	let-60	let-60	unc-104	let-23	sem-5	unc-32	hrs-1	prx-19	prx-19	dcr-1	unc-17	unc-101	lag-2	sma-3	sma-4	atp-2	klc-2	hsp-60	daf-4	sdn-1	sdn-1	bcat-1	smo-1	uaf-1	egl-26	ced-10	lin-3	ina-1	lrp-1	lin-45	lin-45	egl-27	ccdc-55	pxl-1	ire-1	mlc-4	hlh-14	coq-3	hlh-6	vhp-1	lin-25	apl-1	elt-2	egl-15	let-756	sor-3	cul-1	pak-1	nuo-1	flh-2	prx-5	prx-5	mls-2	daf-21	eat-3	eat-3	aps-2	prx-12	prx-12	pek-1	pek-1	mboa-7	acy-1	tbx-2	prx-13	prx-13	ima-3	nmy-1	nmy-1	iff-2	let-711	nst-1	pept-1	pept-1	apr-1	spc-1	mep-1	mep-1	pha-2	pha-2	pha-2	mdt-15	fkh-2	T27F2.1	rsp-2	mig-15	mig-15	mlt-7	mlt-7	uba-1	hbl-1	sma-4	uba-1	eya-1	eya-1	exo-3	vps-34	mtm-6	prx-5	prx-5	unc-73	unc-73	ref-2	unc-73	pod-2	eps-8	eps-8	pha-1	alg-2	dab-1	dab-1	sdn-1	sdn-1	daf-4	lag-1	mca-3	uaf-1	eat-16	egl-30	egl-30	nhx-2	dnj-10	let-4	ref-2	dre-1	ubc-9	unc-73	let-363	fkh-2	ddx-23	mca-3	mca-3	dss-1	gld-3	sop-2	hut-1	sand-1	feh-1	rpn-1	pod-2	smu-2	rsks-1	uba-2	vps-34	vps-34	frh-1	ace-3	dab-1	hpl-2	unc-70	CELE_R03E1.2	sca-1	rbd-1	hsd-1	hsd-1	hsd-1	flh-1	lpin-1	hbl-1
+GO:0015988	vha-12
+GO:0006103	T01C8.5
+GO:0060471	sep-1	sep-1	rab-11.1	rab-6.1	syx-4
+GO:0006108	mdh-2
+GO:0006633	fat-7	pod-2	pod-2	pod-2
+GO:0006631	acs-2
+GO:0006636	elo-1	fat-4	fat-2	fat-2	fat-3	fat-1	fat-1
+GO:0006635	ech-4
+GO:0043622	evl-20	evl-20
+GO:0042407	immt-1	immt-2
+GO:0006749	gst-4	gst-10
+GO:0006744	coq-6	coq-3	coq-3	coq-5	clk-1	clk-1	clk-1	coq-1	coq-4	coq-3	coq-3	coq-8	coq-2	coq-2	coq-2	coq-2	coq-2	coq-2	coq-2	coq-2
+GO:0048609	sep-1	eri-1	crt-1	dyf-11	eat-2	itr-1
+GO:0008039	syg-1	syg-1	unc-4	syg-2
+GO:0000070	hcp-4	capg-1	dpy-26	hcp-1	kle-2	hcp-3	tbg-1	sdc-3	mix-1	cyb-3	spdl-1	scc-3	smc-4	capg-2	him-10	pqn-85	pqn-85	hcp-6	hcp-6	dpy-28	lpin-1
+GO:0090138	hmp-2	hmp-2
+GO:0060101	srgp-1	srgp-1	srgp-1	swan-1	tat-1
+GO:0060100	piki-1	piki-1	tat-1
+GO:0030719	npp-10	pgl-1	pgl-1
+GO:0042715	sdc-3
+GO:0000290	dcap-2
+GO:0042713	itr-1
+GO:0060290	sem-4	ceh-6	egl-27
+GO:0048730	mig-5	eps-8	kal-1	eps-8	gpn-1	eps-8	sdn-1	sdn-1	sdn-1	mig-5	vab-23	vab-23	eps-8	eps-8	sdn-1	sdn-1	sdn-1	mig-5
+GO:0046890	daf-16
+GO:0009100	oga-1	oga-1	oga-1	oga-1
+GO:0031532	ced-12	ced-12	ced-12	ced-2	ced-1
+GO:0030178	pry-1	pry-1	pry-1	pry-1	apr-1	apr-1	apr-1	axl-1	gsk-3
+GO:0016081	unc-18	syx-6	syx-4	syx-3	syx-2	syx-5
+GO:0018117	ZK593.8
+GO:0070301	nth-1
+GO:0045471	T28F2.4	crt-1	npr-1	F38A5.1
+GO:0001738	exc-9
+GO:0008340	etr-1	etr-1	etr-1	etr-1	etr-1	sca-1	rps-22	rps-22	elt-3	elt-3	elt-3	wdr-23	crh-1	crh-1	sir-2.1	elt-3	elt-3	elt-3	elt-3	elt-3	elt-3	nhr-49	nhr-49	cln-3.1	cln-3.1	ant-1.1	atg-7	crh-1	cln-3.1	cln-3.1	gro-1	gro-1	gro-1	smn-1	hcf-1	hcf-1	hcf-1	alp-1	elt-3	elt-3	elt-3	crh-1	nphp-4	cln-3.2	aap-1	daf-18	tph-1	tph-1	alp-1	sca-1	alp-1	cln-3.3	daf-15	etr-1	daf-15	CELE_F11A3.2	CELE_F11A3.2	alp-1	hus-1	alp-1	smn-1	hsf-1	hsf-1	hsf-1	hsf-1	ash-2	CELE_F11A3.2	CELE_F11A3.2	ragc-1	hif-1	atg-18	mks-1	mks-1	mks-1	mks-1	prdx-2	hlh-30	nac-2	pah-1	rps-6	rps-6	rpl-30	nuo-2	acbp-1	rps-10	rpl-4	rpl-19	sti-1	atg-18	daf-16	daf-16	daf-16	daf-16	daf-16	daf-16	daf-16	daf-16	rps-22	rps-22	mks-1	mks-1	mks-1	mks-1	nph-1	him-6	pptr-1	set-9	hsp-70	rps-26	nhr-49	nhr-49	ant-1.1	rle-1	ctl-1	egl-4	gpa-11	hsp-16.48	hsp-1	hsp-1	nac-2	skn-1	skn-1	skn-1	skn-1	atp-2	rpl-6	clk-1	clk-1	clk-1	trs-1	trs-1	trs-1	che-11	che-11	wdr-23	wdr-23	cco-1	cco-1	pah-1	atp-3	C30C11.4	glod-4	set-4	set-4	trx-1	lgg-1	lgg-1	nfi-1	dct-1	tax-6	tpi-1	gei-7	lgg-3	lgg-3	pha-4	pha-4	pha-4	nuo-1	akt-1	wdr-5.1	set-2	daf-21	cyc-1	apy-1	apy-1	adt-2	wrn-1	rps-11	sip-1	scl-1	cep-1	cep-1	cep-1	rpn-6.1	mksr-1	mksr-1	mksr-1	mksr-1	pept-1	pept-1	K04G2.1	xpa-1	nac-3	ubc-18	ife-2	sir-2.1	mdt-15	bec-1	bec-1	bec-1	bec-1	mtm-3	raga-1	raga-1	raga-1	raga-1	raga-1	raga-1	unc-51	rbr-2	rbr-2	old-2	ctl-2	ctl-2	tph-1	tph-1	dao-5	nfi-1	nfi-1	vps-34	vps-34	vps-34	atp-3	adt-2	adt-2	ant-1.1	ant-1.1	tars-1	tars-1	tars-1	tax-6	nuo-2	etr-1	crh-1	crh-1	icl-1	prdx-2	nhx-2	jnk-1	jnk-1	age-1	lipl-4	tax-6	let-363	crtc-1	wwp-1	rpl-9	clk-2	aak-2	daf-2	daf-2	daf-2	par-4	wwp-1	mksr-2	mksr-2	mksr-2	mksr-2	gst-10	rsks-1	rsks-1	rsks-1	cst-1	rps-6	vps-34	vps-34	vps-34	vps-34	vps-34	vps-34	frh-1	set-15	polg-1	eat-2	crh-1	akt-2	sca-1	ifta-2	pdr-1	rps-15	elo-2	dao-5	rpl-30	sbp-1	ash-2	ash-2
+GO:0008344	nipa-1	nipa-1
+GO:0008611	ads-1
+GO:0043620	daf-16
+GO:0007500	pop-1	pop-1
+GO:0007501	drag-1	fozi-1	fozi-1	ceh-20	tbx-35	tbx-35	hlh-8	unc-62	unc-62	ceh-51	ceh-51	end-3
+GO:0008292	cho-1	cha-1	cha-1
+GO:0008295	smd-1
+GO:0040024	oga-1	sca-1	ttx-3	unc-119	sir-2.1	sir-2.1	daf-14	daf-14	daf-14	daf-14	daf-14	catp-1	sma-5	atg-7	sma-5	eak-4	eak-4	eak-4	eak-4	eak-4	sma-5	daf-12	catp-1	hen-1	sma-5	soc-1	asc-1	aap-1	daf-18	ttx-3	tph-1	tph-1	tph-1	tph-1	sca-1	daf-14	daf-14	daf-14	daf-14	daf-14	eak-6	eak-6	eak-6	eak-6	daf-15	daf-15	daf-12	hsf-1	daf-12	hid-1	sdf-9	sdf-9	sdf-9	sdf-9	sdf-9	che-2	unc-119	eak-6	eak-6	eak-6	eak-6	daf-4	daf-4	daf-4	daf-4	daf-4	daf-4	daf-4	atg-18	daf-9	daf-9	atg-18	daf-16	daf-3	ogt-1	pptr-1	scd-2	daf-1	daf-1	daf-1	daf-1	daf-1	daf-1	daf-1	ncr-2	pkc-1	sma-4	atp-2	daf-4	daf-4	daf-4	daf-4	daf-4	daf-4	daf-4	daf-7	daf-7	daf-7	daf-7	daf-7	daf-7	daf-7	daf-7	sma-6	sma-6	lgg-1	tax-6	unc-119	daf-21	daf-21	ncr-1	ncr-1	oga-1	kin-29	kin-29	daf-8	daf-8	sir-2.1	sir-2.1	bec-1	unc-51	ogt-1	sma-4	tph-1	tph-1	tph-1	tph-1	daf-12	mrp-1	dao-5	mrp-1	hid-1	tax-6	daf-11	daf-11	daf-11	daf-11	daf-11	daf-4	daf-4	daf-4	daf-4	daf-4	daf-4	daf-4	mrp-1	unc-3	age-1	tax-6	mrp-1	daf-3	daf-3	daf-2	daf-2	daf-2	daf-2	mrp-1	sta-1	sta-1	sta-1	sta-1	sta-1	daf-28	sca-1	ifta-2	dao-5	pdk-1	pdk-1	pdk-1	pdk-1	pdk-1
+GO:0040025	sin-3	vab-8	lin-61	ksr-2	par-1	par-1	par-1	eff-1	smn-1	eff-1	egl-38	ksr-2	lin-1	lin-1	lin-1	lin-1	lin-1	lin-1	lin-1	par-1	cogc-1	nud-1	par-1	spas-1	hlh-2	ldb-1	alg-1	ksr-2	sqv-1	sup-17	smn-1	sqv-5	alg-1	unc-83	peb-1	egl-13	par-1	par-1	sin-3	sqv-5	osm-11	tut-1	tut-1	lin-12	lin-12	lin-12	lin-12	ncr-2	mig-10	sqv-3	cutc-1	lin-31	lin-31	wnt-2	wnt-2	wnt-2	wnt-2	unc-101	mpk-1	mpk-1	mpk-1	mpk-1	mpk-1	mpk-1	egl-26	klf-3	spd-2	lin-3	lin-45	lin-45	lin-45	lin-45	lin-45	lin-45	mett-10	sqv-8	hmg-1.2	unc-83	lin-25	mek-2	mek-2	mek-2	mek-2	sqv-7	sqv-4	unc-84	unc-84	apr-1	apr-1	xpa-1	vab-8	mep-1	T27F2.1	soc-2	egl-13	unc-83	elpc-3	vab-23	lin-26	lin-44	egl-13	vab-23	klf-3	mig-14	peb-1	egl-13	eff-1	ldb-1	spas-1	eff-1	dss-1	gld-3	sqv-6	sqv-2	elpc-1	par-1	spd-3	ldb-1	xnp-1	rbd-1
+GO:0007218	flp-7	nmur-2	flp-13	pkc-1	flp-1	flp-21	npr-1	npr-1	flp-3	flp-16	flp-18	flp-18	CELE_Y23B4A.2
+GO:0040027	met-1	met-1	met-1	met-1	met-1	met-1	met-1	met-1	met-1	met-1	ark-1	ark-1	ark-1	ark-1	mig-32	let-418	ark-1	ark-1	ark-1	ark-1	tam-1	tam-1	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	lin-35	lin-35	lin-8	hpl-1	hpl-1	hpl-1	hpl-1	hpl-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	efl-1	swsn-1	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	spat-3	gei-4	gei-4	gei-4	gei-4	gei-4	gei-4	gei-4	gei-4	swsn-1	swsn-1	hda-1	hda-1	hda-1	hda-1	hda-1	hda-1	pry-1	pry-1	pry-1	pry-1	pry-1	lin-9	lin-9	lin-9	met-2	met-2	met-2	met-2	met-2	met-2	met-2	lin-13	lin-13	lin-13	lin-13	sli-1	mig-32	sra-13	apr-1	apr-1	spat-3	chd-3	lin-15A	lin-15A	lin-15A	lin-15A	lin-15A	lin-15B	lin-15B	lin-15B	lin-15B	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	gei-4	gei-4	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	trr-1	sli-1	gei-4	gei-4	sli-1	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2	hpl-2
+GO:0033522	mig-32	spat-3	mig-32	spat-3
+GO:0040022	mog-3	mog-4	mog-1	cyn-4	mog-5	mog-2
+GO:0040023	spe-10
+GO:0007212	dop-2	dop-2	egl-10	egl-10	egl-8	dop-2	dop-2	dop-2	dop-2	ser-2	egl-30	ser-2	dop-2	dop-2	ser-2	eat-16	egl-10	goa-1	dop-6	dgk-1	gpb-2	dgk-1	dgk-1	dgk-1	egl-8	dop-3	dop-3	dgk-1	dop-1	dop-1	dop-1	dop-1	eat-16	egl-30	egl-8
+GO:0007213	kqt-3	kqt-1	kqt-3	gar-2	gar-1	gpb-2	gpb-2	gar-2	gar-2	gar-2	kqt-1	gar-3	gar-3	kqt-3
+GO:0007210	ser-1	ser-4	egl-30	egl-30	mod-1	mod-1	ser-1	gpa-11	unc-36	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1	mod-1	mod-1	egl-30	egl-30	mod-1	mod-1
+GO:0007211	ser-2	ser-3
+GO:0040028	unc-73	lin-17	lin-17	lin-17	lin-17	egl-20	set-16	lin-18	lin-18	cwn-1	unc-73	unc-73	unc-73	hop-1	lip-1	lip-1	lip-1	lip-1	lip-1	lip-1	lip-1	lip-1	unc-73	sem-5	sod-1	cwn-1	apx-1	apx-1	apx-1	apx-1	lag-2	bar-1	bar-1	bar-1	bar-1	bar-1	rbr-2	lin-44	vav-1	unc-73	unc-73	unc-73	unc-73	lin-17	lin-17	lin-17	lin-17	xrn-2
+GO:0040029	sor-1	sop-2
+GO:0007214	unc-49	unc-49	unc-49	unc-49	unc-49	unc-49	unc-49	unc-49
+GO:0001820	unc-31	unc-31	unc-31	unc-31	unc-31	unc-31	fat-3	unc-31	unc-31
+GO:2000746	inx-16
+GO:0046874	acmsd
+GO:2000748	dsc-1
+GO:0015711	sulp-4
+GO:0007173	lin-7	let-23	let-23	unc-52	rgl-1	rgl-1	rgl-1	rgl-1	lin-3	lin-3	lin-3	lin-3	unc-52	lin-3	lin-3	ral-1	ral-1	ral-1	ral-1	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	let-60	let-23	lin-3	lin-3	unc-52	ipp-5	rgl-1	rgl-1	rgl-1	rgl-1	ral-1	ral-1	ral-1	ral-1	lin-7
+GO:0007171	old-2
+GO:0043433	wrm-1
+GO:0007179	sma-9	sma-9	sma-9	sma-9	obr-3	sma-9	sma-9	sma-10	sma-10	sma-10	sma-10	sma-10	kin-29	kin-29	kin-29	kin-29	kin-29	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	obr-3	sma-9	sma-9	sma-10	sma-10	sma-10	sma-10	sma-10	mab-31
+GO:0016197	glo-2	snpn-1	mutd-1	blos-1	blos-4	rab-7	blos-2	dsbn-1
+GO:0055071	smf-2	smf-1	smf-3
+GO:0016192	unc-104	unc-16	mon-2	CELE_Y106G6G.6	ccz-1
+GO:0016191	unc-26	unc-26	unc-26	unc-26
+GO:0055072	smf-2	smf-1	smf-3
+GO:0070508	chup-1	chup-1	chup-1
+GO:0070509	sca-1	sca-1	sca-1
+GO:0060828	mig-21	mig-21
+GO:0042391	cng-1	unc-103	unc-103	unc-103	tax-2	unc-103	unc-103	unc-103	unc-103	unc-103	egl-2	che-6	eat-6	tax-4	cng-3	cng-2
+GO:0042395	dab-1	lrp-1	apl-1	vps-34	dab-1	dab-1	nas-37	vps-34	vps-34	dab-1
+GO:0033674	shc-1	shc-1	shc-1	shc-1
+GO:0071108	otub-1
+GO:0006629	nac-2	nac-2	haf-4	elo-2
+GO:1900369	stau-1
+GO:0043547	rgs-1	rgs-1	egl-10	egl-10	rgs-2	rgs-2	rgs-8.2	rgs-2	rgs-2	rgs-2	rgs-2	rgs-4	rgs-4	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	ags-3	rga-4	rga-4	rga-3	rga-3	eat-16	rgs-10	rgs-11	pac-1	rgs-1	rgs-1	ced-9	rgs-2	rgs-2	egl-10	rbg-3	rgs-3	rgs-6	ags-3	rgs-7	rgs-7	rgs-7	rrc-1	rgs-9	rgs-3	ags-3	rgs-3	eat-16	rgs-7	rgs-7	rgs-7	rbg-1	rga-4	rga-4	CELE_Y18H1A.3	ric-8
+GO:0043545	R03A10.3
+GO:0016575	sin-3	hda-3	sin-3	hda-4	hda-1	hda-2	hda-10
+GO:0016577	jmjd-2
+GO:0016571	mes-3	mes-2	mes-3	mes-6	mes-4
+GO:0016573	bir-1	taf-1	cbp-1
+GO:0071218	ooc-5	aip-1	tor-2
+GO:0045727	ruvb-1	pha-4	ife-2	fib-1	let-363	unc-62
+GO:0016579	usp-7
+GO:0035150	sma-1	sma-1	let-653	exc-5	exc-5	sma-1	sma-1	exc-9	exc-7	let-653	let-653	exc-4	let-4
+GO:0030472	CELE_Y71H2AM.20	CELE_Y71H2AM.20
+GO:0061408	skn-1
+GO:0061404	elt-3	elt-3	elt-3	elt-3
+GO:0012501	mcd-1	mcd-1	mcd-1	mcd-1	ced-7	ced-3	atg-18	atg-18	atg-18	atg-18	ced-8	ced-8	ced-8	ced-6	crt-1	ced-7	ced-3	vha-10	lgg-1	pmk-1	bec-1	bec-1	dpl-1	dpl-1	unc-51	ced-2	ced-1	itr-1
+GO:1900181	lab-1
+GO:1900182	pmk-1	lab-1
+GO:0097154	unc-30	unc-30	unc-30
+GO:0006355	ham-2	ham-2	ttx-3	vab-3	eor-1	lin-48	vab-3	ttx-3	lim-4	ldb-1	lin-22	egl-46	ham-2	egl-13	daf-16	daf-16	C46E10.9	his-12	ceh-6	unc-4	unc-4	cbp-1	nhr-28	egrh-1	mxl-3	ztf-2	egl-44	cep-1	cep-1	egl-43	tbx-9	tbx-8	egl-13	ceh-32	egl-13	egl-43	egl-13	ldb-1	dsc-1	ceh-37	ceh-33	vab-3	sdz-12	ldb-1	CELE_Y5F2A.4
+GO:0006356	F23H11.2
+GO:0006357	sma-9	sma-9	elt-3	elt-3	daf-19	crh-1	crh-1	elt-3	elt-3	elt-3	elt-3	daf-19	elt-3	elt-3	sma-9	lin-48	ceh-28	lin-22	bir-1	egl-46	TFIIE-beta	TFIIE-alpha	hlh-30	hlh-30	hlh-30	hlh-30	hlh-30	swsn-2.2	mes-2	C46E10.9	hlh-1	tlk-1	ceh-26	egl-27	daf-19	ham-3	hlh-14	hlh-6	pop-1	hlh-8	elpc-4	hlh-15	ztf-2	tbx-2	pha-2	snfc-5	sma-9	tbx-9	tbx-8	elpc-3	sma-9	hlh-30	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	hlh-30	hlh-30	crh-1	crh-1	C16A3.1	sma-9	ceh-37	tbx-7	sdz-12	crh-1	CELE_Y5F2A.4
+GO:0006351	ckk-1	ama-1	CELE_T24G10.2	ckk-1
+GO:0006352	ref-2	ref-2
+GO:0007191	dop-4	dop-1	dop-1	dop-1	dop-1
+GO:0035025	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73
+GO:0046676	pag-3
+GO:0035022	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73
+GO:0061061	ltd-1	pxl-1
+GO:0061062	sep-1	uggt-2	tpst-1	uggt-1
+GO:0061065	drag-1	drag-1	strm-1
+GO:0061067	daf-25
+GO:0061066	aak-2	par-4
+GO:0006139	nft-1
+GO:0043161	wdr-23	wdr-23
+GO:0034394	aph-1	aph-1	ric-3	ric-3
+GO:0051694	unc-94
+GO:0017157	sng-1
+GO:0006641	pqbp-1.1
+GO:0060097	ced-12	ced-12	ced-12
+GO:0060626	sao-1	sao-1	cdr-2	cand-1	elks-1	CELE_F22B8.7	CELE_T26E3.6	sao-1	sao-1	mnk-1	mnk-1
+GO:0042416	bas-1	bas-1	cat-2	cat-2	cat-4	cat-1	cat-1
+GO:0006891	F59E10.3
+GO:0050679	mab-5
+GO:0015886	hrg-4	hrg-1
+GO:0050714	emb-9
+GO:0030497	fat-2
+GO:0006006	dhs-21	gdpgp1	gdpgp1
+GO:0048546	eps-8	eps-8	eps-8	eps-8	vang-1	eps-8	eps-8	egl-15	dsh-2	eps-8	eps-8	eps-8	eps-8	vang-1
+GO:2001197	ten-1
+GO:0014055	egl-21	fat-3
+GO:0014056	mef-2
+GO:0014057	egl-8	aex-1	aex-1	aex-1	aex-1	aex-1	aex-1	egl-30	egl-30	aex-3	gar-1	sphk-1	sphk-1	rho-1	gar-3
+GO:0030728	let-23	let-23	orai-1	lin-3	lin-3	stim-1	lin-3	ceh-18	rme-2	let-23	ceh-18	snap-29	lin-3	orai-1	ipp-5	emo-1	vha-1	mup-2	ceh-18	vha-11
+GO:0090389	snx-6	snx-6	snx-6	snx-6	snx-6	lst-4	lst-4	snx-1	snx-1	snx-1
+GO:0090386	snx-6	piki-1	piki-1	dyn-1	rab-5	vps-34	vps-34	lst-4	sand-1	snx-1	vps-34	vps-34	vps-34	vps-34	ccz-1
+GO:0090387	snx-6	unc-108	unc-108	rab-7	rab-14	rab-14	snx-1	ccz-1
+GO:0048729	eya-1	eya-1	eya-1	eya-1
+GO:0031573	F23C8.9	msh-2
+GO:1902476	abts-1	abts-1	abts-1	sulp-4	mod-1	dat-1	avr-14	mod-1	avr-14	avr-14	mod-1
+GO:1902475	aat-3	atgp-2	glt-1	aat-1	laat-1
+GO:0006915	brc-1	brc-1	cyn-13	ced-3	ced-3	drp-1	fis-2	hda-4	ced-4	ced-11	ced-3	ced-3	cdl-1	dct-1	fis-2	drp-1	ces-2	cps-6	cps-6	ced-2	flr-4	klf-1	ndx-4	cyn-13
+GO:0006911	ced-12
+GO:0036092	unc-26	atl-1	unc-26	unc-26	piki-1	unc-26	smg-1	atl-1	vps-34	age-1	age-1	let-363	vps-34	vps-34
+GO:0045128	msh-2	dpy-28
+GO:0018344	ggtb-1
+GO:0018345	mom-1
+GO:0000463	tag-345
+GO:0007492	elt-2	elt-2	wrm-1	apr-1	lit-1
+GO:0006820	avr-14	avr-14	avr-14
+GO:0006821	abts-1	kcc-2	abts-1	abts-1	sulp-4	kcc-2	kcc-2	kcc-2	mod-1	dat-1	avr-14	mod-1	avr-14	avr-14	mod-1
+GO:0006825	cua-1	cua-1	cuc-1
+GO:0006828	pmr-1	pmr-1	pmr-1
+GO:0009755	paqr-1
+GO:0007517	unc-52	ptp-2	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	emb-9	mlc-1	hlh-1	let-60	let-60	sem-5	unc-97	unc-52	unc-105	egl-15	unc-112	soc-2
+GO:0019509	C01G10.9
+GO:0010607	sop-2	sop-2	sop-2
+GO:0010608	cye-1	cye-1	cdk-2	cdk-2	fbf-1	fbf-1
+GO:0007498	ceh-20	egl-27
+GO:0019725	K08F11.5
+GO:0019722	ser-1	ckk-1	unc-64	ser-1	inx-16	rcn-1	ckk-1
+GO:0040039	pix-1	unc-129	mig-5	cle-1	cle-1	cle-1	bir-1	cle-1	max-2	max-2	max-2	ten-1	max-2	max-2	max-2	ten-1	ten-1	max-2	max-2	max-2	atp-2	rnf-121	rnf-121	ccdc-55	ccdc-55	ccdc-55	rnf-5	rnf-5	pak-1	nuo-1	git-1	pix-1	mig-5	dgn-1	ten-1	mig-5	max-2	max-2	max-2	tin-9.2
+GO:0040038	kca-1	zen-4	sep-1	zen-4	cyp-31a2	klc-1	klc-1	plk-1	unc-116	klc-2	klc-2	cdc-14	rack-1	klc-1	klc-1	zen-4	zen-4	cyp-31a3	ani-1	cyk-4	cyk-4
+GO:0040032	eff-1	eff-1	skr-10	ten-1	ten-1	ten-1	hda-4	bli-3	dpy-2	dpy-10	cct-4	unc-98	mlt-7	mlt-7	eff-1	ten-1	eff-1	tni-3
+GO:0040037	clr-1	clr-1	clr-1	clr-1
+GO:0040036	vrk-1
+GO:0040035	lin-17	lin-17	alg-1	swsn-1	alg-1	lin-18	lin-18	swsn-1	swsn-1	smg-1	lin-53	bar-1	smg-4	mep-1	smg-4	lin-17	lin-17	xnp-1	ani-1
+GO:0040034	lin-66	lin-66	lin-29	daf-12	lin-46	daf-12	daf-12	lin-29	sel-7	lin-29	lin-42	sop-2	sop-2	lin-66	lin-66	dcr-1	lin-42	lin-28	lin-28	nhl-2	nhl-2	nhl-2	nhl-2	nhl-2	nhl-2	hbl-1	hbl-1	hbl-1	daf-12	lin-42	dre-1	sop-2	daf-2	daf-2	daf-2	xrn-2	lin-41	hbl-1	hbl-1	hbl-1
+GO:0007204	itr-1
+GO:0019430	sod-4	sod-4	sod-1	sod-5
+GO:0019433	lipl-4
+GO:0019344	cbs-1	cbs-1
+GO:0010731	gsto-1
+GO:0061359	mom-1	mig-14
+GO:1900087	cdk-4
+GO:2000008	uev-1	ubc-13
+GO:0019348	B0024.13
+GO:0038066	sek-1	pmk-1	pmk-1	nsy-1
+GO:0007346	gad-1	par-5	F10C2.4	lmn-1
+GO:0008406	gon-4	cfz-2	spd-1	hpl-2	hpl-2	lin-17	mom-5	hlh-2	hlh-2	hpl-1	mig-1	hpl-2	hpl-2	cacn-1	cog-1	cog-1	ten-1	ten-1	ten-1	ztf-16	ehn-3	gon-1	gon-1	hop-1	hda-1	lin-9	tra-1	lag-2	lin-5	atp-2	phb-2	csn-5	dig-1	dig-1	hmg-1.2	ani-2	par-3	pfd-1	nuo-1	rsp-6	pkc-3	gon-1	gon-1	vrk-1	gon-4	mep-1	pro-1	pro-1	rsp-2	lin-26	ztf-16	ehn-3	ten-1	dig-1	dig-1	gon-2	dre-1	lin-17	phb-1	sfrp-1	ehn-3	mig-1	par-6	polg-1	hpl-2	hpl-2	xnp-1	cfz-2	rbd-1
+GO:0001966	mec-17	mec-17	glr-1	mec-12	atat-2	atat-2	sol-1	sol-2
+GO:2000311	usp-46
+GO:0042384	unc-119	unc-101	dyf-2	che-2	unc-119	hyls-1	unc-101	mks-5	dyf-14	dyf-14	dyf-14	unc-119	che-3	tmem-237	osm-1	bbs-8	dyf-3	dyf-14	che-13	hyls-1	osm-12
+GO:0043393	lev-11	lev-11
+GO:0042147	rme-8	rme-8	hsp-1	syx-6	snx-1
+GO:0042148	brc-2
+GO:0051445	skr-2
+GO:0051446	pzf-1	pzf-1	cdk-1	cdk-1	uri-1	uri-1
+GO:0051447	lip-1	lip-1	lip-1
+GO:0051443	ubc-18
+GO:0016540	ced-3	ced-3	tra-3	wrt-1	wrt-4	wrt-8
+GO:0030866	saps-1	saps-1	rga-4	rga-3	pph-6	saps-1	rga-4
+GO:0030865	ani-1
+GO:0045732	mbk-2	mbk-2	sma-4	sma-6	sma-4	mbk-2
+GO:0050808	syg-1	nid-1	nid-1	strd-1	cle-1	cle-1	cle-1	cle-1	syg-1	sad-1	syd-2	nid-1	syg-2
+GO:0034720	T28F2.4	amx-1	rbr-2	rbr-2	spr-5	spr-5
+GO:0034721	rbr-2
+GO:0050807	unc-69	dlk-1	dlk-1	unc-76	unc-76	unc-76	unc-76	unc-69	ceh-28	dlk-1	dlk-1	cima-1	pmk-3	pmk-3	rpm-1	rpm-1	rpm-1	rpm-1	rpm-1	rpm-1	rpm-1	rpm-1	mkk-4	mkk-4	mkk-4	mkk-4	unc-76	unc-76	unc-69
+GO:0050806	unc-10
+GO:0050804	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	eat-16	eat-16	slo-1
+GO:0030261	smc-3	smc-3	air-2	smc-3
+GO:0043089	cgef-1	cgef-1	cgef-1	rga-1	rga-1	cyk-4
+GO:0043088	chin-1
+GO:0043087	unc-73	unc-73	unc-73	efa-6	pxf-1	efa-6	pxf-1	pxf-1	exc-5	exc-5	pxf-1	pxf-1	ced-5	efa-6	CELE_F11A3.2	agef-1	CELE_F11A3.2	gbf-1	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	gbf-1	unc-89	aex-3	eat-16	unc-73	unc-73	unc-73	grp-1	ZK1098.4	lst-6	mon-2	rgef-1	rbg-2	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	agef-1	unc-73	unc-73	unc-73	CELE_Y106G6G.6	ced-12	eat-16	rbg-1	CELE_M02B7.5	unc-73	unc-73	unc-73	ric-8	Y97E10AR.7	sos-1	CELE_Y47H9C.7	efa-6
+GO:0043086	cki-2	cki-2
+GO:0043085	rgs-1	rgs-1	egl-10	egl-10	rgs-2	rgs-2	rgs-8.2	strd-1	rgs-2	rgs-2	rgs-2	rgs-2	rgs-4	rgs-4	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	ags-3	rga-4	rga-4	CELE_Y71H2AM.20	rga-3	rga-3	eat-16	rgs-10	rgs-11	pac-1	rgs-1	rgs-1	ced-9	rgs-2	rgs-2	egl-10	C56G2.7	rbg-3	rgs-3	rgs-6	ags-3	rgs-7	rgs-7	rgs-7	rgs-9	old-2	rgs-3	ags-3	rgs-3	eat-16	rgs-7	rgs-7	rgs-7	rbg-1	rga-4	rga-4	CELE_Y71H2AM.20	ric-8
+GO:0034058	rabx-5
+GO:0010939	pek-1
+GO:0060051	oga-1	oga-1
+GO:0010286	hif-1	prdx-2	prdx-2	gst-10
+GO:0035037	spe-38
+GO:0060581	aph-2	aph-1	aph-2
+GO:0001101	deg-1	acd-1
+GO:0060582	cnt-2	cnt-2	cnt-2	cnt-2
+GO:0007548	mab-3	ceh-30
+GO:0006123	cox-1	cox-2	cco-2	CELE_W09C5.8
+GO:0006122	isp-1
+GO:0006121	mev-1
+GO:0006120	nd6	nd4l	nd1	nd2	nd4	nd3	nd5	nuo-1	nduf-6	F53F4.10	T20H4.5	gas-1
+GO:0017148	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	sup-26	fog-2	mex-3	puf-6	fbf-2	gld-1	let-711	sup-26	puf-9	fog-2	sup-26	sup-26	mex-3	cgh-1	fbf-1
+GO:0045860	tlk-1	strd-1	ckk-1	ckk-1	tap-1	tap-1	tlk-1	wrm-1	old-2	tlk-1	ckk-1	ckk-1
+GO:1902064	spe-44
+GO:0000186	dlk-1	dlk-1	C03B1.5	nsy-1	mom-4	mom-4
+GO:0006657	cka-1	cka-1	ckb-2	F08C6.2	cka-2	cka-2	pcyt-1	ckb-4
+GO:0051924	unc-36	ccb-1	unc-36
+GO:0000183	T07A9.8
+GO:0055001	pat-3
+GO:0008286	aap-1	unc-64	daf-16	daf-16	egl-4	akt-1	hlh-13	dao-5	daf-2	akt-2	dao-5
+GO:0060631	plk-2	plk-2
+GO:0000188	lip-1	ZK757.2	vhp-1	vhp-1	vhp-1
+GO:0046113	dhp-2	dhp-1
+GO:0030641	pbo-4
+GO:0002009	erm-1	eff-1	eff-1	eff-1	eff-1	lin-17	cogc-1	erm-1	sqv-1	swsn-1	sqv-5	lin-18	lin-18	swsn-1	swsn-1	sqv-5	sqv-3	sqv-8	sqv-7	bar-1	bar-1	sqv-4	bus-18	bus-1	dgn-1	eff-1	eff-1	eff-1	eff-1	lin-17	sqv-6	sqv-2	xnp-1
+GO:0048846	mig-2	enu-3	ced-10	ced-10	pink-1	pink-1	unc-130	dgn-1	rac-2	lrk-1
+GO:0048843	slt-1
+GO:0048841	mig-32	let-756	mig-32	crml-1	hlh-3
+GO:0048666	unc-70	zig-4	zig-4	mec-8	smu-1	hlh-2	unc-70	unc-86	unc-86	lin-32	lin-32	lin-32	lin-14	lin-14	smu-2	unc-70
+GO:0030010	par-1	par-1	par-1	mex-1	mex-1	par-1	par-1	lgl-1	par-2	par-2	par-1	par-1	mlc-4	mom-2	par-3	par-2	par-4	par-1
+GO:0048665	unc-42	fax-1	sop-2	sop-2	sor-3	fkh-2	ref-2	ceh-36	ceh-37	ceh-37	ref-2	fkh-2	sop-2
+GO:0048193	T24B1.1
+GO:0042776	cco-1	atp-3	cyc-1	atp-3
+GO:0042771	rad-51	cep-1	cep-1	cep-1	cep-1	cep-1	cep-1	cep-1	cep-1	cep-1	rad-51	uri-1	msh-2	ced-13
+GO:0045004	F10C2.4
+GO:0090390	unc-108	unc-108	rab-14	rab-14
+GO:0045002	brc-2
+GO:0045008	nth-1
+GO:0048280	sec-22
+GO:0001558	daf-16	tfg-1
+GO:0023041	cwp-5	cwp-5	cwp-5	cwp-5	maco-1
+GO:0006479	pcm-1	pcm-1
+GO:0006909	ctns-1
+GO:0007409	ttx-3	lim-6	lin-17	ttx-3	mom-5	max-2	vab-1	pak-1	lim-6	unc-51	lin-17
+GO:0051046	vha-5
+GO:0051049	cng-1	slo-2	kqt-3	slo-2	unc-103	unc-103	slo-2	kqt-1	kqt-3	unc-103	tax-2	unc-103	unc-103	unc-103	unc-103	unc-103	slo-2	slo-2	slo-2	slo-2	egl-2	che-6	tax-4	twk-18	twk-18	clhm-1	unc-58	slo-2	cca-1	unc-2	cng-3	kqt-1	kqt-2	kqt-2	cng-2	kqt-3
+GO:0006906	snb-7	snb-1	snb-5	syx-6	snb-2	vamp-8	snb-6	vamp-8	vamp-7	ykt-6
+GO:0043951	pde-4	pde-4
+GO:0006903	ykt-6
+GO:0044281	cah-4	cah-4	cah-4	cah-4	cah-4	cah-4
+GO:0000768	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	aff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1	eff-1
+GO:0010171	unc-119	dpy-1	sma-1	sma-1	lim-7	pdi-3	pdi-3	hlh-2	sma-1	sma-1	unc-119	dpy-23	ced-10	ina-1	egl-27	hlh-14	apl-1	unc-119	rpm-1	aps-2	exc-9	rab-7	mig-15	lon-3	lon-3	sand-1	dpy-1
+GO:0045138	sin-3	sin-3	ksr-2	sma-9	sma-9	sma-9	sma-9	uba-1	dmd-3	mig-32	eff-1	unc-129	ram-5	eff-1	pdi-3	egl-38	sma-9	sma-9	ksr-2	vab-3	vab-3	eor-1	lin-48	lin-17	kal-1	ptr-23	eor-2	vab-3	vab-3	hlh-2	hlh-2	hlh-2	dbl-1	ref-1	ksr-2	lin-22	rnt-1	nob-1	eor-2	lon-8	nob-1	spat-3	sin-3	sin-3	let-765	hda-1	mab-3	efn-4	efn-4	lin-59	plx-2	mab-5	mab-5	mab-5	egl-5	lin-9	cdh-3	sma-3	sma-3	sma-4	sma-4	fem-2	lin-53	rba-1	mab-9	ptr-2	sma-2	ina-1	egl-27	hda-2	sma-6	sma-6	sma-6	sma-6	lin-32	lin-32	dpy-30	ptr-1	unc-130	mig-32	exc-9	ram-2	iff-2	sma-9	sma-9	spat-3	bec-1	unc-51	uba-1	lin-44	sma-9	sma-9	sma-4	sma-4	uba-1	plx-1	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	eff-1	sma-9	sma-9	eff-1	mab-20	mab-20	mab-20	lin-17	ptr-4	bro-1	vab-3	vab-3	mab-31	ptr-20	lin-41	ani-1	ptr-18	dmd-3
+GO:0001666	C06C3.8	C06C3.8	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	egl-9	hif-1	hif-1	hif-1	hif-1	hif-1	hif-1	hif-1	C34B2.6	unc-32	CELE_R13H4.6	vhl-1	fipr-15	vha-12	cep-1	egl-9	egl-9	egl-9	egl-9	cysl-1	cysl-1	cysl-1	cysl-1	CELE_F46F5.5	C08G5.1	rhy-1	rhy-1	rhy-1	rhy-1
+GO:0045132	szy-20	zhp-3	szy-20	him-5	atl-1	szy-20	dpy-26	pzf-1	pzf-1	szy-20	him-5	eri-1	mut-2	syp-3	syp-2	plk-1	zhp-3	szy-20	rde-2	apc-11	cep-1	cep-1	him-10	atl-1	szy-20	rde-2	mut-2	szy-20
+GO:0000165	dyf-5	dyf-5	pmk-3	pmk-3	pkc-1	mpk-1	mek-2	C03B1.5	mek-1	mek-1	pmk-2	mom-4
+GO:0044268	hbl-1	lin-41	hbl-1
+GO:0002821	daf-16	daf-16
+GO:0007528	stn-1
+GO:0007529	dyb-1
+GO:0008361	let-607	ced-4	cul-1	adt-2	unc-51	adt-2	adt-2	tfg-1
+GO:0008360	pdi-3	let-502	sax-1
+GO:0006835	sulp-4
+GO:0006836	stn-1	dys-1	dyb-1
+GO:0006839	dif-1
+GO:0098501	cel-1	cel-1
+GO:0098507	cel-1	cel-1
+GO:0007526	mup-2
+GO:0019532	sulp-4
+GO:0010631	arx-7	arx-2	arx-6	wsp-1	wsp-1	arx-4	arx-1	arx-5
+GO:0030509	dbl-1	daf-4	sma-3	daf-4	sma-6	daf-4
+GO:0009566	cil-1
+GO:0030111	mtm-6	mtm-6	mtm-6
+GO:0045989	pbo-4	pbo-5
+GO:0032412	bkip-1	bkip-1
+GO:0032413	stn-1
+GO:1901341	stim-1
+GO:0000578	cap-2	gpa-16
+GO:0071902	strd-1
+GO:0071901	cki-2	cki-2
+GO:0051223	rme-6
+GO:0051225	zyg-1	lis-1
+GO:0040040	ttx-1	ttx-3	ttx-3	ttx-3	ttx-3	ttx-3	ttx-3	gcy-23	gcy-23	gcy-23	gcy-18	gcy-18	gcy-18	ceh-14	tax-4	tax-4	tax-4	tax-4	tax-6	tax-6	tax-6	tax-6	tax-6	tax-6	tax-6	tax-6	tax-6	gcy-8	gcy-8	gcy-8	cmk-1	ttx-1	ttx-1
+GO:0032091	egl-1
+GO:0072350	aco-1
+GO:0032094	dop-2	dop-2	dop-2	dop-2	eat-16	goa-1	cat-2	cat-2	dgk-1	gpb-2	dgk-1	dgk-1	dgk-1	dop-3	dop-3	dgk-1	dop-1	dop-1	dop-1	dop-1	eat-16
+GO:0016601	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73
+GO:0007231	osm-10
+GO:0046856	ipp-5
+GO:0046855	CELE_F28C6.8	ttx-7	mtm-3	CELE_F28C6.8
+GO:0046854	atl-1	smg-1	atl-1	let-363
+GO:0032259	coq-3	pmt-2
+GO:2000273	old-2
+GO:0032077	crn-5
+GO:0043410	msp-77
+GO:0043412	pdi-2	pdi-2	dpy-18	pdi-2	phy-2
+GO:0043413	fut-2
+GO:0043414	strm-1
+GO:2000786	rsks-1
+GO:2000785	ragc-1	daf-15	daf-2
+GO:0019395	paqr-1
+GO:0003333	snf-11	aat-3	atgp-2	glt-1	aat-1	laat-1
+GO:0071586	fce-2	fce-1
+GO:0071585	pcs-1	pcs-1	pcs-1	pcs-1	pcs-1	pcs-1	hmt-1
+GO:0072583	unc-57	unc-57	unc-57	unc-57
+GO:0042176	cima-1	alx-1	sur-2	wwp-1	wwp-1
+GO:0051453	cln-3.1	cln-3.1	cln-3.2	cln-3.3	vha-12
+GO:0051451	ksr-1
+GO:0051457	sma-6
+GO:0043567	pptr-1
+GO:0016558	prx-5	prx-5
+GO:0045746	sao-1	sao-1	sel-1	sel-1	hda-1	sao-1	sao-1	vav-1	sel-10
+GO:0045747	bre-5	ego-2	sel-7	sel-7	ego-2	hop-1	osm-11	sel-12	bre-5	bre-4	ego-2	mdt-29
+GO:0033275	hum-7	hum-7
+GO:0022900	cyc-2.1
+GO:0045742	ptp-2	ptp-2	ptp-2
+GO:0045740	mus-101
+GO:0033108	nuo-1
+GO:0050879	sym-2	sym-2	ace-3
+GO:0035608	ccpp-6
+GO:0051983	syp-1	ima-2	lmn-1
+GO:0006338	top-1	chd-3	gfi-1
+GO:0006337	snfc-5
+GO:0019860	upp-1
+GO:0006171	acy-3	acy-2	acy-1	acy-4
+GO:0046477	gana-1
+GO:0045923	nhr-80	nhr-80
+GO:0045920	pph-5	pph-5
+GO:0031034	unc-89	rho-1
+GO:0045927	dss-1
+GO:0035046	dnc-1	dnc-1	zen-4	tac-1	nud-1	zen-4	cyk-1	par-5	dnc-2	cyb-3	zyg-12	dnc-1	cyk-1	zen-4	zen-4	anc-1	lis-1	puf-3
+GO:0030031	trim-9	sax-1	CELE_M04F3.5	trim-9
+GO:0030036	unc-53	unc-53	vab-19	pod-1	unc-53	max-2	act-2	act-4	cap-2	pak-1	pha-2	cor-1	act-4	unc-53	CELE_M02B7.5	act-4
+GO:0042592	zig-6
+GO:0006167	ndx-4	ndx-4
+GO:0061512	bbs-1
+GO:0050906	ift-81	tmc-1	ift-74
+GO:0050907	sra-11	kin-29
+GO:0042594	unc-2	unc-2	pcm-1	cep-1	mek-1	mek-1	mek-1	mek-1	mek-1	pcm-1	unc-2	mek-1	mek-1	mek-1	mek-1	mek-1	unc-2	unc-2
+GO:0050905	uba-1	uba-1	uba-1
+GO:0050909	gpc-1
+GO:0006482	B0464.9
+GO:0006486	let-268	ZC513.5	bre-4
+GO:0006487	gly-12	fut-8	gly-14	gly-20	gly-13	gly-12	gly-2
+GO:0006488	B0024.13	ZC513.5
+GO:0055093	tax-2	gcy-35	gcy-35	gcy-35	tax-4
+GO:0042350	ger-1	gmd-2	bre-1
+GO:0061199	ccb-1
+GO:0051301	szy-20	szy-20	tac-1	szy-20	szy-20	knl-1	cdk-1	mel-47	szy-20	wee-1.1	szy-20	zyg-1	szy-20
+GO:0045814	rha-1
+GO:0022409	srgp-1	srgp-1	srgp-1
+GO:0006468	smc-3	ksr-2	unc-43	unc-43	unc-43	tlk-1	ksr-2	sek-1	air-1	air-1	air-1	jkk-1	ckk-1	ckk-1	ckk-1	unc-43	ksr-2	ksr-1	cdk-4	cdk-7	taf-1	max-2	max-2	max-2	mlk-1	mbk-2	mbk-2	smc-3	air-2	cye-1	efk-1	dkf-2	cdk-2	unc-43	kin-3	kin-1	tlk-1	tlk-1	cdk-1	pkc-1	cdk-8	let-502	spk-1	spk-1	ire-1	egl-15	mek-2	wrm-1	pmk-1	pmk-1	akt-1	pek-1	kin-29	mek-1	unc-51	sax-1	tlk-1	ckk-1	ckk-1	ckk-1	mek-1	mlk-1	jnk-1	zyg-8	flr-4	cmk-1	pat-4	smc-3	lit-1	lit-1	mom-4	mom-4	mbk-2	akt-2	cdk-4	max-2
+GO:0006469	cki-2	egg-4	egg-4	inx-19	egg-5	dnj-7	cdc-48.3	cki-2	nsy-4
+GO:0006461	dyf-11
+GO:0006464	dpy-11
+GO:0046108	upp-1	upp-1
+GO:0030104	sca-1	sca-1	vha-5	pod-2	ceh-6	pod-2	pod-2	sca-1
+GO:0046100	CELE_Y105E8B.5
+GO:0046103	C06G3.5	C06G3.5	C44B7.12
+GO:0030100	cup-5	cup-5	cup-5	cup-4	vps-34	cup-5	cup-5	vps-34	vps-34
+GO:0046104	upp-1
+GO:0048859	ceh-16
+GO:0048858	unc-53	unc-53	unc-53	mig-10	mig-10	abi-1	abi-1	unc-53
+GO:0035195	tsn-1
+GO:0006066	H24K24.3
+GO:1902104	zyg-11	cul-2	rbx-1	elc-1
+GO:0006790	dcs-1	dcs-1	ssu-1	ssu-1
+GO:0048520	clk-1
+GO:0048675	kal-1	enu-3	enu-3	klc-2
+GO:0000082	cdk-4	cye-1	cye-1	cdk-8
+GO:0045039	tin-9.1	tin-10
+GO:0045026	dmd-3	dmd-3	eff-1	eff-1	eff-1	eff-1	unc-71	egl-13	ceh-16	ceh-16	lin-39	egl-13	egl-13	egl-13	eff-1	eff-1	eff-1	eff-1	dmd-3	dmd-3
+GO:0031345	let-756
+GO:0031344	ptp-2	let-60	let-60	sem-5	egl-15	soc-2
+GO:0060158	egl-30	egl-30
+GO:0050803	unc-37	unc-4	lnp-1	syd-2
+GO:0016310	smc-3	cka-1	atl-1	dlg-1	taf-1	smc-3	cka-1	pgk-1	wrm-1	pps-1	cka-2	cka-2	dlg-1	ckb-4	smc-3
+GO:0031293	tra-3
+GO:0006661	mboa-7
+GO:0006664	rfp-1
+GO:0006935	ift-81	che-12	che-12	egl-8	dyf-2	osm-6	dyf-2	tax-2	che-2	gcy-28	pkc-1	pkc-1	maco-1	mks-5	grk-2	tax-6	tax-6	che-12	dyf-11	ift-74	ifta-1	ttx-7	acy-1	rgef-1	nsy-1	bbs-8	egl-8	gcy-28	tax-6	tax-6	rab-3	tax-6	tax-6	rab-3	egl-8	gcy-28	gcy-28	osm-12
+GO:0006936	unc-26	unc-26	unc-26	unc-26	pat-10	gon-14	tnt-4	egl-2	tnt-4	unc-54	let-75	twk-18	unc-58	jph-1	fat-3	gon-14	tni-3	itr-1	itr-1
+GO:0006937	unc-103	unc-103	unc-103	unc-103	unc-103	unc-103	unc-103	unc-103	sup-9	mlc-1	mlc-2	unc-17	eat-6	sup-10	unc-58	mup-2	unc-93
+GO:0035148	erm-1	erm-1	act-5	act-5
+GO:2001024	pkc-1
+GO:0045108	let-413
+GO:0045109	eps-8	eps-8	eps-8	eps-8	eps-8
+GO:0090071	ncl-1
+GO:0010629	lin-66	lin-22	lin-66	tor-2
+GO:0010628	ehn-3	ehn-3	stau-1	ehn-3
+GO:0001764	vab-8	epi-1	epi-1	unc-73	unc-73	unc-73	nid-1	nid-1	pix-1	pix-1	pix-1	wve-1	sax-3	mig-2	mig-2	mig-2	mig-2	mig-5	cle-1	eor-1	cle-1	kal-1	eor-2	ham-1	epi-1	cle-1	slt-1	egl-46	cle-1	eor-2	gpn-1	gpn-1	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-39	unc-73	unc-73	unc-73	mig-10	mig-10	ceh-10	ceh-10	ced-10	ced-10	ina-1	hlh-14	abi-1	abi-1	hch-1	epi-1	pix-1	pix-1	pix-1	vab-8	mig-5	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	nid-1	rac-2	rac-2	unc-73	unc-73	unc-73	mig-5	wve-1
+GO:0006801	sod-4	sod-4	sod-1
+GO:0007538	cnr-14	cnr-14	fox-1	ceh-39
+GO:0010621	hcf-1
+GO:0007530	sea-1	sea-1	sdc-1	sdc-3	tra-2
+GO:0007029	hut-1	lpin-1
+GO:0008088	arl-8	arl-8	arl-8	arl-8	sad-1	syd-2	syd-1
+GO:0008089	unc-104	unc-104
+GO:0019099	tra-1	tra-3
+GO:0051232	cul-2
+GO:0051231	zyg-9
+GO:0070194	zhp-3	zhp-3	smo-1	smo-1	zhp-3	zhp-3
+GO:0007229	pat-4
+GO:0043985	prmt-5
+GO:0019673	gmd-2	gmd-2	bre-1
+GO:0019674	R07B7.5
+GO:0038007	unc-40	unc-5
+GO:0043407	gck-1	gck-1	gck-1	lip-1	lip-1	lip-1	egrh-1	gck-1
+GO:0051571	sdc-1
+GO:0019388	CELE_R05F9.6
+GO:0043409	stam-1	rpm-1	rpm-1	rpm-1
+GO:0032880	hmp-1	magi-1	magi-1	magi-1	magi-1	jac-1	jac-1	frk-1	magi-1	hmp-1	ipla-1	unc-14	ipla-1	brc-2	ipla-1	hmp-2	cmd-1	aspm-1	aipl-1	hmp-2	pry-1	pry-1	lin-5	hmp-1	ulp-1	mex-6	wrm-1	wrm-1	lnp-1	ain-1	tbx-2	ipla-1	frk-1	ect-2	unc-51	ipla-1	ubc-9	sand-1	jac-1	ect-2	mex-5	mex-5
+GO:0000413	fkb-1	CELE_Y71H2AM.20	fkb-3	fkb-6	fkb-7	cyn-3	cyn-3	cyn-5	cyn-8	fkb-5	cyn-9	cyn-9	fkb-1	fkb-4	fkb-8	fkb-8	fkb-5	CELE_Y71H2AM.20	fkb-2	cyn-16
+GO:0071806	emo-1
+GO:0071804	shw-3
+GO:0071805	cng-1	slo-2	kcc-2	slo-2	unc-103	unc-103	slo-2	unc-103	kcc-2	tax-2	unc-103	unc-103	unc-103	unc-103	unc-103	kcc-2	kcc-2	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-2	slo-2	slo-2	slo-2	egl-2	che-6	irk-1	eat-6	eat-6	tax-4	slo-2	cng-3	slo-1	kqt-2	kqt-2	cng-2
+GO:0001944	cfz-2	lin-17	mom-5	mig-1	lin-17	sfrp-1	mig-1	cfz-2
+GO:0070574	hmt-1
+GO:0071577	cdf-2	cdf-1
+GO:0016126	hsd-1
+GO:0016125	tat-4	tat-4	tat-3	tat-4	tat-4	tat-4	tat-4	tat-2	tat-2
+GO:0071421	pmr-1	pmr-1	pmr-1
+GO:0071422	nac-2	nac-2	nac-3	nac-3	nac-1	nac-1
+GO:0051270	plx-1
+GO:0006904	ykt-6
+GO:0043570	dog-1	msh-6	msh-6	msh-2	msh-2	msh-2	msh-2	msh-2
+GO:0040014	gro-1	obr-3	spd-1	drag-1	bir-1	unc-64	let-607	lin-59	dpy-2	dpy-5	dpy-30	tin-9.1	eat-3	eat-3	eat-3	eat-3	eat-3	eat-3	eat-3	eat-3	kin-29	nst-1	K04G2.1	pha-2	pha-2	pha-2	pha-2	mdt-15	bec-1	bec-1	unc-51	unc-51	rad-8	obr-3	tfg-1	eat-2	sbp-1	sbp-1	tin-9.2	tin-10
+GO:0007032	unc-26	unc-26	unc-26	unc-26	alx-1	maa-1	maa-1
+GO:0007030	T24B1.1
+GO:0007031	prx-12	ctl-2
+GO:0007034	cln-3.1	cln-3.1	cln-3.2	cln-3.3	spe-39	vps-41	spe-39
+GO:1900409	skn-1
+GO:0019695	ace-4	ace-2	ace-1	glit-1	ace-3
+GO:0071712	npl-4.2	cdc-48.1	cdc-48.2	ufd-1	npl-4.2	ufd-1
+GO:0071711	epi-1	epi-1	epi-1	pxn-2	ten-1	ten-1	ten-1	epi-1	ten-1
+GO:0045759	flp-3
+GO:0016239	pha-4	lipl-4
+GO:0016233	ceh-37
+GO:0030241	unc-15	unc-15	unc-89	unc-54	unc-15	unc-15	rho-1
+GO:0030240	pat-10	unc-60	unc-60	unc-60	unc-60	unc-78
+GO:0016236	epg-8	epg-8	epg-8
+GO:0034585	prg-1
+GO:0046048	ntp-1	uda-1
+GO:0009069	mel-32
+GO:0042981	cmd-1
+GO:0035725	snf-11	flr-1	snf-6	mec-4	mec-4	mec-10	nhx-9	eat-6	eat-6	dat-1	dat-1	nac-3	nhx-2	nac-1
+GO:0035721	dyf-2	bbs-1
+GO:0033627	spon-1
+GO:0045931	figl-1	uri-1	uri-1
+GO:0045930	cul-1
+GO:0045933	unc-26	exp-1	unc-26	unc-26	unc-26
+GO:0060050	mig-23
+GO:0035058	dyf-5	che-12	che-12	nphp-4	dyf-2	osm-5	dyf-6	dyf-2	dyf-6	daf-10	dyf-5	nph-1	dyf-6	che-12	dyf-11	ifta-1	bbs-2	dyf-6	fkh-2	osm-1	bbs-8	fkh-2	bbs-1	osm-12	CELE_Y43F8C.4
+GO:0030029	let-413	act-2
+GO:0046621	egl-4
+GO:0046622	sma-1	sma-1	dbl-1	sma-1	sma-1	sma-3	sma-4	sma-4
+GO:0046626	daf-10	osm-3	daf-6	daf-28
+GO:0046627	ins-18	ins-18	ins-1	ins-1	daf-16
+GO:0050911	str-2	odr-10	sra-13
+GO:0050913	qui-1	qui-1	gpa-3	glr-1
+GO:0050919	odr-1	odr-1
+GO:0050918	odr-1	odr-7	odr-10	odr-1
+GO:0035295	lpr-1
+GO:0061038	fln-1	fln-1	fln-1	fln-1	lim-6	fln-1	lim-6	fln-1	fln-1
+GO:0034059	san-1	mdf-2	mdf-2	sbp-1
+GO:0031991	zen-4	zen-4	zen-4	zen-4	zen-4	zen-4	air-2	air-2	zen-4	zen-4	zen-4	zen-4	zen-4	zen-4	par-4
+GO:0006493	ogt-1	ogt-1	C15C7.7	ogt-1	ogt-1
+GO:0051881	crls-1	pgs-1
+GO:0006491	galt-1
+GO:0097502	bre-3	ZC513.5
+GO:0097501	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1	mrp-1
+GO:0006256	apy-1	apy-1	mig-23	mig-23
+GO:0006259	wrn-1	wrn-1	dna-2	C16A3.1	dna-2
+GO:0045892	flh-1	flh-1	sop-2	sop-2	sop-2	sop-2	T28F2.4	unc-37	prmt-5	lin-53	pop-1	sor-3	sor-3	flh-2	sop-2	sop-2	jmjd-2	flh-3	flh-1
+GO:0045807	mca-3	mtm-3	mca-3	mca-3	mca-3
+GO:0045806	mtm-1
+GO:0090087	B0041.5	gpx-1	CELE_ZC416.6	mif-3	CELE_F54C9.7	CELE_F56C9.7	nhx-2	nhx-2
+GO:0006478	tpst-1	tpst-1
+GO:0006470	oga-1	ptp-3	daf-18	ptp-3	CELE_F28C6.8	ogt-1	pptr-1	lip-1	cdc-25.3	ZK757.2	fem-2	fem-2	pgam-5	vhp-1	oga-1	scpl-2	ogt-1	CELE_W09H1.1	ptp-3	CELE_F28C6.8	ptp-3	ptp-3	CELE_W09H1.1	C24F3.2
+GO:0006473	mec-17	atat-2
+GO:0048468	axl-1
+GO:0006474	CELE_K07H8.3
+GO:0006476	sin-3	hda-6	sir-2.1	hda-6	sin-3	hda-11	hda-6	sir-2.1
+GO:0060323	lim-7
+GO:0009968	lin-52	lin-52
+GO:0009967	sem-5	unc-16	ced-2	num-1
+GO:0035188	hch-1	ace-3
+GO:0048513	pes-1	daf-16
+GO:0042755	pha-2
+GO:0060142	fos-1	fos-1	vha-12	vha-12	vha-17	vha-17	vha-1	vha-1
+GO:0042759	let-767	fat-5	fat-6	let-767
+GO:0045022	sand-1
+GO:0001306	sod-1	sod-1
+GO:0010248	eat-6
+GO:0043970	sir-2.1	sir-2.1	sir-2.1	sir-2.1
+GO:0043171	C42C1.11	C42C1.11	AP-1	pam-1	pam-1
+GO:0045116	uba-3	uba-3	dcn-1	dcn-1	ubc-12	ubc-12
+GO:0015938	ndx-8
+GO:0048644	unc-52	mec-8	mec-8	smu-1	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	smu-2
+GO:0018393	cbp-1
+GO:0002804	snf-12	stat-b
+GO:0018395	psr-1
+GO:0006813	slo-2	kqt-3	kcc-2	slo-2	exp-1	slo-2	kqt-1	kqt-3	kcc-2	kcc-2	kcc-2	kvs-1	kvs-1	kvs-1	kvs-1	kvs-1	kvs-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-2	slo-2	slo-2	slo-2	sup-9	egl-2	eat-6	eat-6	twk-18	slo-2	kvs-1	kvs-1	kvs-1	kqt-1	slo-1	kqt-3
+GO:0006812	gon-2	cup-5	osm-9	gon-2	snf-11	gon-2	gon-2	cup-5	cup-5	cox-1	cox-2	lov-1	unc-8	unc-77	unc-77	unc-77	unc-77	cup-5	cup-5	gon-2	eat-2	unc-80	unc-80
+GO:0006811	gab-1	acr-2	unc-38	unc-38	avr-14	acr-3	avr-14	avr-14
+GO:0006810	ced-7	osta-1	cox-1	cox-2	ced-7	lov-1	osta-2	cav-2	tag-189	spp-1	spp-5	osta-3	unc-80	unc-80	spp-12
+GO:0006816	mca-3	mca-1	spe-41	spe-41	mca-1	pmr-1	mca-1	pmr-1	spe-41	spe-41	pmr-1	mca-1	hop-1	sel-12	spe-4	unc-105	mca-3	mca-3	mca-3	pkd-2
+GO:0006814	exp-1	flr-1	nhx-9	eat-6	eat-6	acd-1
+GO:0008306	ttx-3	hen-1	casy-1	ttx-3	casy-1	casy-1
+GO:0009786	ipla-1	lin-17	lin-17	lin-17	ipla-1	lin-18	lin-18	ipla-1	egl-27	hlh-14	pop-1	npp-1	ipla-1	mom-1	ipla-1	lin-17	lin-17	lin-17	sys-1	npp-1	npp-1	sys-1
+GO:0009785	lite-1
+GO:0007367	wrt-1	wrt-4	wrt-8
+GO:0042938	pept-3	pept-1	pept-1
+GO:0046903	snap-29
+GO:0046907	arl-6
+GO:0001578	spas-1
+GO:0080135	wdr-23	wdr-23
+GO:0000187	sek-1	mek-2	mkk-4	mek-1	mek-1	tir-1
+GO:0006656	F08C6.2	pmt-2	pcyt-1
+GO:0008544	pxf-1	pxf-1	pxf-1	pxf-1	ptp-3	ptp-3	pxf-1	vab-2	ceh-18	rap-2	mlt-10	ceh-18	egl-27	rap-1	rap-1	lin-26	ptp-3	ceh-18	ptp-3
+GO:0008543	egl-17	egl-15	let-756	soc-2
+GO:0007257	jkk-1	max-2	max-2	max-2	mek-1	mek-1	mek-1	mek-1	max-2
+GO:0007254	mig-2	max-2	max-2	max-2	jnk-1	max-2	C24F3.2
+GO:0051081	lpin-1
+GO:0007258	kgb-1	jnk-1
+GO:0046835	CELE_F14B4.2	CELE_F14B4.2	CELE_Y77E11A.1	CELE_H25P06.1
+GO:0046834	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1	dgk-1
+GO:0046839	mtm-1	mtm-1
+GO:0032502	hipr-1	rpb-6
+GO:0032501	arr-1	grk-2
+GO:0032504	mig-6	cutc-1	ani-2	meg-1	raga-1	rad-8	maa-1
+GO:0032508	helq-1	C08F8.2	wrn-1	wrn-1	dna-2	chd-3	CELE_F46G11.1	helq-1	rtel-1	dna-2
+GO:0032876	lon-1	lon-1	lon-1
+GO:0007338	spe-41	spe-41	egg-1	spe-42	egg-2	spe-9	spe-38
+GO:0016485	egl-21	Y75B8A.4
+GO:0032878	mig-5	mig-5	mig-5	mig-5	mig-5	mig-5
+GO:0016482	cls-2
+GO:0090502	rde-1	csr-1	drsh-1	dcr-1	dcr-1	ire-1	K02A11.3	csr-1	cps-6	dbr-1
+GO:0090503	xrn-2
+GO:0090501	smg-5	rde-1	csr-1	drsh-1	dcr-1	dcr-1	ire-1	crn-4	K02A11.3	csr-1	cps-6	dbr-1	xrn-2
+GO:0001956	unc-26	unc-26	unc-26	unc-26	ida-1	unc-18
+GO:0007422	unc-130
+GO:0070544	T28F2.4	jmjd-2
+GO:0000956	ain-2	ain-2	ain-2	ain-1	let-711	ain-2
+GO:0010470	pac-1	pac-1
+GO:0030210	sqv-6
+GO:0016139	gana-1
+GO:0015844	cat-1	cat-1
+GO:0051438	zer-1
+GO:0051437	cand-1
+GO:0075015	bre-3	bre-1	bre-2	bre-5	bre-4
+GO:0007020	tbg-1
+GO:0030833	lev-11	lev-11
+GO:0030835	unc-94	lev-11	lev-11
+GO:0030836	unc-78
+GO:0007026	tac-1	zyg-8
+GO:0045760	cca-1	cca-1	cca-1	cca-1	cca-1
+GO:0045762	pdfr-1
+GO:0015758	fgt-1
+GO:0010506	pcm-1	hlh-30	pcm-1
+GO:0033126	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7	rgs-7
+GO:0030238	fem-3	fem-3	her-1	fem-2	xol-1	her-1
+GO:0030239	unc-52	unc-98	unc-98	unc-98	unc-98	pat-4
+GO:0016226	F10G8.6	oxy-4	frh-1	Y18D10A.9
+GO:0042023	cye-1
+GO:0042026	nud-1
+GO:0046580	gap-2	hpl-2	tap-1	hpl-1	efl-1	hpl-2	gei-4	gei-4	gei-4	gei-4	gei-4	gei-4	gei-4	gei-4	hda-1	hda-1	hda-1	hda-1	hda-1	lip-1	lip-1	sra-13	chd-3	dpl-1	gap-1	gap-1	lin-15B	gap-2	gei-4	gei-4	gei-4	gei-4	gap-2	gap-2	hpl-2
+GO:0034227	tut-1	tut-1	tut-2
+GO:0034599	C06C3.8	C06C3.8	C34B2.6	CELE_R13H4.6	pink-1	CELE_F46F5.5	C08G5.1
+GO:0006310	rad-51	rad-51
+GO:0006311	msh-2
+GO:0006312	cin-4	R05D3.12	K12D12.1	CELE_Y46H3C.4
+GO:0051726	cmd-1	plk-1	dct-1	nos-2
+GO:0051729	cye-1	cye-1	cdk-2	cdk-2	mog-2	mog-2	fbf-1	fbf-1
+GO:0033631	ina-1
+GO:0035065	taf-7.1
+GO:0001172	rrf-1	rrf-1	rrf-1	rrf-1	rrf-2	elpc-1
+GO:0035262	pix-1	pix-1	lim-7	cogc-1	hlh-2	swsn-1	max-2	max-2	max-2	max-2	max-2	max-2	gon-14	cogc-3	swsn-1	swsn-1	cogc-8	dcr-1	unc-6	unc-6	acin-1	ndc-80	pak-1	pak-1	dsh-2	git-1	git-1	iff-2	mig-17	mig-17	mig-17	mig-17	mig-17	cogc-6	pix-1	pix-1	cogc-2	mig-23	mig-23	dgn-1	unc-5	unc-5	gon-14	cogc-3	ced-12	ced-12	cogc-4	nhr-67	max-2	max-2
+GO:0061024	spe-4	CELE_M04F3.5
+GO:0051899	cca-1	cca-1	cca-1	cca-1	cca-1
+GO:0050920	mps-3	daf-18	ins-1	kvs-1	kvs-1	kvs-1	kvs-1	che-1	mps-1	mps-1	mps-2	kvs-1	kvs-1	mps-2	age-1	che-1	daf-25	mps-2	pdk-1
+GO:0050921	F38A5.1
+GO:0035264	ift-81	gon-14	haf-9	cutc-1	hrdl-1	hlh-6	ift-74	eat-3	mboa-7	sel-11	fat-3	marc-6	gon-14	haf-9	haf-4	elo-2
+GO:0031987	avr-15	avr-15	avr-15	glc-1	glc-1	glc-1	avr-15	avr-15	avr-15	glc-3	bas-1	bas-1	bas-1	bas-1	avr-14	avr-14	avr-14	avr-15	avr-15	avr-15	avr-14	avr-14	avr-14	avr-14	avr-14	avr-14
+GO:0042335	gale-1	gale-1	gale-1	gale-1
+GO:0042338	bli-3	bli-5	mlt-10	tpst-1	tpst-1	rol-6	dpy-31	dpy-3	dpy-3	mlt-7	mlt-7
+GO:0006264	CELE_F46G11.1	polg-1
+GO:0006265	cin-4	top-1	R05D3.12	K12D12.1	CELE_Y46H3C.4
+GO:0006266	CELE_K07C5.3	lig-1	lig-4
+GO:0006260	CELE_Y47D3A.29	CELE_Y47D3A.29	top-1	rfc-4	mel-47	asfl-1	crn-1	CELE_Y47D3A.29	CELE_Y47D3A.29
+GO:0045835	met-2
+GO:0045836	nos-3	nos-3	nos-3	nos-3	cdk-1	gld-3	gld-3	gld-3	gld-3
+GO:0006446	CELE_F11A3.2	CELE_F11A3.2	ZK1098.4	CELE_Y47H9C.7	eif-3.B
+GO:0030162	srp-7	srp-7	srp-3	srp-1	srp-6	srp-5	srp-2	CELE_M01G12.2	C28G1.2	srp-8	CELE_R01H2.4	srp-7	srp-7	CELE_M01G12.5
+GO:0030163	ced-3	ced-3	ced-3	ced-3	atg-7	asp-1	atg-18	atg-18	ced-3	ced-3	ced-3	ced-3	bec-1
+GO:0006401	dcs-1	dcs-1	dcs-1	dcs-1	eri-1	dcr-1	crn-4	cps-6
+GO:0010877	cup-5	mrp-4	cup-5	cup-5	cup-5	cup-5
+GO:0006048	ogt-1	CELE_F21D5.1	ogt-1
+GO:0097359	let-268	uggt-1	uggt-1
+GO:0060179	daf-12	aex-1	ser-1	aex-1	daf-12	daf-12	ser-1	lov-1	daf-12	pkd-2	itr-1
+GO:0042744	prdx-2	prdx-2
+GO:0000226	arl-5	cdc-14	spd-2	CELE_F16D3.4	spd-3
+GO:0042742	smk-1	smk-1	nlp-31	smk-1	tir-1	ced-1
+GO:0050708	vps-34	vps-34	vps-34
+GO:0010273	pcs-1	pcs-1	pcs-1	pcs-1	hmt-1	hmt-1
+GO:0065002	snap-29
+GO:0006686	F53B1.2	sms-2	sms-3	W07E6.3	sms-1
+GO:0006685	asm-1	asm-1	asm-2	asm-2	CELE_R05D11.9	asm-3
+GO:0006688	bre-3
+GO:0048477	uba-1	cir-1	ego-1	ptp-2	spas-1	ran-1	wee-1.3	let-60	phb-2	csn-5	ani-2	asfl-1	ima-3	npp-1	nos-2	uba-1	pgl-1	uba-1	spas-1	dss-1	phb-1	pgl-1	npp-1	npp-1
+GO:0009150	dcs-1	dcs-1
+GO:0008152	sin-3	hda-6	sca-1	gpa-1	unc-26	klp-11	klp-11	pgp-5	ced-7	zhp-3	pgp-4	klp-11	klp-11	atl-1	hum-7	mca-1	pgp-6	CELE_Y67D2.4	chs-2	mca-1	pmr-1	mca-1	zen-4	zen-4	gpa-13	klp-16	chs-1	dlg-1	pgp-2	unc-26	pmr-1	kap-1	spas-1	spas-1	sca-1	rrf-2	rab-8	hmt-1	pmr-1	mca-1	pgp-8	pgp-9	pgp-14	zen-4	zen-4	hda-6	pde-6	kap-1	hum-7	CELE_Y71H2AM.20	sin-3	unc-108	rab-11.1	C53H9.2	haf-2	eya-1	haf-3	CELE_Y48E1B.2	haf-8	haf-9	haf-1	rnp-8	gpa-11	gpa-11	glh-4	unc-54	act-2	myo-3	unc-104	unc-104	unc-104	hsp-3	gpa-1	ced-7	ced-7	dpy-19	unc-116	pgp-1	pgp-3	dyn-1	dyn-1	osm-3	osm-3	gpc-1	zhp-3	klp-15	gpa-15	ced-10	ced-10	ges-1	gst-36	pgp-5	hda-11	arl-6	pgp-10	pgp-11	che-3	klp-11	evl-20	pgp-12	pgp-13	pgp-6	pgp-4	gpa-5	gpa-8	gpa-9	nst-1	K02A11.3	rho-1	chd-3	pgp-7	pgp-6	ZK593.8	zer-1	eya-1	ngp-1	F58A4.14	dlg-1	C53H9.2	haf-9	spas-1	spas-1	spas-1	zen-4	zen-4	zen-4	zen-4	klp-11	C53H9.2	gpa-6	rac-2	rab-3	rab-3	klp-20	gpa-14	gpa-10	CELE_Y67D2.4	haf-6	CELE_Y71H2AM.20	pde-6	gpa-17	CELE_Y32H12A.6	CELE_Y32H12A.6	ykt-6	haf-7	tat-1	tat-1	CELE_Y48E1B.2	ngp-1	gpa-13	sca-1	ngp-1	lpin-1	vha-11
+GO:0042632	ncr-2	ncr-1	nhr-8
+GO:0048259	arf-1.2	cnt-2	cnt-2	cnt-2	cnt-2	cnt-2	cnt-2	cnt-2	cnt-2
+GO:0045167	par-1	par-1	par-1	mes-1	lin-17	lin-17	lin-17	par-1	par-1	ham-1	lin-18	lin-18	par-2	rga-4	par-2	par-1	par-1	mbk-2	mbk-2	rga-3	par-5	mom-2	wrm-1	mom-1	ect-2	lin-17	lin-17	lin-17	par-2	rga-4	par-4	eel-1	par-1	ect-2	lit-1	lit-1	mom-4	mbk-2
+GO:0045165	vab-3	vab-3	egl-46	egl-20	cfi-1	aph-1	mab-21	nsy-1	vab-3	pen-2
+GO:0000132	gpb-1	dnc-1	dnc-1	mig-5	mig-5	skr-2	src-1	src-1	par-2	par-2	tba-1	npp-11	gad-1	tba-1	gpb-1	tba-2	par-5	cdc-42	dnc-2	mom-2	mom-2	mom-2	par-3	sax-7	dsh-2	dsh-2	mls-2	npp-1	npp-1	let-99	npp-3	mig-5	mig-5	dnc-1	npp-13	sax-7	sax-7	sax-7	mig-14	ooc-3	mig-5	mig-5	par-2	hmr-1	hmr-1	npp-13	gpa-16	lis-1	npp-1	npp-1	npp-1	npp-1	ooc-3	npp-4
+GO:0044785	mat-2
+GO:0045168	lin-12	tir-1
+GO:0045717	kin-29
+GO:0006869	lbp-8	cav-2	nrf-5
+GO:0008333	arl-8	stam-1
+GO:0009791	lin-7	lin-3	lin-3	lin-1	cdk-4	lin-3	unc-83	cye-1	mls-1	glh-1	lin-2	lin-3	unc-83	asf-1	ppt-1	unc-84	unc-83	glh-2	unc-63	lin-7	unc-59	cdk-4	unc-11
+GO:0009790	sca-1	gpb-1	atl-1	lin-52	exo-3	crn-3	nmy-2	klp-16	cfz-2	dlg-1	vha-4	vab-19	lin-17	drp-1	vab-2	sca-1	zyg-9	alg-1	pos-1	pat-10	mig-1	sup-17	skr-10	pes-1	alg-1	fkh-8	feh-1	feh-1	him-1	cmd-1	alg-2	daf-16	ced-8	ced-8	fkh-10	fkh-4	fkh-3	wee-1.3	tni-4	mei-2	vab-1	let-413	act-2	act-2	act-2	emb-9	gpb-1	ceh-13	hsp-4	zyg-11	egl-45	cbp-1	lin-31	pal-1	dyn-1	par-5	cpg-2	rnr-2	sdz-15	mel-32	smo-1	lin-53	uaf-1	let-381	let-502	unc-60	unc-60	mett-10	let-767	cdl-1	lin-52	dpy-18	gei-7	fkh-6	cpg-1	sax-7	ceh-43	unc-130	icd-1	evl-20	fkh-5	apc-11	mab-21	wee-1.1	cdd-2	fkh-9	atl-1	lev-11	lev-11	him-1	fkh-9	sax-7	sax-7	sax-7	exo-3	dlg-1	fkh-9	alg-2	fkh-7	fkh-7	crn-3	icl-1	uaf-1	drp-1	ubc-9	lin-17	hmr-1	feh-1	sfrp-1	crn-1	mig-1	sos-1	tol-1	frh-1	spd-3	pat-4	cfz-2	lit-1	sca-1	lpin-1	vha-11
+GO:0006296	C47D12.8
+GO:0009794	taf-9	taf-4	cks-1	taf-10	taf-10
+GO:0070973	ZK512.5	tfg-1
+GO:0018095	ttll-4	dyf-1
+GO:0010085	lin-17	lin-17	lin-17	lin-17	lin-18	lin-18	pop-1	pop-1	wrm-1	lin-17	lin-17	lin-17	lin-17	sys-1	sys-1	sys-1	lit-1	sys-1	sys-1	sys-1
+GO:0010084	wnt-2	wnt-2	wnt-2
+GO:0046938	pcs-1	pcs-1	pcs-1	pcs-1
+GO:0046939	dlg-1	dlg-1
+GO:0000045	epg-6	atg-18	atg-18	epg-6	epg-6	epg-6
+GO:0006655	pgs-1
+GO:2000192	CELE_ZC416.6	CELE_F54C9.7	pept-1
+GO:2000193	nhx-2
+GO:0055088	dyf-11
+GO:0045595	hpl-2	hpl-1	hpl-2	hda-1	hda-1	lin-11	flr-4	hpl-2
+GO:0030730	mdt-15
+GO:0008209	let-767	let-767
+GO:0055080	unc-80
+GO:0016925	aos-1	gei-17	gei-17	ubc-9	uba-2
+GO:0055085	gon-2	abts-1	orai-1	pgp-5	ced-7	aqp-6	pgp-4	aqp-6	cup-5	pgp-6	pmr-1	abts-1	exp-1	pbo-5	cua-1	abts-1	pgp-2	pmr-1	cua-1	aqp-4	snf-11	srf-3	srf-3	pmr-1	pgp-8	pgp-9	pgp-14	flr-1	nmr-1	aqp-6	cup-5	cup-5	kcc-2	mod-1	inx-12	pept-3	haf-2	haf-3	haf-8	gab-1	haf-9	K02D7.5	haf-1	inx-19	inx-16	inx-17	inx-14	inx-14	snf-6	mec-4	mec-4	cox-1	cox-2	glr-1	glr-1	ced-7	ced-7	pgp-1	pgp-3	mec-10	acr-2	irk-1	vha-10	dat-1	dat-1	dat-1	orai-1	unc-105	lov-1	glt-1	aqp-2	pgp-5	aqp-6	pgp-10	pgp-11	pbo-6	pgp-12	pgp-13	inx-3	aqp-1	emo-1	pgp-6	pgp-4	inx-7	smf-2	smf-1	aqp-7	unc-8	spp-1	inx-10	pgp-7	pgp-6	unc-38	unc-38	inx-5	inx-11	inx-8	inx-8	eat-5	aqp-2	spp-5	haf-9	avr-14	aqp-1	mod-1	cup-5	cup-5	acr-3	stn-1	srf-3	avr-14	avr-14	smf-3	laat-1	haf-6	mod-1	sid-1	sid-1	mod-5	inx-22	dys-1	haf-4	pkd-2	pkd-2	haf-7	eat-2	inx-2	inx-6	unc-80	unc-80	spp-12	aqp-3	dyb-1
+GO:0051090	pes-1	fkh-10	lin-31	let-381	fkh-6	pha-4	unc-130	fkh-9	fkh-2	fkh-9	fkh-9	fkh-2
+GO:0051096	rpa-1	rpa-1	rpa-2	rpa-2
+GO:0051094	clk-1
+GO:0032263	CELE_Y105E8B.5
+GO:0032264	CELE_Y105E8B.5
+GO:0080058	pdi-2	pdi-3	pdi-2	pdi-2	pdi-1
+GO:0032510	tsg-101	mvb-12
+GO:0032513	rcn-1
+GO:0032049	crls-1
+GO:0044770	F23C8.9
+GO:0044772	snfc-5
+GO:0032862	rhgf-2	syd-1
+GO:0030042	unc-60	unc-60	unc-60	unc-60	unc-60	unc-60	unc-60	unc-60	unc-60	unc-60
+GO:0071557	utx-1	jmjd-3.1	jmjd-3.1	jmjd-1.2	jmjd-1.2	jmjd-1.2
+GO:0032465	tba-1	tba-1	tba-2	cpg-2	cpg-1
+GO:0032467	rab-11.1	syx-4
+GO:0010469	old-2
+GO:0010468	lim-6	cdk-5	cacn-1	tax-6	hlh-6	sel-11	let-711	lim-6	mep-1	mdt-15	T27F2.1	tax-6	tax-6	elo-2	sbp-1
+GO:0019101	tra-1	tra-1	tra-1
+GO:0019100	fem-1	fkh-6
+GO:0019102	fem-1	fem-3
+GO:0030307	der-2
+GO:0051402	eor-1	eor-2	eor-2
+GO:0051403	sek-1
+GO:0043518	abl-1	abl-1	prmt-5
+GO:0007015	fln-1	fln-1	fln-1	fln-1	wve-1	erm-1	erm-1	zoo-1	zoo-1	zoo-1	fln-1	unc-94	aipl-1	die-1	lev-11	lev-11	fln-1	zoo-1	zoo-1	ced-12	fln-1	wve-1
+GO:0007016	hmp-1	hmp-1	hmp-2	hmp-2	deb-1	hmp-1	deb-1	hmr-1
+GO:0007017	zyg-9	mbk-2	mbk-2	mec-12	mec-12	ben-1	mbk-2
+GO:0007010	unc-26	unc-26	unc-26	unc-26	anc-1
+GO:0007018	klp-11	klp-11	klp-11	klp-11	zen-4	kap-1	zen-4	kap-1	unc-104	osm-3	osm-3	osm-3	klp-15	klp-11	zen-4	zen-4	klp-11	klp-20	lis-1
+GO:0007019	klp-7	spas-1	mei-2	spas-1	klp-7
+GO:0042987	hop-1	sel-12	spe-4
+GO:0015031	npp-10	let-413	let-413	tag-189
+GO:0015746	nac-2	nac-2
+GO:0015744	nac-2	nac-2	nac-3	nac-3	nac-1	nac-1
+GO:0032877	dbl-1
+GO:0034214	spas-1
+GO:0034219	K02D7.5
+GO:0006307	agt-1	agt-1
+GO:0043200	deg-1	deg-1
+GO:0006303	CELE_Y47D3A.29	lig-4	CELE_Y47D3A.29
+GO:0006302	rec-8	rec-8	brc-2	brc-2	brc-2	msh-2	rec-8
+GO:0006301	msh-2
+GO:0072422	gen-1
+GO:0019859	alh-8
+GO:0007188	gpa-1	gpa-13	egl-30	acy-2	gpa-11	gpa-2	gpa-1	gpa-3	goa-1	gpa-15	odr-3	acy-1	gpa-12	gpa-5	gpa-8	gpa-9	gpa-7	egl-30	gpa-6	gpa-14	gpa-10	gpa-4	gpa-16	gpa-17	gpa-13
+GO:0006309	cyn-13	cyn-13	crn-3	crn-3	crn-2	crn-2	crn-5	crn-5	pes-1	crn-6	crn-6	dcr-1	dcr-1	dcr-1	crn-4	crn-4	fkh-6	nuc-1	crn-3	crn-3	cps-6	crn-1	crn-1	wah-1	cyn-13	cyn-13
+GO:0006308	C47D12.8	ced-8	dna-2	gen-1	dna-2
+GO:0016458	mut-16	mut-7	rde-2	rde-2	mes-4	mut-16
+GO:0007189	acy-3	pdfr-1
+GO:1901642	pst-2	pst-1
+GO:0061096	egl-3	flp-12	egl-3	flp-10	flp-8	flp-12	mec-4	eat-4	egl-3	flp-8	flp-20
+GO:0030590	saps-1	saps-1	par-5	pph-6	saps-1	ani-1
+GO:0015967	ndx-4	ndx-4
+GO:0015966	grs-1
+GO:0046331	sel-7	apx-1	apx-1	apx-1	apx-1	mdt-29
+GO:0046488	ipla-1	mtm-6	mtm-6	ipla-1	ipla-1	cil-1	bus-18	ipla-1	mtm-6	ipla-1
+GO:0042325	cki-2	elpc-4	cki-2	elpc-3	old-2
+GO:0042327	old-2
+GO:0042326	cki-2	lem-4l	cki-2
+GO:0006273	CELE_K07C5.3	lig-1	lig-4
+GO:0045824	atf-7	atf-7	atf-7	nol-6	atf-7
+GO:0010883	B0041.5	pptr-1	CELE_ZC416.6	mif-3	CELE_F54C9.7	CELE_F56C9.7
+GO:0035674	nac-2	nac-2
+GO:0035672	haf-2	haf-3	haf-8	haf-9	haf-1	haf-9	haf-4	haf-7
+GO:0006457	pdi-2	pdi-2	pdi-2	catp-6	catp-6	pdi-3	pdi-3	pdi-2	pdi-2	pdi-2	bag-1	cct-4	cct-5	cyn-3	cyn-8	trx-1	cyn-9	cyn-9	pdi-2	pdi-2	pdi-2	pdi-1	pdi-1	pdi-1	W08D2.5	dnj-10
+GO:0031954	pvf-1
+GO:0000303	sek-1	gsto-1	skn-1	skn-1	pmk-1	eat-3	gcs-1	gcs-1	rad-8	gsr-1	gsr-1	frh-1
+GO:0000302	sek-1	gst-44	pmk-1	gcs-1	gcs-1	immt-1	gpx-5	gst-32	immt-2
+GO:0030177	apr-1
+GO:0031175	trim-9	unc-40	sax-2	unc-6	sax-1	sax-2	trim-9
+GO:0035419	sek-1	nsy-1
+GO:0035418	unc-26	nid-1	nid-1	unc-36	egl-8	aex-1	unc-26	strd-1	ptp-3	cle-1	unc-26	cle-1	ptp-3	unc-26	aex-1	cle-1	cle-1	unc-36	aex-5	ttx-7	ttx-7	egl-8	ptp-3	nid-1	egl-8	ptp-3	calf-1
+GO:0010867	scpl-2	T19A6.3
+GO:0009880	par-1	par-1	par-1	par-1	par-1	par-1	mex-1	mex-1	mex-1	mex-1	par-1	par-1	par-1	par-1	pos-1	nob-1	nob-1	mex-3	par-1	par-1	par-1	par-1	mbk-2	mbk-2	glp-1	glp-1	skn-1	pal-1	apx-1	pop-1	pop-1	pie-1	pie-1	mex-3	par-1	par-1	mbk-2
+GO:0009948	pry-1	wnt-2
+GO:0009949	par-1	par-1	par-1	nmy-2	lin-17	lin-17	par-1	par-1	lin-18	lin-18	pod-2	par-1	par-1	mat-2	par-5	par-3	pod-2	lin-17	lin-17	pod-2	par-6	par-1
+GO:0042255	tag-151
+GO:0042254	CELE_Y67D2.4	C53H9.2	CELE_Y48E1B.2	rps-18	nst-1	ngp-1	C53H9.2	C53H9.2	CELE_Y67D2.4	CELE_Y48E1B.2	ngp-1	ngp-1
+GO:0000338	csn-5
+GO:0045910	msh-6
+GO:0009306	dab-1	ehbp-1	rab-8	rab-5	apt-9	dab-1	dab-1	apg-1	tfg-1	dab-1
+GO:0009303	dao-5	dao-5
+GO:0035307	lem-4l	T19A6.3
+GO:0031081	ego-1	lmn-1
+GO:0097309	Y53F4B.13
+GO:0006694	let-767	let-767
+GO:2001258	inx-19	inx-19	nsy-4	nsy-4
+GO:1902358	sulp-2	sulp-4
+GO:0007493	elt-7	end-1	elt-7
+GO:1902600	cox-1	cox-2	nhx-9	vha-10	nhx-2
+GO:0009410	cyp-35c1	aha-1	cyp-35a1	cyp-35a2	cyp-35a4	cyp-35a5	ahr-1	cyp-35a3
+GO:0009411	lem-3	smk-1	smk-1	him-1	daf-16	lite-1	scl-1	xpa-1	xpa-1	xpa-1	xpa-1	him-1	rad-8	smk-1	clk-2	msh-6
+GO:0050435	hop-1	sel-12	spe-4
+GO:0031554	rsp-6
+GO:0045176	wts-1	sel-12
+GO:0000122	met-1	met-1	mrg-1	tlf-1	atf-7	sma-9	sma-9	nsy-7	wdr-23	sdc-2	zag-1	let-418	tlf-1	hda-3	ces-1	sma-9	pag-3	lin-1	daf-5	ref-1	pos-1	sem-4	pes-1	sel-7	nsy-7	prdx-2	hmp-2	hda-4	daf-3	fkh-10	hda-1	hda-1	mab-3	mab-3	hmp-2	mab-5	egl-5	sdc-1	ceh-16	met-2	lin-31	sdc-3	tra-1	cnr-14	cnr-14	smo-1	wdr-23	let-381	hda-2	fkh-6	pha-4	atf-7	unc-130	daf-6	fkh-9	atf-2	lin-14	sma-9	fkh-2	ceh-39	hbl-1	sma-9	fkh-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	fkh-9	atf-7	prdx-2	sma-9	pie-1	ubc-9	fkh-2	daf-3	daf-3	mef-2	atf-7	mrg-1	hbl-1
+GO:0051390	inx-19	inx-19	nsy-4
+GO:0006879	abtm-1	ftn-1	aco-1
+GO:0006874	sca-1	mca-1	spe-41	mca-1	mca-1	sca-1	spe-41	mca-1	pdfr-1	sca-1
+GO:0046929	pag-3
+GO:0046928	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	snt-1	unc-17	ric-19	snt-1	slo-1
+GO:0045214	chn-1	unc-45	unc-45	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	unc-94	mup-2	dyc-1	stn-1	slo-1	unc-27	dys-1	dyb-1
+GO:0045216	ajm-1	ajm-1	ajm-1	ajm-1	unc-97	ajm-1
+GO:0045217	vab-19
+GO:0001556	ife-1	oma-1	ceh-18	wee-1.3	kgb-1	ife-1	cyb-2.1	vab-1	cdk-1	mpk-1	ceh-18	msp-38	cyb-1	cyb-3	egrh-1	oma-2	ceh-18	cyb-2.2	msp-77	itr-1
+GO:0001555	emo-1	rab-7
+GO:0010070	par-5
+GO:0030030	syd-1
+GO:0003136	hmp-2	hmp-2
+GO:0002115	orai-1	orai-1	stim-1	orai-1	orai-1
+GO:0018243	gly-4	gly-3	gly-4	gly-5
+GO:0071947	usp-46
+GO:0008210	let-767	let-767
+GO:0050892	dss-1
+GO:0007270	lin-10	lin-10	unc-104
+GO:0007271	ric-4	abts-1	nid-1	nid-1	abts-1	abts-1	ace-4	cle-1	cle-1	ace-2	unc-75	cle-1	cle-1	snb-1	unc-64	ric-4	unc-104	unc-32	unc-17	unc-18	ace-1	dgk-1	gar-1	glit-1	unc-10	ric-3	dgk-1	dgk-1	dgk-1	dgk-1	nid-1	rab-3	rab-3	unc-63	unc-63	dys-1	ace-3	dyb-1
+GO:0008219	acy-1	vha-12
+GO:0001881	ehbp-1	rab-10
+GO:0007275	eff-1	eff-1	fat-5	fat-7	aff-1	fat-6	nhr-80	sor-1	skn-1	phg-1	rsp-6	rsp-1	eff-1	nhr-80	eff-1	sop-2
+GO:0007276	iff-1	iff-1	mes-1	ten-1	map-2	map-2	ten-1	ten-1	mes-2	glh-4	iff-1	prg-1	arf-1.2	ima-3	iff-2	pgl-1	ten-1	cgh-1	pgl-1	map-2	lin-41
+GO:0019442	C28H8.11	tdo-2	tdo-2
+GO:0009636	bre-5	djr-1.1	bre-5	bre-4	bre-4	pdr-1
+GO:0009637	lite-1
+GO:0018401	pdi-2	phy-4	phy-4	egl-9	egl-9	egl-9	egl-9	pdi-2	pdi-2	egl-9
+GO:0018406	dpy-19
+GO:0032527	ZK512.5	tfg-1	calf-1
+GO:0006515	C06C3.8	C06C3.8	C34B2.6	CELE_R13H4.6	CELE_F46F5.5	C08G5.1	Y75B8A.4
+GO:0032854	let-60
+GO:0032855	srgp-1	srgp-1	srgp-1	cyk-4
+GO:0032857	cnt-2	cnt-2	cnt-2	cnt-2
+GO:0032851	tbc-2	rabx-5	rbg-1	rme-6
+GO:0000447	rps-0	rps-21
+GO:0071542	ast-1
+GO:0010452	met-1	met-1	met-2	mes-4
+GO:0030837	unc-78
+GO:0006833	aqp-6	aqp-6	aqp-4	aqp-6	aqp-2	aqp-6	aqp-7	aqp-2	aqp-3
+GO:0030838	unc-73	unc-73	unc-73	unc-73	unc-73	unc-60	unc-60	unc-73	unc-73	unc-73	unc-73
+GO:0032320	gap-2	rga-4	rga-4	rga-3	rga-3	pac-1	gap-1	gap-2	gap-2	rbg-1	rga-4	rga-4
+GO:0032321	rga-4	rga-4	rga-3	rga-3	pac-1	rga-4	rga-4	cyk-4
+GO:0032456	num-1	num-1	rme-1	ehbp-1	rme-1	rme-1	alx-1	fat-3	rme-1	rme-1	rab-10	rme-1	num-1	maa-1	maa-1
+GO:0042138	htp-3	htp-3	htp-3	him-19
+GO:0007009	fer-1	fer-1
+GO:0043523	tor-2
+GO:0043525	tra-1
+GO:0019915	oga-1	lpd-9	glo-1	pgp-2	tph-1	CELE_F11A3.2	CELE_F11A3.2	acbp-1	ogt-1	lpd-6	cco-1	ech-4	oga-1	acbp-3	apm-3	pept-1	lpd-8	lpd-9	ogt-1	tph-1	nhx-2	lpd-7	lpd-3	lpd-5	mac-1	lpin-1
+GO:0019919	prmt-1
+GO:0007005	C06C3.8	C06C3.8	ant-1.1	hsp-60	C34B2.6	ant-1.1	tomm-7	hsp-60	CELE_R13H4.6	pink-1	eat-3	ppt-1	atad-3	ant-1.1	ant-1.1	tim-8	CELE_F46F5.5	C08G5.1	polg-1
+GO:0007004	mrt-2	trt-1	mrt-1	mrt-1	trt-1
+GO:0045786	cdc-14
+GO:0071722	asna-1
+GO:0016203	pxn-2	spon-1
+GO:0046039	ntp-1
+GO:0016204	unc-53	unc-53	unc-53	unc-53
+GO:0046034	figl-1	ntp-1
+GO:0046036	ntp-1
+GO:0046032	mig-23	mig-23
+GO:0042004	tra-3
+GO:0042006	fog-3	fem-3	fem-1	fem-3	fem-2	gld-3
+GO:0070734	mes-3	mes-2	mes-3	mes-6
+GO:0008045	wve-1	wve-1	wve-1	wve-1	wve-1	mig-2	mig-2	unc-129	unc-129	ptp-3	ptp-3	unc-40	unc-34	unc-34	ten-1	unc-34	unc-34	unc-6	ced-10	ced-10	spon-1	rack-1	rack-1	rack-1	unc-5	unc-5	unc-5	ptp-3	rac-2	ptp-3	wve-1	wve-1	wve-1	wve-1	wve-1
+GO:0042001	tra-2	tra-2	tra-2	tra-2	tra-2	tra-2	tra-3	tra-3
+GO:1901679	srf-3	srf-3	pst-2	pst-1	srf-3
+GO:0030968	xbp-1	xbp-1	sca-1	srp-7	dsc-4	cdr-4	sca-1	uggt-2	uggt-2	pqn-57	CELE_F41E6.11	abu-6	abu-7	abu-8	hsp-70	hsp-16.48	hsp-16.41	hsp-4	hsp-4	hsp-4	hsp-4	hsp-3	hsp-3	crt-1	crt-1	C14B9.2	cnx-1	cnx-1	cnx-1	hsp-16.1	ckb-2	dnj-7	abu-11	rnf-121	ire-1	ire-1	ire-1	lec-8	tag-320	abu-1	abu-1	pdi-2	bre-1	D2096.6	pek-1	pek-1	pek-1	apy-1	abu-2	abu-3	abu-10	CELE_F53B1.4	der-2	CELE_T06E4.8	CELE_T14G8.3	lin-15B	abu-4	arf-1.1	gad-3	CELE_F41B4.3	uggt-1	col-109	abu-5	sca-1	pqn-74	CELE_Y41C4A.11
+GO:0030969	ire-1
+GO:1900073	inx-16
+GO:1901076	stim-1	pat-2	abi-1	abi-1	jph-1	vps-34	vps-34	nrf-5	vps-34	vps-34	vps-34	vps-34
+GO:1901075	abl-1	abl-1	abl-1	mtm-1
+GO:0015918	lrp-1	lrp-1
+GO:0060573	mig-5	wnt-2	wnt-2	wnt-2	wnt-2	pha-4	mig-5	lin-44	mig-5
+GO:0015914	num-1	num-1	tat-1	num-1
+GO:0030335	unc-53	unc-53	unc-53	mig-13	cacn-1	mig-13	unc-53
+GO:0035246	prmt-5
+GO:0002164	skr-10	col-10
+GO:0006198	pde-4	pde-4
+GO:0046329	vhp-1
+GO:0046328	unc-16
+GO:0035249	glr-1
+GO:0033125	gpr-2	gpr-1	gpr-1
+GO:0006208	dhp-2	dhp-1
+GO:0006200	sca-1	pgp-5	ced-7	pgp-4	C06C3.8	C06C3.8	mca-1	pgp-6	mca-1	pmr-1	mca-1	rme-1	cin-4	pgp-2	pmr-1	spas-1	spas-1	sca-1	rme-1	hmt-1	pms-2	pmr-1	rme-1	mca-1	pgp-8	pgp-9	pgp-14	rad-51	helq-1	haf-2	figl-1	figl-1	haf-3	haf-8	haf-9	C34B2.6	haf-1	smg-2	hsp-1	act-2	hsp-3	asna-1	asna-1	ced-7	ced-7	R05D3.12	pgp-1	pgp-3	cdc-48.1	cdc-48.1	cdc-48.1	cdc-48.2	eat-6	eat-6	CELE_R13H4.6	cel-1	pgp-5	ntp-1	daf-21	rpt-1	pgp-10	pgp-11	asb-2	msh-5	wrn-1	wrn-1	vha-12	pgp-12	pgp-13	pgp-6	asb-1	pgp-4	dna-2	F56D2.6	cdc-48.3	pgp-7	pgp-6	him-14	K12D12.1	helq-1	cel-1	rme-1	haf-9	spas-1	spas-1	spas-1	C16A3.1	rme-1	drh-3	rtel-1	rad-51	haf-6	msh-6	CELE_Y46H3C.4	rme-1	msh-2	CELE_F46F5.5	haf-4	C08G5.1	haf-7	tat-1	tat-1	dna-2	mlh-1	sca-1	Y75B8A.4	pms-2
+GO:0006427	hrs-1
+GO:0009887	peb-1	ina-1	pha-2	peb-1
+GO:0009886	nhr-31	ceh-32
+GO:0000335	mut-2	mut-7	rde-2	rde-2	mut-2
+GO:0060378	cil-1	vps-53	sod-1	asfl-1
+GO:0090216	cil-1
+GO:0009888	pes-1	fkh-8	daf-16	fkh-10	fkh-4	fkh-3	lin-31	let-381	pha-4	unc-130	fkh-5	fkh-9	fkh-2	fkh-9	fkh-9	fkh-7	fkh-7	fkh-2
+GO:0031161	ipla-1	ipla-1	ipla-1	ipla-1	ipla-1
+GO:0031167	Y39A1A.14
+GO:0009957	ref-1	lin-22	elt-1	elt-1	elt-1	elt-1	ceh-16	elt-1	lin-41
+GO:0009954	sys-1	sys-1
+GO:0009952	vab-3	lat-1	vab-3	lin-22	nob-1	nob-1	sop-2	sop-2	pry-1	mab-5	mab-5	egl-5	lin-39	ceh-20	sor-3	sor-3	ubc-9	vab-3	sop-2	uba-2
+GO:0034220	gon-2	abts-1	orai-1	kcc-2	lev-1	unc-7	unc-7	tmc-1	cup-5	osm-9	pmr-1	abts-1	exp-1	pbo-5	cua-1	abts-1	sulp-2	pmr-1	cua-1	gon-2	sulp-4	kcc-2	snf-11	srf-3	egl-36	srf-3	pmr-1	flr-1	gon-2	gon-2	nmr-1	cup-5	cup-5	kcc-2	kcc-2	mod-1	nac-2	unc-9	pept-3	cho-1	cho-1	cho-1	gab-1	cima-1	snf-6	mec-4	mec-4	cox-1	cox-2	nac-2	glr-1	glr-1	unc-17	unc-17	mec-10	nhx-9	acr-2	irk-1	vha-10	unc-7	dat-1	dat-1	orai-1	unc-105	lov-1	glt-1	pbo-6	pst-2	nac-3	nac-3	smf-2	smf-1	unc-8	unc-38	unc-38	lev-1	unc-77	unc-77	unc-77	avr-14	mod-1	unc-77	pst-1	nhx-2	cup-5	cup-5	acr-3	stn-1	nac-1	nac-1	srf-3	gon-2	avr-14	avr-14	smf-3	laat-1	mod-1	kqt-2	kqt-2	mod-5	unc-63	dys-1	pkd-2	pkd-2	eat-2	oct-1	unc-80	unc-80	dyb-1
+GO:0042262	hda-3	hda-2
+GO:0006511	rpn-10	rpn-10	zif-1	rpt-1	rpn-6.1	csn-3
+GO:0006516	png-1
+GO:0006517	png-1	png-1	png-1
+GO:0051964	C01G5.6
+GO:0051968	stg-2	stg-1	stg-2	sol-1	sol-1	sol-1	sol-2	sol-2	sol-2
+GO:0045962	nhl-2
+GO:0006739	gspd-1
+GO:0048308	mex-3	mex-3
+GO:0006730	dao-3
+GO:0009311	gana-1
+GO:0090325	uev-1
+GO:0035335	clr-1	ptp-3	daf-18	ptp-3	ida-1	clr-1	clr-1	clr-1	eya-1	cdc-14	cdc-14	CELE_F13D11.3	eya-1	ptp-3	CELE_F26A3.4	ptp-3	ptp-3	C16A3.2	C04F12.8
+GO:0060756	lim-6	hyls-1	lim-6	hyls-1
+GO:0090329	fcd-2	fcd-2	dog-1	dog-1	fcd-2
+GO:0000209	chn-1	ufd-2	ufd-2	ufd-2
+GO:0050764	ced-10
+GO:0010212	abl-1	wrn-1
+GO:0030540	let-767	evl-20
+GO:0002181	rps-1
+GO:2001243	ced-9
+GO:0031398	dss-1
+GO:1902617	flr-4
+GO:0042659	lin-3	lin-3	lin-1	lag-1	lag-1	lin-17	lin-17	lin-3	sel-7	sop-2	sop-2	hop-1	lip-1	lip-1	lip-1	lip-1	lip-1	lip-1	lip-1	lip-1	pry-1	mab-5	let-60	lin-39	lin-3	pop-1	bar-1	bar-1	npp-1	dpl-1	lin-26	lin-15A	lin-15B	lag-1	lag-1	lin-17	lin-17	sop-2	npp-1	npp-1	mdt-29
+GO:0050428	pps-1
+GO:0009409	ucp-4
+GO:0009408	epi-1	epi-1	unc-2	daf-18	epi-1	unc-2	CELE_F11A3.2	dcs-1	hsf-1	CELE_F11A3.2	hid-1	lea-1	T28F2.4	sti-1	pptr-1	rle-1	hsp-1	crt-1	crt-1	cnx-1	skn-1	che-11	apy-1	gcs-1	scl-1	kin-29	pept-1	pept-1	epi-1	unc-2	hid-1	unc-2	unc-2	jnk-1
+GO:0045143	him-3	msh-5	him-14
+GO:0045144	capg-1	dpy-26	cyb-3	dpy-28
+GO:0051229	let-92
+GO:0042493	unc-79	unc-1	unc-24	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	unc-79	clk-1	nuo-1	nduf-6	unc-1	T20H4.5	avr-14	avr-14	avr-14	avr-14	gas-1	avr-14	avr-14	avr-14	avr-14	avr-14	avr-14	avr-14	avr-14	slo-1	unc-80
+GO:0090038	acy-3	pde-1	let-607	let-754	kin-2	gsa-1	ric-8
+GO:0042490	mec-17
+GO:0051383	cyb-3	him-10
+GO:0051382	hcp-4	knl-3	hcp-1	knl-1	hcp-3
+GO:0046959	magi-1	magi-1	magi-1	magi-1	magi-1	cat-2	dop-1	dop-1	dop-1	dop-1
+GO:0051148	mex-3	mex-3	mex-3	mex-3
+GO:0042787	kel-8	CELE_F36A2.13	hecw-1	CELE_D2085.4	rle-1	let-70	rnf-5	rnf-5	apc-11	wwp-1	CELE_Y92H12A.2	herc-1	eel-1	wwp-1	lin-41	oxi-1
+GO:0042789	ama-1	ama-1
+GO:0018279	uggt-1	uggt-1
+GO:0052547	C56G2.7
+GO:0052548	C56G2.7
+GO:0008595	zyg-11	emb-30	apx-1	cul-2	rbx-1	elc-1
+GO:0060965	xrn-2
+GO:0090444	lin-14
+GO:0007269	pkc-1	snb-1	unc-64	pkc-1	hipr-1	snb-2
+GO:0008593	sel-9	sel-9	sel-11	sel-11	sel-10	sel-10
+GO:0007267	syg-1	daf-9	syg-1	wrt-1	wrt-4	wrt-8	grd-3	syg-2
+GO:0007266	pac-1	let-502	gpa-12	rhgf-2
+GO:0022008	aha-1
+GO:0007264	ced-10	plx-1
+GO:0070482	gcy-33	gcy-33	gcy-35	gcy-35	gcy-35	gcy-33	tax-4	npr-1	rad-8	rad-8	gcy-36	gcy-31
+GO:0006996	pgp-2	spe-4	spe-10
+GO:0006997	gld-2	lmn-1
+GO:0032096	sra-13
+GO:0006990	xbp-1	xbp-1	xbp-1	skn-1	ire-1	ire-1	atf-6	atf-6
+GO:0032200	ceh-37
+GO:0044237	bca-2	bca-2	bca-2	bca-2	tyr-2
+GO:0046513	hyl-1	asm-1	asm-2	asm-3
+GO:0061203	unc-82	unc-82	unc-82	unc-82	unc-82	unc-82	unc-82	unc-82
+GO:0009405	spp-1	spp-12
+GO:0032024	asna-1
+GO:2000738	teg-1
+GO:0051568	ash-2	set-16	wdr-5.1	set-2	ash-2	ash-2
+GO:0051567	met-1	met-1	met-2
+GO:0018985	let-92
+GO:1901244	elt-3	elt-3	elt-3	elt-3
+GO:0043652	ced-7	unc-73	mig-2	nex-1	mom-5	ced-5	ced-5	unc-73	unc-73	unc-73	ced-8	unc-73	ced-6	ced-7	ced-10	apr-1	psr-1	psr-1	psr-1	unc-73	unc-73	unc-73	ced-12	ced-12	ced-12	ced-12	ced-12	unc-73	psr-1	psr-1	psr-1	lis-1	ced-2	ced-2	ced-2	ced-2	ced-2	gsk-3	ced-1	ced-1	ced-1	ced-1	ced-1	ced-1
+GO:0043654	ced-1
+GO:0042127	epi-1	epi-1	epi-1	crls-1	glh-4	nst-1	epi-1	pgs-1
+GO:0033316	bub-3
+GO:0033319	sqv-6
+GO:0007078	lpin-1
+GO:0007076	mix-1	cdl-1	hcp-6	hcp-6
+GO:0007077	plk-1	plk-1
+GO:0055114	pdi-2	let-767	let-767	ddo-1	dpy-11	egl-9	pdi-2	msra-1	gpx-1	C47A10.5	ctb-1	trxr-2	gsto-1	dpy-18	pdi-2	C15B12.1	F18E3.7	F18E3.7	phy-2	tdo-2	gsr-1	tdo-2	gsr-1	Y69A2AR.5	gst-10	CELE_Y32H12A.6	CELE_Y32H12A.6	png-1	png-1
+GO:0061025	fer-1	egl-18	fer-1	syx-3	spe-10
+GO:0045793	sma-1	sma-1	dbl-1	sma-1	sma-1	sma-3	sma-4	sma-4	spe-10
+GO:0045792	daf-16
+GO:0016055	eor-1	eor-2	mom-5	egl-20	egl-20	eor-2	cwn-1	cwn-1	cwn-1	cwn-1	wnt-2	wnt-2	kin-19	egl-27	hmg-1.2	mom-2	mom-2	pop-1	wrm-1	wrm-1	dsh-2	dsh-2	bar-1	lin-44	lin-44	lit-1
+GO:0016052	CELE_Y43F4B.5	CELE_Y43F4B.5
+GO:0016050	unc-26	unc-26	unc-26	unc-26
+GO:0016051	bre-5	fut-1	bre-5
+GO:0015012	rib-1	rib-1	rib-1	rib-2	rib-2	rib-2	sqv-3	hst-3.2	hst-3.1
+GO:0015015	hst-6	hst-2	hse-5	sul-1
+GO:0033555	pcm-1	pcm-1
+GO:0030207	chhy-1
+GO:0030206	sqv-3	sqv-8	sqv-6
+GO:0007100	lis-1
+GO:0007108	act-2
+GO:0007109	smc-3	spd-1	smc-3	air-2	smc-3	cyk-4
+GO:0030970	der-2
+GO:0006423	B0511.2	cars-1	cars-1
+GO:0016479	lin-35
+GO:0016476	nmy-2	nmy-1	nmy-1	apr-1
+GO:0016477	ham-2	ham-2	hmp-1	vab-8	epi-1	epi-1	unc-73	hmp-1	unc-52	mig-2	mig-5	cam-1	unc-52	ced-5	epi-1	egl-20	cam-1	ten-1	ten-1	ten-1	ten-1	ham-2	unc-73	unc-73	unc-73	gon-1	hmp-2	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	cmd-1	hmp-2	gex-2	unc-73	sem-5	gex-3	hmp-1	ced-10	ced-10	ced-10	unc-52	egl-15	abi-1	gon-1	epi-1	vab-8	mig-5	unc-51	cam-1	unc-73	unc-73	unc-73	ten-1	ced-12	ced-12	ced-12	ced-12	ced-12	ced-12	unc-73	mig-5	hmr-1	sos-1	ced-2	ced-2	nhr-67
+GO:0034090	lab-1
+GO:0050954	osm-6	unc-97
+GO:0006184	gpa-1	CELE_Y67D2.4	mig-2	gpa-13	rab-8	unc-108	rab-11.1	C53H9.2	CELE_Y48E1B.2	gpa-11	gpa-11	gpa-1	dyn-1	dyn-1	goa-1	goa-1	goa-1	eft-3	gpc-1	rab-5	gpa-15	ced-10	ced-10	cdc-42	cdc-42	ntp-1	arl-6	evl-20	gpa-5	gpa-8	gpa-9	nst-1	rho-1	rab-7	ngp-1	C53H9.2	C53H9.2	gpa-6	rac-2	rab-3	rab-3	gpa-14	gpa-10	CELE_Y67D2.4	gpa-17	CELE_Y48E1B.2	ngp-1	gpa-13	F29C12.4	ngp-1
+GO:0042303	let-767	T27F2.1
+GO:0006182	gcy-28	gcy-12	gcy-28	gcy-28	gcy-28	gcy-8
+GO:0006218	upp-1
+GO:0006214	dpyd-1
+GO:0006217	cdd-2	cdd-1
+GO:0006210	upb-1
+GO:0006212	dpyd-1	upb-1	upp-1
+GO:0061365	atg-18	atg-18	vps-34	vps-34	vps-34
+GO:0030155	vab-3	vab-3	efn-4	efn-4	egl-5	grp-1	sma-6	mab-20	mab-20	mab-20	vab-3
+GO:0035434	cua-1	cua-1
+GO:0030150	Y71F9B.2	timm-23
+GO:0015833	haf-2	haf-3	haf-8	haf-1	haf-4	haf-7
+GO:0010845	syp-1	syp-2
+GO:0046777	frk-1	tlk-1	src-1	mbk-2	mbk-2	air-2	tlk-1	tlk-1	kin-29	frk-1	unc-51	tlk-1	daf-2	cmk-1	mom-4	mbk-2
+GO:0042273	sbds-1
+GO:0042274	rps-6	rps-6	rps-21	C16C10.2	rps-7	rps-6
+GO:0005980	agl-1	aagr-1	aagr-3	aagr-2	aagr-3
+GO:0006506	tag-189
+GO:0006509	hop-1	sel-12	spe-4
+GO:0006508	unc-71	map-2	map-2	R57.1	ccpp-6	asp-4	tra-3	tra-3	mppb-1	mppa-1	dss-1	clp-3	map-2
+GO:0045977	npp-1	npp-1	npp-1
+GO:0006261	CELE_Y47D3A.29	CELE_Y47D3A.29	cin-4	R05D3.12	K12D12.1	CELE_Y37B11A.2	CELE_Y46H3C.4	CELE_Y47D3A.29	CELE_Y47D3A.29
+GO:0097264	lat-2	lat-1
+GO:0048333	sem-4
+GO:0000212	zyg-9	aspm-1	cdc-25.1	mei-2	mei-1	tbb-2
+GO:0009987	valv-1
+GO:0006386	rpc-11
+GO:0035329	cst-2	cst-1
+GO:0050770	unc-37	unc-4
+GO:2001272	dct-1
+GO:0048937	unc-130
+GO:0045200	cam-1	cam-1	cam-1
+GO:2001056	ced-4
+GO:0048755	syg-1	syg-1
+GO:0042660	let-765
+GO:0042661	sel-7	mls-2
+GO:0009438	glod-4
+GO:0042464	sdc-2	dpy-26	sea-1	sea-1	sea-1	sea-1	sea-1	sdc-1	cnr-14	dpy-27	mix-1	fox-1	dpy-30	xol-1
+GO:0048681	pxn-2
+GO:0006857	haf-2	haf-3	haf-8	haf-9	haf-1	haf-9	haf-4	haf-7
+GO:0007588	lim-7	ceh-6
+GO:0007586	elt-2
+GO:0008053	eat-3	eat-3	fzo-1
+GO:0051177	evl-14	tim-1	scc-3
+GO:0001539	che-3
+GO:0008054	zyg-11	cul-2	apc-11
+GO:0051179	mab-5	lin-32	spe-10	anc-1
+GO:0046942	sulp-4
+GO:0031445	lex-1
+GO:0000077	mrt-2	him-6	abl-1	abl-1	abl-1	clk-2	uri-1	uri-1
+GO:0000076	F23C8.9
+GO:0000079	F25B5.5	Y113G7B.16
+GO:0051289	ipla-1	ipla-1	ipla-1	ipla-1	dhs-21	ipla-1
+GO:0008585	ten-1	sys-1	sys-1
+GO:0008584	ten-1	lin-9	fkh-6	sys-1	sys-1
+GO:0007292	ima-3	sos-1
+GO:0055070	cutc-1
+GO:0008277	egl-10	egl-10	egl-10	egl-10	eat-16	eat-16	egl-10	egl-10	irk-1	gpb-2	eat-16	eat-16
+GO:0023019	mig-5	mig-5	mig-5
+GO:0055074	csq-1
+GO:0030516	unc-69	unc-76	unc-76	unc-76	unc-76	unc-76	unc-76	unc-76	unc-76	ceh-17	unc-69	tax-2	unc-104	tax-4	sad-1	unc-51	unc-76	unc-76	unc-76	unc-76	daf-11	swan-1	unc-69
+GO:0023014	dyf-5	mes-1	gck-3	pak-2	dyf-5	gck-1	gck-4	vab-1	mpk-1	kin-18	C01C4.3	C03B1.5	B0198.3	pak-1	CELE_T07F12.4	gck-2	mig-15	cst-2	CELE_F18F11.5	pmk-2	cst-1	flr-4
+GO:0032230	nca-2	unc-75	nca-2	unc-77	unc-77	unc-77	unc-77
+GO:0030514	daf-4	daf-4	daf-4
+GO:0080009	Y53F4B.13	tag-72
+GO:0018197	pcm-1	pcm-1
+GO:0009612	mec-1	mec-1	mec-3	mec-9	osm-9	mec-5	mec-1	mec-1	mec-2	mec-6	mec-3	mec-7	unc-86	unc-86	mec-4	glr-1	glr-1	mec-10	mec-12	mec-9	mec-2	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1	mec-2
+GO:0032780	sti-1	mai-2	mai-1
+GO:0071168	mys-1	mys-2
+GO:0051592	pmr-1	pmr-1	pmr-1
+GO:0000461	rps-0	rps-21
+GO:0000462	T26G10.3	rps-8	CELE_T07A9.14	rps-24
+GO:0018996	ptr-24	ptr-24	let-767	ptr-19	ptr-19	pxf-1	qua-1	pxf-1	pxf-1	pxf-1	ptr-23	pxf-1	ptr-22	ptr-22	noah-1	ptr-12	ptc-3	ptc-3	noah-1	ptr-16	ptr-3	ptr-11	ptr-15	unc-104	nhr-23	ptr-2	ptr-5	ptr-10	ptr-9	rnf-5	let-767	ptc-1	ptr-13	ptr-6	ptr-1	nas-36	rabn-5	nhr-25	bed-3	daf-6	ptr-8	ptr-14	ptr-12	ptr-17	ptr-17	ptc-3	rabx-5	noah-1	nas-37	dre-1	ptr-4	rme-6	rme-6	ptr-21	ptr-20	pan-1	rbd-1	noah-2	ptr-17	ptr-18	ptr-19
+GO:0000467	eri-1
+GO:0071850	lin-35	cye-1	cdc-14	cdc-14	cdc-14	cdc-14	cki-1	cki-1	cki-1
+GO:0070584	phb-2	immt-1	phb-1	immt-2
+GO:0070587	srgp-1	srgp-1	srgp-1
+GO:0018991	dab-1	dab-1	lin-7	aph-2	unc-16	unc-16	vab-8	unc-16	unc-73	unc-16	unc-53	unc-7	unc-7	daf-14	daf-14	unc-31	eff-1	unc-53	eff-1	aex-1	lin-3	lin-3	lin-3	lin-3	ser-1	chn-1	pdi-3	lin-1	lag-1	egl-47	daf-14	daf-14	aex-1	unc-53	sqv-1	bir-1	lin-3	lin-3	unc-45	unc-45	brc-2	sqv-5	cog-1	cog-1	daf-4	unc-83	bas-1	unc-73	unc-73	unc-73	unc-31	unc-31	hop-1	sqv-5	aex-3	ser-1	mau-2	eya-1	unc-39	egl-2	lin-59	bas-1	unc-73	egl-1	unc-54	lin-12	lin-11	egl-45	unc-36	mig-10	sqv-3	unc-16	cutc-1	ceh-10	daf-4	sel-12	lin-2	gex-3	egl-26	egl-26	lin-3	lin-3	unc-7	egl-27	sqv-8	hlh-14	unc-83	lin-25	egl-15	valv-1	rpm-1	egl-47	sqv-7	bar-1	bar-1	asf-1	mboa-7	sqv-4	ppt-1	unc-84	syd-2	vab-8	daf-8	T27F2.1	unc-83	fat-3	aph-2	unc-31	hbl-1	eya-1	unc-73	unc-73	unc-73	unc-53	eff-1	dab-1	dab-1	dab-1	dab-1	daf-4	eff-1	lag-1	unc-73	sqv-6	sqv-2	lin-7	unc-59	dab-1	dab-1	tni-3	hbl-1
+GO:0000915	rho-1
+GO:0018992	fog-1	fog-1	gld-3	mes-4
+GO:0071526	lad-2	lad-2	plx-1
+GO:0070588	orai-1	cup-5	unc-2	pmr-1	pmr-1	unc-2	pmr-1	egl-19	cup-5	cup-5	orai-1	lov-1	clhm-1	unc-2	unc-2	unc-2	egl-19	cup-5	cup-5	pkd-2	pkd-2
+GO:0019932	flp-7
+GO:0019933	acy-3
+GO:0007064	evl-14	tim-1	tim-1	him-1	him-1
+GO:0007067	him-6	cdk-1	gon-2
+GO:0007063	tim-1	tim-1
+GO:0007062	him-3
+GO:0071294	sur-7	sur-7	cdf-2	cdf-1
+GO:0016049	bag-1	Y97E10AR.7	maa-1
+GO:0016048	ceh-14	sel-12
+GO:0016043	hlb-1	let-2	T21H8.1	lpin-1
+GO:0016042	fil-1
+GO:0051865	chn-1	ufd-2	ufd-2	ufd-2	pdr-1
+GO:0015793	aqp-1	aqp-7	aqp-1	aqp-3
+GO:0035915	spp-1	spp-12
+GO:0001845	unc-108	ced-1
+GO:0016264	unc-7	unc-7	unc-7
+GO:0007274	snn-1	snf-6	unc-29	syd-2	unc-38	snn-1	eat-2
+GO:0007110	mlc-4
+GO:0030308	egl-4	pek-1	pek-1	sax-1
+GO:0034089	lab-1
+GO:0034088	mau-2	pqn-85
+GO:0007268	lev-1	ehs-1	dop-2	dop-2	dop-2	dop-2	unc-37	aex-3	unc-64	acr-15	nmur-2	nmur-2	atx-3	gab-1	acr-2	acr-11	gar-2	lnp-1	npr-1	npr-1	lev-1	eat-18	dop-3	eat-18	dop-1	dop-1	dop-1	dop-1	gar-2	gar-2	gar-2	acr-3	cab-1	ehs-1
+GO:0030301	ncr-2	ncr-1
+GO:0034315	wsp-1	wsp-1
+GO:0034314	arx-7	arx-2	arx-1
+GO:0008616	tgt-1	tgt-2
+GO:0007265	ksr-2	ksr-2	eor-1	eor-2	ksr-2	eor-2	cav-1	cav-1	pac-1	mpk-1	lin-45	mek-2	bar-1	cav-1
+GO:0007635	unc-119	dyf-2	dyf-2	odr-2	unc-119	egl-2	tax-4	tax-6	tax-6	unc-119	ben-1	che-3	tax-6	tax-6	odr-4	che-13	tax-6	tax-6	odr-2	odr-2
+GO:0051610	mod-5
+GO:0006222	umps-1	CELE_R12E2.11
+GO:0055069	F47B10.2
+GO:0006225	C29F7.3	F40F8.1
+GO:0047497	K08F11.5
+GO:0008612	tag-242
+GO:0046785	ptl-1	ptl-1	ptl-1	ptl-1
+GO:0033169	jmjd-1.2	jmjd-1.2	jmjd-1.2
+GO:0033168	rde-1
+GO:0071076	cid-1
+GO:0008610	cyp-31a2	emb-8	cyp-31a3
+GO:0060429	mom-5	dss-1
+GO:0031929	C10H11.8	ruvb-1	C10H11.8	let-363
+GO:0015807	aat-3	atgp-2	glt-1	aat-1	laat-1
+GO:0015800	glt-1
+GO:0045893	ttx-3	fos-1	fos-1	ttx-3	tbp-1	hlh-8	egl-44	mdt-15	T27F2.1
+GO:0015809	cln-3.1	cln-3.1	cln-3.2	cln-3.3	laat-1
+GO:0006081	alh-9
+GO:0005998	dhs-21
+GO:0005997	dhs-21
+GO:0005992	CELE_R05F9.6	gob-1
+GO:0006536	T01C8.5
+GO:0045944	ceh-22	ceh-22	mrg-1	tlf-1	tlf-1	nhr-6	atf-7	mec-3	sma-9	sma-9	nhr-49	crh-1	unc-42	daf-12	daf-12	daf-12	tlf-1	tlf-1	crh-1	fos-1	egl-38	sma-9	fax-1	fax-1	fos-1	end-1	vab-3	lag-1	vab-3	ham-1	tax-2	hlh-2	hlh-2	hlh-2	hlh-2	hlh-2	dbl-1	cky-1	daf-12	daf-12	daf-12	cky-1	hsf-1	daf-12	daf-12	daf-12	pes-1	taf-1	taf-1	daf-4	daf-4	hmp-2	elt-1	elt-1	elt-1	elt-1	elt-1	elt-1	unc-30	unc-30	unc-30	unc-30	unc-30	unc-30	sea-1	aha-1	daf-16	daf-16	hmp-2	lin-59	nhr-49	taf-9	taf-4	nhr-80	mec-3	unc-86	daf-1	hlh-1	hlh-1	elt-1	elt-1	ceh-16	cbp-1	skn-1	tra-1	pal-1	pal-1	pal-1	nhr-6	odr-7	ceh-22	sma-3	daf-4	daf-4	unc-30	unc-30	unc-30	let-381	daf-7	tax-4	tbx-35	sma-6	sma-6	nfi-1	che-1	elt-2	elt-2	elt-2	elt-2	pop-1	pop-1	pop-1	fkh-6	wrm-1	pha-4	pha-4	pmk-1	atf-7	spe-44	mls-2	unc-130	bar-1	bar-1	egl-44	aptf-3	aptf-4	taf-10	apr-1	daf-8	sma-9	rhgf-2	ast-1	fkh-2	sma-9	daf-12	daf-12	daf-12	elt-1	elt-1	nfi-1	nfi-1	dop-3	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	atf-7	nhr-80	daf-4	daf-4	sma-9	lag-1	fkh-2	sys-1	sys-1	taf-10	vab-3	che-1	cmk-1	taf-2	mef-2	atf-7	sys-1	sys-1	nhr-67	mrg-1	sbp-1
+GO:0006531	T01C8.5
+GO:0045947	CELE_F11A3.2	CELE_F11A3.2	ain-2	ain-2	ain-2	ain-1	pek-1	ain-2
+GO:0009992	puf-3
+GO:0009994	mek-1	mek-1
+GO:0000266	drp-1	drp-1
+GO:0090305	CELE_Y47D3A.29	smg-5	jkk-1	rde-1	drsh-1	F10C2.4	ire-1	dna-2	K02A11.3	gen-1	mrt-1	dbr-1	CELE_Y47D3A.29	dna-2
+GO:0090307	rsa-1	air-1	rsa-1
+GO:0006998	scpl-2	vps-34	vps-34	vps-34
+GO:0010940	unc-57	unc-57	unc-57	unc-57	unc-57	unc-57	unc-26	rme-1	unc-26	unc-26	unc-26	rme-1	rme-1	unc-57	unc-57	unc-104	unc-104	clp-1	unc-116	unc-116	unc-116	vha-2	snt-1	snt-1	dpy-23	dyn-1	lgg-1	lgg-1	lgg-1	rme-1	rme-1	snt-1	snt-1	rme-1	unc-11
+GO:0006999	ima-3	npp-1	npp-1	npp-1
+GO:0001193	rpb-9
+GO:0030522	daf-12	daf-12	daf-12	aha-1	ahr-1	daf-12
+GO:0050982	lov-1	pkd-2
+GO:0006409	xpo-3
+GO:0006400	gro-1	W02B12.10
+GO:0043103	C06G3.5	C06G3.5
+GO:0006402	dcs-1	dcs-1	puf-6	puf-9
+GO:0006404	nrde-3
+GO:0006154	C06G3.5	C06G3.5	C44B7.12
+GO:0006407	rps-0	rps-28
+GO:0048212	unc-26	unc-26	unc-26	unc-26
+GO:0048747	csk-1	cst-1
+GO:0051169	npp-20
+GO:0001504	snf-6
+GO:0001505	unc-2	unc-2	unc-37	unc-2	unc-2	unc-2
+GO:0001507	ace-2	ace-1	ace-3
+GO:0001508	avr-15	avr-15	eat-6	flp-9	avr-15	eat-2	gar-3
+GO:0010042	pmr-1	pmr-1	pmr-1	smf-2	smf-1	smf-3
+GO:0070932	sir-2.1	sir-2.1	sir-2.1	sir-2.1
+GO:0000003	gon-4	hlb-1	unc-119	epi-1	epi-1	mig-32	tat-5	tam-1	hpl-2	hpl-2	hpl-2	lin-1	lin-35	lin-35	lin-35	tat-5	hlh-2	hpl-1	hpl-1	trr-1	epi-1	stim-1	sqv-1	swsn-1	swsn-1	rab-8	hpl-2	hpl-2	hpl-2	sqv-5	lem-3	fat-2	tat-5	pha-1	unc-119	spat-3	lon-1	zyx-1	zyx-1	zyx-1	swsn-1	swsn-1	swsn-1	swsn-1	pah-1	hop-1	hop-1	sqv-5	sti-1	eat-16	ogt-1	kgb-1	mut-2	rgs-10	dog-1	syp-2	let-60	unc-104	lin-9	dcr-1	sqv-3	par-5	lin-5	clk-1	eat-6	pah-1	csn-5	lin-45	lin-45	sqv-8	sma-6	sma-6	let-767	lon-1	hlh-14	unc-119	lin-13	cul-1	rpb-6	tin-9.1	sqv-7	apy-1	mig-32	vrk-1	sqv-4	ima-3	kin-29	gon-4	pept-1	pept-1	pept-1	apr-1	npp-1	xpa-1	mek-1	epi-1	him-10	spat-3	mig-15	lin-26	ogt-1	pgl-1	rad-8	trr-1	vps-34	trr-1	pha-1	mek-1	mut-2	lon-1	mrt-1	eat-16	nhx-2	T21H8.1	age-1	let-49	sqv-6	daf-2	daf-2	imb-1	zyg-1	rpn-1	sqv-2	vps-34	vps-34	msh-2	pgl-1	npp-1	npp-1	hpl-2	hpl-2	hpl-2	zyx-1	zyx-1	xnp-1	elo-2	tin-9.2	tin-10
+GO:0051299	let-92
+GO:0051295	kca-1	klc-1	klc-1	mat-2	unc-116	klc-2	klc-2	klc-1	klc-1
+GO:0051294	lgl-1
+GO:0051297	F58A4.14
+GO:0051296	cmd-1	cmd-1	aspm-1	aspm-1	unc-116	lin-5	lin-5	dhc-1	dhc-1
+GO:0051291	hlh-1
+GO:0007281	mrg-1	ddx-19	ddx-19	cir-1	ego-1	smn-1	hpl-2	hpl-2	hpl-1	arf-3	smn-1	hpl-2	hpl-2	puf-6	cye-1	mes-2	ddx-19	lip-1	puf-7	eri-1	eri-1	hoe-1	mog-4	ddx-19	hrs-1	glh-1	uaf-1	mog-5	nst-1	lmn-1	pro-1	pro-1	rha-1	ddx-19	T27F2.1	nos-2	uaf-1	stau-1	ddx-23	glh-2	gsk-3	pen-2	hpl-2	hpl-2	mrg-1
+GO:0007283	fer-1	uba-1	ego-1	fog-1	elt-1	elt-1	elt-1	rpn-10	rpn-10	tut-1	tut-1	abl-1	elt-1	cbp-1	tra-1	phb-2	prg-1	cpb-1	puf-8	fer-1	asfl-1	rsp-2	rsp-1	elpc-3	uba-1	uba-1	elt-1	fog-1	gld-3	phb-1	elpc-1	spe-15
+GO:0007286	ife-1	spe-29	fog-3	spe-12	spe-39	spe-8	ife-1	spe-17	spe-27	spe-4	sqv-8	spe-39	spe-10	spe-15	spe-19
+GO:0007442	lin-48	peb-1	peb-1
+GO:0032224	nca-2	unc-75	nca-2	unc-10	ric-3	ric-3	ric-3	unc-77	unc-77	unc-77	unc-77	dys-1	dyb-1
+GO:0000712	C47D12.8	cin-4	helq-1	helq-1	rfs-1	rfs-1	R05D3.12	him-17	him-14	K12D12.1	helq-1	helq-1	CELE_Y46H3C.4
+GO:0000710	C47D12.8	msh-6	msh-2
+GO:0032228	abts-1	kcc-2	abts-1	abts-1	kcc-2	kcc-2	kcc-2
+GO:0042693	pal-1
+GO:0042692	sem-4	ceh-20	unc-62	unc-62
+GO:0042694	mls-1	tbx-35	tbx-2	pha-2	ceh-51	ceh-51	lit-1	mom-4
+GO:0018149	pdi-3	bli-3	bli-3	mlt-7
+GO:0032793	ckk-1	ckk-1	cmk-1
+GO:0051583	dat-1	dat-1
+GO:0000478	rbd-1
+GO:0032319	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-89	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73
+GO:0032318	unc-73	unc-73	unc-73	pxf-1	pxf-1	pxf-1	pxf-1	pxf-1	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-89	aex-3	unc-73	unc-73	unc-73	lst-6	rgef-1	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	sos-1
+GO:0006888	gon-1	sel-9	gon-1	sec-22	ykt-6
+GO:0000902	exc-5	exc-5	exc-5	exc-5	exc-5	exc-5	hmp-2	hmp-2	mig-6	egl-26	rhgf-2
+GO:0051345	sbt-1
+GO:0032313	aex-3	lst-6
+GO:0006885	pept-1	nhx-2	nhx-2
+GO:0006886	F59E10.3	unc-101	syx-6	arf-1.2	vps-16	emo-1	F38E11.5
+GO:0006887	snb-7	ida-1	snb-1	snb-5	snb-2	vamp-8	snb-6	vamp-8	vamp-7	ykt-6
+GO:0032317	pxf-1	pxf-1	pxf-1	pxf-1	pxf-1	rgef-1
+GO:0032314	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	swan-1	swan-1	swan-1	unc-73	unc-73	unc-73
+GO:0070207	ipla-1	ipla-1	ipla-1	ipla-1	ipla-1
+GO:0040026	lin-7	lin-7	lin-10	let-23	let-23	rgl-1	rgl-1	rgl-1	rgl-1	ptp-2	ptp-2	ptp-2	ptp-2	lin-3	lin-3	lin-3	lin-3	lin-3	lin-3	sur-6	sur-6	sur-6	sur-6	lag-1	lin-3	lin-3	lin-3	ral-1	ral-1	ral-1	ral-1	cye-1	lin-10	hoe-1	lin-11	lin-11	let-60	let-60	let-60	let-60	let-23	lin-39	lin-39	lin-39	lin-39	lin-39	lin-39	isw-1	lin-2	lin-3	lin-3	lin-3	pop-1	bar-1	rgl-1	rgl-1	rgl-1	rgl-1	lag-1	cdf-1	ral-1	ral-1	ral-1	ral-1	sos-1	lin-7	lin-7
+GO:0007050	cki-2	cki-2
+GO:0007051	zyg-9
+GO:0007052	rsa-1	tac-1	rsa-2	rsa-2	let-92	rsa-1	plk-1	hcp-3	tbg-1	him-10
+GO:0007219	aph-2	lag-1	sup-17	lip-1	lip-1	aph-1	aph-1	lin-12	sel-12	aph-2	lag-1	pen-2
+GO:0032956	hmp-1	jac-1	jac-1	hmp-1	sup-12	sup-12	hmp-1	mab-20	jac-1
+GO:0007059	smc-3	dnc-1	dnc-1	klp-16	klp-16	cin-4	tam-1	hus-1	smc-3	air-2	air-2	him-1	emr-1	him-6	knl-1	R05D3.12	baf-1	dnc-2	zyg-12	dnc-1	K12D12.1	him-1	CELE_Y46H3C.4	smc-3	dpy-28	lem-2
+GO:0040021	fog-2	tra-2	tra-2	fog-2	ddx-23
+GO:0016070	glh-1	cdd-1	glh-2
+GO:0016071	unc-75	fox-1	cgh-1
+GO:0015788	srf-3	srf-3	srf-3	srf-3
+GO:0016079	aex-1	aex-1	snb-1	snt-1	pkc-1	snt-1
+GO:0015785	srf-3	srf-3	srf-3	srf-3
+GO:0090481	srf-3	srf-3	srf-3
+GO:0032008	rheb-1	raga-1	Y97E10AR.7
+GO:0033206	unc-116
+GO:0042078	lag-1	mes-2	lag-2	prg-1	prg-1	let-858	cul-2	pgl-1	lag-1	gld-3	uri-1	pgl-1
+GO:0042074	hmp-1	hmp-1	hmp-2	gad-1	hmp-2	efn-4	efn-4	efn-4	efn-4	hmp-1	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	sax-7	hmr-1
+GO:0046579	ptp-2	ksr-1	sur-7	let-765	sur-7	rgef-1	soc-2	cdf-1
+GO:0042073	ift-81	dyf-5	dyf-2	dyf-6	dyf-2	dyf-6	dyf-5	arl-13	che-11	dyf-6	dyf-11	ift-74	ifta-1	dyf-6	bbs-8	arl-13	dyf-1	osm-12	osm-12
+GO:0016095	B0024.13
+GO:0043248	C56G2.7	rpn-6.1
+GO:0051759	zyg-11	cul-2	rbx-1	elc-1
+GO:0007126	rec-8	rec-8	mog-3	tac-1	cav-1	cav-1	him-6	hoe-1	cdc-25.1	act-2	zyg-11	cdk-1	par-5	cpb-1	scc-1	coh-1	spo-11	cav-1	rec-8
+GO:0007127	ima-3
+GO:0030953	tac-1	knl-1	let-711	dcn-1
+GO:0007413	unc-76	unc-76	unc-76	unc-76	ten-1	lin-11	cnd-1	ina-1	spon-1	mup-2	unc-76	unc-76	mab-20
+GO:0043484	sym-2
+GO:0007129	htp-3
+GO:0097194	ced-3	snx-6	ced-3	CELE_F20D6.11	snx-1
+GO:1901046	sek-1	nsy-1
+GO:0035047	dnc-1	dnc-1	dnc-2	dnc-1
+GO:0015677	cuc-1
+GO:0000492	ruvb-1	let-363
+GO:0015672	snf-11	snf-6	cox-1	cox-2	dat-1	dat-1
+GO:0050976	mec-18
+GO:0050975	lin-10	lin-10	pkc-1
+GO:0050974	mec-7
+GO:0035235	nmr-1	glr-1
+GO:0030317	fer-1	fer-1	spe-10
+GO:0097192	ced-9
+GO:0034638	ipla-1	ipla-1	ipla-1	ipla-1	ipla-1
+GO:0072511	cup-5	cup-5	cup-5	lov-1	cup-5	cup-5	cdf-1
+GO:0006231	CELE_Y110A7A.4	CELE_Y110A7A.4
+GO:0002082	phb-2	phb-1
+GO:0070125	F29C12.4
+GO:0033314	lrr-1	lrr-1	lrr-1
+GO:0015819	laat-1
+GO:0015813	glt-1
+GO:0015812	unc-26	unc-26	unc-26	unc-26	snf-11
+GO:0031134	hcp-1	cls-2
+GO:0042595	mod-1	mod-1	mod-1
+GO:0010824	szy-20	szy-20	szy-20	szy-20	szy-20	szy-4	sun-1	szy-20	szy-20
+GO:0045887	unc-104
+GO:0006091	T22B11.5
+GO:0006097	gei-7	icl-1
+GO:0006096	aldo-1	CELE_F14B4.2	CELE_F14B4.2	CELE_Y77E11A.1	CELE_H25P06.1
+GO:0051932	cdk-5	cdk-5	cdk-5	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	nud-1	nud-1	nud-1	nud-2	nud-2	nud-2	cdka-1	cdka-1	cdka-1	dhc-1	dhc-1	dhc-1	cdka-1	cdka-1	cdka-1	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	unc-25	lis-1	lis-1	lis-1	lis-1	lis-1
+GO:0006520	otub-1
+GO:0043065	ant-1.1	daf-16	ant-1.1	ced-4	ced-4	pal-1	ant-1.1	ant-1.1	ced-13	eif-3.K
+GO:0097120	add-1	add-1
+GO:0043067	lin-29	lin-29	lin-29	deg-3
+GO:0043066	ape-1	ape-1	ape-1	ape-1	ape-1	ape-1	pag-3	pag-3	hif-1	rad-51	gck-1	gck-1	gck-1	eya-1	him-6	abl-1	abl-1	abl-1	abl-1	ced-4	ced-9	ced-9	ced-9	dad-1	cul-1	icd-1	vps-41	ceh-30	eya-1	gck-1	rad-51	cgh-1	tfg-1	ape-1	ape-1
+GO:0046688	mig-2	max-2	max-2	max-2	mlk-1	kgb-1	cutc-1	vhp-1	vhp-1	mek-1	mek-1	mek-1	mek-1	mlk-1	max-2
+GO:0043062	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1
+GO:0046686	hcf-1	cdr-1	hmt-1	kgb-1	mek-1	mek-1	mek-1	mek-1	age-1
+GO:0046685	abts-1	abts-1	abts-1	gcs-1	aip-1
+GO:0043069	ces-1	ced-9	pme-5
+GO:0043068	unc-68	hlh-2	hlh-2	unc-68	unc-68	egl-1	egl-1	egl-1	egl-1	unc-32	unc-32	unc-32	unc-32	vha-2	vha-10	vha-12	vha-12	vha-12	vha-12	hlh-3	hlh-3	ces-2	unc-68	spe-5
+GO:0048598	aph-2	wve-1	wve-1	mig-5	mig-5	mel-11	eps-8	eps-8	vab-19	kal-1	mel-11	mom-5	eps-8	eps-8	mel-11	mel-11	cyp-31a2	zoo-1	zoo-1	zoo-1	atg-18	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	mrck-1	rib-2	atg-18	eya-1	eps-8	eps-8	aph-1	tut-1	tut-1	mig-6	ced-4	atp-2	vab-15	mom-2	pha-4	pak-1	nuo-1	dsh-2	apr-1	apr-1	mig-5	mig-5	mom-1	aph-2	elpc-3	mup-2	eya-1	zoo-1	eps-8	eps-8	eps-8	eps-8	zoo-1	pat-12	pat-12	mig-5	mig-5	cyp-31a3	elpc-1	pen-2	wve-1	wve-1	itr-1
+GO:0048599	hmp-2	F59E10.3	lip-1	lip-1	lip-1	rme-2	hmp-2	aph-1	tut-1	tut-1	arf-1.2	F38E11.5	mep-1	elpc-3	elpc-1
+GO:0045089	atf-7	dkf-2	atf-7	zip-2	atf-7	atf-7
+GO:0000278	gon-2	gon-2	gon-2	gon-2	cdc-25.3	gon-2
+GO:0045087	cnc-11	sek-1	sek-1	dbl-1	hsf-1	daf-4	daf-16	cnc-2	cnc-4	cnc-5	cnc-1	sma-3	daf-4	sma-6	pmk-1	pmk-1	aqp-1	aqp-1	aqp-1	aqp-1	nsy-1	spp-1	spp-1	spp-1	aqp-1	aqp-1	aqp-1	aqp-1	daf-4
+GO:0090316	glo-2	snpn-1
+GO:0031047	nrde-2
+GO:0010951	srp-7	srp-7	srp-3	srp-1	srp-6	srp-5	srp-2	CELE_M01G12.2	C28G1.2	srp-8	CELE_R01H2.4	srp-7	srp-7	CELE_M01G12.5
+GO:0010950	epi-1	epi-1	epi-1	C56G2.7	epi-1
+GO:0010225	lem-3	xpa-1	xpa-1	gst-10
+GO:0010952	C56G2.7	sbt-1
+GO:0010954	ced-4
+GO:0030534	clk-1
+GO:0030536	csk-1
+GO:0030539	let-23	let-23	lin-3	lin-3	lin-3	smg-1	let-23	sem-5	lin-3	smg-4	smg-4
+GO:0030538	smg-5	rab-8	smg-2	smg-6	smg-6	smg-6
+GO:0097345	K08F11.5
+GO:0006417	fog-1	cpb-1	puf-8	let-363	fog-1
+GO:0043113	unc-104	syd-2
+GO:0006414	rps-17	T26G10.3	rps-8	rps-21	CELE_T07A9.14	rps-24
+GO:0006413	eif-3.D	eif-3.K
+GO:0006412	CELE_F11A3.2	CELE_F11A3.2	eef-1a.2	rps-18	tut-1	tut-1	rps-0	mrpl-41	C16C10.2	mrpl-51	elpc-3	mrps-24	eef-1a.2	eef-1a.2	rps-20	mrps-7	elpc-1	elpc-1
+GO:0008105	lin-7	lin-10	lin-10	lgl-1	pac-1	cgef-1	cgef-1	cgef-1	lin-10	lin-10	pac-1	rab-5	spe-4	mlc-4	mlc-4	par-3	cul-2	cul-2	dsh-2	pkc-3	ooc-3	chin-1	lin-7	ooc-3
+GO:0008104	dab-1	dyf-5	iff-1	iff-1	nphp-4	dyf-2	vab-19	dyf-2	dyf-5	nph-1	elks-1	sas-6	hcp-1	iff-1	chc-1	tba-2	hipr-1	ttx-7	che-3	nmy-1	sun-1	syd-2	mksr-1	lmn-1	hcp-2	unc-10	apa-2	fat-3	tir-1	ooc-3	dab-1	dab-1	odr-4	che-13	zyg-1	mksr-2	dab-1	ani-1	ifta-2	ooc-3
+GO:0007618	aex-3	lin-25
+GO:0007616	magi-1	magi-1	magi-1	magi-1	magi-1	add-1	add-1
+GO:0007617	unc-53	unc-53	unc-103	unc-103	unc-103	unc-53	unc-103	unc-103	unc-103	unc-103	unc-103	atp-2	lov-1	lov-1	lov-1	lov-1	fox-1	bar-1	unc-10	unc-53	rab-3	rab-3	pkd-2	pkd-2
+GO:0009454	tax-2	gcy-35	gcy-35	gcy-35	tax-4
+GO:0007611	daf-18	ins-1	age-1	pdk-1
+GO:0009299	cdk-7	ceh-37
+GO:0031268	fer-1	fer-1	fer-1	fer-1	spe-10
+GO:0002064	sma-1	sma-1	let-653	exc-5	exc-5	sma-1	sma-1	exc-9	exc-7	let-653	let-653	exc-4	let-4
+GO:1902559	pst-2	pst-1
+GO:0008078	vab-8	unc-73	unc-53	mig-2	unc-53	unc-53	unc-73	unc-73	unc-73	unc-39	unc-73	mig-10	unc-6	ina-1	vab-8	unc-5	unc-73	unc-73	unc-73	unc-53	dre-1	unc-73
+GO:0031468	lpin-1
+GO:0046963	pst-2	pst-1
+GO:0010038	shc-1	shc-1	shc-1	prdx-2	pgp-1	pgp-3	smf-2	smf-1	prdx-2	smf-3	shc-1
+GO:2001141	ham-2	ham-2	sma-9	sma-9	sma-9	eor-1	ldb-1	lin-22	egl-46	TFIIE-beta	TFIIE-alpha	ham-2	egl-13	eya-1	C46E10.9	egrh-1	mxl-3	ztf-2	taf-7.1	sma-9	egl-13	sma-9	egl-13	eya-1	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	sma-9	egl-13	ldb-1	sma-9	sdz-12	ldb-1	CELE_Y5F2A.4
+GO:0042992	daf-18	daf-2	daf-2
+GO:0042990	daf-28
+GO:0090173	him-19
+GO:0031668	gsto-1
+GO:0045815	tam-1
+GO:0018208	fkb-1	fkb-3	fkb-6	fkb-7	fkb-5	fkb-1	fkb-4	fkb-8	fkb-5	fkb-2
+GO:0009792	dab-1	dab-1	rsa-1	rsa-1	mrg-1	mdt-28	szy-20	tlf-1	mca-3	uba-1	unc-73	zhp-3	ark-1	ark-1	ark-1	ark-1	szy-20	ced-3	unc-101	unc-52	mex-1	ajm-1	tat-5	atg-7	kca-1	ark-1	ark-1	ark-1	ark-1	smn-1	tlf-1	mex-1	mel-11	tac-1	mec-8	mec-8	csk-1	egl-38	rme-8	spd-1	skr-2	tim-1	sur-6	lin-35	lat-1	lat-1	kal-1	kal-1	kal-1	kal-1	kal-1	src-1	nud-1	tat-5	mel-11	szy-20	mom-5	smu-1	smu-1	hlh-2	npp-10	unc-52	zyg-9	sqv-1	swsn-1	swsn-1	hus-1	arf-3	rnt-1	smn-1	mel-11	unc-45	brc-2	lem-3	pes-1	tat-5	rad-51	taf-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	mel-11	gpn-1	szy-20	set-1	eef-1a.2	hsp-60	zoo-1	zoo-1	zoo-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	ajm-1	ajm-1	ajm-1	unc-73	unc-73	unc-73	atg-18	atg-18	tba-1	tba-1	hmp-2	swsn-1	swsn-1	swsn-1	swsn-1	mbk-2	mbk-2	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	cye-1	mrck-1	mrck-1	rab-11.1	npl-4.2	hop-1	hop-1	rsa-1	rsa-1	grd-5	atg-18	atg-18	gld-2	hda-1	hda-1	F59E10.3	ran-1	tba-1	tba-1	lip-1	rme-2	hmp-2	efn-4	efn-4	efn-4	efn-4	lin-59	mut-2	rgs-10	plx-2	plx-2	apb-3	taf-9	aph-1	unc-73	taf-4	rme-8	syp-3	apb-3	mig-6	ama-1	let-2	zyg-11	ced-4	ced-4	ced-4	unc-32	lin-9	ran-2	hcp-3	zif-1	unc-116	sqv-3	chc-1	tba-2	tba-2	wnt-2	unc-101	dyn-1	ced-3	phb-2	hsp-60	mel-32	sdn-1	sdn-1	eft-3	bcat-1	cdc-48.1	cdc-48.2	smo-1	zhp-3	lin-53	egl-26	ima-2	rab-5	spd-2	let-502	spk-1	baf-1	baf-1	unc-52	egl-27	mel-47	sqv-8	paa-1	paa-1	mix-1	ani-2	lin-32	arf-1.2	arf-1.2	wrm-1	vps-16	cul-1	spdl-1	szy-20	nhr-31	ran-3	sqv-7	aps-2	pkc-3	ufd-1	sqv-4	ima-3	ima-3	mus-101	mus-101	mus-101	F38E11.5	vha-17	sun-1	taf-10	rack-1	apr-1	apr-1	apr-1	npp-1	lmn-1	vha-1	mdt-15	mom-1	fkh-2	apa-2	sym-2	sym-2	set-1	T27F2.1	paf-2	unc-51	mdt-28	him-14	ZK180.4	zyg-12	uba-1	hbl-1	uba-1	rad-8	szy-20	zoo-1	mdt-28	unc-73	unc-73	unc-73	apb-1	apb-1	smi-1	dve-1	dve-1	dve-1	eef-1a.2	eef-1a.2	zoo-1	ooc-3	dab-1	dab-1	dab-1	dab-1	sdn-1	sdn-1	rol-3	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	mut-2	mca-3	dnj-10	let-4	let-4	let-4	age-1	dre-1	ubc-9	let-49	rad-51	unc-73	fkh-2	npl-4.2	mca-3	mca-3	pqn-85	dss-1	hcp-6	gld-3	sys-1	taf-10	ajm-1	sand-1	imb-1	phb-1	zyg-1	zyg-1	smi-1	sqv-2	apb-1	smu-2	smu-2	hcp-6	uba-2	lis-1	rsp-3	rsp-3	rsp-3	gei-12	taf-2	pen-2	dab-1	dab-1	npp-1	npp-1	ufd-1	xnp-1	mbk-2	ani-1	sys-1	szy-20	ooc-3	bub-3	mrg-1	lpin-1	hbl-1
+GO:0055059	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	pig-1	par-1	par-1	par-1	strd-1	strd-1	strd-1	par-1	par-1	ham-1	ham-1	par-1	par-1	mop-25.2	mop-25.2	cnt-2	par-4	par-4	par-4	par-1	cnt-2	cnt-2	cnt-2
+GO:0018022	set-16	met-2	set-2	mes-4
+GO:0055057	egl-46
+GO:0048009	pkc-1	ifta-2	ifta-2
+GO:0051026	syp-3	msh-5	him-14	lis-1
+GO:0051028	npp-10
+GO:1902423	spdl-1	rod-1
+GO:0036065	fut-1	fut-1	fut-8	fut-2
+GO:0036066	C15C7.7	pad-2
+GO:0000707	brc-2
+GO:1901214	hrdl-1
+GO:0010496	inx-19
+GO:0007549	lin-28
+GO:0006897	mca-3	mtm-6	mtm-6	eea-1	ptr-23	cup-4	dyn-1	dyn-1	wdfy-2	vamp-8	eea-1	mtm-6	mtm-9	mtm-9	mca-3	cup-2	vamp-8	vamp-7	mca-3	mca-3	ptr-4	mtm-9	mtm-9	rme-6	lgc-26	tat-1	ptr-18
+GO:0000375	dbr-1
+GO:0006898	dab-1	dnj-25	dnj-25	rme-8	dnj-25	rab-11.1	rme-2	rme-8	chc-1	dpy-23	dyn-1	rab-5	apa-2	apb-1	apb-1	dab-1	dab-1	apb-1	dab-1	ced-1	ced-1	unc-11
+GO:2000369	rme-6
+GO:0000041	smf-2	smf-1	smf-3
+GO:0019953	lat-1	lat-1	ten-1	ten-1	ten-1	ten-1	ten-1	ten-1	drsh-1	orai-1	ten-1	ten-1
+GO:0032964	let-268
+GO:0007043	let-413
+GO:0007041	cup-5	cup-5	cup-5	haf-2	haf-9	haf-9	cup-5	cup-5	haf-4
+GO:0032963	tpst-1
+GO:0010569	rtel-1
+GO:0010224	msh-2
+GO:0033563	seu-1	trim-9	trim-9	sax-3	mig-2	unc-129	unc-129	unc-129	lad-2	unc-44	unc-40	unc-40	unc-40	slt-1	slt-1	slt-1	slt-1	slt-1	slt-1	unc-34	unc-34	unc-34	unc-34	seu-1	seu-1	lad-2	unc-30	unc-30	mau-2	unc-6	unc-6	unc-6	unc-30	ced-10	ced-10	ced-10	unc-44	unc-44	spon-1	spon-1	mig-15	mig-15	mig-15	mig-15	unc-5	unc-44	unc-44	unc-44	seu-1	unc-44	rac-2	trim-9	trim-9
+GO:0010564	daf-16
+GO:0033564	lad-2	fmi-1	fmi-1	lin-17	lin-17	lad-2	mau-2	wnt-2	lin-17	lin-17
+GO:0035973	epg-9	epg-9	epg-9
+GO:0035970	fem-2
+GO:0033211	paqr-1	paqr-2
+GO:0034243	ceh-28	ceh-27	ceh-24	ceh-27
+GO:0042048	odr-1	osm-9	dyf-2	dyf-2	odr-2	gcy-28	dgk-3	tax-4	tax-4	grk-2	tax-6	tax-6	tax-6	odr-3	odr-3	odr-10	tbx-2	odr-1	gcy-28	tax-6	tax-6	tax-6	ceh-37	tax-6	tax-6	tax-6	gcy-28	gcy-28	odr-2	odr-2
+GO:0016082	tom-1	tom-1	tom-1	unc-10	tom-1	tom-1	tom-1
+GO:0072347	unc-7	unc-7
+GO:0043277	crn-3	crn-2	atg-18	unc-108	cmd-1	atg-18	bec-1	unc-51	crn-3	klf-1
+GO:0007131	rec-8	rec-8	pms-2	him-6	msh-5	msh-5	him-17	him-14	msh-6	mlh-1	rec-8	pms-2
+GO:0007130	rec-8	rec-8	him-3	syp-1	syp-3	syp-2	scc-1	coh-1	rec-8
+GO:0043476	daf-14	daf-14	daf-14	daf-14	daf-8
+GO:0033692	glf-1
+GO:1901031	daf-2
+GO:0033365	rsa-1	unc-68	pph-5	rsa-2	rsa-2	unc-68	unc-68	rsa-1	alx-1	spd-5	rack-1	unc-68	daf-25	pph-5
+GO:0016331	hmp-2	hmp-2	efn-4	efn-4	efn-4	efn-4	vab-1	arx-7	cdh-3	apx-1	arx-2	arx-6	die-1	wsp-1	wsp-1	arx-4	mab-20	arx-1	arx-5
+GO:0016337	frk-1	unc-71	ceh-13	vha-12	frk-1	vab-23	vab-23	nsy-4
+GO:0034620	ced-1
+GO:0061357	dpy-23
+GO:0016246	rde-4	ego-1	smg-5	drh-1	rde-1	rde-1	sid-2	nrde-2	zfp-1	nrde-4	haf-2	eri-1	mut-2	mut-2	haf-9	haf-9	mut-16	smg-2	F54F2.2/F54F2.3/F54F2.4	F54F2.2/F54F2.3/F54F2.4	mut-7	sid-3	wht-1	wht-1	nrde-1	sid-5	rde-2	smg-6	gfl-1	nrde-3	nrde-3	rde-2	haf-9	haf-9	mut-2	mut-2	drh-3	nrde-4	haf-6	haf-6	haf-6	smg-6	smg-6	sid-1	sid-1	sid-1	sid-1	mut-16
+GO:0016241	daf-16
+GO:0031129	lin-3	lin-3	lin-3	lin-3
+GO:0030182	mec-3	mec-3	efa-6	lim-6	efa-6	efa-6	egl-46	egl-20	cwn-1	cfi-1	mec-3	mec-3	ceh-14	cwn-1	cnd-1	che-1	mom-2	egl-44	egl-44	lim-6	hlh-3	lin-44	che-1	efa-6
+GO:0031124	cids-2	cids-2	cids-1	cids-2	cids-2
+GO:0015860	pst-2	pst-1
+GO:0031122	mec-7
+GO:0030431	egl-4	acy-1	pde-4	pde-4
+GO:0030433	sel-1	rnf-121	der-2	png-1
+GO:0002098	tut-1	tut-1	tut-1	tut-2	elpc-3	elpc-1	elpc-1
+GO:0043058	unc-26	unc-49	unc-49	unc-26	pag-3	fax-1	unc-49	unc-26	unc-49	unc-26	unc-49	unc-49	unc-49	bar-1	unc-49	stn-1	ace-3	ace-3
+GO:0043059	unc-26	unc-26	pag-3	fax-1	unc-26	unc-26	nmr-1	stn-1
+GO:0005975	hex-3	hex-5	hex-2	cts-1	hex-1	hex-1	pme-3	hex-4
+GO:0005977	oga-1	daf-16	ogt-1	oga-1	ogt-1
+GO:0006559	pah-1	pah-1	pah-1	pah-1
+GO:0043050	smn-1	alp-1	csk-1	alp-1	alp-1	alp-1	alp-1	smn-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	tni-4	unc-54	let-75	unc-36	atp-2	nas-7	nas-5	pxl-1	nuo-1	fat-3	nas-6	nas-6	slo-1	eat-2	eat-2	nas-6	nas-6
+GO:0043051	hlb-1	unc-119	unc-7	unc-7	unc-7	unc-7	unc-7	unc-7	unc-7	unc-7	unc-7	unc-7	avr-15	avr-15	avr-15	egl-8	egl-8	cca-1	cca-1	cca-1	daf-12	avr-15	avr-15	avr-15	unc-13	unc-13	tph-1	tph-1	tph-1	tph-1	daf-12	egl-19	daf-12	unc-119	egl-30	egl-30	egl-30	egl-30	egl-30	gon-14	snb-1	daf-3	eat-16	mlc-2	daf-1	unc-13	unc-13	eat-4	eat-4	snt-1	snt-1	snt-1	unc-17	unc-17	kin-18	unc-29	unc-29	unc-29	unc-29	phb-2	goa-1	goa-1	goa-1	goa-1	daf-7	unc-7	unc-7	unc-7	unc-7	unc-7	nfi-1	unc-119	gpb-2	unc-10	flp-3	cyp-33e2	tph-1	tph-1	tph-1	tph-1	daf-12	gon-14	nfi-1	nfi-1	eat-18	eat-18	egl-8	egl-8	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	cca-1	eat-18	eat-18	avr-14	avr-14	egl-19	eat-16	egl-30	egl-30	egl-30	egl-30	egl-30	nhx-2	T21H8.1	rab-3	avr-15	avr-15	avr-15	avr-14	avr-14	avr-14	avr-14	snt-1	snt-1	snt-1	daf-3	daf-3	rab-3	egl-8	egl-8	phb-1	eat-2	eat-2	eat-2	eat-2	eat-2	gar-3	gar-3	itr-1	itr-1
+GO:0043052	ttx-3	ttx-3	ttx-3	egl-8	ttx-3	ttx-3	ttx-3	maco-1	dgk-3	tax-4	tax-4	tax-6	tax-6	tax-6	ttx-7	ttx-7	ttx-7	egl-8	tax-6	tax-6	tax-6	tax-6	tax-6	tax-6	egl-8
+GO:0043053	dyf-11	kin-29	kin-29	age-1
+GO:0043054	hcf-1	lag-1	lin-12	nuo-1	hlh-13	lag-1	daf-2	daf-25
+GO:0043055	ins-18	strd-1	glp-1	lag-2
+GO:0043056	kvs-1	kvs-1	kvs-1	dys-1
+GO:0043057	unc-53	unc-53	unc-129	unc-53	tni-1	unc-53
+GO:0060537	daf-16
+GO:0006396	crn-3	crn-5	crn-3
+GO:0006777	moc-3	K10D2.7	F49E2.1
+GO:0048589	mog-4	uaf-1	mog-5	uaf-1	ddx-23
+GO:0031050	dcr-1
+GO:0031053	drsh-1	E01A2.2
+GO:0045988	flp-16
+GO:0031054	dcr-1
+GO:0030050	jnk-1
+GO:0045987	stim-1	msp-38	msp-77
+GO:0045980	mai-2
+GO:0006178	CELE_Y105E8B.5
+GO:0007614	add-1	glr-1	add-1
+GO:0006172	ndx-4
+GO:0009449	lim-6	unc-25	lim-6	unc-25	unc-25
+GO:0007608	osm-9	odr-2	odr-2	odr-2
+GO:0031581	pig-1	pig-1	unc-52	math-33	math-33	math-33	math-33	math-33	lst-3	mec-8	pax-3	unc-52	lst-3	lst-3	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	pat-12	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	unc-52	math-33	math-33	crt-1	unc-52	egl-27	pak-1	ntl-9	hrp-1	usp-7	pat-12	pat-12	eel-1
+GO:0007606	tmc-1	bas-1	gcy-28	arl-13	bas-1	sra-10	arl-13	gcy-28	ceh-36	gcy-28	gcy-28
+GO:0006606	ima-2	ima-3	ima-1
+GO:0007603	cng-1	tax-2	che-6	tax-4	cng-3	cng-2
+GO:0045184	unc-24	air-2	knl-1	knl-1	dyf-11	ced-1
+GO:0045185	eps-8	eps-8	eps-8	sas-4	unc-130	unc-130	eps-8	eps-8
+GO:0045186	dlg-1	dlg-1
+GO:0051146	hlh-1
+GO:1902093	cil-1
+GO:0007568	hyl-1	daf-16	daf-16	amt-2	age-1
+GO:0009451	cdd-2	cdd-1
+GO:0008630	mrt-2	hus-1	ced-9	prmt-5	gen-1	msh-6
+GO:0000398	rsp-8	rsp-7	T10C6.5	uaf-1	rsp-4	rsp-4	rsp-5	rsp-6	ptb-1	hrp-1	rsp-2	rsp-1	uaf-1	ptb-1	mog-2	Y46G5A.4	rsp-8
+GO:0006379	csr-1	csr-1
+GO:0022604	sqv-3
+GO:0022600	valv-1
+GO:0051100	gld-3
+GO:0000028	rps-17	rps-0
+GO:0000022	tac-1
+GO:0048169	dgk-3
+GO:0014016	sem-4
+GO:0014018	pag-3	hlh-2	hlh-2	bet-1	hlh-14	hlh-14	bet-1
+GO:0045055	unc-104
+GO:0006952	tol-1
+GO:0006950	rpn-6.1
+GO:0045333	clk-1	nuo-1	nuo-5	nuo-5	nuo-5
+GO:0045332	tat-1	tat-1
+GO:0001678	CELE_F14B4.2	CELE_F14B4.2	CELE_Y77E11A.1	CELE_H25P06.1
+GO:0001676	cyp-33e2
+GO:0048013	vab-2	stam-1
+GO:0048017	unc-54	let-75
+GO:0048016	ipp-5	itr-1
+GO:0000738	crn-4	xrn-2
+GO:0007420	cfz-2	lin-17	mom-5	mig-1	lin-17	sfrp-1	mig-1	cfz-2
+GO:0007423	ram-2
+GO:0044272	cbs-1	cbs-1
+GO:0000737	C47D12.8	lem-3	crn-6	dcr-1	crn-4	nuc-1	nuc-1	dna-2	gen-1	cps-6	cps-6	cps-6	cps-6	dna-2
+GO:0000733	C16A3.1
+GO:0032801	vps-37	tsg-101	mvb-12	vps-28
+GO:0003384	sax-7	sax-7	sax-7	sax-7	hmr-1
+GO:0051321	ksr-2	ksr-2	ksr-2
+GO:0001704	mex-1	mex-1	pie-1
+GO:0001708	sin-3	mex-1	mes-1	mex-1	fos-1	egl-38	fos-1	eor-1	lag-1	fog-3	eor-2	lim-4	hlh-2	hlh-2	hlh-2	pos-1	ksr-1	eor-2	egl-18	cwn-1	bet-1	mex-3	egl-13	sin-3	aha-1	osm-11	glp-1	lin-12	lin-12	lin-11	skn-1	cwn-1	par-5	ceh-10	lag-2	lag-2	lag-2	sel-12	lin-53	rba-1	mab-9	mab-9	lin-28	lin-45	egl-27	hmg-1.2	lin-25	lin-25	dsh-2	dsh-2	bar-1	vrk-1	apr-1	apr-1	egl-13	egl-13	egl-13	lag-1	mex-3	bet-1	mys-1	mys-1	mys-2	mys-2	mys-2
+GO:0001709	ham-2	ham-2	mig-5	ham-1	ham-2	mig-5	chd-3	pie-1	mig-5
+GO:0034969	prmt-5
+GO:0070265	asp-3	asp-3	asp-4	asp-4
+GO:0070262	gsp-2	gsp-2
+GO:0032970	rga-4	rga-4	rga-4	rga-4	rga-3	rga-3	rga-3	rga-3	cdc-42	rho-1	rho-1	ect-2	ect-2	rga-4	rga-4	rga-4	rga-4	ect-2	ect-2
+GO:0051259	hlh-1
+GO:0000819	cin-4	R05D3.12	K12D12.1	CELE_Y46H3C.4
+GO:0033514	C15B12.1
+GO:0051256	zen-4	zen-4	zen-4	zen-4	air-2	cdc-14	zen-4	zen-4	zen-4	zen-4
+GO:0035966	ire-1	ire-1	hsf-1	hsf-1	hsf-1	hsf-1	dnj-19	C30C11.4	ire-1	ire-1	pek-1	pek-1	CELE_F08H9.4	atf-6	stc-1
+GO:0034504	ldb-1	ldb-1	ldb-1	lpin-1
+GO:0033227	sid-1	sid-1
+GO:0034501	spdl-1	spdl-1	spdl-1
+GO:0034502	smo-1
+GO:0042059	ark-1	ark-1	ark-1	ark-1	ark-1	ark-1
+GO:0043267	mps-1
+GO:0043266	mps-3	mps-4	sup-10	mps-1	mps-1	mps-2	mps-2	unc-93	mps-2
+GO:0007147	plk-1
+GO:0000184	smg-3	smg-5	smg-3	smg-7	smg-1	smg-8	smg-2	smg-6	smg-4	smg-4	smg-6	smg-6	smg-9	smg-9
+GO:0007143	kgb-1	mei-1	mek-1	mek-1
+GO:0007140	kgb-1	puf-8	mek-1	mek-1
+GO:0007389	pes-1	cog-1	cog-1	fkh-8	daf-16	fkh-10	fkh-4	fkh-3	lin-31	let-381	fkh-6	unc-130	fkh-5	fkh-9	fkh-2	fkh-9	fkh-9	fkh-7	fkh-7	ceh-8	fkh-2	zig-5
+GO:0072689	mcm-7
+GO:0015693	unc-105
+GO:0015695	oct-1
+GO:0045604	frk-1	frk-1	lin-41
+GO:0015698	abts-1	abts-1	abts-1	avr-14	avr-14	avr-14
+GO:0030336	srgp-1	srgp-1	abl-1	srgp-1	swan-1
+GO:0016344	rec-8	rec-8	rec-8
+GO:0030334	vab-8	mig-32	mig-21	mig-21	mtm-6	pmr-1	mtm-6	pmr-1	lin-17	cogc-1	egl-17	mig-1	unc-40	unc-40	pmr-1	egl-20	egl-20	unc-83	spat-3	daf-9	wip-1	cogc-3	sop-2	sop-2	lrp-2	unc-39	cogc-8	mab-5	lin-11	mig-10	unc-6	unc-6	ceh-10	acin-1	ced-10	lrp-1	egl-27	egl-27	unc-83	sor-3	ndc-80	bar-1	mig-32	unc-84	mig-17	mig-17	mig-17	mig-17	mig-17	rack-1	apr-1	cogc-6	crml-1	vab-8	cogc-2	mig-23	mig-23	egl-43	spat-3	unc-83	mtm-6	cogc-3	mtm-9	egl-43	mig-14	ced-12	wip-1	mab-20	cogc-4	lin-17	sop-2	mtm-9	mig-1	itr-1
+GO:0035211	nhr-6	nhr-6
+GO:0034613	sad-1	syd-1	Y97E10AR.7	lrk-1	lrk-1	lrk-1
+GO:0051647	zyg-12
+GO:0051642	tba-2	sun-1	zyg-12
+GO:0051640	spe-15
+GO:0010587	xrn-2	xrn-2
+GO:0051489	itr-1
+GO:0051481	mca-3	mca-3	mca-3	mca-3
+GO:0007098	plk-1	spd-2	mett-10	cyb-3
+GO:0007099	sas-6	sas-6	sas-4	spd-2	sas-5	sas-5	zyg-1	zyg-1
+GO:0007094	san-1	spdl-1	spdl-1	mdf-2	mdf-2	bub-3
+GO:0007097	dnc-1	dnc-1	unc-83	unc-83	nud-2	nud-2	dnc-2	unc-83	unc-83	unc-84	unc-83	unc-83	dnc-1
+GO:0046512	W02F12.2
+GO:0007091	mat-2
+GO:0007093	zwl-1
+GO:0031113	tac-1
+GO:0031117	spas-1	spas-1
+GO:0031118	Y48A6B.3
+GO:0030422	rrf-1	rde-4	rde-4	rde-4	rrf-1	dcr-1	drh-3
+GO:0030421	gon-2	gon-2	unc-16	unc-16	shn-1	unc-16	unc-16	lim-6	pbo-4	aex-1	aex-1	exp-1	gtl-1	gtl-1	pbo-5	gon-2	gon-2	aex-1	aex-1	hid-1	flr-1	gon-2	gon-2	gon-2	gon-2	ten-1	ten-1	ten-1	gon-14	gon-14	snb-1	aex-3	aex-3	wts-1	unc-104	crt-1	unc-16	snt-1	atp-2	phb-2	aex-5	aex-5	hipr-1	shn-1	nuo-1	lim-6	unc-10	fat-3	gon-14	gon-14	shn-1	hid-1	ten-1	gon-2	gon-2	snt-1	phb-1	kqt-2	flr-4	polg-1	itr-1	itr-1
+GO:0001510	C02F5.6	tag-72	Y39A1A.14
+GO:0015871	cho-1	cho-1	snf-6
+GO:0015870	unc-26	unc-26	unc-26	unc-26	snf-6	unc-17	unc-17	stn-1	dys-1	dyb-1
+GO:0010800	strd-1
+GO:0061433	hif-1
+GO:0034765	cng-1	slo-2	kqt-3	slo-2	unc-103	unc-103	slo-2	kqt-1	kqt-3	unc-103	tax-2	unc-103	unc-103	unc-103	unc-103	unc-103	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-1	slo-2	slo-2	slo-2	slo-2	egl-2	che-6	tax-4	twk-18	twk-18	clhm-1	unc-58	slo-2	cca-1	unc-2	cng-3	kqt-1	kqt-2	kqt-2	cng-2	kqt-3
+GO:0006548	F47B10.2
+GO:0010032	rad-51	rad-51
+GO:0043044	snfc-5
+GO:0010466	sbt-1
+GO:0043281	ced-4
+GO:0043280	pes-1	fem-2	fkh-6
+GO:0043282	ceh-22	ceh-22	eff-1	eff-1	glp-1	glp-1	ceh-22	tbx-35	pop-1	pop-1	tbx-2	tbx-2	pha-2	eff-1	eff-1	ubc-9	ceh-51	ceh-51
+GO:0006383	rpac-19	rpb-6	rpc-1	rpb-8	rpc-2	rpb-10	rpb-5	rpb-12	rpac-40
+GO:0030154	ceh-6	ceh-10	apx-1	let-858	pha-4	snfc-5	par-4
+GO:0060259	ags-3	goa-1	ags-3	ags-3	ric-8
+GO:0006769	pnc-1	pnc-2	pnc-1
+GO:0010977	rhgf-2
+GO:0045995	uggt-2	wrm-1
+GO:0030517	unc-119	unc-119	unc-119
+GO:0072327	let-765	let-765	let-765	bed-3
+GO:0072325	met-2
+GO:0030513	daf-4	daf-4	daf-4
+GO:0030512	unc-2	unc-2	unc-2	unc-2	che-2	lon-2	lon-2	che-3	bra-1	unc-2	unc-2	unc-2	unc-2	unc-2	unc-2
+GO:0030511	tph-1	tph-1	sma-10	tph-1	tph-1	daf-11	sma-10
+GO:0030510	drag-1
+GO:0051156	CELE_F14B4.2	gspd-1	CELE_F14B4.2	CELE_Y77E11A.1	CELE_H25P06.1
+GO:0030199	adt-2	adt-2	adt-2
+GO:0030198	fbl-1	emb-9	cyn-9
+GO:0043137	F10C2.4
+GO:0006166	CELE_Y105E8B.5
+GO:0043134	snb-1
+GO:0006168	CELE_Y105E8B.5
+GO:0035021	crml-1
+GO:0007631	unc-119	egl-10	egl-10	unc-119	egl-30	feh-1	feh-1	unc-104	glr-1	kin-18	egl-10	unc-119	npr-1	npr-1	gpb-2	gcy-36	cat-1	egl-30	feh-1	cat-1
+GO:0036265	W02B12.10	tag-72
+GO:0015837	dat-1
+GO:0007638	mec-1	mec-1	mec-3	mec-9	mec-8	mec-8	lgc-55	smu-1	ldb-1	mec-5	mec-1	mec-1	mec-2	kvs-1	kvs-1	mec-6	mec-3	mec-7	unc-86	unc-86	mec-4	mec-10	flp-1	cat-2	mec-12	mec-9	mec-2	mps-1	mec-1	mec-1	mec-1	mec-1	mec-1	mec-1	kvs-1	dop-1	dop-1	dop-1	dop-1	ldb-1	mec-2	smu-2	ldb-1
+GO:0006612	num-1
+GO:0045197	sptl-1	let-767	lin-26	pod-2	acs-1
+GO:0048484	unc-130
+GO:0048485	unc-130
+GO:0042427	bas-1	bas-1
+GO:0048488	unc-26	ehs-1	unc-26	unc-26	unc-26	snt-1	snt-1	ehs-1	unc-11
+GO:0048489	unc-16	unc-16	unc-16	unc-16	unc-26	unc-16	unc-16	unc-16	unc-16	cdk-5	unc-26	unc-26	nud-1	unc-26	nud-2	sng-1	unc-116	unc-16	unc-16	klc-2	cdka-1	lnp-1	dhc-1	sad-1	cdka-1	lis-1	lrk-1
+GO:0000381	asd-2	asd-2	asd-2	asd-2	asd-2	asd-2	sup-12	CELE_W04D2.6	asd-2	asd-2	sup-12	mfap-1
+GO:0000380	sup-12	sup-12
+GO:0000389	mog-2
+GO:0048808	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73	unc-73
+GO:0048620	mab-9
+GO:0048621	wts-1
+GO:0031647	wip-1	rpm-1	wsp-1	wsp-1	wip-1
+GO:0051306	sep-1	cls-2	mel-47	hcp-2
+GO:0005978	CELE_R05F9.6
+GO:0006942	unc-104
+GO:0023051	mig-5	dsh-2	mig-5	mig-5
+GO:0009650	csb-1
+GO:0007411	vab-8	unc-53	zag-1	unc-53	ceh-17	cam-1	cfz-2	cle-1	cle-1	unc-53	cle-1	egl-46	pxn-2	cle-1	cam-1	ten-1	sop-2	sop-2	vab-1	pry-1	unc-6	pink-1	sor-3	cdh-4	sad-1	crml-1	vab-8	unc-51	cam-1	axl-1	unc-53	mab-20	sop-2	cfz-2
+GO:0009653	fos-1	fos-1	egl-13	daf-6	egl-13	egl-13	egl-13	lit-1	lit-1
+GO:0007414	epi-1	epi-1	epi-1	epi-1
+GO:0007416	sam-10	sam-10	nlg-1	ptp-3	ptp-3	nlg-1	ldb-1	nlg-1	unc-4	lnp-1	sad-1	nab-1	ptp-3	ldb-1	ptp-3	ldb-1	nlg-1
+GO:0000723	mrt-2	hus-1	dog-1	ceh-37	clk-2
+GO:0010165	lem-3	lem-3	lem-3	smk-1	smk-1	him-1	emr-1	him-6	baf-1	baf-1	him-1	smk-1	clk-2	msh-2	lem-2
+GO:0042886	haf-2	haf-3	haf-8	haf-4	haf-7
+GO:0000724	brc-1	brc-1	C47D12.8	brc-2	gen-1
+GO:0022618	Y48A5A.1
+GO:0008380	rsp-5	rsp-6	rsp-2	rsp-1	rsp-3
+GO:0022615	mks-5
+GO:0070782	ced-8
+GO:0003391	D1044.2	D1044.2	dyf-8	dyf-8
+GO:0045454	tpi-1	png-1
+GO:0051315	ndc-80	hcp-6	hcp-6
+GO:0008637	drp-1	egl-1	drp-1
+GO:0001712	pal-1
+GO:0001715	lin-59
+GO:0001714	mig-5	mig-5	mig-5	end-1	end-1	end-1	src-1	src-1	src-1	mom-5	mom-5	tap-1	med-2	med-2	med-1	med-1	med-1	skn-1	skn-1	mom-2	mom-2	mom-2	mom-2	mom-2	wrm-1	dsh-2	dsh-2	dsh-2	apr-1	apr-1	apr-1	mig-5	mig-5	mig-5	mom-1	mom-1	mig-14	mig-5	mig-5	mig-5	lit-1	mom-4	end-3	end-3	end-3	end-3	end-3	end-3
+GO:0007567	vab-15	cav-2	unc-58
+GO:0034975	ero-1
+GO:0034976	shc-1	shc-1	shc-1	kgb-1	pink-1	shc-1	lrk-1
+GO:0045773	unc-73	unc-53	zag-1	unc-53	unc-53	unc-73	unc-73	unc-73	unc-73	unc-5	unc-73	unc-73	unc-73	unc-53	unc-73
+GO:0017085	bre-1
+GO:0040002	pxf-1	pxf-1	pxf-1	pdi-3	pdi-3	pxf-1	pxf-1	vha-5	fat-2	bli-4	sqt-3	pah-1	bli-2	rap-2	bli-3	sqt-3	sqt-3	sqt-1	col-14	col-19	col-34	col-40	dpy-10	bli-4	pah-1	dpy-5	bli-1	dpy-18	rap-1	rap-1	fat-3	nas-37	ani-1	rbd-1
+GO:0040001	saps-1	saps-1	mes-1	cdc-42	pph-6	par-3	saps-1	let-711	zyg-8	csn-3	par-6	dcn-1
+GO:0040007	uba-1	crn-3	eef-1a.2	hda-4	eft-3	C47E8.4	wrn-1	uba-1	uba-1	eef-1a.2	eef-1a.2	crn-3	flr-4	frh-1
+GO:0040009	lap-1	apy-1	mek-1	rsp-2	rsp-1	mek-1
+GO:0051260	C06C3.8	C06C3.8	spas-1	C34B2.6	CELE_R13H4.6	spas-1	spas-1	CELE_F46F5.5	C08G5.1
+GO:0015739	cima-1
+GO:0071230	Y97E10AR.7
+GO:0007155	egl-27	par-3	ceh-43	bar-1	par-6
+GO:0007154	grd-5	grd-7	wrt-5
+GO:0007399	unc-83	hmp-2	hmp-2	lin-5	sel-12	dig-1	unc-83	unc-130	unc-84	ceh-30	unc-83	dig-1	ptp-3
+GO:0007398	lin-26
+GO:0001933	pie-1
+GO:0001932	mig-2
+GO:0001934	tlf-1	tlf-1	cyb-1	cyb-3	wrm-1
