@@ -1,5 +1,5 @@
 # GOUtildata
-Data for the Pathway Viz project
+Data for the Funset project
 
 ## Naming convention for the filenames with multiple organisms and namespaces
 `<filetype>.<organism>.<namespace>.txt
