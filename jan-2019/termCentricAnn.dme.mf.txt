@@ -1,0 +1,2181 @@
+GO:0016807	Dmel\CG14142	mindy3
+GO:0004814	ArgRS-m	ArgRS-m	ArgRS	ArgRS
+GO:0034513	CG4038	NHP2	CG7637
+GO:0034512	WDR79
+GO:0034511	U3-55K	CG7338	Dmel\CG7728	Dmel\CG3735
+GO:0017176	PIG-A	PIG-Q
+GO:0004510	Trh	Trh
+GO:0001069	mle
+GO:0017172	Dmel\CG5493
+GO:0017171	kraken
+GO:0035174	aurA	ial
+GO:0035175	JIL-1	JIL-1	JIL-1	JIL-1
+GO:0035173	tefu	Cdc7
+GO:0017178	Dmel\CG1578	Dmel\CG1578
+GO:0050833	Mpc1	Mpc1	Dmel\CG32832	Indy-2	Indy-2	Dmel\CG9399	Dmel\CG9399	Dmel\CG9396	Dmel\CG9396	Indy
+GO:0001226	mid
+GO:0004146	Dhfr	Dhfr	Dhfr
+GO:0030292	Dmel\CG8060
+GO:0050839	pyd	Gfrl	cindr	cindr	Dmel\CG15080	Fas1	Nrg	Dmel\CG5758	mew	otk	mfas	mfas	CG32972	stan	cno	dock	dock	dock	dock	ed	rols	kug	Fit1	kirre	X11L
+GO:0030295	RpLP1	ksr	mats	mats	mats	chif	gnu	Pdk1
+GO:0030296	Cdc37	ASPP
+GO:0030297	Dmel\CG41520	BG:DS00929.7	jeb	jeb	FBpp0082632	FBpp0071364
+GO:0004144	mdy	mdy	CG10599
+GO:0004516	Naprt	Naprt
+GO:0042030	SK[[66]]
+GO:0097177	P32
+GO:0001222	per
+GO:0035226	Gclm	Gclm
+GO:0004518	Ddx1	Tudor-SN	Tudor-SN	PGAP1
+GO:0051787	Hsp68	Hsp70Ab	Hsc70-2	Hsc70-4	Hsc70-1	Hsc70-3	Hsc70-5	Hsp70Aa	Hsp70Ba	Hsp70Bc	Hsp70Bb	Hsp70Bbb	P58IPK	Dmel\CG7182
+GO:0001181	Tif-IA
+GO:0033932	FucTA
+GO:0017002	put
+GO:0031072	stv	HIP	Hsp68	Hsp70Ab	Hsc70-2	Hsc70-4	Hsc70-1	Hsc70-3	Hsc70-5	Hsp70Aa	Cdc37	lwr	lwr	HIP-R	Hsp70Ba	Hsp70Bc	Hsp70Bb	Spag1	Hsp70Bbb	CG6693	Dmel\CG7182
+GO:0031071	CG12264	CG12264
+GO:0005026	put	put	put	wit	wit
+GO:0035004	Pi3K92E	Pi3K68D	Pi3K59F
+GO:1990226	nej
+GO:0005484	Vti1b	Vti1b	nSyb	nSyb	nSyb	Syx17	Syx17	Syx17	Sec22	Sec22	Syb	Syb	Snap25	Snap25	Snap25	Snap25	Syx5	Syx5	Syx5	Syx1A	Syx1A	Syx1A	Syx1A	Syx6	Syx6	Syx6	Vamp7	Vamp7	Vamp7	Syx7	Syx7	Syx7	Syx4	Syx4	Syx18	Syx18	Gos28	Gos28	Gos28	Snap24	Snap24	Snap24	Dmel\CG2023	Syx16	Syx16	Syx16	Syx16	Membrin	Membrin	Membrin	Use1	Syx13	Syx13	Syx13	Syx8	Syx8	Bet1	Bet1	Vti1a	Vti1a	Vti1a	Snap29	Snap29	Snap29	Ykt6	Ykt6
+GO:0005483	alphaSnap	alphaSnap	alphaSnap	alphaSnap	alphaSnap	gammaSnap1	gammaSnap1	gammaSnap2	gammaSnap2
+GO:0022883	ZnT63C	ZnT35C	ZnT77C
+GO:0022889	Sfxn1-3	Sfxn2
+GO:0097003	AkhR	AkhR	AkhR
+GO:0097001	cert
+GO:0043140	mle	hay	RecQ5	Fancm	Ino80	Arp5	obe	Blm	Blm	RecQ4	RecQ4	Arp8
+GO:0097005	Akh
+GO:0051879	Dmel\CG15120	spag	CG16817	unc-45	Dmel\CG17349	Stip1	STUB1	STUB1
+GO:0048495	sli	sli	comm
+GO:0036456	Eip71CD
+GO:0070891	Npc2h	Npc2e	Npc2a
+GO:0047918	Gmer
+GO:0004849	l(2)k01209
+GO:0004846	Uro	Uro
+GO:0004844	Thd1	Dmel\CG5285
+GO:0004845	kri
+GO:0004842	CT8327	CT8327	Ppa	Ppa	dnr1	dnr1	bon	slmb	slmb	Dmel\CG5555	FBXO19	FBXL11	FBXL11	gus	BcDNA:GH28095	fsd	anon-EST:GressD1	anon-WO0140519.220	FBXO10	Fem-1	Dmel\CG13442	Dmel\CG9003	Dmel\CG9003	tn	Dmel\CG8786	Trim9	Cnot4	Cnot4	Hakai	Dmel\CG16781	mei-P26	ari-2	Pli	SkpA	sina	Ubc6	ben	Ubc2	Ubc2	Ubc2	Ubc2	Ubc4	Ubc84D	Ubc84D	Diap1	Diap2	NICE5	HDC08169	Fbl6	Fbl6	Dmel\CG33552	CG12339	UbcE2H	EloC	Dmel\CG10916	CYC4	dmpd	nopo	POSH	CG46338	SkpB	Prp19	Prp19	Trc8	park	Skp2	Dmel\CG31807	LUBEL	Dmel\CG32847	Dmel\CG32221	Dmel\CG32221	Traf-like	Dmel\CG32581	CG13638	Dmel\CG32850	Vps11	ntc	Dmel\CG40045	sinah	Dmel\CG15056	FBXO15	Fancl	sip3	m-cup	hiw	Vhl	BcDNA:AT18988	Fsn	Fsn	Smurf	Dmel\CG2218	Dmel\CG2010	Dmel\CG5003	Sce	Dmel\CG17991	Dmel\CG4813	qin	CG7694	Dmel\CG14317	Dmel\CG5823	Dmel\CG14891	Fbxl7	Fbxl7	Dmel\CG6752	CG6966	Ubc87F	Dmel\CG5961	Dmel\CG5961	FBXO11	mura	Kdm2	Dmel\CG11982	Dmel\CG9316	Dmel\CG9316	FBXO3	mib2	mib2	BcDNA:AT16033	DS08249.3	Dmel\CG14937	Ufd4	Dmel\CG8419	poe	Rca1	Nse1	Nse1	Nse1	Dmel\CG31633	Dmel\CG13766	Rchy1	Fbw5	SP555	jet	jet	Dmel\CG9855	ctrip	FBXL12	Mkrn1	Dmel\CG4042	Pex12	Pex12	Dmel\CG5440	Dmel\CG4238	HERC2	Bre1	Dmel\CG7376	Ubc12	Pex2	Cbl	Dmel\CG5087	Dmel\CG4911	4080	pall	AAN11912.1	CG6060	CG6060	Dmel\CG11658	FBgn0036324	Dmel\CG13481	Dmel\CG7656	elgi	Dmel\CG10516	mib1	mib1	roq	Dmel\CG13025	FBXO8	Nedd4	Nedd4	Dmel\CG12477	SkpE	SkpC	SkpD	CG8188	Ubr1	Ubc7	Dmel\CG8974	Dmel\CG5347	Dmel\CG5334	Fbxl4	Fbxl4	x93	Dmel\CG2247	Dmel\CG17030	ago	Mul1	Dmel\CG14983	Dmel\CG1317	Pex10	Dmel\CG12099	Dmel\CG3356	SkpF	FBXO6	Dmel\CG3295	APC4	Dmel\CG10761	Traf6	Traf6	Dmel\CG14435	EG:100G10.2	snama	Dmel\CG10254	Dmel\CG4325	Su(dx)	morgue	URE-B1
+GO:0004843	eIF3f2	Usp32	otu	Uch	Uch	Uch	faf	faf	faf	Usp47	Usp47	DUBAI	DUBAI	Usp20-33	calypso	calypso	calypso	Usp1	Usp1	CYLD	CYLD	CYLD	CYLD	Usp2	Rpn11	Rpn11	Q9VA71	Q9VA71	ALiX	puf	Usp12-46	Usp12-46	Usp8	trbd	trbd	Usp14	CG4968	CG4968	eIF3f1	Dmel\CG3251	CG4603	CG4603	scny	scny	Duba	Duba	Q9VUN9	Q9VUN9	not	Usp39	Uch-L5R	Uch-L5R	Usp7	Usp7	Usp7	Usp7	Usp5	Usp5	Usp10	Usp15-31	CG3781	CG3781	Usp30	Usp30	Usp16-45	Usp16-45	Uch-L5	Uch-L5
+GO:0030676	mbc	CG8907-RB	Sos	Sos	sif	aru	pbl	Vav
+GO:0030674	pod1	mbf1	Su(var)205	dor	Vps11	wech	Dmel\CG17270	cal1	Sbf	Sgt1	Elba3	Pex3	BTBD9	raptor
+GO:0004536	Drep4	Sid
+GO:0004535	Not1	PAN2	PAN2	Not3	twin	Rga	PAN3	Pop2	Pop2	Pop2
+GO:0004532	Dis3
+GO:0090409	Dmel\CG18155
+GO:0004530	Dcr-2	Dcr-1
+GO:0004531	DNaseII	DNaseII	DNaseII
+GO:0005001	Ptp52F	Ptp69D	Lar	Ptp99A	Ptp10D	Ptp10D	Ptp4E
+GO:0048365	Pak3	Pak3	Pak3	Pak	Pak	Hem	Whamy	RhoGAP92B	RhoGDI	mbt
+GO:0005005	Eph	Eph	Dmel\CG10702
+GO:0002055	Aprt
+GO:0005006	Egfr	Egfr	Egfr	Egfr	Egfr
+GO:0005009	InR	InR	InR	InR	InR	InR
+GO:0002058	su(r)
+GO:0005229	subdued	subdued	Best1	Dmel\CG6938	Dmel\CG10353	tty	BG:DS04929.1	Dmel\CG14540	CG3638
+GO:0005228	SLO2	SLO2
+GO:0008022	lincRNA.804	vg	Sirt1
+GO:0008026	mle	obe	Ddx1	l(3)72Ab
+GO:0008028	Dmel\CG12866	MCT	Dmel\CG8389	Sln	Sln	Dmel\CG11665	Dmel\CG8468	chk	out	Dmel\CG8051	Dmel\CG8034	Dmel\CG14196	Dmel\CG13907	Mct1
+GO:0005220	Itp-r83A	Itp-r83A
+GO:0005223	CngA	CG13530	CngB
+GO:0005222	CngA	CG13530	CngB
+GO:0005227	CT31310	BG:DS04929.1	pain
+GO:0031491	Chd3	Hira	Mi-2	Mi-2	Ssrp	esc	esc	Pcl	Caf1	dre4	dre4	Su(z)12	escl	Dmel\CG31917	Dmel\CG42304	Spt6
+GO:0031490	nclb	Mtor	ADD1	Blimp-1	SoxN	Smox	Smox	His1	His1	His1:CG33861	His1:CG33834	His1:CG33807	His1:CG33801	Nup62	Nup50	Mes-4	pho	Su(z)12	Nup98-96	Nup98-96	JHDM2	Tor	Utx	Wbp2	CG14215	Nup153	Nup93-1
+GO:0009007	anon-89Eb
+GO:0031492	His3.3B	His1	His3	His3	Ssrp	His1:CG33861	His1:CG33834	His1:CG33807	His1:CG33801	BigH1	cid
+GO:0003941	Srr
+GO:0000285	fab1	fab1
+GO:0000287	awd	RpLP0	Nmdmc	Fen1	Miro	21064207	Gs1l	dUTPase	Dmel\CG5556	Dmel\CG5561	Dmel\CG5565	CG3326	aay	aay
+GO:0004441	Ipp	Ipp	Ipp	CG15743
+GO:0004447	Iyd	Iyd
+GO:0004445	5PtaseI	5PtaseI
+GO:0004995	TkR86C	TkR86C	TkR86C	TkR86C	TkR99D	TkR99D	TkR99D	TkR99D	TkR99D	NPFR	NPFR
+GO:0004448	Idh
+GO:0004449	Dmel\CG5028	Idh3b	l(1)G0156	l(1)G0156
+GO:0004993	5-HT2B	5-HT2B	mAChR-A	5-HT7	5-HT7	5-HT7	5-HT7	5-HT1A	5-HT1A	5-HT1A	5-HT1A	5-HT1B	5-HT1B	5-HT1B	5-HT1B	Dop1R1	Oamb	5-HT2A	5-HT2A	5-HT2A	5-HT2A	mAChR-B
+GO:0051019	MAPk-Ak2	Lk6	Sirt1	Pp2C1
+GO:0051018	rg
+GO:0051011	Patronin	Patronin	Patronin	gammaTub23C	DS02252.3	Grip75	Dmel\CG7716	Grip163	Grip128	Grip84	Grip84	Grip91	Grip91
+GO:0051010	Eb1	Dmel\CG18190	Kank	nod	Lis-1	NEST:bs25f07	EB1	msps	CLIP-190	Spindly	Dmel\CG2955	Dmel\CG15306
+GO:0008288	sev
+GO:0008289	CG5077	Synd	Dmel\CG3860	CheB42b	CheB42c	Dmel\CG1513	CheB53a	CheB53b	Cip4	CG43113	usp	CheB42a	CheB74a	CheB38a	CheB38b	CheB93b	Coq9	Dmel\CG30392	CheB98a	Osbp	CheB93a	CheB38c	Dmel\CG6299	Clic	unc-119	cert	Nost
+GO:0051015	Shroom	Dmel\CG7744	Vrp1	Vrp1	bt	pod1	Unc-115a	d	Msp300	Spn	zormin	bif	Arpc1	Tm2	Actn	cpb	Tm1	Tm1	jar	hts	f	sn	sn	Mhcl	Dmel\CG10984	Fim	Hip1	scra	WASp	psidin	Arpc3A	twf	sals	Arpc2	Akap200	Arpc5	flr	Abp1	FRG1	Arpc3B	cpa
+GO:0001653	Dmel\CG33958	CG9783	RYa-R	Gyc76C	Gyc76C	GYC	CG4224	PK2-R2	GYC	FMRFaR
+GO:0048037	Dmel\CG12338	Dmel\CG11236
+GO:0008732	Dmel\CG10184
+GO:0048039	mt:ND4	SdhB	Coq10	SdhD	SdhD	UQCR-Q
+GO:0050220	CG5579	Mgstl	Su(P)	CG16817	Dmel\CG33178
+GO:0004666	Pxt
+GO:0004667	GstS1
+GO:0004197	Dmel\CG4847	Drice	Drice	Drice	Drice	Drice	Drice	Drice	Drice	Drice	Dcp-1	Dcp-1	Dcp-1	Dcp-1	Dcp-1	Dcp-1	Dcp-1	Dcp-1	faf	Usp47	DUBAI	Dmel\CG6337	Dmel\CG6347	Damm	Damm	Damm	Damm	Damm	Damm	Strica	Strica	Usp1	Dredd	Dredd	Dredd	Dredd	Dredd	Dredd	Dredd	Cp1	Cp1	Sras	26-29-p	Usp12-46	Decay	Decay	Decay	Decay	Atg4b	Dmel\CG5367	CG12163	Dmel\CG11459	Atg4a	Atg4a	scny	CtsB1	CtsB1	Usp7	Usp5	Usp30	Usp16-45	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc
+GO:0004190	Dmel\CG10104	cathD	Dmel\CG5863	Dmel\CG5860	Dmel\CG17283	Dmel\CG17134	Dmel\CG6508	Bace	CG10872	CG10872	CG10872	Pgcl
+GO:0004663	Dmel\CG12007	Dmel\CG12007	temp	betaggt-II	betaggt-II
+GO:0003896	DNApol-alpha50	DNApol-alpha60
+GO:0019799	CG3967	CG17003
+GO:0003899	CG33005-ORFA	RpIIIC160	RpII33	RpII33	RpII215	RpII215	RpII215	RpII140	RpII140	RpI135	RpIII128	RpII15	RpII15	RpII15	RpI1	RpII18	Rpb12	Rpb5	Rpb5	Rpb5	Rpb10	Rpb10	Rpb10	RpI12	Rpb4	Rpb4	Rpb4	Rpb4	Rpb4	Rpb7	Rpb7	Rpb7	Coq2	l(2)37Cg	l(2)37Cg	Rpb11	Rpb11	Rpb11	Dmel\CG13773	mtRNApol	mtRNApol	lincRNA.S4825
+GO:0004198	sol	sol	sol	CalpA	CalpA	CalpA	CalpA	CalpB	CalpB	CalpB	CalpB	CalpB	CalpC
+GO:0016316	FBgn0259166
+GO:0017174	Gnmt
+GO:0008609	ADPS	ADPS
+GO:0003878	ATPCL
+GO:0015189	Dmel\CG7255	slif	Dmel\CG5535
+GO:0003872	Pfk	Pfk	Pfk
+GO:0008353	Cdk9	Cdk9	Cdk9	Cdk9	CycH	CycH	hay	Cdk7	Cdk7	Mat1	Xpd	Tfb1	Cdk12	Cdk12	Cdk12	Cdk12	Cdk12	Tfb4	Tfb4	mrn
+GO:0003870	Alas	Alas	Alas
+GO:0008603	Pka-R1
+GO:0015181	Dmel\CG7255	slif	Dmel\CG5535
+GO:0003874	pr
+GO:0008607	Elp1	CG6907	Elp3
+GO:0032357	RpS3	RpS3	RecQ4
+GO:0046989	GlcAT-S	GlcAT-P
+GO:0070064	Cortactin
+GO:0070063	Su(var)205	Ell
+GO:0036143	Lerp
+GO:0046988	GlcAT-S	GlcAT-P
+GO:0015217	PMP34
+GO:0050313	CG30022;CG30023	CG30022;CG30023
+GO:0001729	Mulk	Cerk
+GO:0004068	b
+GO:0004069	Got1	Got1	Got1	Got1	Got2	Got2	Got2	Got2
+GO:0019003	Gie
+GO:0004060	AANAT1
+GO:0004061	KFase	KFase
+GO:0042943	NAAT1
+GO:0004066	AsnS
+GO:0004067	Dmel\CG8526	CG7860	Dmel\CG6428
+GO:0019213	HDAC6	sfl
+GO:0019212	uri	uri
+GO:0070087	Ssrp
+GO:0071933	GMF
+GO:0071424	CG14683
+GO:0008519	Rh50	Amt
+GO:0016639	Dmel\CG4872
+GO:0008514	l(2)03659
+GO:0008515	Slc45-1
+GO:0008517	Dmel\CG8026	Dmel\CG8026
+GO:0008510	Ndae1	Ndae1
+GO:0008511	Ncc69	Ncc69	Ncc69	NKCC
+GO:0015501	Eaat2	Eaat1	Eaat1
+GO:0140078	RpS3	RpS3	AlkB	Ogg1	NTH1
+GO:0070406	r
+GO:0070403	Sirt2	Sirt1	Uxs
+GO:0070402	Dhpr
+GO:1990380	Usp2	Dmel\CG14142	mindy3	Usp5
+GO:0004346	G6P
+GO:0018392	FucTA
+GO:0017077	Ucp4B	Ucp4C	Ucp4A
+GO:0016790	UFSP1	UFSP2
+GO:0044715	Dmel\CG12567
+GO:0052650	Dmel\CG30495	BcDNA:SD07613	CG30491;CG30495	Dmel\CG2065	Dmel\CG11200	Dmel\CG2070	CG7117	Dmel\CG7675	lincRNA.959
+GO:0047631	Dmel\CG8128
+GO:0016740	Dyrk2
+GO:0019182	ort	ort	HisCl1
+GO:0016746	Agpat3	Taz	Agpat4	rasp	rasp	rasp	Dmel\CG6903	Dmel\CG6903
+GO:0019187	egh	egh	egh
+GO:0019186	AANATL2
+GO:0032137	spel1	Msh6
+GO:0070530	ref(2)P	LUBEL	key	trbd	Vps13D
+GO:0046404	28573184
+GO:0004462	Glo1
+GO:0046403	28573184
+GO:0016160	Amyrel
+GO:0047134	EG:140G11.5	EG:140G11.5	cl	cl	Dmel\CG13473
+GO:0004801	Taldo
+GO:0008111	Amacr
+GO:0004468	mof
+GO:0071209	Lsm11
+GO:0016298	Hydr1	Hydr1	Dmel\CG6472	anon-SAGE:Wang-018	anon-SAGE:Wang-018	Dmel\CG5665	Lip4	Lip1	Lip3	Dmel\CG11598	Dmel\CG11598	Hydr2	Hydr2	CG31684	Dmel\CG8093	Dmel\CG8093	Dmel\CG11406	CG5990	Dmel\CG3635	Dmel\CG6675	Dmel\CG6271	Dmel\CG6277	Dmel\CG6283	Dmel\CG17191	Dmel\CG17192	DmelL6	Dmel\CG6296	CG5990	Dmel\CG4582	Dmel\CG6753	Dmel\CG11608	Dmel\CG11600	CG12294	Dmel\CG13282	Lip2	CG17087	Acp	Acp	CG17101	ORE-4	Dmel\CG18302	Dmel\CG18301	Dmel\CG7367	mag	CG31686	Dmel\CG2772	Dmel\CG10116	Dmel\CG6847	Dmel\CG5162	Dmel\CG10357	Dmel\CG1986	Dmel\CG5966
+GO:0071207	Slbp
+GO:1990450	LUBEL
+GO:0017160	GEFmeso	Rlip	Rlip	Magi
+GO:0001018	mtRNApol
+GO:0001016	Tbp	Trf2	Trf
+GO:0001012	Smr	E2f2	E2f2	ro	da	aop	Rbf	Rbf	Rbf	E2f1	E2f1	Rbf2	amos
+GO:0017168	Dmel\CG4752
+GO:0042328	sfl
+GO:0004807	Tpi	Tpi	Tpi	Tpi
+GO:0097493	fln
+GO:0010314	sau	melt
+GO:0016361	sax	babo
+GO:0001004	l(2)37Cd
+GO:0017018	Pp1-87B	flw
+GO:0020037	Hr51	spok	Eip75B	Eip75B	Cat	v	v	v	Nos	glob2	Dmel\CG1358	Gyc88E	Cyp18a1	glob3	apolpp	pasha	SdhD	SdhD	glob1	glob1	Ho	SdhC	Dmel\CG6629	Dmel\CG16957	anon-WO0140519.249	spo	CG7280	CG7280	phm
+GO:0031005	Ten-m
+GO:0017110	Dmel\CG5276	CG11126
+GO:0017017	Mkp	puc	puc	Mkp3
+GO:0017016	Rgl	spri	PDZ-GEF	rau	rau	cno	Sec16
+GO:0035013	MsR2	MsR2	MsR1	MsR1
+GO:0060072	slo
+GO:0035014	Pi3K21B	Pi3K21B	Pi3K21B	Pi3K21B
+GO:0022890	Dmel\CG15168
+GO:0008424	FucT6
+GO:1990698	por
+GO:1990699	Notum	Notum
+GO:0035497	CrebA
+GO:0098632	Dscam1	Dscam4	Fas2	ImpL2	Dscam3	Bsg	tutl	tutl	bdl	bdl	CG13132	Cont	Dscam2
+GO:0008420	CG34183	CG34183	24664944	24664944	Ssu72	Ssu72	Fcp1	Fcp1
+GO:0016971	Alr	Qsox1	Qsox1	Qsox4	Qsox4	Qsox2	Qsox2	Qsox2	Qsox3	Qsox3
+GO:0070883	DIP1	Dcr-1
+GO:0070888	h	tx	Usf
+GO:0004857	Sfp33A3	Mbs
+GO:0004856	Dmel\CG3534	Dmel\CG3534	Dmel\CG3544	Dmel\CG3544
+GO:0004853	Updo
+GO:0004852	Uros2	Uros1	Uros1
+GO:0044594	Mfe2
+GO:0004529	Dmel\CG12917	EndoG	Dmel\CG33346	Tengl1	Tengl2	Sid	Dmel\CG14062	Tengl4	Tengl3	Dmel\CG14120	Dmel\CG14118	Dmel\CG6839	CT12789
+GO:0004528	Rrp1
+GO:0004525	Dcr-2	Dcr-2	drosha	pasha	Dcr-1	Dcr-1	mRpL44
+GO:0000774	Roe1	Dmel\CG10973	CG10420
+GO:0004526	Dmel\CG34317	scu	BcDNA:RE35072	Rpp20	Rpp20	trmt10c	l(1)G0045	l(1)G0045	Rpr2	Rpr2	Dmel\CG15526	Rpp30	Rpp30	BcDNA:LD45688	BcDNA:LD45688	Pop5	Pop5	Pop5	mldr	mldr
+GO:0004521	Ire1	Ire1	Ire1	Ire1	Rtc1	Dmel\CG12917	trsn	trsn	EndoG	EndoG	Dmel\CG33346	Tengl1	Tengl2	CG40127	CG40127	Sid	Dmel\CG14062	Smg6	Smg6	Dis3	Cpsf73	EndoU	EndoU	Trax	Trax	Tengl4	CG12375	Clp	Tengl3	RNaseX25	Dmel\CG14120	Dmel\CG14118	AGO2	Dmel\CG6839	CT12789	CG2145	CG2145	CG2145	CG2145	Dmel\CG11269	Dmel\CG2972
+GO:0004520	CG6171	EndoG	EndoG	DNaseII	slx1	Gen
+GO:0004523	rnh1	rnh1	Fen1	CG13690	Dmel\CG11164
+GO:0009922	CG9798	CG9798	Dmel\CG17821	Dmel\CG17821	Elo68beta	Elo68beta	Dmel\CG9459	Dmel\CG9459	Elo68alpha	Elo68alpha	Elo68alpha	CT42569	CT42569	Dmel\CG31141	Dmel\CG31141	CG12138	CG12138	CG9798	CG9798	Dmel\CG6660	CG6926	CG6926	sit	sit	bond	bond	Dmel\CG5326	Dmel\CG5326	Dmel\CG9458	Dmel\CG9458	Dmel\CG16904	Dmel\CG16904	eloF	eloF	eloF	Dmel\CG8534	Dmel\CG8534	Dmel\CG2781	Dmel\CG2781	Baldspot	Baldspot	Baldspot
+GO:0005030	kek6	Toll-7	Toll-6
+GO:0005031	grnd	wgn	wgn
+GO:0002020	Timp	Dmel\CG11970
+GO:0031955	Dmel\CG6432	AcCoAS
+GO:0036310	Blm	Marcal1	Marcal1	Marcal1	RecQ4
+GO:0008036	Dh31-R	Dh44-R1	Dh44-R1	Dh44-R1	Dh44-R2	Dh44-R2
+GO:0005219	RyR	RyR
+GO:0008031	Eh	Eh
+GO:0005214	Twdlbeta	DmelCpr66Ca	anon-SAGE:Wang-027	TwdlW	TwdlR	Twdlalpha	TwdlZ	TwdlY	TwdlX	TwdlE	TwdlT	TwdlC	TwdlQ	Tb	TwdlS	TwdlN	TwdlJ	TwdlK	TwdlO	TwdlL	TwdlB	TwdlP	TwdlM	TwdlG	TwdlV	zye	dsx-c73A	m	Dmel\CG15020	dyl
+GO:0005215	Sec24AB	p24-2	p24	EG:171D11.2	bai	eca	Dmel\CG6293	Ttc30	loj	CG6836	opm	Dmel\CG1824	p24-1	p24	CHOp24
+GO:0005216	Tmc	na	nan	nompC	pain	iav
+GO:0005217	Trpml
+GO:0044390	Diap1	Dmel\CG32847	Dmel\CG32581	BcDNA:AT26376	Dmel\CG8974
+GO:0005213	Cp36	Cp36	Cp18	dec-1	Femcoat
+GO:0016300	fid	trmt44	Dmel\CG17807
+GO:0017005	gkt	gkt
+GO:0000293	nemy	CG8399	CG8399	Dmel\CG1275
+GO:0031624	ari-2	sina	ben	Rpn10	Diap1	rpr	CG12339	nopo	Aos1	park	park	p53	p53	sinah	SCCRO3	ari-1	ari-1	ari-1	Uev1A	AAN11912.1	CG7427	SCCRO4	Dmel\CG3356	EG:100G10.2
+GO:0031625	Dmel\CG2126	Dmel\CG15120	Dmel\CG10283	Brd	cos	E(spl)malpha-BFM	E(spl)malpha-BFM	E(spl)malpha-BFM	E(spl)m6-BFM	Ubi-p63E	E(spl)m4-BFM	E(spl)m4-BFM	E(spl)m4-BFM	RpS27A	RpL40	eff	eff	ben	pnut	Sep1	msl-1	Ubc4	Ubc84D	BobA	hid	Diap1	Diap2	Cul1	Cul1	Cul1	rpr	rpr	Cul4	Cul4	CG30493;CG30496;l(2)08492	Ubc10	Ubc10	p53	Cul3	Cul3	Cul3	Cul3	Dmel\CG10862	Tak1	Tom	Tom	Cul2	Cul2	Dmel\CG2218	Cul5	Cul5	Npl4	rdx	Nedd8	CUL6	CUL6	Ocho	Ocho	Dmel\CG17030	i188	Ubi-p5E	Traf4	Dmel\CG10254	morgue	Ub
+GO:0016972	LD24073p
+GO:0070579	Tet	Tet	AlkB
+GO:0008808	CLS	CLS
+GO:0000298	Aps
+GO:0004298	Tasp1	Tasp1	Tasp1
+GO:0005109	Vang	wg	wg	wg	wg	Wnt2	Wnt2	Wnt5	Wnt4	Wnt4	dsh	wntD	wntD	wntD	ATP6AP2	Wnt10	Wnt6
+GO:0004453	Jhe	Jhe
+GO:0005459	Ugalt	Ugalt	Ugalt	frc	meigo	senju	senju
+GO:0004454	Dmel\CG7551	Dmel\CG7551	Dmel\CG12289	Dmel\CG12289	Dmel\CG7335	Dmel\CG7328	Dmel\CG7328
+GO:0004984	Or85e	Ir76a	Ir25a	Or2a	Or2a	Or2a	Or2a	Or2a	Or22a	Or22a	Or22a	Or22a	Or22a	Or22a	Or22b	Or22b	Or22b	Or22b	Or22c	Or22c	Or23a	Or23a	Or23a	Or23a	Or23a	Or24a	Or24a	Or33a	Or33a	Or33a	Or33a	Or33a	Or33b	Or33b	Or33b	Or33b	Or33b	Or33c	Or33c	Or33c	Or33c	Or33c	Or43a	Or43a	Or43a	Or43a	Or43a	Or43a	Or43a	Or43a	Or43b	Or43b	Or43b	Or43b	Or43b	Or43b	Or47a	Or47a	Or47a	Or47a	Or47a	Or47a	Or47b	Or47b	Or47b	Or59a	Or59a	Or59a	Or59a	Or65a	Or65a	Or65b	Or65c	Or69a	Or82a	Or82a	Or19b	Or19b	Or19a	Or19a	Or46a	Or46a	Or46a	Or46a	Or46a	Or35a	Or35a	Or45a	Or45b	Or49a	Or49a	Or49b	Or49b	Or49b	Or56a	Or56a	Or42a	Or42b	Or42b	Or98b	Or98a	Or98a	Or94b	Or94a	Or92a	Ir92a	Or88a	Or88a	Or85f	Or85f	Or85d	Or85c	Or85b	Or85b	Or85a	Or85a	Ir84a	Or30a	Or83a	Or83a	Orco	Orco	Orco	Or83c	Gr21a	Ir64a	Or67a	Or67a	Or67b	Or67c	Or67c	Or67d	Or71a	Or74a	Ir75a	Ir75a	Ir76b	Or13a	Or10a	Or10a	Gr63a	Or63a	Or59c	Or59c	Or59c	Or59b	Or59b	Or59b	Or59b	Or9a	Or9a	Ir8a	Ir8a	Or7a	Or7a	Or1a	Or1a
+GO:0005452	Prestin	Prestin
+GO:0004458	D2hgdh
+GO:0004989	Octalpha2R	Octbeta3R	Octbeta3R	Octbeta3R	Octbeta2R	Octbeta2R	Octbeta2R	Oamb	Oamb	Oamb	Oamb	Octbeta1R	Octbeta1R	Octbeta1R	Octbeta1R
+GO:0005104	pyr	ths	vap	bnl	bnl	stumps	stumps	stumps
+GO:0005457	nac	nac	nac	nac	Efr
+GO:0031177	ND-ACP	e
+GO:0047560	Dmel\CG10425	Dmel\CG10425
+GO:0035005	Pi3K92E	Pi3K92E	Pi3K68D	Pi3K68D
+GO:0047409	Dmel\CG7582
+GO:0001641	mGluR	mGluR
+GO:0050254	Gprk1
+GO:0004647	aay	aay
+GO:0046899	Adk3
+GO:0004181	Dmel\CG4678	Dmel\CG8564	svr	svr	Dmel\CG2915	Dmel\CG12374	CT14378	Dmel\CG4408	CG17633	CG17633	Dmel\CG4017	Dmel\CG7025	Dmel\CG18585	Dmel\CG14820	Dmel\CG8563	Dmel\CG32379	Dmel\CG8562	carboxypeptidase b1	Dmel\CG8539	Cg8945	Dmel\CG3108	CG15768	Dmel\CG3097
+GO:0004180	svr	svr	Ance-5
+GO:0004185	CG7647	Dmel\CG32483	CT14806	BG:DS00365.3	hiro
+GO:0003887	mus308	DNApol-alpha180	DNApol-alpha180	DNApol-alpha180	DNApol-alpha180	DNApol-delta	DNApol-delta	DNApol-delta	DNApol-alpha50	tam	tam	tam	tam	Trf4-1	mus205	DNApol-alpha73	DNApol-alpha73	Trf4-2	DNApol-epsilon255	DNApol-epsilon255	DNApol-epsilon255	DNApol-iota	DNApol-iota	DNApol-iota	DNApol-gamma35	DNApol-gamma35	DNApol-eta	DNApol-eta	DNApol-eta	DNApol-alpha60	DNApol-epsilon58	CG12018
+GO:0004674	SRPK	SRPK	NUAK	NUAK	Strn-Mlck	Pak3	Pak3	PKD	gish	gish	gish	Lrrk	Lrrk	Lrrk	Pkn	Pkn	Pkn	sqa	Cdc2rk	aPKC	aPKC	aPKC	aPKC	aPKC	CT15864	Sik3	Sik3	Sik3	Sik3	hppy	par-1	par-1	par-1	par-1	par-1	par-1	par-1	CG40297	CG40297	CG31145	Ire1	Pak	Pak	Pak	Tlk	Tlk	Tlk	bt	Srpk79D	Eip63E	Wnk	sti	Cdk9	AMPKalpha	AMPKalpha	png	png	png	lok	lok	lok	p38b	p38b	p38b	Mkk4	grp	grp	lic	p38a	dco	dco	dco	dco	dco	dco	dco	dco	dco	dco	CkIIbeta2	SAK	SAK	Pkc53E	Pkc53E	Pkc53E	CkIIalpha	CkIIalpha	CkIIalpha	CkIIalpha	CkIIalpha	CkIIbeta	CkIIbeta	CkIIbeta	ninaC	ninaC	Raf	Raf	Raf	Pka-C1	Pka-C1	Pka-C1	Pka-C1	Pka-C1	Pka-C1	inaC	inaC	Pkc98E	Pkc98E	Pka-C2	Pka-C2	Pka-C3	sgg	sgg	sgg	sgg	sgg	sgg	sgg	sgg	sgg	sgg	sgg	kay	tub	Cdk1	fu	fu	fu	fu	Gprk1	Gprk2	Gprk2	Gprk2	Gprk2	rl	Cdk5	Cdk5	MAPk-Ak2	mnb	mnb	Doa	Taf1	polo	polo	polo	CkIalpha	CkIalpha	CkIalpha	CkIalpha	CkIalpha	CkIalpha	CkIalpha	CkIalpha	Pkcdelta	Pkcdelta	gskt	gskt	Haspin	Takl1	Mo25	bsk	bsk	CaMKII	CaMKII	CaMKII	Pkg21D	for	pll	pll	pll	pll	Dmel\CG8485	Dmel\CG8485	Tao	Tao	Tao	Drak	Drak	Pink1	Pink1	Pink1	hep	Cdk7	Cdk7	Dsor1	Ssl	tefu	nonC	nonC	CaMKI	Dmel\CG12147	Dmel\CG12147	Dmel\CG12147	BcDNA.LD23371	ball	fray	fray	Ste:CG33236	Ste:CG33237	Ste:CG33238	Ste:CG33239	Ste:CG33242	Ste:CG33243	Ste:CG33246	Ste:CG33247	CG17528	CG17528	Asator	Akt1	Akt1	Akt1	Akt1	Akt1	Akt1	Akt1	Akt1	Akt1	Akt1	Akt1	nmo	nmo	nmo	Atg1	Atg1	Atg1	Atg1	Mekk1	hpo	hpo	hpo	hpo	hpo	hpo	hpo	Dmel\CG9222	Dmel\CG9222	Lkb1	Lkb1	Lkb1	S6k	Pask	Pask	gwl	gwl	gwl	slpr	PhKgamma	PhKgamma	trc	trc	trc	trc	trc	Ste12DOR	Dyrk2	JIL-1	JIL-1	JIL-1	JIL-1	Tak1	IKKepsilon	IKKepsilon	Ilk	wts	wts	wts	wts	wts	wts	wts	wts	Dmel\CG12069	niki	niki	Dmel\CG10177	Dmel\CG6800	cdi	cdi	Dmel\CG14305	Dmel\CG14305	Dmel\CG7156	GckIII	IKKbeta	IKKbeta	aurA	Lk6	Lk6	KP78a	KP78a	KP78a	KP78b	KP78b	KP78b	Aduk	Aduk	Vps15	Vps15	PSK	Nak	Nak	Nak	Dmel\CG5790	Dmel\CG5790	Dmel\CG7094	Dmel\CG7094	Dmel\CG7094	Pk34A	Tor	Tor	Tor	ial	ial	Dmel\CG4839	IME2	meng	Cdk1l	CG9818	Pitslre	Pitslre	Dmel\CG4629	Dmel\CG4629	Dmel\CG9962	Dmel\CG9962	Dmel\CG9962	Dmel\CG3008	S6kII	Prpk	Prpk	Cdk8	dop	dop	dop	sff	sff	sff	S6KL	S6KL	S6KL	Rok	Rok	Rok	Rok	mbt	mbt	mbt	mei-41	mei-41	SPRK2	SPRK2	Dmel\CG2577	Dmel\CG2577	msn	Hipk	Hipk	Hipk	Hipk	Hipk	Hipk	Pdk1	Slik	Slik	Slik	gek	gek	gek	Erk7	Nek2	Nek2	Cdc7	Cdc7	Sik2	Sik2	Sik2	Sik2	Madm
+GO:0003884	Dmel\CG12338	Dmel\CG11236
+GO:0003883	CTPsyn	CTPsyn	CTPsyn
+GO:0003881	Pis	Pis
+GO:0004672	sax	put	Mps1	Lrrk	Gcn2	Gcn2	BubR1	BubR1	babo	Pkn	sqa	CT15864	hppy	CG31145	Ire1	Ire1	Tlk	Tlk	Srpk79D	Srpk79D	Eip63E	wit	Wnk	lok	grp	grp	lic	SAK	CkIIbeta	ninaC	CycA	CycB	Cdk1	MAPk-Ak2	mnb	Doa	Doa	Doa	polo	polo	polo	polo	Wee1	Wee1	fj	CycE	Takl1	Pdk	bsk	pll	pll	Tao	Pink1	Pink1	Mos	hep	Ssl	tefu	nonC	BcDNA.LD23371	ball	ball	CycD	Slob	nmo	Atg1	Dmel\CG9222	Lkb1	Pask	CG3631	CycG	gwl	slpr	slpr	CycB3	Myt1	Myt1	PEK	PEK	Dyrk2	Tak1	IKKepsilon	Ilk	RIOK2	RIOK2	Takl2	Ask1	Dmel\CG14305	Lk6	PSK	Nak	IME2	meng	Cdk1l	Bub1	Bub1	tkv	aux	Dmel\CG3008	RIOK1	dop	wnd	mbt	mei-41	SPRK2	Coq8	CycJ	gek	Cdc7	PRP4	PRP4
+GO:0004679	alc	AMPKalpha	AMPKalpha
+GO:0033749	lid
+GO:0008349	hppy	msn	msn
+GO:0003868	Hpd
+GO:0003860	CT16187
+GO:0003863	Dmel\CG8199
+GO:1990841	Su(z)2	Psc	p53	Nup98-96	Nup98-96	MBD-R2	Utx
+GO:0043621	Ssrp	Fmr1	Tor
+GO:0001734	Mettl3	Mettl3	Mettl14	Mettl14
+GO:0015220	CG7708	SLC22A
+GO:0015227	Dmel\CG5646	CG18626
+GO:0015228	PMP34
+GO:0004074	Dmel\CG9471
+GO:0008296	DNApol-delta	DNApol-delta	Dmel\CG3358	DNApol-epsilon255	Dmel\CG3165	mre11
+GO:0008294	rut	rut	rut
+GO:0044017	nej
+GO:0090433	Acsl
+GO:0015086	Mvl
+GO:0015081	Ncc69	NKCC
+GO:0008504	SerT	Vmat	Vmat	prt	Ent3
+GO:0016992	Las
+GO:0050072	DCP2	DCP2	Aps	Dmel\CG2091
+GO:0046872	MtnE	MtnA	MtnB	Sod2	MtnD	Rpe	beta4GalT7	MtnC	Dmel\CG9920	CG14701	Dmel\CG11267	Yippee
+GO:0046875	Ephrin	Ephrin
+GO:0097004	AkhR
+GO:0140036	Graf
+GO:0043141	Xpd	Xpd	Pif1
+GO:0098627	CG9599
+GO:0043023	Nmd3	eIF6	Clbn	mRRF1	Ltn1	312	CG3224
+GO:0052642	Dmel\CG15385
+GO:0003774	Dmel\CG8800	cos	Khc	Klp61F	Klp68D	Klp68D	jar	Myo28B1	Klp10A	zip	Dmel\CG10839	ck	Klp67A	Klp67A	Klp59C
+GO:0045499	Sema2b	Sema1a	Sema2a	Sema1b	Sema5c
+GO:0043027	Diap1	Diap1	Diap2	Diap2	CG4091
+GO:0016757	Dmel\CG31849	EG:BACR37P7.1	BcDNA:GM04393	pgant3
+GO:0000993	Dmel\CG6220	Pcf11	TfIIEalpha	Ctr9	Dmel\CG6244	CG40228	spt4	spt4	RecQ5	Spt5	Spt5	hyx	CG6907	atms	Dmel\CG12674	Dmel\CG9018	Dmel\CG9899	Spt6	Dmel\CG15160
+GO:0000994	Maf1
+GO:0000995	Tbp	Taf2	Dmel\CG8950	l(2)37Cd	FBgn 32517	CG34017
+GO:0050104	Had1	Had1
+GO:0003910	DNAlig4	DNAlig4	DNAlig1	DNAlig1	DNAlig1
+GO:0042393	Caf1-105	Caf1-105	mof	Df31	Su(var)205	Parp	Parp	Parp	Parp	His4	Hat1	Stat92E	Cks30A	Caf1	Caf1	Nlp	Nlp	Nlp	P32	d4	Chro	CG5815	dre4	trr	Dek	Tip60	CG8223	dom	wds	Anp32a	Nph	Nph	Cap-D2	Dmel\CG1894	mil	Ino80	Cks85A	BEST:LD19244	CG9246	chm	Cap-D3	CG1218	e(y)3	tth	enok	Nap1	Nap1	Nap1	Nap1	Lpt	Lpt	CG15311	Caf1-180	Spt6	Phf7
+GO:0033677	Ddx1
+GO:0055077	zpg
+GO:0016175	Nox	Duox
+GO:0016174	cn
+GO:0047389	Dmel\CG18135	Dmel\CG3942	Dmel\CG2818	Dmel\CG11619	anon-EST:Posey227
+GO:0097718	Hsp83	ctp	ctp	ctp	ctp	Dlc90F	Dlc90F	Dlc90F
+GO:0003677	Dmel\CG18605	Dmel\CG10321	Dmel\CG12769	Su(var)2-10	psq	psq	mip120	Su(var)2-HP2	cg	Dmel\CG10274	Dmel\CG4820	Camta	Gug	Gug	Chd3	Hira	hth	hth	cyc	Clk	Clk	Clk	Med	crm	E2f2	ken	Mi-2	Mi-2	His2B	His2B	His2B	Antp	Myb	prd	eve	Dfd	Sry-delta	Sry-delta	Sry-delta	Sry-beta	Sry-beta	Sry-beta	Sry-beta	sna	sna	su(Hw)	His2Av	gsb-n	ase	ac	ct	twi	grh	Eip75B	gl	gl	fs(1)K10	mod	h	Top2	wdn	tll	ci	usp	Galphai	Cf2	kay	tsh	tin	bap	Hsf	Hsf	Hsf	disco	odd	Su(z)2	esg	esg	yem	Su(H)	zfh1	zfh2	pros	pros	CrebA	croc	ftz-f1	EcR	EcR	Gnf1	Gnf1	Gnf1	Psc	exd	exd	Mef2	Pep	Mad	E(z)	ttk	spel1	Taf4	Taf4	tim	Taf12	msl-2	msl-2	msl-1	msl-1	ovo	ovo	ovo	srp	srp	srp	RfC4	byn	otp	Ubx	His4	His4	His2A	His2A	His2A	HmgD	Trl	Trl	Trl	Trl	Trl	Trl	Irbp	Irbp	Irbp	Irbp	Bro	Bgb	Stat92E	Stat92E	Stat92E	br	ewg	Dp	bi	Pcl	Cp190	D	Dsp1	retn	retn	dpn	E2f1	E2f1	gcm	Trf	Dmel\CG12605	His2A:CG33859	His2A:CG33859	CG13381	CG8324	BEAF-32	p190	Pbp49	Pbp49	dup	Orc3	Dmel\CG12391	Hey	mei-W68	lolal	Ude	Ude	Dmel\CG14710	cas	scro	unk	mod(mdg4)	elg1	CG5815	osa	osa	timeout	CG10336	mud	pho	pho	pho	pho	Dmel\CG17802	Dmel\CG11906	Rel	ash2	Dref	pita	onecut	Su(z)12	Mlf	mTTF	SF2	RecQ5	Pur-alpha	Acf	Acf	Dmel\CG1792	Dmel\CG1792	ZIPIC	Dmel\CG4730	Dmel\CG10669	Dmel\CG10669	DNApol-epsilon255	Surf6	Ino80	Odj	Hmx	pad	Pbp45	Pbp45	CG5641	Spt3	Blm	CG17822	Dmel\CG14711	Dmel\CG6689	M1BP	ranshi	Dmel\CG8159	Ouib	nom	nom	Pbp95	Pbp95	Zif	rn	Mondo	Taf13	Dmel\CG10366	her	nht	pdm2	borr	aust	Suv3	lilli	lilli	Dmel\CG15436	D19B	D19A	Dmel\CG7386	RecQ4	phol	phol	CrebB	Bap60	Dmel\CG2202	scrt	aly	Dmel\CG42304	GV1	Kah	RYBP	lz	Bap111	Dmel\CG10959	Dmel\CG2116	Dmel\CG12219	CG15469	Myc	dwg	mip130	mip130	CG18555
+GO:0003678	Iswi	armi	RecQ5	Blm	Suv3	RecQ4
+GO:0043546	ry	ry	CG7280	CG7280
+GO:0043548	InR	chico	chico
+GO:0016287	Dhap-at	Dhap-at
+GO:0016286	SK	SK	SK
+GO:0046527	rumi	rumi	CG17138	gny
+GO:0046525	beta4GalT7	beta4GalT7	beta4GalT7
+GO:0046523	CG11334
+GO:0035620	cert
+GO:1990447	barc
+GO:1990448	Pym	Pym
+GO:0001006	Tbp	Tbp	Pbp49	Brf	Brf	Pbp45	Pbp45	Pbp95	Pbp95	Bdp1
+GO:0001003	Trf	l(2)37Cd	FBgn 32517
+GO:0001002	l(2)37Cd	FBgn 32517
+GO:0030272	Mthfs	Mthfs
+GO:0050815	14-3-3epsilon
+GO:0030276	AP-1sigma	Sytalpha	AP-1mu	Syt1	Hip1	Syt4	Syt7	Afti	lap	lap	aux	Sytbeta	Syt12
+GO:0050811	Atg8b	Atg8a	wake
+GO:0030274	Chi
+GO:0048101	Pde1c	Pde1c
+GO:0097153	Drice	Drice	Dcp-1	Damm	Strica	Dredd	Decay	Dronc
+GO:0097157	ps	Prp8
+GO:0097158	snf
+GO:0017025	Rpt6	TfIIB	Rpt2	Taf12	Taf1	TfIIA-L	TfIIA-L	TfIIA-S	TfIIA-S	Taf2	Dsp1	Rpt1	Rpt6R	NC2beta	CG12721	TfIIA-S-2
+GO:0061663	Diap1
+GO:0017022	Kat60	Eb1	aPKC	Socs16D	tgo	Hsp26	alphaTub84D	l(2)gl	RpL23	Mlc-c	smg	inaD	shg	Dmel\CG18135	milt	milt	crp	Kap-alpha3	scra	Cpsf160	Cad99C	RpL34a	mira	Dmel\CG6834	Fip1	elgi	Nedd4	Dmel\CG5613	Bap60	Dmel\CG2765	Dmel\CG2258	inc
+GO:0042578	PGAP1
+GO:0001135	Sgf29
+GO:0016428	Nsun2	Nsun2	Nsun2
+GO:0001139	TfIIB
+GO:0001587	5-HT2A
+GO:0042577	wun2	wun2	wun	LPP-like	Css1beta	LPP-like	LPP-like	laza
+GO:0043168	Dmel\CG17919
+GO:0140259	Scm
+GO:0036459	calypso	trbd	scny
+GO:0097020	BcDNA:AT03803
+GO:0017150	Dmel\CG10463	Dmel\CG10495	Dmel\CG3645
+GO:0017151	tral	Fmr1	eIF5B
+GO:0003690	His1	mle	Irbp	spn-A	His1:CG33861	His1:CG33834	His1:CG33807	His1:CG33801	BigH1	TBPH	spn-D	Ku80	EndoGI	Thd1	Pur-alpha	Mau2	28573184	Mcm10	RPA2	mtDNA-helicase	Mnn1	kin17	lilli	gkt	PCID2	Dmel\CG7804	mrn	rad50
+GO:0003691	rad50
+GO:0003696	Su(var)205	Top2	D1	Dp1
+GO:0003697	45551045	CDC45L	Pep	Hrb27C	mtSSB	mtSSB	mtSSB	mei-9	DNApol-alpha50	RpA-70	RpA-70	Dsp1	Xpc	spn-A	trsn	Ercc1	Dp1	Dp1	Dp1	Lon	CG5316	vito	TBPH	spn-D	Rpb4	Trax	Rpb7	Blm	Mcm10	RPA2	mtDNA-helicase	mtDNA-helicase	Ssb-c31a	CG5181	DNApol-alpha60	gkt	RecQ4	RecQ4	Nup35	RPA3	hdm	hdm
+GO:0004084	cg1673	cg1673
+GO:0030247	Sr-CI
+GO:0036435	LUBEL	morgue
+GO:0004860	l(2)gl	mnb	Dmel\CG8441	Dmel\CG14408	trbl	pcs	pcs	Aats-gln
+GO:0004861	dap	dap	dap	Hexim
+GO:0004864	I-2	I-2	I-2	Dmel\CG12620	CycG	NiPp1	I-t	Dmel\CG6380	Tap42	endos	endos
+GO:0004865	NiPp1	NiPp1	anon-WO0118547.153	BcDNA:AT31406	I-3
+GO:0004866	REG	Reck
+GO:0004867	CG12551	Spn42Db	Spn42Dc	Spn43Ab	Dmel\CG13748	Sfp23F	CG42501	Dmel\CG43165	CG31758	Acp62F	Acp62F	Kaz-m1	Spn77Ba	Spn28Da	Spn75F	Spn53F	Dmel\CG42827	Spn55B	Spn55B	nec	nec	nec	Spn47C	Spn42Da	Spn42Da	Spn42Da	Spn42Da	Spn43Aa	Spn42Dd	Spn42Dd	Spn42Dd	Dmel\CG31609	Spn43Ad	Spn42De	Spn27A	Spn27A	Spn27A	Spn27A	Spn100A	Dmel\CG17380	Dmel\CG31515	Spn88Eb	Spn88Ea	Spn85F	Spn38F	Spn38F	Spn31A	Spn28F	Spn28F	Spn28Dc	Spn28Db	Spn28B	Spn77Bc	Dmel\CG15418	IM33	BcDNA:LP04037	Dmel\CG10031	Acp76A	Spn77Bb
+GO:0004869	Bruce	cer	cer	cer	Diap1	Spn42Da
+GO:0042292	Uba4
+GO:0047938	Dmel\CG9008
+GO:0001225	EcR
+GO:0004511	ple	ple	ple
+GO:0004512	Inos	Inos	Inos
+GO:0003985	yip2	ACAT	Dmel\CG10932	Dmel\CG10932
+GO:0001221	Ubx
+GO:0004515	Nmnat
+GO:0001223	hth	brm	sd	Tgi
+GO:0004517	Nos	Nos	Nos	Nos	Nos	Nos	Nos
+GO:0030492	CG17793	CG9600
+GO:0004519	RpLP0	Dmel\CG12917	EndoG	Fen1	Dmel\CG33346	Tengl1	Tengl2	Sid	Dmel\CG14062	Dis3	Tengl4	Tengl3	Gen	Dmel\CG14120	Dmel\CG14118	Dmel\CG6839	CT12789
+GO:0005021	Pvr
+GO:0001228	apt	Dmel\CG12769	vis	achi	Camta	Mrtf	Pits	CG15376	tgo	tgo	tgo	ftz	Myb	sim	Dfd	Sry-delta	Scr	sc	sc	da	da	Eip74EF	dl	vvl	vvl	ci	ci	usp	Cf2	kay	oc	nau	dsx	Su(H)	Su(H)	nub	ftz-f1	EcR	EcR	opa	Mef2	Mef2	pnt	pnt	pnt	pnt	ovo	srp	Dif	Dif	trh	Stat92E	sima	B-H1	B-H2	bs	retn	E2f1	gcm	Atf-2	Atf-2	unpg	repo	Dmel\CG14710	DS04929.3	pan	Pdp1	Rel	Rel	foxo	foxo	foxo	foxo	foxo	foxo	sens	onecut	dmrt99B	Dmel\CG4374	dmrt93B	Dmel\CG6689	Dmel\CG10462	pdm2	Hand	Dmel\CG13123	Dmel\CG15436	akirin	SREBP	dmrt11E	Bap60	Dmel\CG2129	peb	Pph13	Pph13
+GO:0005025	sax	sax	sax	sax	babo	babo	tkv	tkv	tkv	tkv	tkv
+GO:0005024	sax	put	put	babo	wit	tkv
+GO:0009931	MAPk-Ak2	CG17528	Lk6
+GO:0034236	sws
+GO:0031386	smt3	smt3	smt3	Ubi-p63E	Ubi-p63E	RpS27A	RpS27A	RpL40	RpL40	ubl	Atg8b	Nedd8	Nedd8	Nedd8	Nedd8	Atg12	Atg8a	Ubi-p5E	Ubi-p5E	Ub	Ub
+GO:0002039	Ubc6	Ubc6	ASPP	sip3	bip2	bip2	Blm	Sirt1	Corp
+GO:0005201	Mur89F	eys	Muc55B	CG42342	tnc	dpy	Mur2B	Sgs3	Col4a1	Muc30E	Muc68Ca	Muc68E	Ppn	Muc96D	Dmel\CG31268	Mur29B	Muc14A	Muc12Ea	Mur11Da	Muc91C	Muc26B	vkg	vkg	Mur82C	Sgs1	Muc68D	Muc18B	Mur18B	Muc4B	Muc11A
+GO:0005200	Strn-Mlck	Strn-Mlck	Arpc1	Act42A	Act79B	alphaTub84B	alphaTub84B	alphaTub85E	alphaTub85E	alphaTub84D	alphaTub84D	alphaTub67C	alphaTub67C	betaTub60D	betaTub60D	betaTub60D	Act87E	Act5C	gammaTub23C	gammaTub23C	Arp3	Arp3	gammaTub37C	gammaTub37C	Arp2	Arp2	Arp1	Arp53D	Act57B	betaTub85D	betaTub85D	Act88F	Dmel\CG32820	betaTub97EF	betaTub97EF	betaTub97EF	Jupiter	Tub1B	Tub1B	Arpc3A	Arpc2	Arpc2	Grip75	Arpc4	Arpc5	CG32396	CG32396	Arp10	Arpc3B	anon-WO0140519.123
+GO:0044389	smt3	CG5862
+GO:0032422	Pur-alpha
+GO:0039706	Ir84a
+GO:0004465	inaE
+GO:0004467	Acsl	Acsl	Fatp1	Fatp2	Fatp3	bgm	bgm	CG4500	CG4500	FACL	Dmel\CG3961	Dmel\CG3961	pdgy
+GO:0005119	cos	cos	ptc	hh	BBS1
+GO:0005118	boss	boss	boss	Dab	drk	drk	Socs36E
+GO:0005113	smo	hh	hh	hh	l(2)tid	ihog	BBS1
+GO:0005112	uif	Dl	Dl	Dl	numb	Ser	Ser	Ser	dsh	dx	dx	wry	spdo	Pgant35A	Kap-alpha3	O-fut1	Dmel\CG10365	Akap200	Nle	Nedd4	Nedd4	Su(dx)	Su(dx)
+GO:0005007	htl	htl	btl	btl	btl	btl	btl	btl
+GO:0008757	Dmel\CG10947	SmydA-8	metl	CG11596	BG:DS03023.2	Smyd5	HemK2	Dmel\CG17219	Dmel\CG2921	Dmel\CG11474	Dmel\CG11475
+GO:0008198	Fer2LCH	Fer2LCH	Fer1HCH	Fer1HCH	AlkB	IscU	IscU	Fer3HCH	fh
+GO:0008199	Fer2LCH	Fer1HCH	Fer3HCH	fh
+GO:0008190	eIF4G1	eIF4G1	eIF4G1	eIF4G1	eIF4G1	eIF4G1	mxt	mxt	mxt	mxt	mxt	Thor	Thor	Thor	Thor	Thor	Thor	Thor
+GO:0008191	Timp	Timp	Timp
+GO:0008193	THG	THG
+GO:0008194	fng	Ugt37C1	Ugt37C1	PIG-P	Ugt50B3	Ugt305A1	Ugt35D1	Ugt303B2	Ugt303B1	Ugt303B3	Ugt49B2	Ugt37A3	Ugt37A2	Ugt303A1	Ugt304A1	Ugt35A1	Ugt35A1	Ugt35B1	Ugt35B1	Ugt35E2	Ugt35E1	Ugt302C1	Ugt302C1	Ugt302E1	Ugt302K1	Ugt35C1	Ugt37A1	Ugt37A1	Ugt36E1	Ugt36E1	Ugt36D1	Ugt36F1	Ugt36F1	Ugt301D1	Ugt37D1	Ugt37E1	Ugt37C2	Ugt37B1	Ugt37B1	Ugt36A1	Ugt316A1	Ugt317A1	Ugt49C1	Ugt49B1	Ugt49B1
+GO:0008195	wun2	wun2	wun2	Dmel\CG12746	Dmel\CG12746	Dmel\CG12746	Lpin	Lpin	Lpin	wun	wun	LPP-like	LPP-like	LPP-like	Css1beta	Css1beta	Css1beta	LPP-like	LPP-like	LPP-like	LPP-like	LPP-like	laza	laza	laza
+GO:0008196	yl
+GO:0004648	CG11899
+GO:0004649	Parg
+GO:0000179	CG11837	mtTFB2	mtTFB1
+GO:0004641	ade3	ade3
+GO:0004642	ade2
+GO:0000171	Rpp20	l(1)G0045	BcDNA:LD45688	BcDNA:LD45688	Pop5
+GO:0004644	ade3
+GO:0045127	Dmel\CG6218
+GO:0000175	cg11478	Dis3l2	Dis3l2	Dis3l2	Snp	Snp	PNPase	Dis3	CG10214	Exd2	CG16790	Rexo5
+GO:0004888	18w	Or2a	N	N	Tl	Tl	Or22a	Or22b	Or23a	Or33a	Or33b	Or33c	Or43a	Or47a	BcDNA:RH26557	fz4	stan	lectin-28C	Dmel\CG2839	fz2
+GO:0008946	CG10214
+GO:0008020	Rh6	Rh6	Rh6	Rh6	Rh6	Rh6	Rh6	Rh6	cry	cry	Rh3	Rh3	Rh3	Rh3	Rh3	Rh3	ninaE	ninaE	ninaE	ninaE	ninaE	Rh2	Rh2	Rh2	Rh2	Rh2	Rh4	Rh4	Rh4	Rh4	Rh4	Rh5	Rh5	Rh5	Rh5	Rh5	Rh5	Rh5	Rh5	Rh5	Rh5	Rh7
+GO:0008378	beta3GalTII	beta3GalTII	beta3GalTII	CG33999	CG33999	alpha4GT2	beta4GalT7
+GO:0008379	Prx5	Prx5	Jafrac1	Jafrac1	Jafrac1	Jafrac1	Jafrac2	Jafrac2	Prx3	Prx3	6888	6888
+GO:0008375	brn	fng	fng	Mgat1	Mgat1	dCHSY	Mgat2	ttv	botv	botv	sotv	dC1GalT9
+GO:0008376	Dmel\CG12913	Dmel\CG30036	Dmel\CG30037	GalT1	brn	beta4GalNAcTA	EG:BACR37P7.1	beta4GalNAcTB	GalT4	dbeta3GnT	alpha4GT1	BcDNA:GM04393	pgant3
+GO:0003857	Mfe2	Dmel\CG3603
+GO:0008373	SiaT
+GO:0001588	Dop1R1	Dop1R1	Dop1R2	Dop1R2	Dop1R2	Dop1R2	Dop1R2	DopEcR
+GO:0015234	Tpc1	Tpc1	Tpc2	Tpc2
+GO:0015232	Dmel\CG1358	Hmt-1	ABCB7
+GO:0015230	Dmel\CG8026	PMP34
+GO:0001586	5-HT1A	5-HT1B
+GO:0015238	Mdr49
+GO:0005221	Cngl	CngA	CngA	CG13530	CngB	CngB
+GO:0004081	Apf
+GO:0003988	yip2	yip2	ACAT	ACAT	Thiolase	Dmel\CG10932
+GO:0004085	Arc42	Dmel\CG4860
+GO:0004088	r	r	r	r
+GO:0004089	CAH1	CAHbeta	CAHbeta	CAHbeta	CAHbeta	CAH2
+GO:0003983	UGP	UGP
+GO:0003980	Ugt	Ugt
+GO:0032934	CG5077	Dmel\CG3860	Dmel\CG1513	Npc2h	Npc2g	Osbp	Npc2f	Npc2b	Npc2c	Npc2d	Npc2e	Npc2a
+GO:0008574	Dmel\CG9313	Dmel\CG8407	unc-104	Dnai2	Cdlc2	Khc	Khc	Klp61F	Klp61F	ctp	sw	Dmel\CG15701	Kif19A	CG32318-PA	Sdic2	Sdic3	Klp10A	Kif3C	Klp98A	Klp98A	neb	Dmel\CG10859	cana	cmet	Dmel\CG14838	Klp67A	Dmel\CG13074	Dmel\CG13930	Dic61B	Dmel\CG1571	Sdic1	Klp3A	Sdic3-RB	Sdic4
+GO:0044020	Art1
+GO:0016531	Atox1	Scox	Scox	COXS	COXS
+GO:0015095	MME1
+GO:0016615	Mdh2	Mdh2	Mdh1
+GO:0071916	yin	Dmel\CG9444	CG32787
+GO:0051213	AlkB	CG5340	CG5340	Dmel\CG5346
+GO:0016616	Dmel\CG1236	CG9332	Dmel\CG9331	Drat	CG15093	Dmel\CG31673	Dmel\CG7724
+GO:0016618	Dmel\CG1236	CG9332	Dmel\CG9331	Dmel\CG31673
+GO:0051219	Lerp	slmb	Set2
+GO:0008579	Mkp	puc	puc
+GO:0050062	wat	FarO
+GO:0038062	Ddr
+GO:0043425	da	tx	sens	Sirt1
+GO:0044736	ppk
+GO:0008409	tos	Fen1	CG1809	Cpsf73	Rat1	CG9125
+GO:0061821	Blm	RecQ4
+GO:0070513	Dmel\CG12384	Dmel\CG12384	imd
+GO:0016765	Coq2
+GO:0019239	amd	UK114
+GO:0001965	Lerp	kermit	Dhit	loco	ric8a	ric8a	ric8a
+GO:0000987	Ubx	Dmel\CG3065	grau	Dmel\CG9609
+GO:0015140	Dic3	Bmcp	Dic2	Dmel\CG16736	Dmel\CG6893	Dic4	Dic1	Dic1
+GO:0050113	Dmel\CG6910
+GO:0050431	tkv
+GO:0016768	Sms	Sms
+GO:0000981	shn	Dmel\CG10543	l(3)neo38	sr	Spps	Drgx	woc	Dmel\CG8478	ss	Sox21b	SoxN	SoxN	Lim3	Sox21a	tj	tj	HLH4C	mirr	mirr	TfAP-2	Sp1	tgo	sv	ey	ey	hth	hth	E2f2	Antp	ftz	hb	hb	sim	sim	prd	eve	eve	eve	Kr	Kr	Dfd	Dfd	Dfd	bcd	zen	lab	twi	twi	da	Eip74EF	Eip75B	gl	fkh	fkh	dl	dl	dl	tll	Jra	Jra	ci	kay	tin	tin	vnd	bap	Su(H)	zfh1	abd-A	abd-A	ap	Ets65A	Ets98B	Ets21C	sd	sd	croc	fd96Ca	fd96Cb	slp1	slp1	EcR	EcR	gt	opa	opa	exd	exd	exd	exd	Sox14	Sox15	tx	tx	Mad	Mad	ato	pnt	pnr	pnr	srp	caup	Gsc	byn	grn	grn	Dif	Dif	aop	aop	fd64A	fd59A	Ets97D	al	Klf15	HLH54F	trh	trh	trh	Hr96	sima	ara	B-H1	B-H2	btd	btd	Dp	Dp	D	D	vg	so	so	E2f1	E2f1	Dmel\CG3065	p190	Dmel\CG12942	sug	edl	CG17847	lbe	repo	chn	NfI	Dmel\CG32006	pan	Awh	CG2199	Xbp1	luna	Ets96B	Dmel\CG11906	Rel	Optix	foxo	lmd	lmd	lmd	sens	HGTX	Doc1	Lim1	fd102C	toy	CG12260	dysf	Dmel\CG4730	Dmel\CG17801	GATAe	GATAe	Dmel\CG5245	rn	rn	crc	tup	tup	tup	GATAd	GATAd	Dmel\CG4496	hkb	Dmel\CG11247	Dmel\CG11456	cbt	cbt	sob	bowl	Dmel\CG3407	bin	bin	bin	Doc2	Dmel\CG4328	Lmx1a	CG14202	Dmel\CG9609	Dmel\CG9215	sisA	dar1	PHDP	Dmel\CG9876	Dmel\CG42741	hbn	Rx	Dmel\CG11294	Dmel\CG2116	Myc	HLH3B	fd19B	Pph13	Six4
+GO:0000980	ey	Antp	ftz	ftz	en	hb	hb	eve	Abd-B	vvl	ems	tin	Su(H)	abd-A	sd	gt	opa	Mad	ttk	Ubx	Ubx	aop	Dmel\CG1663	pan	Nf-YB	pho	pho	crc	tup	phol	brk
+GO:0016149	mRF1	mRF1	eRF1
+GO:0030023	resilin	resilin
+GO:0043395	wg	magu	cv-d	cv-2
+GO:0047429	CG8891
+GO:0050459	CG8745
+GO:0043559	InR	InR	InR	ImpL2
+GO:0044603	Fic
+GO:0052745	Mipp1	Mipp1	Mipp2
+GO:0002094	Dmel\CG10778	Dmel\CG10778
+GO:0033265	CG7708
+GO:0045735	Fbp2
+GO:0071771	Cyp4g1
+GO:0001030	Maf1
+GO:0001031	Maf1
+GO:0001032	Maf1
+GO:1990472	rhi	del	CG12721
+GO:0034722	l(3)72Dp	l(3)72Dr
+GO:0030267	Dmel\CG1236	CG9332	Dmel\CG9331	Dmel\CG31673
+GO:0018064	Setd3
+GO:0051990	D2hgdh	D2hgdh
+GO:0017034	C3G	PDZ-GEF	PDZ-GEF
+GO:1990275	smid
+GO:0035035	nsl1	nsl1	Caf1	Taf7	ash1
+GO:0035034	EAChm
+GO:0034038	CG8005
+GO:0015464	nAChRalpha4	nAChRalpha1	nAChRalpha2	nAChRalpha3
+GO:0001102	shn	Mad	Rbf	Chi	Rbf2	crc	tup	ush
+GO:0001103	MTA1-like	146745_at	pnr	asf1	dgrn
+GO:0035529	Dmel\CG8128
+GO:0042562	usp	Dmel\CG4872	Dmel\CG15537	Lgr1	Spn28F
+GO:0033842	beta4GalNAcTA	beta4GalNAcTB
+GO:0003689	Rad17	RfC4	RfC4	Dmel\CG11788	RfC38	RfC38	RfC3	RfC3	Dmel\CG8142
+GO:0003688	Orc1	CDC45L	DNApol-alpha180	Orc2	Orc5	Orc3	Mcm10	Cdc6	Orc4	Orc6
+GO:0003681	Pbp49	Pbp45	Pbp95
+GO:0003680	D1	HmgD	sqd	bab2	bab1
+GO:0003682	Sin3A	HP1Lcsd	row	bon	sba	Fer2	Hr51	Oxp	woc	NFAT	Skadu	nsl1	Dmel\CG13287	Smr	Smr	Ada3	mof	Hira	Clk	crm	crm	Rad17	vtd	vtd	CDC45L	CDC45L	Mi-2	Su(var)205	Su(var)205	N	Lam	dl	Top2	Su(var)3-7	Tbp	trx	trx	tsh	mle	Rcc1	Pc	Pc	ftz-f1	Psc	ph-p	ph-p	ph-p	corto	Arp6	msl-2	msl-2	msl-2	msl-1	msl-1	msl-1	msl-1	msl-3	Dif	Hr39	Trf2	Trl	MEP-1	RpL29	Orc2	Taf2	Pcl	Cp190	Nlp	Ctf4	CoRest	wash	rhi	rhi	calypso	SMC2	Chd1	Nipped-B	Nipped-B	mod(mdg4)	Ada2b	Cap-H2	Cap-H2	dre4	LBR	pho	ebi	pita	mbo	tio	glu	Sec13	Sec13	Spt5	Nup154	Hcf	bip2	bip2	bip2	Asx	Asx	ZIPIC	Nph	Cap-D2	Cap-D2	polybromo	SMC1	SMC1	tbrd-1	HP1c	Sbf	HP1e	HP1e	e(y)2b	CG1234	neb	barr	barr	Sfmbt	kmg	abo	Utx	REPTOR-BP	Wdr82	Mnn1	CG3430	SA	SA	SA	Cap-D3	Cap-D3	atms	Ddx1	pzg	Charon	Dmel\CG12674	Dmel\CG3515	Elba2	HP6	Prdm13	mRpL12	SuUR	SuUR	SuUR	SuUR	Gcn5	upSET	Dmel\CG12316	ash1	Ell	Su(var)3-3	e(y)3	HP1D3csd	SMC3	mamo	e(y)2	e(y)2	SA-2	JMJD5	Pof	Pof	uri	Lpt	Lpt	Ice1	CG15311	HP1b	Dmel\CG12081	Dmel\CG12081	Spt6	ph-d	ph-d	MRG15
+GO:0003684	Xpac	spel1	RpS3	RpS3	mei-9	RpA-70	Xpc	Xpc	Ercc1	Xpd	SMC5	CG5316	jnj	RPA2	Snm1	nbs	Msh6	RPA3	pic
+GO:0000182	Su(var)205	Top2
+GO:0018812	Hacd2	Hacd1
+GO:0000340	eIF4G1	eIF4EHP	eIF4EHP	eIF4EHP	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E6	eIF4E6	eIF4G2	Sra-1	Dmel\CG2091	eIF4E4	eIF4E4	eIF4E5	eIF4E5	eIF4E3	eIF4E3	eIF4E3	eIF4E7	eIF4E7
+GO:0051393	Smn
+GO:0004879	Eip75B	svp	tll	usp	usp	usp	Hr3	Hr3	ftz-f1	ftz-f1	EcR	EcR	EcR	EcR	EcR	Hnf4	Hr38	Hr39	Hr39	Hr78	Hr96	ERR	Hr83	dsf	dsf	gce	Met	Met	Hr4	Hr4	Hr4
+GO:0050661	Dhfr	su(r)
+GO:0004504	Phm	Pal1	Pal1	Pal2
+GO:0004503	PPO1	PPO1
+GO:0008329	Toll-7	PGRP-LC	GNBP3	GNBP3	GNBP1	GNBP2	GNBP2	PGRP-SA
+GO:0004501	shd
+GO:0004500	olf413	Tbh	CG5235
+GO:0005052	Pex5
+GO:1990782	et	tub	dome
+GO:0048531	GalT1	anon-WO0144478.10	C1GalTA	dC1GalT4	Dmel\CG34056
+GO:0005277	VAChT
+GO:0005275	w	bw	st
+GO:0005272	rpk	ppk25	ppk29	ppk31	ppk23	Nach	Nach	para	ppk8	ppk	ppk5	ppk28	ppk16	ppk13	ppk10	ppk6	ppk22	ppk3	ppk24	ppk19	ppk30	ppk20	ppk21	ppk15	ppk17	ppk11	ppk18	ppk14	ppk7	ppk26	Ir76b	ppk27	ppk12	ppk9
+GO:0008408	Rad9	CG6171	Rrp1	tam	CG1809	WRNexo	WRNexo	WRNexo	WRNexo	Exd2	Exd2	Nbr	Rad1	rad50	mre11
+GO:0043682	ATP7
+GO:0004479	Dmel\CG1750
+GO:0004478	Sam-S	Sam-S	Sam-S
+GO:0030735	CG11596	CG11596
+GO:0004473	Menl-2	Men-b	Men-b	Dmel\CG7848	Menl-1	Men	Men	Men	Men
+GO:0004470	Menl-2	Men-b	Dmel\CG7848	Menl-1	Men
+GO:0004477	pug	pug	Nmdmc	Nmdmc	Nmdmc	Nmdmc
+GO:0106026	Dtd
+GO:0051500	Dtd
+GO:0005476	MME1	colt
+GO:0005471	Ant2	Ant2	sesB	sesB	sesB
+GO:0004252	Dmel\CG30082	CG5302	SPH73	Dmel\CG33225	Dmel\CG4538	MP1	Corin	SP120	Dmel\CG30371	Dmel\CG8586	Dmel\CG8738	Np	Dmel\CG13744	Dmel\CG8170	SP15	kappaTry	Dmel\CG30025	Dmel\CG30025	rho-7	Dmel\CG30088	CG8215	CG30086	CG30086	Dmel\CG30083	SP65	SP65	anon-54Ba	SP82	SP82	c-SP32	SP118	Dmel\CG10663	Dmel\CG10663	CG31412	Dmel\CG11670	CG16731	Hayan	lint	Dmel\CG10587	Dmel\CG10587	Dmel\CG31266	deltaTry	gammaTry	CG30031	CG30031	Jon99Cii	Jon99Ciii	CG30414-RA	CG30414-RA	SP23	SP23	SP63	SP63	gd	gd	gd	gd	gd	gd	alphaTry	alphaTry	snk	snk	snk	snk	ea	ea	ea	ea	ea	ea	ea	ea	ea	rho	rho	rho	rho	rho	rho	rho	rho	rho	rho	rho	Fur1	Fur1	Fur1	Fur2	Fur2	Fur2	betaTry	betaTry	epsilonTry	epsilonTry	thetaTry	thetaTry	etaTry	etaTry	etaTry	zetaTry	zetaTry	iotaTry	iotaTry	ndl	ndl	ndl	Sb	CG6069	Ser8	Ser8	SP42	SP155	SP155	lambdaTry	lambdaTry	Jon44E	CG18065-RA	CG18065-RA	Dmel\CG1773	spirit	Dmel\CG31827	Send2	Lon	SP20	SP20	Dmel\CG33226	Dmel\CG33127	CG5240	Dmel\CG4793	Dmel\CG31681	Dmel\CG31954	Dmel\CG31954	SP50	SP50	CG8528	CG33161	CG11531	CG11531	CG11532	CG11532	Dmel\CG30289	Dmel\CG30288	EG:80H7.1	SPH37	BcDNA:GH24985	BcDNA:GH24985	Dmel\CG11668	CG32270-RA	CG32270-RA	Dmel\CG11037	Dmel\CG11037	Dmel\CG7542	Dmel\CG40160	Dmel\CG18754	Dmel\CG18735	Dmel\CG18735	Sp7	Sp7	Sp7	Dmel\CG11313	Dmel\CG11313	Dmel\CG9733	Dmel\CG9733	Dmel\CG9737	Dmel\CG7829	Dmel\CG7829	SP43	SP68	anon-WO0140519.18	intr	intr	aqrs	Dmel\CG4815	Dmel\CG5909	grass	amon	Dmel\CG34129	SP14	SPE	SPE	SPE	Dmel\CG16710	Dmel\CG7432	Dmel\CG7142	Dmel\CG7142	Dmel\CG5255	SP96	Dmel\CG4053	Dmel\CG17475	Dmel\CG31265	modSP	SP175	SP175	HtrA2	HtrA2	HtrA2	HtrA2	Dmel\CG8870	Dmel\CG10041	Dmel\CG3916	Dmel\CG3916	Dmel\CG12256	Dmel\CG12256	Dmel\CG17404	Dmel\CG17404	Dmel\CG16749	Dmel\CG16749	Dmel\CG12951	Dmel\CG12951	Dmel\CG18563	SPH93	l(2)k05911	l(2)k05911	Phae2	Phae2	Phae1	Phae1	Dmel\CG5045	BEST:GH06341	Try29F	Try29F	Try29F	Jon25Bii	Dmel\CG14642	Dmel\CG14642	S1P	Sems	Sems	Dmel\CG11912	Dmel\CG11911	Dmel\CG11911	Ser12	Ser12	Ser12	Dmel\CG17239	Dmel\CG17239	Dmel\CG17239	Dmel\CG17234	Dmel\CG17234	Dmel\CG17234	Send1	Send1	Send1	Dmel\CG17242	Dmel\CG18557	Dmel\CG3117	Dmel\CG3355	Dmel\CG3355	Ser6	Ser6	Dmel\CG1304	Dmel\CG1304	yip7	Dmel\CG6462	Jon65Aiv	Jon65Aii	Jon65Ai	lincRNA.S4213	SP78	Dmel\CG10469	SP104	SP104	CG8528	CG8528	Jon66Cii	teq	Dmel\CG4477	Dmel\CG8329	Dmel\CG18179	SP151	SP84	Dmel\CG4613	Dmel\CG4613	Dmel\CG4914	Dmel\CG4914	Jon74E	SP34	Dmel\CG14227	psh	psh	Dmel\CG4653	Dmel\CG9673	sphe	Dmel\CG9676	Dmel\CG9676	Dmel\CG8952	rho-4	rho-4	SP18	Dmel\CG14990	Dmel\CG33160	Dmel\CG33159	stet	stet	ru	ru	ru	Dmel\CG3650	Dmel\CG3650	Dmel\CG3589	Dmel\CG3589	SP48	SP17	SP17	Ser7	Dmel\CG6048	Dmel\CG6041	Dmel\CG6041	SP95	SP95	38C.22	38C.22
+GO:0008745	PGRP-SC1a	PGRP-SC1a	PGRP-SC1b	PGRP-SC1b	Dmel\CG9380	PGRP-SB1	PGRP-SB1	PGRP-SB1	PGRP-LB	PGRP-LB	PGRP-LB	PGRP-LF	PGRP-LA	PGRP-LD	PGRP-LC	PGRP-SC2	PGRP-SC2	PGRP-SD	PGRP-SB2	PGRP-SB2	PGRP-LE	PGRP-SA
+GO:0036082	Ir84a	Ir84a	Ir8a
+GO:0036081	Ir92a
+GO:0008962	PTPMT1
+GO:0005307	CG7708
+GO:0016040	Dmel\CG9674
+GO:0008188	Dh31-R	AstC-R2	Dmel\CG30340	Dh44-R1	CCHa1-R	CCHa1-R	CCKLR-17D1	CCKLR-17D1	CCKLR-17D1	Dh44-R2	MsR2	MsR1	CrzR	RYa-R	TkR86C	TkR86C	TkR99D	CCHa2-R	CCHa2-R	Dmel\CG32547	Dmel\CG13229	rk	rk	AkhR	CCKLR-17D3	CCAP-R	CCAP-R	CCAP-R	SIFaR	SIFaR	CapaR	CapaR	CapaR	CapaR	PK1-R	AstA-R2	AstA-R1	Lgr3	ETHR	Lgr1	PK2-R1	PK2-R2	anon-WO0170980.170	TrissinR	NPFR	Lkr	CNMaR	CNMaR	AstC-R1	sNPF-R	sNPF-R	CG5936	hec	FMRFaR	FMRFaR	FMRFaR	Dmel\CG13575	Proc-R	Pdfr	Pdfr	Lgr4
+GO:0008187	Sxl	nonA-l	U2af50	U2af50	U2af38	Srp54	LS2
+GO:0008186	spn-E
+GO:0008184	GlyP	GlyP	GlyP	GlyP	GlyP
+GO:0042602	Dmel\CG9471
+GO:0004659	heix
+GO:0004657	slgA	slgA	slgA
+GO:0004656	Dmel\CG34345	Dmel\CG15539	CG31018	CG9708	Dmel\CG31524	CG15542	CG18230	CG18238	PH4alphaPV	PH4alphaNE3	PH4alphaSG2	CG9713	CG9708	Dmel\CG9698	PH4alphaNE2	PH4alphaSG1	PH4alphaNE1	PH4alphaMP	PH4alphaEFB	Dmel\CG11828	CG7553	Dmel\CG4174	anon-SAGE:Wang-055	Dmel\CG18233	Dmel\CG18231	Dmel\CG32199
+GO:0004655	Pbgs	Pbgs	Pbgs
+GO:0004654	PNPase
+GO:0004653	pgant6	pgant5	pgant2	GalNAc-T1	pgant11	pgant4	pgant10	pgant12	pgant9	GalNAc-T2	GalNAc-T2	Pgant35A	Pgant35A	pgant13	pgant8	pgant8	pgant8	pgant3
+GO:0004652	hrg	hrg	hrg	Trf4-1	Trf4-1	Trf4-2	Trf4-2	Gld2	Gld2	Gld2	wisp	wisp	wisp
+GO:0004651	Dmel\CG13197
+GO:0000166	Iswi
+GO:0004890	Rdl	Lcch3	Grd
+GO:0004896	Tl	dome	dome	dome
+GO:0015141	Dic3	Dmel\CG33934	Bmcp	Dmel\CG7309	Dic2	Indy-2	Indy-2	Indy-2	Dmel\CG16736	Dmel\CG6893	Dic4	Indy	Indy	Indy	Indy	Dic1	Dic1
+GO:0003841	Agpat3	Agpat2	Agpat4	Agpat1
+GO:0003844	AGBE
+GO:0098505	RPA2
+GO:0019531	Prestin	Prestin	Prestin
+GO:0016810	NitFhit
+GO:0070984	Snr1
+GO:0036374	EG:23E12.1	Dmel\CG4829	Ggt-1	Ggt-1	Ggt-1	Dmel\CG1492
+GO:0001591	Dop2R
+GO:0004090	DHRS4	Dmel\CG7322	sni	sni
+GO:0004092	Dmel\CG5265	Dmel\CG5265	CRAT	CRAT	Dmel\CG5122
+GO:0003999	Aprt
+GO:0003998	Dmel\CG34161	Acyp	Acyp	CG18371-RA	Acyp2	Acyp2	Acyp2	Dmel\CG11052	Dmel\CG14022
+GO:0004097	PPO1
+GO:0004096	Cat	Cat	Cat	Cat	Irc	anon-WO0140519.249	anon-WO0140519.249
+GO:0004099	verm	serp	serp
+GO:0003994	mAcon2	Irp-1A	Irp-1A	Irp-1B	Irp-1B	mAcon1	mAcon1	mAcon1
+GO:0003997	LCAD	LCAD	CG5009	CG5009	CG5009	Dmel\CG17544	Dmel\CG17544	Acox57D-d	Acox57D-d	Acox57D-p	Acox57D-p	Dmel\CG4586	Dmel\CG4586
+GO:0015410	CG3701	SPoCk	SPoCk
+GO:0003990	Ace	Ace	Ace
+GO:0003993	Dmel\CG9449	Acph-1	Acph-1	Dmel\CG6656	Mipp1	Dmel\CG9451	Dmel\CG9452	Mipp2
+GO:1905131	CarT	CarT	CarT
+GO:0071906	gro
+GO:0008565	Dmel\CG10950	CG6857	AP-1sigma	Snx6	Arts	Fs(2)Ket	AP-2mu	AP-1mu	Kap-alpha1	cm	cm	g	AP-2alpha	AP-2alpha	Dmel\CG34132	Dmel\CG34132	AP-1-2beta	Impbeta11	AP-1gamma	Dmel\CG32727	bai	Cog3	Cog3	Apl	emb	Nxt1	AP-2sigma	cdm	ldlCp	ldlCp	Afti	Afti	Ranbp9	Ntf-2r	Trp1	Trp1	Karybeta3	DmDSCR3	DmDSCR3	PGAP2	Vps29	Vps29	Tnpo-SR	Snx1	Ntf-2	Tnpo	148274_at	Sec63	msk	Tim14	Tim13	or	Vps35	Vps35	Tim10	Tim10	Gga	p115	CHOp24	rb	Vps26	Vps26	Cse1	BcDNA.GH08385
+GO:0070181	RpS14a	RpS14b	RpS13	mRpS18C	mRpS11	mRpS18A	mTerf3	Dmel\CG17652	mRpS6
+GO:0070182	FANCI	CDK2AP1	dup	nopo	Fancd2	PCNA2	CG4078	Pol32
+GO:0032093	Lar	Lar	Fbl6
+GO:0016603	isoQC	isoQC	CG10487	QC	QC	Dmel\CG6168
+GO:0008569	Dhc93AB	Dhc93AB	DHC3B	DHC3B	kl-3	kl-3	ncd	Dhc64C	Dhc64C	btv	btv	DHC5	DHC5	kl-2	kl-2	Dhc62B	Dhc62B	Kif3C	spn-F	Dhc98D	Dhc98D	Dhc36C	Dhc36C	Dmel\CG3769	Dmel\CG14651	Dhc16F	Dhc16F	Dnah3	Dnah3
+GO:0008568	Kat60	Kat60	Kat60	kat80	kat-60L1	spas	spas	spas	Dmel\CG10793	CG3326	CG3326
+GO:0070742	e(y)2
+GO:0070740	TTLL5
+GO:0004662	betaggt-I	Fnta
+GO:0050290	Dmel\CG6962
+GO:0030507	crb	AnxB9	AnxB9	hts	lva	Dmel\CG5921
+GO:0042826	MTA1-like	MBD-like	MBD-like	146745_at	Smyd4-1	Smyd4-3	SmydA-6	Blimp-1	Smr	SmydA-8	Caf1	Caf1	SmydA-1	Smyd4-4	SmydA-5	Dmel\CG31917	Smyd4-2	Smyd4-2	SmydA-2	Sds3	Brms1	SmydA-4	SmydA-9
+GO:0004660	FNTB	Fnta
+GO:0019887	CkIIbeta2	CkIIbeta	CkIIbeta	Ssl	Ssl	Atg17	Ste:CG33236	Ste:CG33236	Ste:CG33237	Ste:CG33237	Ste:CG33238	Ste:CG33238	Ste:CG33239	Ste:CG33239	Ste:CG33242	Ste:CG33242	Ste:CG33243	Ste:CG33243	Ste:CG33246	Ste:CG33246	Ste:CG33247	Ste:CG33247	Ste12DOR	CG9286	Atg13	Atg13
+GO:0019888	Pp2A-29B	Pp2A-29B	tws	wrd	PP2A like	Tap42	PPP1R15	PPP4R2r
+GO:0004740	Pdk
+GO:0008419	ldbr	ldbr	ldbr	ldbr
+GO:0000403	Blm	Blm	Mnn1
+GO:0000400	spn-B	Top2	Top2	spel1	Blm	Gen	Gen	Msh6	Msh6
+GO:0051538	SdhB
+GO:0051539	SdhB	CG17683	mAcon2	ND-75	Dmel\CG3262	BcDNA:GH27470	Irp-1A	Irp-1B	IscU	mAcon1
+GO:0000405	Blm	RecQ4
+GO:0016773	CG31145	CG3631
+GO:0051536	CG17904	CG17904	CG4858	su(r)
+GO:0051537	ry	ry	SdhB	Fdxh	MagR	BcDNA:GH27470	IscU	mtDNA-helicase	fh
+GO:0008417	FucTC	O-fut1	O-fut1	FucTA
+GO:0000976	Dmel\CG10321	Dmel\CG15073	MTF-1	CG31372	FoxK	Dmel\CG10654	per	Abd-B	ct	Eip75B	usp	nub	ftz-f1	ftz-f1	EcR	EcR	nonA	Hr39	nonA-l	Hr96	retn	so	Dmel\CG8388	CG8324	Dmel\CG14667	p190	Dmel\CG12942	Dmel\CG12391	CG31372	p53	Nf-YB	Dmel\CG17802	Dmel\CG6791	CG4639	anon-84Eb	Dmel\CG4282	Dref	Dref	Dref	Optix	EG:95B7.7	Dmel\CG18764	Dmel\CG1647	Dmel\CG4730	Dmel\CG4936	Dmel\CG4854	Dmel\CG4424	Dmel\CG17806	Dmel\CG17803	CG17822	Dmel\CG14711	CG17722	CG5135	Dmel\CG8319	JHDM2	Dmel\CG7963	Dmel\CG10431	DS02740.8	Dmel\CG17612	Dmel\CG10147	bin	CTCF	Nf-YA	Dmel\CG17359	Hers	zld	Dmel\CG7101	Dmel\CG9215	Dmel\CG4318	Dmel\CG11695	Dmel\CG11696	Dmel\CG2202	Dmel\CG4707	Dmel\CG2889	CHES-1-like	CHES-1-like	Dmel\CG3032	Dmel\CG12219	fd3F	jumu	Six4
+GO:0015179	Cg1607	DmNAT4	List	Dmel\CG1698	sbm	gb	BG:DS03431.1	JhI-21	Ntl	anon-WO0149848.7	GlyT	NAAT1	NAAT1	mnd
+GO:0001972	Lerp
+GO:0015174	tadr	slif
+GO:0015175	NAAT1
+GO:0000978	Rfx	Dmel\CG9727	Ssdp	Dmel\CG12769	maf-S	MED8	NFAT	Dmel\CG1529	BcDNA:LD21969	Dmel\CG8478	MESR3	tj	Ptx1	sim	bcd	zen	da	h	Jra	ems	Dll	Tbp	Tbp	kay	tin	slou	vnd	bap	Hsf	nau	zfh2	pb	ttk	Hr38	pnr	srp	grn	bsh	Hr39	Trf2	ewg	bi	Trf	Trf	Dmel\CG7987	Pbp49	Pbp49	Pbp49	CG17847	Dmel\CG14710	DS04929.3	scro	CG2199	pho	Dmel\CG11906	Dmel\CG1233	HGTX	Dmel\CG11398	Dmel\CG12071	CG12260	Dmel\CG4374	CG13845	Dmel\CG4360	Dmel\CG31224	GATAe	Pbp45	Pbp45	Pbp45	Pbp45	NK7.1	Dmel\CG6689	sage	Pbp95	Pbp95	Pbp95	Pbp95	Dmel\CG1965	Dmel\CG10462	Ef4A	Dmel\CG12299	GATAd	Utx	Dmel\CG5694	Dmel\CG11456	Dmel\CG3407	phol	Dmel\CG2129	Dmel\CG2116	CG5113	peb	Hr4	Atf3
+GO:0000979	Dmel\CG15073	rgr	Tbp	TfIIB	Trf2	Trf2	Dmel\CG1603	Taf2	Trf	Dmel\CG8388	p190	Dmel\CG4282	Dref	Dmel\CG6254	E(var)3-9	M1BP	Dmel\CG10366	kmg	Ef4A	pzg	Prdm13	Dmel\CG7368	Dmel\CG4707	Dmel\CG14438	Dmel\CG12219
+GO:0015171	Cg1607	kcc	VGAT	VGAT	CG6327	Dmel\CG4991	Dmel\CG4991	Ncc69	Dmel\CG12773	Dmel\CG7255	polyph	polyph	Dmel\CG8785	Dmel\CG8785	Dmel\CG1628	BcDNA:AT27573	sbm	Dmel\CG13743	Dmel\CG13743	CG10500	CG10500	gb	mah	CG17119	CG7708	Dmel\CG13384	Dmel\CG13384	NKCC	CAT-4	path	path	path	CG11806	CG11806	Dmel\CG7888	Dmel\CG7888	Dmel\CG5535	Dmel\CG12531	Dmel\CG16700	Dmel\CG16700	CG1139	CG1139	CG1139	mnd
+GO:0071164	Tgs1
+GO:0016150	Dmel\CG6094
+GO:0033613	Mrtf	Dfd	Dfd	Scr	abd-A	exd	exd	exd	ex	bs	edl	edl	MED17	MED17	Ack
+GO:0072587	barr	barr
+GO:0072582	Dmel\CG40486	Dmel\CG40485	Dmel\CG10962	FOHSDR	Dmel\CG9150	Dmel\CG8757	FOHSDR	antdh
+GO:0042171	EndoB	EndoA
+GO:0034483	Hs3st-A	sfl	Hs3st-B
+GO:0043565	Rfx	apt	Spps	Spps	Dmel\CG3328	maf-S	gem	psq	MESR4	Dmel\CG9650	Camta	Mitf	Mnt	Blimp-1	klu	tj	Smr	TfAP-2	Sp1	tgo	tgo	tgo	ey	Ptx1	Ptx1	Med	E2f2	ken	Antp	en	en	hb	hb	hb	inv	sim	Kr	Kr	Kr	Dfd	Hrb98DE	sna	su(Hw)	Scr	zen	l(1)sc	l(1)sc	l(1)sc	l(1)sc	z	ac	ac	ac	sc	sc	sc	da	da	da	grh	grh	E(spl)m5-HLH	E(spl)m5-HLH	E(spl)m7-HLH	E(spl)m7-HLH	E(spl)	E(spl)	mod	h	dl	dl	ems	ci	Dll	Cf2	kay	tin	slou	vnd	bap	bap	Hsf	Hsf	run	Su(H)	abd-A	abd-A	pros	CrebA	sd	gt	exd	Sox14	Mad	Mad	Mad	Hrb87F	Hr38	Hr38	pnt	Taf1	Taf1	ovo	ovo	srp	Ubx	Ubx	Ubx	Ubx	Ubx	grn	E(spl)m3-HLH	E(spl)m3-HLH	E(spl)mbeta-HLH	E(spl)mbeta-HLH	E(spl)mgamma-HLH	E(spl)mgamma-HLH	E(spl)mgamma-HLH	E(spl)mdelta-HLH	E(spl)mdelta-HLH	Dr	bsh	al	al	sqd	Trl	Klf15	CG2120-RA	Dmel\CG1603	Bro	Bgb	trh	Deaf1	btd	btd	Dp	Pcl	RpA-70	D	D	bs	dpn	dpn	so	so	E2f1	E2f1	Dmel\CG3065	Atf-2	Pbp49	trsn	Hey	C15	ind	scro	chn	pan	bs08f11.y1	Saf-B	Dmel\CG32121	luna	Dmel\CG1602	Dmel\CG1602	Nf-YB	pho	pho	pho	insv	insv	Pdp1	Rel	pita	Optix	foxo	sens	HGTX	cic	Axud1	crp	Pur-alpha	Pur-alpha	Dmel\CG12071	ZIPIC	dysf	dysf	Dmel\CG7691	Dmel\CG7691	Dmel\CG17806	Pbp45	Pbp45	Trax	NK7.1	cwo	Ibf1	Ibf2	Pbp95	Zif	RPA2	Sidpn	DS02740.8	Utx	Dmel\CG13123	hkb	mael	mael	cbt	erm	Elba2	Elba2	Bsg25A	Bsg25A	bin	bin	bin	bin	CTCF	CTCF	Nf-YA	phol	phol	zld	zld	Dmel\CG7423	CrebB	Dmel\CG8944	mamo	dar1	Dmel\CG42741	dve	lz	Dmel\CG18262	Nf-YC	CG5113	Myc	Mybbp1A	brk	Atf3	Dmel\CG15336
+GO:0043560	InR	InR
+GO:0044610	PMP34
+GO:0042284	ifc	ifc
+GO:0042282	Hmgcr
+GO:0042283	xit	xit
+GO:0042281	gny	xit
+GO:0030250	PlexA
+GO:0097604	TrpA1	TrpA1	TrpA1	TrpA1
+GO:0019869	Wnk
+GO:0097602	Roc2	Roc2	lmgA	SCCRO3	Roc1b	Roc1b	Roc1b	CG7427	CG9951	SCCRO4	inc	Roc1a	Roc1a	Roc1a	Roc1a	Roc1a	Roc1a	Roc1a
+GO:0097603	subdued
+GO:0001888	botv	botv
+GO:0017046	Dh44-R1	Dh44-R2
+GO:1990269	Dmel\CG31703	Dmel\CG31702	Atu	Dmel\CG10887	Rtf1
+GO:0097199	Dark	Dredd	Dronc	Dronc	Dronc
+GO:0017040	CDase	CDase	CDase	CDase	CDase	bwa	bwa
+GO:0035049	jhamt	jhamt
+GO:0035514	Tet
+GO:0035516	Tet	Tet
+GO:0017049	scra	Sec3	Dmel\CG30183
+GO:0015185	VGAT
+GO:0015184	CG17119
+GO:0015187	Ntl	Ntl	Ntl	GlyT
+GO:0003978	Gale	Gale
+GO:0033857	l(1)G0196	l(1)G0196	l(1)G0196
+GO:0003876	AMPdeam
+GO:0000095	CG4743	CG4743
+GO:0001883	Dmel\CG34261	CG10517	CG10517
+GO:0015218	Rim2
+GO:0035198	AGO1
+GO:0005048	Sec24AB	Sec61alpha	SsRbeta
+GO:0005044	crq	crq	crq	ninaD	ninaD	Sr-CI	Sr-CI	eater
+GO:0005047	Gtp-bp	Srp68
+GO:0005046	KdelR
+GO:0005043	unc-5
+GO:0005042	fra
+GO:0005267	CG15470	sand	BcDNA.GH04802	Dmel\CG10864	Task6	Task7	anon-WO0109301.9	anon-WO0109301.22	CG15654
+GO:0005261	Pzl	Piezo	nan	bib	trpl	trpl	SerT	Grd	TrpA1	unc80	wtrw	Trpgamma	Trpgamma	Pkd2	Porin2	nompC	Trpml	Trpml	pyx	iav
+GO:0005262	CG40148	nan	nan	trp	trp	trp	trp	trp	trp	trpl	trpl	trpl	trpl	trpl	trpl	zyd	Dmel\CG17167	TrpA1	CG18769	CG18769	brv2	brv2	fwe	fwe	Nckx30C	wtrw	Trpgamma	Pkd2	nompC	CG1090	brv1	brv1	Trpml	pyx	pain	pain	iav	iav	brv3	brv3
+GO:0042768	sad
+GO:0004798	Dmel\CG5757	Dmel\CG5757
+GO:0004797	dnk
+GO:0042767	dib
+GO:0004792	Uba4	Uba4	Uba4
+GO:0004791	Trxr-1	Trxr-1	Trxr-1	Trxr-1	SelT	Trxr-2	Trxr-2	Trxr-2
+GO:0030742	unc-104	CG11448
+GO:0004408	Cchl	Cchl
+GO:0004407	Sin3A	HDAC4	HDAC4	Gug	HDAC6	HDAC6	HDAC6	HDAC3	HDAC3	HDAC3	HDAC3	Sirt4	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Sirt2	HDAC11	Sirt6	Sirt1	Sirt1	Sirt1	Sds3	Sap30	Brms1
+GO:0004402	E(Pc)	nej	nej	Atac3	Ada3	Ada3	Ada3	mof	mof	mof	mof	mof	mof	mof	Taf12	Taf12	Taf1	e(y)1	e(y)1	d4	Nipped-A	Nipped-A	Ada2b	Ada2b	Ada1-1	Ada1-1	Ada1-2	Ada1-2	Tip60	Tip60	Tip60	dom	wds	rept	Chrac-14	Chrac-14	Hcf	Dmel\CG1894	Mocs2	wda	Spt3	pont	BEST:LD19244	Atac2	NC2beta	YL-1	D12	chm	chm	Atac1	Gas41	Gcn5	Gcn5	e(y)3	Ing3	Spt7	tth	enok	Sgf29	Sgf29	Taf10b	MRG15
+GO:0002161	beta-PheRS	Dtd	alpha-PheRS
+GO:0005463	Ugalt	frc
+GO:0005462	frc	frc	frc	frc	Dmel\CG14511	Efr	Efr	Efr
+GO:0005461	frc	frc	frc	frc
+GO:0005460	frc	meigo
+GO:0005464	frc	Dmel\CG14511	Efr	Efr	Efr
+GO:0005319	Dmel\CG8908	Eato	wun2	Apoltp	Apoltp	CG33173	apolpp	apolpp	CG4794	cv-d	Dmel\CG1494	ABCA	Dmel\CG1801	Dmel\CG6052	Dmel\CG42816	Dmel\CG34120
+GO:0004222	Dmel\CG10280	Nep2	Dmel\CG7791	Dmel\CG7791	ste24b	tld	tld	Meltrin	ste24c	S2P	ste24a	CG8728-RA	Mmp2	Mmp2	Dmel\CG7573	DmCG6512	Sras	Dmel\CG15254	Dmel\CG7631	BACR44L22.4	BG:BACR44L22.3	Dmel\CG15255	CG3107	CG3107	Tace	Kul	Dmel\CG11771	Dmel\CG5715	Dmel\CG6763	Dmel\CG6974	UQCR-C1	Semp1	Semp1	kuz	kuz	kuz	Acer	Dmel\CG6168	Dmel\CG6696	Mmp1	stl
+GO:0005313	Eaat1	Eaat1	Eaat1	GC2	aralar1	GC1	VGlut	VGlut	VGlut	VGlut
+GO:0005315	Dic3	Mpcp2	Mpcp1	NaPi-III	Dic1
+GO:0005314	GC2	GC1	dmGlut
+GO:0051059	cact	cact	Charon
+GO:0008173	Hen1	bin3	CG1239	CG11342
+GO:0050265	Tailor	Tailor
+GO:0008171	Hen1	Hen1	Hen1	bin3	CG1239	CG11342
+GO:0008176	CG4045	CG4045	CG4045	wuho
+GO:0008177	SdhB	SdhAL	SdhAL	SdhA	SdhA	SdhD	SdhD	SdhC	SdhC	Dmel\CG6629	Sirup	SdhBL
+GO:0008175	CG32281	Dmel\CG18048	CG7009	CG5220	Mt2
+GO:0004820	GlyRS	GlyRS
+GO:0008179	capt	capt
+GO:0004821	HisRS	HisRS
+GO:0008887	Glyctk	Glyctk	Glyctk
+GO:0000150	Rad51D	spn-B	spn-A	spn-A	spn-D	Xrcc2
+GO:0004312	FASN1	FASN2	beg
+GO:0004314	beg	beg
+GO:0004315	Dmel\CG12170
+GO:0008254	CG15743
+GO:0048185	sax	put	put	put	babo	babo
+GO:0004139	Dera
+GO:0051998	BG:DS03023.2	BG:DS03023.2	Dmel\CG2921	Dmel\CG11474	Dmel\CG11475
+GO:0004132	CG6951
+GO:0004134	Dmel\CG9485
+GO:0004135	Dmel\CG9485
+GO:0008316	Vml	Vm32E	Vm26Ac
+GO:0001761	Balat
+GO:0003834	ninaB	ninaB	ninaB
+GO:0008312	Srp19
+GO:0003833	e	e	e	e
+GO:0008310	cg11478	Snp	Snp	DNApol-epsilon255	WRNexo	Gen	hdm
+GO:0008311	Rrp1	Snp	WRNexo	WRNexo	Gen
+GO:0003839	Dmel\CG32196	Dmel\CG10365	Dmel\CG10365	Dmel\CG4306	Dmel\CG2540	Dmel\CG2540
+GO:0008084	Idgf6	Idgf3	Idgf1	Idgf5	Idgf2	Idgf4
+GO:0008083	NT1	NT1	spz	spz	Adgf-E	Adgf-A2	Adgf-A2	Adgf-A2	Adgf-C	Adgf-D	spz4	spz3	Adgf-B	Adgf-A	spz5	spz5	spz6
+GO:0008080	AANATL5	AANATL6	AANATL4	CG8481	Gbp2	CG2640	BcDNA:SD26038	AANAT1	AANAT1	san	san	san	CG2640	AANATL3	Dmel\CG17375	AANATL2	AgmNAT	AANATL7
+GO:0008081	CG3376-RA	Dmel\CG32052	alphaSmase	Dmel\CG15533
+GO:0070626	AdSL
+GO:0070991	Egm	CG12262
+GO:0070990	ecd	ecd
+GO:1902944	Bace
+GO:0008558	w
+GO:0008559	Mdr49	Mdr65	Mdr50	AMT
+GO:0003948	Dmel\CG10474	CG1827	CG1827	CG4372
+GO:0003940	Dmel\CG6201
+GO:0008553	alphalike	CG3701	SPoCk	mt:ATPase6	Ca-P60A	Vha44	VhaAC39-2	Vha13
+GO:0008226	Dop1R2	TyrR	TyrR	TyrR	TyrRII
+GO:0008227	5-HT2B	Octalpha2R	mAChR-A	5-HT7	Oct-TyrR	Oct-TyrR	Oct-TyrR	Oct-TyrR	5-HT1A	5-HT1B	Dop1R2	Octbeta3R	Octbeta2R	Oamb	Oamb	5-HT2A	Dop2R	Octbeta1R	ETHR	TyrR	TyrRII	TyrRII	mAChR-B	DopEcR	mAChR-C
+GO:0008798	CG7860
+GO:0003865	CG7840	CG7840
+GO:0015386	Nhe2	Letm1	Nhe3	Nhe1
+GO:0015385	Nha2	Nhe2	Nhe3	Nha1	Nhe1
+GO:0042834	PGRP-SC1a	PGRP-SC1a	PGRP-SC1a	PGRP-SC1a	PGRP-SC1b	PGRP-SC1b	PGRP-SC1b	PGRP-SC1b	PGRP-SC1b	Dmel\CG9380	PGRP-SB1	PGRP-SB1	PGRP-SB1	PGRP-SB1	PGRP-LB	PGRP-LB	PGRP-LB	PGRP-LB	PGRP-LB	PGRP-LF	PGRP-LF	PGRP-LF	PGRP-LA	PGRP-LA	PGRP-LA	PGRP-LA	PGRP-LA	PGRP-LA	PGRP-LD	PGRP-LD	PGRP-LD	PGRP-LD	PGRP-LC	PGRP-LC	PGRP-LC	PGRP-LC	PGRP-LC	GNBP1	PGRP-SC2	PGRP-SC2	PGRP-SC2	Npc2h	eater	Npc2e	Npc2a	PGRP-SD	PGRP-SD	PGRP-SD	PGRP-SB2	PGRP-SB2	PGRP-SB2	PGRP-SB2	PGRP-LE	PGRP-LE	PGRP-LE	PGRP-LE	PGRP-SA	PGRP-SA	PGRP-SA	PGRP-SA	PGRP-SA	PGRP-SA	PGRP-SA
+GO:0019894	halo	klar	Tm1	nompB	Yeti	syd	syd	syd	Aplip1	Aplip1	Aplip1	Unc-76
+GO:0033592	eIF4B	eIF4H2	Dmel\CG11726	eIF4H1
+GO:0033041	Gr22a	Gr22c	Gr22e	Gr22f	Gr36a	Gr58a	Gr59d	Gr64a	Gr64a	Gr64a	Gr64a	Gr64b	Gr64b	Gr64c	Gr64c	Gr64e	Gr64e	Gr64f	Gr64f	Gr22b	Gr22d	Gr98d	Gr98c	Gr36c	Gr59b	Gr43a	Gr43a	Gr43a	Gr98b	Gr36b	Gr10b	Gr64d	Gr64d	Gr61a	Gr61a	Gr59f	Gr59e	Gr59c	Gr59c	Gr59a	Gr58b	Gr5a	Gr5a
+GO:0047710	NitFhit	NitFhit
+GO:0019899	Rack1	AGO1	ash2	ash2	Gclm	Gclm	Hacd2	Hacd1	Dmel\CG2921	Dmel\CG11475
+GO:0047718	ARY	ESTS:34F4T	AKR2E3
+GO:0047493	SMSr	SMSr
+GO:0016491	stw	Dmel\CG7737	Dmel\CG3270	Sardh	spok	ARY	Dmel\CG9674	ESTS:34F4T	Adh	anon-37Cs	Nos	Cpr	Adi1	nemy	Dmel\CG9436	wal	TrxT	Dm GMCepsilon1	Dmel\CG12539	Dmel\CG1275	Ero1L	dare	Mco3	Ppox	Qsox2	Dmel\CG3397	Dmel\CG12224	Dmel\CG18547	ninaG	Dmel\CG8032	Dmel\CG2767	l(2)37Bb	Dmel\CG4036	Mco1	Coq6	spo	Dmel\CG13667	Dmel\CG5653	Iyd	Dmel\CG6083	anon-WO0172774.89	Dmel\CG7724	Dmel\CG7460	Dmel\CG6034	Dmel\CG18233	Su(var)3-3	Mco4	Dmel\CG9503	Dm GMCgamma1	fiz	Dmel\CG9512	Dmel\CG9514	Dmel\CG9518	Dm GMCtheta1	Dmel\CG9521	Dmel\CG9522	antdh	Dmel\CG12766	Sc2	Dmel\CG3626	AKR2E3
+GO:0008428	EndoGI
+GO:0008429	Esyt2
+GO:0016709	Mical	Mical	Mical
+GO:0016706	CG2982	HSPBAP1	fid	CG7200	Dmel\CG4036	JMJD7	JMJD5	Dmel\CG17807	Dmel\CG17807
+GO:0008426	14-3-3zeta
+GO:0016702	Dmel\CG10814	Dmel\CG4335	Dmel\CG5321	Dmel\CG14630
+GO:0008422	CG33090	CG33090	Dmel\CG9701
+GO:0070577	E(bx)
+GO:0015165	frc
+GO:0019706	Dmel\CG5447	Dmel\CG1407	Dmel\CG1407	Dmel\CG17287	Dmel\CG17287	app	app	Dmel\CG4676	Dmel\CG4676	Dmel\CG8314	Dmel\CG8314	Dmel\CG13029	Dmel\CG13029	Dmel\CG18810	Dmel\CG18810	Dmel\CG5880	Dmel\CG4956	Dmel\CG4956	Dmel\CG17195	Dmel\CG17195	Dmel\CG17196	Dmel\CG17196	Dmel\CG17197	Dmel\CG17197	Dmel\CG17198	Dmel\CG17198	Dmel\CG5196	Dmel\CG5196	Patsas	Patsas	Dnz1	Dnz1	Dmel\CG17075	Dmel\CG17075	GABPI	GABPI	Dmel\CG4483	Dmel\CG4483	Hip14	Dmel\CG10344	Dmel\CG10344	Ykt6
+GO:0001786	Sytalpha	Sytalpha	Syt1	Syt1	Syt1	Syt4	Syt4	Syt4	NimC4	Syt7	Syt7	Abp1	Sytbeta	Sytbeta	Syt12	Syt12	drpr
+GO:0001784	hwt	Pi3K21B	vap	Cbl
+GO:0042169	Ctr9	Desi	Ack	Ack	dos	Dmel\CG9899	chico
+GO:0047408	Dmel\CG7582
+GO:0042162	Irbp	cav	cav	cav	Ku80	EndoGI	Smg5	Smg6
+GO:0042166	nAChRalpha5
+GO:0042165	Dmel\CG33296	blot	CG13796	CG18590	Gat	Dmel\CG13795	Dmel\CG13794	Dmel\CG13793
+GO:0015616	polybromo
+GO:0051424	Dmel\CG15537
+GO:0051425	Nak
+GO:0000832	l(1)G0196	l(1)G0196
+GO:2001069	Gbs-70E
+GO:0052767	alpha-Man-IIb
+GO:0070379	dl
+GO:0016015	dpp	dpp	dpp	wg	spz	hh	hh	hh
+GO:0016018	ninaA	ninaA	Cyp1	Dmel\CG17266	Dmel\CG7768	BcDNA:AT31683	cyp33	Moca-cyp	Dmel\CG8336	Dmel\CG2852
+GO:0016019	PGRP-SC1a	PGRP-SC1b	Dmel\CG9380	PGRP-SB1	PGRP-LB	PGRP-LF	PGRP-LA	PGRP-LD	PGRP-LC	PGRP-LC	PGRP-LC	PGRP-LC	PGRP-SC2	PGRP-SD	PGRP-SB2	PGRP-LE	PGRP-LE	PGRP-LE	PGRP-LE	PGRP-SA	PGRP-SA	PGRP-SA
+GO:0034986	fh	fh
+GO:0033134	lwr	Aos1	Uba2
+GO:0016231	Hexo1	fdl	Oga	Hexo2
+GO:0033130	Dmel\CG1909	RIC-3
+GO:0030246	Dmel\CG14499	Dmel\CG12780	Dmel\CG12004	lectin-46Ca	lectin-46Ca	CK02422a	Dmel\CG14500	Dmel\CG15117	GNBP-like3	Dmel\CG9095	Sfp24F	lectin-22C	Dmel\CG14866	Mp	bark	rgn	Acp29AB	Acp29AB	lectin-30A	BEST:GH10831	BcDNA:RH26557	lectin-46Cb	lectin-46Cb	Pngl	tfc	Clect27	betaGlu	glec	glec	glec	Dmel\CG4115	nesd	Dmel\CG13086	lectin-33A	lectin-29Ca	lectin-28C	Dmel\CG6055	Dmel\CG15818	lectin-21Cb	lectin-21Ca	Dmel\CG15358	lectin-24A	lectin-24Db	fw	Dmel\CG12111	Dmel\CG15765
+GO:0008458	Dmel\CG12428	Dmel\CG12428
+GO:0046592	Dmel\CG7737	anon-37Cs	Dmel\CG8032	Dmel\CG5653	Dmel\CG7460	Dmel\CG6034
+GO:0034237	Dmel\CG8252	Pka-C2	Akap200	Akap200
+GO:0034235	qvr
+GO:0034584	aub	aub	AGO3	AGO3	AGO3
+GO:0070012	lincRNA.224	Dmel\CG5355
+GO:0032405	Msh6
+GO:0051731	CG8414
+GO:0070404	Dhpr
+GO:0019870	Wnk
+GO:0004366	mino	mino
+GO:0017057	CG17333
+GO:0017056	Nup188	Nup188	Nup75	Nup75	Mtor	Nup62	Nup62	Nup205	Nup205	Nup154	Nup107	Nup107	Nup54	Nup54	Nup54	Ndc1	Ndc1	Nup98-96	Nup98-96	Nup133	Nup133	Nup58	Nup58	Nup93-2	Nup93-2	Dmel\CG14712	Nup160	Nup160	Nup35	Nup35	Nup153	Nup153	Nup214	Nup93-1	Nup93-1
+GO:0017050	Sk1	Sk2
+GO:1990525	Drice	Drice	Dcp-1	hid	hid
+GO:1990259	Dmel\CG10909	Fib
+GO:0001164	TAF1B	TAF1B
+GO:0001162	su(sable)
+GO:0001163	Rpt4
+GO:0034057	eIF4B	eIF4H2	Dmel\CG11726	eIF4H1
+GO:0035299	Ipk1	Ipk1	Ipk1
+GO:0042586	PDF	Dmel\CG31278
+GO:0002151	Rhau	Rhau
+GO:0051880	rad50
+GO:0031995	Lerp
+GO:0031996	Traf4
+GO:0043199	Ace
+GO:0033829	fng	fng
+GO:0035613	Slbp	Slbp	Slbp	Sbp2
+GO:0035612	FCHo	Nak
+GO:0008897	eap
+GO:0035615	Hip1
+GO:0035614	sm	snf	snf	cpo
+GO:0036402	Rpt2
+GO:0036401	PK1-R	PK2-R1	PK2-R2
+GO:0036400	sNPF-R
+GO:0031752	cta
+GO:0036408	Taf1
+GO:0042134	BcDNA:LD45688
+GO:0005070	drk	drk	drk	drk	drk	dock
+GO:0035184	ball
+GO:0005078	CG6043	hep	ksr	syd	syd	Aplip1
+GO:0004303	scu	Dmel\CG40486	Dmel\CG40485	Dmel\CG8888	CG2907	Dmel\CG10962	CG11005	EG:BACR7A4.14	sro	FOHSDR	Dmel\CG9150	anon-WO0118547.83	CG2907	Dmel\CG8757	FOHSDR	antdh	Dmel\CG3603
+GO:0051959	Dhc93AB	DHC3B	Dmel\CG8407	kl-3	CG11448	Cdlc2	Dhc64C	Dhc64C	btv	DHC5	ctp	ctp	hook	kl-2	Dhc62B	Dlc90F	Dhc98D	Dhc36C	Dmel\CG14651	Dhc16F	Dnah3	Girdin
+GO:0019135	nero
+GO:0004809	CG6388
+GO:0005092	Dhit	loco	Gdi
+GO:0005090	Sec12
+GO:0005096	Sec23	Sec23	Nup358	CG34108	CG34108	Asap	SMAP	tum	RN-tre	RN-tre	RhoGAP54D	RhoGAP54D	RapGAP1	RapGAP1	GAPcenA	GAPcenA	ArfGAP3	ArfGAP3	cv-c	cv-c	RhoGAP71E	RhoGAP71E	RhoGAP71E	drongo	plx	plx	RhoGAP102A	Rab19	Ocrl	l(2)gl	norpA	RacGAP84C	Dmel\CG8155	Dmel\CG8155	Nup50	Dmel\CG32506	Dmel\CG32506	Dmel\CG1695	Dmel\CG1695	vap	Dhit	conu	conu	Dmel\CG5745	Dmel\CG5745	Git	CenG1A	CenG1A	PlexA	RhoGAP100F	RhoGAP100F	CG5521	CG5521	Nf1	TBC1d7	TBC1d7	RanBP3	CenB1A	loco	loco	CG5740	RhoGAP93B	RhoGAP93B	RhoGAP93B	RhoGAP93B	Rlip	RhoGAP92B	RhoGAP92B	Dmel\CG5916	Dmel\CG5916	Dmel\CG12241	TBC1D5	TBC1D5	wkd	wkd	sky	CdGAPr	CdGAPr	RanGAP	TBC1D16	TBC1D16	Sec12	Dmel\CG7742	Q9VP46	Q9VP46	Tbc1d15-17	Tbc1d15-17	Dmel\CG4552	CG31935	CG31935	CG31935	CG31935	TBCD	TBCD	GAPsec	GAPsec	RhoGAP68F	RhoGAP68F	ArfGAP1	ArfGAP1	gig	gig	RhoGAP18B	RhoGAPp190	RhoGAP15B	RhoGAP15B	Tomosyn	Evi5	Evi5	Evi5	Evi5	Iml1	Iml1	Dmel\CG16896	ric8a	RhoGAP5A	Dmel\CG4041	Dmel\CG4041	EG:BACR7A4.15	CG40289	CG40289	Orc6	RhoGAP16F	rad	Graf	Graf	Dmel\CG34408	RhoGAP19D
+GO:0005094	RhoGDI
+GO:0005250	Shal	Shal
+GO:0004788	Dmel\CG14721
+GO:0005251	KCNQ	Shawl	Sh	Shab	Shaw
+GO:0004784	Sod1	Sod1	Sod1	Sod2	Sod2	Sod3	Sod3	Sod3	Dmel\CG5948
+GO:0031370	eIF4E1	eIF4E1	eIF4E4	eIF4E5	eIF4E3	eIF4E7
+GO:0004419	Hmgcl	Hmgcl
+GO:0004418	l(3)02640
+GO:0047875	Eo
+GO:0004411	hgo
+GO:0005416	DmNAT4	List	Dmel\CG1698	BG:DS03431.1	anon-WO0149848.7	NAAT1
+GO:0005415	CNT1	CNT2
+GO:0047988	T3dh
+GO:0008940	Marc
+GO:0005328	Dmel\CG43066	Dmel\CG10804	bdg	Dmel\CG33296	blot	CG18590	Dmel\CG13795	Dmel\CG13794	Dmel\CG13793	ine	ine	ine	GlyT
+GO:0099104	CT18477
+GO:0004047	151967_at	151967_at
+GO:0005324	Fatp1	Fatp2	Fatp3
+GO:0005326	Dmel\CG43066	DmNAT4	List	Dmel\CG10804	bdg	Dmel\CG1698	cpx	CG13796	CG18590	Tk	CarT	BG:DS03431.1	Dmel\CG13795	Dmel\CG13794	Dmel\CG13793	Ntl	VGlut	VGlut	anon-WO0149848.7	GlyT	NAAT1
+GO:0045134	NTPase	Dmel\CG5276
+GO:0008768	CG42814-RA	Dmel\CG42813
+GO:0008160	Dmel\CG2104	Ptpa	Dmel\CG8509
+GO:0004045	Dmel\CG17327
+GO:0008168	bin3	Mt2	l(2)10685	Nsun2
+GO:0042625	Vha14-1	Vha14-2	Dmel\CG15719
+GO:0042626	CT14766	Dmel\CG8908	Dmel\CG8908	CG9892	CG9892	w	bw	bw	st	l(2)03659	Mdr49	Mdr65	Eato	Eato	Dmel\CG9664	Dmel\CG9664	BcDNA:GH19411	Mdr50	Dmel\CG9270	MRP	E23	E23	CG33173	CG33173	Dmel\CG3164	Dmel\CG3164	Dmel\CG11069	Dmel\CG9663	CG17338	EG:171D11.2	EG:171D11.2	ABCG1	rdog	Dmel\CG11898	Dmel\CG5789	CG4794	CG4794	Hmt-1	Hmt-1	Mrp4	CG17338	Dmel\CG5853	Dmel\CG7627	Dmel\CG7806	Dmel\CG4822	Dmel\CG4822	Atet	Atet	Atet	Dmel\CG1494	Dmel\CG1494	ABCA	ABCA	Dmel\CG1801	Dmel\CG1801	AMT	CG14136	Dmel\CG6052	Dmel\CG6052	Dmel\CG42816	Dmel\CG42816	Dmel\CG1824	Dmel\CG1824	ABCB7	ABCB7	Dme_CG10505	Dmel\CG34120	Dmel\CG34120
+GO:0000146	Mlc1	jar	Myo31DF	Myo28B1
+GO:0042623	Myo81F	Dhc93AB	DHC3B	didum	Dmel\CG8407	kl-3	kl-3	kl-3	Cdlc2	Hsp68	Hsp70Ab	Mhc	ninaC	Hsc70-2	Hsc70-4	Hsc70-1	Hsc70-3	Hsc70-5	Dhc64C	Dhc64C	CCT3	Hsp70Aa	jar	jar	btv	Myo10A	DHC5	Myo31DF	Myo61F	ctp	Dmel\CG10822	kl-5	kl-2	kl-2	Ubx	Dmel\CG14763	robl	Lis-1	Dhc62B	Mhcl	Hsp70Ba	Myo28B1	Dlc90F	zip	Hsp70Bc	Hsp70Bb	Dmel\CG10839	ck	Dmel\CG10834	Dhc98D	Hsp70Bbb	robl37BC	Dhc36C	Dmel\CG17237	robl22E	Dmel\CG7182	Dhc16F	Dnah3	robl62A	Dmel\CG16837	CG15780
+GO:0000149	Vti1b	Sytalpha	nSyb	Syx17	Syx17	l(2)gl	Syt1	Syt1	Snap25	Rop	alphaSnap	alphaSnap	Slh	Syx5	Syx5	Syx1A	Syx1A	Syx6	Vamp7	Vamp7	Syx7	Syx7	Syx4	Syx4	cpx	Syt4	Syt4	Syt7	Sec6	Sec6	Syx18	Vps45	Vps45	lap	Uvrag	Syx16	Membrin	Syx13	Syx13	Sytbeta	Syx8	Syt12	Tomosyn	Vti1a	Snap29	Snap29	Snap29	Snap29	Snap29	Snap29	Snap29	car
+GO:0008890	Dmel\CG10361
+GO:0008893	Mesh1
+GO:0008892	DhpD	DhpD
+GO:0004301	Dmel\CG1882	Dmel\CG10602
+GO:0004300	Dmel\CG8778	Echs1	Echs1	Mtpalpha	Mtpalpha	Dmel\CG4592	Dmel\CG4594	Dmel\CG4598	HIPP1	Mfe2	Thiolase
+GO:0005528	FK506-bp1	FKBP59
+GO:0004305	eas	eas	Dmel\CG2201	Dmel\CG2201
+GO:0004307	bbc	dCCS3	CG10355
+GO:0004309	pn	anon-EST:Posey64
+GO:0005523	tmod	Unc-89	Khc	up
+GO:0005520	Lerp	ImpL2	ImpL2	ImpL2	ImpL2	ImpL2	ImpL2	Lgr3	Sdr
+GO:0005521	Dmel\CG7744	wash	LBR	Topors
+GO:0005254	Best1	Best1	ClC-b	Lcch-47C	Lcch-47C	GluClalpha	GluClalpha	tty	tty	pHCl-2	pHCl-2	ort	ort	ClC-a	HisCl1	HisCl1	Best2	Best2	Best4	Best4	Best3	Best3	ClC-c	Dmel\CG7589	Dmel\CG7589	Clic	Clic	Lcch-4D	Lcch-4D	CG3638	CG3638
+GO:0005524	Dmel\CG4538	didum	didum	didum	Torsin	Hsp68	Hsp70Ab	Hsp83	r	awd	Hsc70-2	Hsc70-4	Hsc70-1	Hsc70-3	Hsc70-5	Gprk1	blw	spel1	spel1	Pfk	Hsp70Aa	Haspin	Pgk	Pgk	Drak	Iswi	Ak6	CysRS-m	Dark	CysRS	Hsp70Ba	Hsp70Bc	Hsp70Bb	trc	Dyrk2	ck	ck	Hsp70Bbb	Blm	Sps2	AlaRS	Dmel\CG9961	SerRS	l(1)G0196	AlaRS-m	RecQ4	Dmel\CG7182	pix	pix	Dmel\CG6767	Msh6	Msh6	mbt	CG4078	CG4078
+GO:0005525	Rgk3	Rgk3	Rgk2	Rgk2	Rgk1	Rgk1	Arl6	Arl4	Arl4	RhoBTB	alphaTub84B	alphaTub85E	alphaTub84D	alphaTub67C	betaTub60D	awd	Galphao	gammaTub23C	gammaTub23C	Arl1	Arl1	128up	128up	Rac1	Cdc42	pnut	Arf102F	Arf51F	Sep1	gammaTub37C	gammaTub37C	Rho1	Rac2	Pu	Arf79F	betaTub85D	Arl2	Arl2	RhoU	RhoL	Mtl	Ttd14	CG15240	Miro	Miro	betaTub97EF	Ns1	chb	RecQ5	kappaB-Ras	atl	Sar1	dnd	Dmel\CG17819	BEST:GH15838	Tub1B	Gie	eRF3	CG7338	Rab26	CG32396	Arl5	Dmel\CG7728	Ran	Ns3
+GO:0004129	Dmel\CG44296	mt:CoI	mt:CoI	mt:CoI	mt:CoII	mt:CoIII	COX6AL	COX7C	COX7C	COX7C	ND-MLRQ	COX4L	COX4L	COX5A	COX5A	COX7AL	COX7A	COX4	COX4	COXX	COX5BL	COX5BL	COX5B	COX5B	cype	VIa	COX6B	Dmel\CG3803	levy	levy	levy	levy
+GO:0004128	Dmel\CG11257	Dmel\CG5946
+GO:0018423	Dmel\CG3793
+GO:0004123	Eip55E	Eip55E	Eip55E
+GO:0004124	Cbs
+GO:0004127	Dak1
+GO:0004126	Dmel\CG8349	Dmel\CG8353	BcDNA:LP03131
+GO:0003825	Tps1
+GO:0017147	arr	arr	fz3	fz3	fz3	fz	fz	fj	Ror	drl	drl	otk	otk	Drl-2	Drl-2	Swim	otk2	wls	wls	wls	fz4	fz4	dnt	Nrk	Cow	dlp	fz2	fz2	fz2	fz2	fz2	por	por
+GO:0003827	Mgat1	Mgat1
+GO:0003826	Dmel\CG17691	Dmel\CG8199
+GO:0008301	Sox14	HmgD	HmgD	HmgZ	D	Dsp1	Dsp1
+GO:0003823	Dscam1
+GO:0008308	GPHR	GPHR	porin	porin	porin	Porin2	Porin2	Porin2	CG31722	CG31722-B
+GO:0008094	kis	brm	lds	spel1	Iswi	Iswi	Iswi	Iswi	Iswi	Iswi	spn-A	spn-D	Tfb1	dom	dom	Ino80	rec	Blm	Marcal1	Tfb4	Tfb4	RecQ4	RecQ4	Msh6
+GO:0008097	mRpL18	CG1785	RpL5	RpL5
+GO:0008096	Jheh1
+GO:0070615	Chd3	Nurf-38	Mi-2	Mi-2	MEP-1	Iswi	Iswi	Iswi	Caf1	Chrac-14	Chrac-16	Acf	Acf	E(bx)
+GO:0008093	Dmel\CG3104	insc	insc
+GO:0008092	Synd	shot	Syn2	Dyb	kst	CG15566	Cdep	Msp300	Ank2	alpha-Spec	alpha-Cat	Moe	beta-Spec	Ank	Mer	FCHo	Pez	cora	Dys	yrt	CadN2	Dmel\CG5022	nompC	Syn1
+GO:0016830	Hacl	Hacl
+GO:0008307	Dg	Syn2	Syn2	Dyb	bt	bt	Scgalpha	Scgalpha	Scgdelta	Scgdelta	Mhc	fln	Mlp84B	Mlp84B	sls	Dys	Dys	Dys	Scgbeta	Syn1	Syn1	Syn1	rols	Tina-1
+GO:0031404	ClC-c
+GO:0031405	Dmel\CG5599
+GO:0018738	Dmel\CG4390
+GO:0003729	cg4896	heph	sm	apt	Syp	Syp	Syp	Dmel\CG14506	cg11478	NAT1	NAT1	Pcf11	clu	clu	Psi	HnRNP-K	cg4266	eIF4G1	CG4787	tho2	Dmel\CG7706	Rbp1-like	Rbfox1	Rbfox1	Rbp9	Rbp9	mbf1	how	how	mof	mof	ssx	Su(var)205	Hrb98DE	Hrb98DE	RpS26	Top2	elav	elav	snRNP-U1-70K	snRNP-U1-70K	snRNP-U1-70K	tra2	Rm62	pAbp	osk	stau	stau	su(f)	B52	B52	swa	swa	La	La	snf	Hrb27C	Hrb87F	Hrb87F	msl-3	msl-3	Nelf-E	cpo	cpo	Rbp1	Rbp1	Rb97D	Rb97D	nonA	nonA	sqd	sqd	Cpsf5	bru2	eIF3b	CG9561	SLIRP1	smg	smg	BicC	BicC	nonA-l	RpS5a	bol	Rsf1	Rsf1	U2af50	caz	P32	Arc1	barc	Pabp2	CG14730	CG18656	eIF4B	msi	msi	Saf-B	Rox8	bru1	bru1	bru1	bru1	srl	shep	Secp43	TBPH	hfp	U2af38	lark	cg14641	yps	fus	fus	Fmr1	Ref1	cyp33	Cbp20	SC35	SC35	x16	x16	cg14628	SF2	SF2	Dmel\CG4119	Dmel\CG4119	vig	Spt5	Spt5	Pur-alpha	tsu	tsu	tsu	NiPp1	NiPp1	eIF4H2	cg7903	Slbp	eIF4G2	orb	orb	Dmel\CG31156	cg6937	eIF3g2	CstF64	CstF64	Dmel\CG5213	RpS5b	Rbp4	Rbp4	rin	rin	glo	Dmel\CG14718	RnpS1	rump	rump	rump	SLIRP2	SLIRP2	Dmel\CG10466	swm	swm	mRpL13	cg12288	Ref2	mRpS7	Srp54	Srp54	Caper	eIF3a	cg2931	RpL13A	Dmel\CG11454	Sf3b1	Dmel\CG4887	Dmel\CG3294	lin-28	Sf3b6	CG7185	CG7185	orb2	Q9VT19	Dmel\CG11726	Dmel\CG10948	bru3	bru3	Dmel\CG7804	Dmel\CG7564	Edc3	cg3808	CG14230	Dmel\CG6961	DENR	DENR	fne	Dmel\CG1316	Ythdc1	Dmel\CG7879	Eap	Pof	cg4806	cg4612	thoc5	Upf3	ytr	egl	egl	LS2	Dmel\CG9346	Dmel\CG3198	Spx	RpL35	Rnp4F	eIF3g1	Dmel\CG17168	Dmel\CG5808	Dmel\CG14414	eIF4H1
+GO:0003873	Pfrx	Pfrx
+GO:0015288	Porin2
+GO:0008239	Ance-4	ome	Ance	Dmel\CG3734	Ance-3	Dmel\CG11626	Dmel\CG3739	Dmel\CG18493	Dip-B	Dip-C	DppIII	DppIII	Dmel\CG2493	Ance-2	Acer	Dmel\CG11034	Dmel\CG9953
+GO:0008238	Ance-4	Ance	Ance-3	Ance-2	Acer	Ance-5
+GO:0003951	Dmel\CG8080	CG6152	Dmel\CG6145
+GO:0003950	CG15925	Parp	Parp	Tnks	Tnks	Tnks	Tnks	Tnks
+GO:0008545	Mkk4	hep	hep	hep	hep
+GO:0003952	CG9940
+GO:0003954	ND-51L2	ND-51L2	ND-51L1	ND-B14.5A	mt:ND1	mt:ND4	ND-42	ND-B15	ND-B14	ND-MLRQ	ND-75	ND-75	ND-B17	ND-49	ND-20L	ND-20L	ND-49L	ND-23	ND-23	ND-B22	ND-51	ND-51	ND-39	ND-39	ND-B17.2	ND-B14.5B	ND-PDSW	ND-B8	ND-13B	ND-SGDH	ND-24L	ND-24L	ND-24	ND-24	ND-20	ND-20	ND-B18	ND-30	ND-30	ND-19	ND-B12	su(r)	ND-MNLL	ND-ASHI
+GO:0008237	Nep2	Ance-4	Ance	Nep5	Ance-3	Nep4	eIF3h	Rpn11	Ance-2	Acer	Nep1	Spg7	Nep3	CSN5
+GO:0003956	Arf102F	Arf51F
+GO:0043998	Naa40	Atac2
+GO:0015574	Tret1-1
+GO:0008781	Csas
+GO:0043993	nej
+GO:0051087	Dmel\CG15120	Hsc20	HIP	Hsc70-4	ph-p	DnaJ-1	Cdc37	Cdc37	sel	HIP-R	Fic	Fic	Mlf	Dmel\CG11779	Dmel\CG9920	CG16817	P58IPK	Sgt1	Dmel\CG17349	Dmel\CG7130	Dmel\CG5001	Dmel\CG11267	Dmel\CG5048	CNPYb	Pfdn6	Dmel\CG8206	Dmel\CG12379	Dmel\CG12020	Dmel\CG2887	lz	ph-d
+GO:0043995	Rcd1	dgt1	nsl1	Rcd5
+GO:0043994	Br140	Ing5	Ing5	Eaf6	Eaf6	enok
+GO:0051082	Trap1	mrj	Ire1	Dmel\CG5114	Hsp60A	Hsp60A	Hsp68	Hsp68	Hsp22	Hsp22	Hsp23	Hsp23	Hsp26	Hsp26	Hsp27	Hsp27	Hsp70Ab	Hsp83	Hsp83	Hsp67Ba	Hsc70-2	Hsc70-2	Hsc70-4	Hsc70-4	ninaA	Hsp67Bc	Cyp1	Hsc70-1	Hsc70-3	Hsc70-5	Hsc70-5	Roe1	Roe1	l(2)efl	Hsp70Aa	DnaJ-60	Ugt	DnaJ-1	Cdc37	Dmel\CG14483	Dmel\CG17266	Dmel\CG7768	BcDNA:AT31683	NudC-L	Hsp70Ba	Dmel21.3	sip3	Hsp70Bc	Hsp70Bb	jdp	cyp33	Tpr2	CIA30	CIA30	Moca-cyp	Gp93	Nmnat	Dmel\CG9920	Hsp70Bbb	P58IPK	Dmel\CG10286	CG10055	Hsp60D	Edem2	Dmel\CG13133	Hsp60C	Dmel\CG14671	Dmel\CG7130	Hsp60B	Hsp60B	Dmel\CG5001	CT16169	Dmel\CG7182	BEST:GH12586	Dmel\CG8336	Dmel\CG11267	Dmel\CG9592	nudC	Cnx14D	Dmel\CG12020	Dmel\CG2852	RIC-3	Dmel\CG2887
+GO:0043996	Rcd1	dgt1	nsl1	Rcd5
+GO:0015375	GlyT	GlyT
+GO:0042805	Zasp52
+GO:0015378	Ncc69	NKCC
+GO:0001671	nrv3	alphaSnap	nrv1	nrv2	Dmel\CG8531	CG15274	Dmel\CG32727	Dmel\CG11703	Dmel\CG5250	Tim14	Tim14	mrn	Vta1
+GO:0042800	trx	trx	Dmel\CG10931	Set1	Set1	trr	trr	ash2	Wdr82	Dmel\CG3515	ash1	ash1	Lpt	Rtf1	Setd3
+GO:0042802	Dscam1	Fer2LCH	Fer1HCH	Dscam4	CtBP	Ten-m	SAK	SAK	Hsp22	Tl	Tl	InR	Acp26Aa	dl	dl	tra2	trp	ci	trx	trx	sina	sina	Hsf	alpha-Cat	corto	corto	snf	trpl	Gdh	smo	smo	aos	rst	rst	esc	esc	Mer	Mer	Meltrin	trsn	Dmel\CG1888	Dmel\CG10465	Dark	lwr	Dscam3	Dmel\CG31800	boca	fwe	zip	Fmr1	anon-35F/36A	olf186-F	olf186-F	dUTPase	RecQ5	Mtap	aralar1	atl	atl	atl	atl	CSN6	IKKbeta	IKKbeta	Ravus	Gnmt	GCC185	Scm	Scm	zuc	Dmel\CG5045	BcDNA:LP03131	ihog	Oscillin	Dscam2	Dmel\CG8281	vers	CTPsyn	Smn	Smn	fz2	ash1	Fer3HCH	Aplip1	DCP1	hng1	Dmel\CG3342
+GO:0042803	mim	Dscam1	Khc-73	Pak3	MBD-like	psq	Dmel\CG13202	Dmel\CG34189	Liprin-gamma	CG17793	Camta	Idh	tHMG2	et	robo2	mirr	CadN	cos	wbl	CtBP	Ten-m	Adh	Hsp83	Mhc	Ace	Ace	per	dpp	dpp	Scr	ase	twi	da	da	da	grh	E(spl)m5-HLH	E(spl)	svp	trp	ci	usp	ncd	trx	Syt1	oc	dsx	fu	exu	14-3-3zeta	Tpi	EcR	pnut	corto	Sep1	ttk	spz	Taf12	Sep2	Gsc	byn	Sod1	smo	Trxr-1	Trl	Trl	step	C	ctp	ctp	ctp	ctp	ctp	shg	Lac	rpr	Cp190	Syx5	bun	grim	Caf1	drl	OSCP1	Atf-2	otk	trsn	Vps25	otk2	Dlip3	cbs	lolal	Keap1	AsnS	park	mod(mdg4)	Acph-1	Dmel\CG1236	Gyc88E	CG9332	Fic	Golgin84	Golgin84	Dmel\CG9331	hpo	Buffy	Dlc90F	Dlc90F	Dlc90F	Ork1	alien	ari-1	slpr	slpr	Fmr1	Coprox	trbl	wun	Debcl	atl	tHMG1	CREG	GckIII	rdx	rdx	GCC185	KLHL18	Blm	GCC88	Dmel\CG31673	CadN2	wek	REPTOR-BP	ihog	ihog	Dmel\CG12393	Gal	rau	Orco	se	GstO2	Blos2	CG11263	Liprin-beta	bru3	Hml	dbo	Cad74A	Mfe2	Ten-a	Met	Golgin245	su(r)	Shmt	inc	GlyP	Dronc	Pph13	Madm	Orc6	CG9600
+GO:0032500	PGRP-SA
+GO:0070611	Art8
+GO:0070140	Dmel\CG11023	anon-AE003540.1	velo	Ulp1	Ulp1	Ulp1	Ulp1	Dmel\CG12717
+GO:0032051	Chc	Chc	Hip1
+GO:0044748	Nbr	Nbr
+GO:0008432	syd
+GO:0071813	LpR2
+GO:0016715	olf413	Tbh	Tbh	CG5235
+GO:0044183	Hsp68	Hsp70Ab	Hsc70-2	Hsc70-4	Hsc70-1	Hsc70-3	Hsc70-5	Hsp70Aa	Hsp70Ba	Hsp70Bc	Hsp70Bb	Hsp70Bbb	Dmel\CG7182	Pfdn2	Nrd1
+GO:0032183	dgrn
+GO:0016712	Cyp18a1	phm
+GO:0015116	Dic3	Dic3	Dmel\CG6928	Dmel\CG5002	Bmcp	Dmel\CG9717	Dmel\CG9702	Dmel\CG7912	Esp	Dic2	Dmel\CG5404	Dmel\CG6125	Dmel\CG16736	Prestin	Prestin	Dmel\CG6893	Dic4	Dic1	Dic1
+GO:0015117	Dic3	Dic3	Bmcp	Dic2	Dmel\CG16736	Dmel\CG6893	Dic4	Dic1	Dic1
+GO:0015114	Mpcp2	Mpcp1
+GO:0050145	28573184	28573184
+GO:0071567	UFSP1	UFSP2
+GO:0071566	Uba4	Uba5	Uba5
+GO:0071568	Ufc1
+GO:0080132	fa2h	fa2h
+GO:0016831	amd	amd
+GO:0008898	Dmel\CG10623	anon-WO0140519.13
+GO:0015020	GlcAT-I	dibeta3GnT2	dCHSY	Ugt303A1	Ugt304A1	Ugt35E2	Ugt35E1	Ugt302E1	Ugt302K1	Ugt35C1	Ugt37D1	Ugt37E1	Ugt37C2	dibeta3GnT3	dibeta3GnT4	GlcAT-P	BEST:GH04269	Ugt317A1
+GO:0015026	arr	boi	Ir25a	Tehao	ihog	Ir8a
+GO:0016229	scu	firl
+GO:0030527	His3.3A	His3.3B
+GO:0030234	Dmel\CG42456	COX6AL	cnk	Catsup	eIF2Balpha	Gclm	Gclm	Gclm	Rab3-GAP	VIa	levy	levy	MRG15
+GO:0004505	Hn	Hn	Hn	Trh
+GO:0070905	Shmt
+GO:0034593	Ocrl
+GO:0050660	cn	LCAD	Alr	cry	cry	cry	cry	ry	ry	ry	Nos	Cpr	CG5009	wal	AOX2	SdhAL	SdhA	AOX4	AOX3	AOX1	Dmel\CG17544	Dmel\CG13667	Su(var)3-3	Dmel\CG4610	Acox57D-d	Acox57D-p	Dmel\CG4586
+GO:0034597	Dmel\CG6707
+GO:0003785	cib	cib	chic	twf
+GO:0034595	Synj
+GO:0004605	CdsA	CdsA	CG33331
+GO:0047057	Vkor	Vkor
+GO:0004502	cn	cn	cn	cn
+GO:0051721	Ankle2	Tap42
+GO:0051724	PMP34
+GO:0019841	apolpp
+GO:0019843	CG4679	RpS9	RpS5a	vito	RpS5b	mRpL11	Dmel\CG7488	cg12288	mRpS7	CG11583	Eap	RpL12	Dmel\CG3735	CG3527	mRpL16
+GO:0047184	LPCAT
+GO:1990247	Ythdf	Dmel\CG8915	Ythdc1	Ythdc1
+GO:0035064	ADD1	Su(var)205	Pc	Pc	msl-3	Pcl	CG7137	CG7137	pygo	HP1c	Dmel\CG7379	Ing5	Sfmbt	Sfmbt	Cap-D3	upSET	Msh6	Ing3	E(bx)	Sgf29	Sgf29	MRG15
+GO:0030586	BcDNA:SD10961
+GO:0030342	Cyp12d1-d
+GO:0034046	Hrb27C
+GO:0071949	cry	slgA	slgA	D2hgdh	Mical	Mical	ADPS	gh18008	BcDNA:GH04863	Dmel\CG5946
+GO:0072542	wrd	wdb	CG4724
+GO:0043325	Hip1	nwk
+GO:1990404	Parp
+GO:0031964	t
+GO:0030165	Rala	rst	Desi	Dmel\CG4537	nkd	nkd	fz2
+GO:0030160	Prosap	Prosap
+GO:0004373	GlyS	GlyS
+GO:0003958	Nos	Cpr	Dmel\CG13667
+GO:0005068	Lnk	Lnk	stumps	stumps
+GO:0017069	Prp8	bin3	bin3	CG1239
+GO:0017061	CG31115	Mtap
+GO:0052866	Sac1
+GO:0043035	su(Hw)	Cp190	Cp190	Cp190	BEAF-32	BEAF-32	insv	pita	ZIPIC	l(3)mbt	Ibf1	Ibf2	HIPP1	Elba2	Bsg25A	Bsg25A	CTCF	CTCF	CTCF	e(y)2	e(y)2	e(y)2	dwg	dwg
+GO:0005089	CG7397	CG7397	RhoGEF2	RhoGEF2	CG15612	Dmel\CG15611	GEFmeso	Cdep	Dmel\CG10188	Ziz	CG8557	CG8557	CG12183	Pura	trio	trio	PsGEF	pbl	pbl	spg	Zir	RhoGEF4	Exn	CG7323	RhoGEF64C	RhoGEF3	RhoGAP1A
+GO:0005179	Acp98AB	Acp32CD	Acp33A	SP	FMRFa	FMRFa	Lk	ITP	Gpb5	Gpb5	Gpa2	SIFa	Acp36DE	AstA	Burs	Hug	AstC	AstC	Neb-cGP	AstCC
+GO:0009378	RecQ5	Blm	RecQ4
+GO:0005178	plx	mys	sas	Itgbn	Ret	Dmel\CG17211	Tig	shv	rhea	Ccn
+GO:0005080	Rack1	par-6	crb	ref(2)P	Patj	PICK1
+GO:0005085	CG7397	RtGEF	CG8557	spri	CG5189	CG5189	Tctp	CG5110	Sec71	strat	Als2	dp18	CG1657	CG1657	CG14977	CG14977	ric8a	ric8a	eIF2Bepsilon	eIF2Bepsilon
+GO:0005087	Rcc1
+GO:0005086	garz	Efa6	step	Sec61beta	Sec71	Sec71	siz
+GO:0004485	l(2)04524	l(2)04524	Mccc1
+GO:0000224	Pngl	Pngl
+GO:0000225	PIG-L
+GO:0035312	tos	mus201	Snm1	Gen	Gen
+GO:0004482	Rnmt
+GO:0031369	btz	eIF3f2	eIF3c	eIF3m	GLE1	Rpb4	Rpb7	eIF3f1	kra	eIF4E3	pix	pix	Zpr1	eIF2Bepsilon
+GO:0004375	Dmel\CG3999
+GO:0008233	twr	twr	Cp1	amon	Spase22-23	HtrA2	HtrA2	Invadolysin	Invadolysin	Der-1	psh	CtsB1	CG2200	Spase25
+GO:1990756	mi
+GO:0004420	Hmgcr
+GO:0004421	Hmgs
+GO:0004930	mtt	5-HT2B	CG 13579	AstC-R2	Cirl	CCHa1-R	CCKLR-17D1	CCKLR-17D1	mthl15	smog	MsR2	MsR1	CrzR	mth	mth	mth	Rh2	mAChR-A	5-HT7	5-HT1A	5-HT1B	Dop1R1	Dop1R1	mthl11	mthl12	mGluR	CCHa2-R	Oamb	Dmel\CG13229	rk	AkhR	CCKLR-17D3	CCKLR-17D3	SIFaR	CG31750	5-HT2A	CG32395	Dop2R	PK1-R	PK1-R	CG7155	mthl14	Dmel\CG11318	Dmel\CG11318	AstA-R2	Tre1	Tre1	AstA-R1	AstA-R1	CG1339	mthl4	mthl4	mthl3	mthl3	anon-WO0170980.179	anon-WO0170980.179	lincRNA.S7704	Lgr3	Lgr1	Lgr1	Lgr1	PK2-R1	PK2-R1	PK2-R2	PK2-R2	mthl5	mthl5	mAChR-B	anon-WO0170980.170	TrissinR	Lkr	mthl2	mthl2	mthl6	mthl6	mthl7	mthl7	Rh7	BcDNA:GH27361	AstC-R1	CG5936	mthl1	mthl1	mthl1	FMRFaR	mthl10	mthl10	mthl9	mthl9	mthl8	mthl8	Proc-R	Dmel\CG4313	Dmel\CG4313	moody	moody	Gr2a	mthl13
+GO:0004423	Ids
+GO:1902388	Dmel\CG30392	Dmel\CG6299	cert
+GO:0004427	Nurf-38	Nurf-38	Dmel\CG17294
+GO:1902387	Dmel\CG30392	Dmel\CG6299	cert
+GO:0050700	Dark	Fadd	Dronc
+GO:0008234	Dmel\CG4847	Dmel\CG13423	Dmel\CG1440
+GO:0098847	Ssdp
+GO:0008236	Ser8	Ser7
+GO:0022804	Oatp26F	Oatp33Eb	Oatp33Ea	Oatp30B	Oatp74D	Oatp58Dc	Oatp58Db	Oatp58Da
+GO:0008936	Naam
+GO:0005332	Dmel\CG33296	blot	CG13796	CG18590	Gat	Gat	Dmel\CG13795	Dmel\CG13794	Dmel\CG13793
+GO:0008934	IMP	IMP	IMP	IMP	IMP	IMP	Dmel\CG17026	Dmel\CG17026	Dmel\CG17026	Dmel\CG17029	Dmel\CG17029	Dmel\CG17029	IMP	IMP	IMP	Dmel\CG17027	Dmel\CG17027	Dmel\CG17027	CG15743
+GO:0005330	DAT	DAT	DAT
+GO:0005337	CNT1	CNT2	Ent2	Ent2	Ent2	Ent2	Ent1	Ent1	Ent1	Ent1	Ent3	Ent3	Ent3
+GO:0005335	SerT	SerT	SerT	Vmat	prt
+GO:0015278	jp	Orco
+GO:0048257	mus81	mus312
+GO:0048256	tos	tos	mus201	Fen1	Gen
+GO:0008158	ptc	ptc
+GO:0035197	Dcr-2	CG10038	blanks	AGO2	AGO2	AGO2	Dmel\CG12493
+GO:0004686	PEK
+GO:0004687	Strn-Mlck	Strn-Mlck	Strn-Mlck	sqa
+GO:1905948	w
+GO:0004683	Strn-Mlck	MAPk-Ak2	CaMKII	CaMKII	CaMKII	CaMKI	CaMKI	CG17528	Lk6
+GO:0004689	PhKgamma	CG8475	CG7766
+GO:0070815	PSR
+GO:0005539	wg	Dmel\CG18278	Sulf1
+GO:0004335	Galk	Galk
+GO:0004337	Fpps
+GO:0004331	Pfrx	Pfrx
+GO:0004332	Ald
+GO:0005248	para	para	para	para	tipE	NaCP60E	NaCP60E	NaCP60E
+GO:0005247	subdued	ClC-b	ClC-c
+GO:0005246	Rgk3	Rgk2	Rgk1	inaF-D	inaF-D	inaF-D	inaF-B	Stim	CG15240
+GO:0005245	stj	stj	Ca-beta	cac	cac	cac	cac	cac	cac	Ca-alpha1D	Ca-alpha1D	Ca-alpha1D	CG16868	Dmel\CG42817	stg1	mdcds_3066
+GO:0005243	ogre	shakB	shakB	Inx2	Inx2	Inx3	Inx3	zpg	zpg	Inx5
+GO:0005534	lectin-46Ca	lectin-22C	MB8.chr2L.pasa.5	Acp29AB	lectin-37Db	lectin-37Db	lectin-37Da	lectin-37Da	lectin-30A	lectin-46Cb	Lectin-galC1	Lectin-galC1	lectin-33A	lectin-29Ca	lectin-28C	lectin-21Ca	lectin-24A	lectin-24Db
+GO:0005537	Lerp	ergic53	Dmel\CG5510	lectin-24Db
+GO:0005536	Glut3
+GO:0043992	lid
+GO:1905762	Marf1	Marf1	Marf1	Marf1	Marf1
+GO:1905761	mi
+GO:0004114	Pde9
+GO:0008331	Ca-beta	cac
+GO:0008332	Ca-alpha1T	Ca-alpha1T	Ca-alpha1T	cac
+GO:0008336	Dmel\CG10814	Dmel\CG5321	Dmel\CG14630
+GO:0036122	cmpy	cv-d	cv-d	cv-2	cv-2
+GO:0046934	Pi3K92E
+GO:0046935	Socs16D	Socs44A	Pi3K21B	Socs36E
+GO:0000048	EG:23E12.1	Dmel\CG4829	Ggt-1	Dmel\CG1492
+GO:0000049	AIMP1	PheRS-m	trmt10c	CG8078	CG8078	CysRS	CG10438	Slimp	mIF2	fid	Clbn	CG7414	trmt10a	TyrRS	Dmel\CG17807	LysRS	Nsun2
+GO:0001540	Dmel\CG3662	APP-BP1
+GO:0070976	Tl
+GO:0042923	AstA-R1
+GO:0080122	PMP34
+GO:0004758	Dmel\CG34194	ghi	lace
+GO:0004750	Rpe
+GO:0004751	Rpi
+GO:0004756	SelD	Sps2	Sps2	Sps2
+GO:0004757	Sptr	Sptr	Dmel\CG12116
+GO:0015295	Dmel\CG9706
+GO:0070856	jar
+GO:0015297	Dic3	Tpc1	Bmcp	frc	frc	DPCoAC	Dic2	Dmel\CG16736	nac	CG14621	Dmel\CG6893	Dic4	Dmel\CG14971	Tpc2	Dic1
+GO:0015293	Mvl	Mvl
+GO:0015292	CG18769	CG18769
+GO:0015299	ClC-c
+GO:0004372	Shmt	Shmt	Shmt
+GO:0070855	Acam	Cam
+GO:0016922	tai	alien	E(bx)
+GO:0008201	miple2	miple2	miple2	fs(1)N	dpp	sli	tsg	sas	Sema1a	vn	PlexA	ihog	ihog	Tsp	Ccn	Pvf1	miple1	miple1	miple1	miple1	robo1	robo1
+GO:0003963	CG4061
+GO:0015379	kcc	kcc	Ncc69	Dmel\CG12773	Dmel\CG10413	NKCC
+GO:0015562	l(2)03659	Mdr49	Mdr65	Mdr50	AMT
+GO:0070773	tun
+GO:0004377	Alg11
+GO:0032266	Snx6	Atg18a	Dmel\CG15602	BBS5	BBS5	Klp98A	Snx3	CG5270	Dmel\CG11975	Atg18b	sau	Snx1	Pex23	CG3130
+GO:0042813	arr	arr	fz3	fz	fz	drl	fz4	fz2	fz2	fz2	fz2	fz2
+GO:0015367	Dmel\CG1907	Dmel\CG1907	anon-WO0140519.190	anon-WO0140519.190	Dmel\CG7514	Dmel\CG7514
+GO:0038024	CG17793	LpR1	CG9600
+GO:0038023	CG9783	CG17793	Nlg4	CG14522	Eip75B	EcR	sas	Gyc32E	Gyc32E	Hr96	Gyc76C	Gli	GYC	Nlg2	AdipoR	CG4224	Dmel\CG7530	Nlg3	Nlg1	GYC	GYC	Dmel\CG10339	CG9600
+GO:0061799	Mocs1
+GO:0061798	Mocs1
+GO:1990883	l(1)G0020
+GO:0008446	Gmd	Gmd
+GO:0008442	CG15093	CG15093
+GO:0008440	IP3K2	Ipk2
+GO:0008441	Dmel\CG7789
+GO:0008448	CG17065
+GO:0008449	Dmel\CG18278	Sulf1	Sulf1
+GO:0015106	Prestin	Prestin
+GO:0010461	trp	trpl
+GO:0050152	Dmel\CG8132
+GO:0071558	Utx	Utx	Utx
+GO:0015108	ClC-b	Nha1	ClC-c	Prestin
+GO:0034452	BBS4	sw	Arfip
+GO:0034450	hyd	CYC4	BcDNA.LD34475	BcDNA.LD34475	Dmel\CG2218	Dmel\CG2218	ufd2	ufd2
+GO:0032050	BicD	lap	Clc	Clc	Gga
+GO:0034459	pea	kz	mle	Dhx15	Rhau	spn-E	l(2)37Cb	cg4901	Dmel\CG3225	CG14198	Dmel\CG8915	l(1)G0007	Dmel\CG1582	bgcn
+GO:0043515	Kebab
+GO:0004579	CG33774	Ost48	OST	OstDelta	Ostgamma	Stt3B
+GO:0015039	dare	dare
+GO:0015038	BcDNA:RH03087	Grx4
+GO:0015035	Alr	Alr	Ero1L	Dmel\CG7950	Dmel\CG7950	Scox	Dmel\CG13473
+GO:0015037	Pdi	ERp60	CaBP1	Dmel\CG10029	Dmel\CG9302
+GO:0015036	Dmel\CG5554	EG:132E8.3	dhd	dhd	mtr	TrxT	GILT1	Trx-2	GILT2	GILT3	Txl	Dmel\CG10948	Dmel\CG13473	BcDNA:SD16138	8993
+GO:0030228	ptc
+GO:0050840	SPARC	wg	if	mew	upd1
+GO:0016212	Dmel\CG6950
+GO:0003796	Dmel\CG30062	Dmel\CG7798	Dmel\CG6421	Dmel\CG6421	Dmel\CG16799	Dmel\CG11159	LysP	LysP	LysP	LysE	LysE	LysS	LysS	LysX	LysX	LysD	LysD	LysD	LysB	LysB	Dmel\CG6435	l(2)k04810	l(2)k04810	BcDNA:RH62928	BcDNA:RH62928	Dmel\CG14823	Dmel\CG8492	BcDNA:RH17440
+GO:0097678	dome
+GO:0047045	CG2907	CG11005	EG:BACR7A4.14	anon-WO0118547.83	CG2907
+GO:0097677	Su(var)2-10	et	dome
+GO:0030911	Hsp83	STUB1
+GO:0047196	CG10599
+GO:0030594	5-HT2B	mAChR-A	5-HT7	Rdl	5-HT1A	5-HT1B	Dop1R1	Oamb	5-HT2A	mAChR-B
+GO:0001147	Dmel\CG7504
+GO:0046332	sax	put	babo	fuss	wit	Snoo	tkv	STUB1
+GO:0030350	Irp-1A
+GO:0035275	lush	lush	Obp19a
+GO:0035274	Obp85a	lush	lush	Obp19a
+GO:0072555	Dmel\CG40486	Dmel\CG40485	Dmel\CG10962	FOHSDR	Dmel\CG9150	Dmel\CG8757	FOHSDR	antdh
+GO:0046972	Rcd1	dgt1	nsl1	mof	mof	mof	Dmel\CG1894	BEST:LD19244	tth	Rcd5
+GO:1990430	mys	if
+GO:0043334	Coq5
+GO:1990439	Dmel\CG17746	Ppm1
+GO:0035673	yin	yin	Dmel\CG9444	CG32787
+GO:0046975	Mes-4	Dmel\CG4565	ash1	ash1	ash1	Set2	Set2	Setd3
+GO:0060308	Pu
+GO:0000309	Nmnat	Nmnat	Nmnat
+GO:0043812	Dmel\CG7956	Synj	Sac1
+GO:0032182	Atg1	SCCRO3	CG7427	SCCRO4
+GO:0031957	Fatp1	Fatp2	Fatp2	Dmel\CG18155	Fatp3
+GO:1990188	Tip60
+GO:1990189	Naa40	vnc
+GO:0030170	Eip55E	Sply	Dmel\CG1983	Dmel\CG3999	Cbs	Dmel\CG1486	Oat	Gabat	Shmt	GlyP	GlyP
+GO:0001096	TfIIFbeta	TfIIFalpha
+GO:0001097	TfIIEalpha	TfIIEbeta	p53
+GO:0001094	TfIIA-L	e(y)2	e(y)2	e(y)2
+GO:0001092	Tbp	Taf4	Trf2	Trf2	Trf
+GO:0001093	Trf
+GO:0050577	Gmer
+GO:0001099	13204	Dlip3	Dlip3	Dmel\CG31627	Dmel\CG12609	Dmel\CG15019	hng3
+GO:0003779	tmod	Dm.CG15097	jbug	alpha-Catr	didum	didum	didum	shot	shot	Shroom	Zasp52	Dmel\CG8397	Ehbp1	kst	kst	form3	pod1	Fhos	Unc-115a	SCAR	Dmel\CG1674	CG8907-RB	Msp300	Msp300	DAAM	zormin	BcDNA:GH23906	bif	Vinc	EG:152A3.3	Arpc1	cib	Hsp23	Sry-alpha	Tm2	alpha-Spec	alpha-Spec	Mp20	Actn	Actn	Actn	AnxB9	AnxB10	chic	shi	nullo	alpha-Cat	wupA	bnk	pnut	tsr	tsr	tsr	tsr	Moe	Moe	cpb	dia	Tm1	Tm1	beta-Spec	jar	jar	jar	kel	kel	Gel	f	qua	qua	qua	qua	qua	fliI	fliI	fliI	capu	sn	sn	ssh	ssh	Keap1	Mical	Mical	Lasp	Myo28B1	aru	Fim	Hip1	ena	Dmel\CG5023	sls	sls	spir	ck	scra	scra	scra	WASp	Dmel\CG5984	mira	Dys	cher	cher	Actn3	Arpc3A	twf	KLHL18	by	Arpc2	CLIP-190	Dmel\CG9426	Arpc4	capt	capt	Arpc5	rhea	MICAL-like	flr	Abp1	Frl	dbo	parvin	parvin	Dmel\CG6873	Arpc3B	AnxB11	jub	Chd64	CG10857	Dmel\CG2113	Dmel\CG30183	futsch	Svil
+GO:0043021	Mtor	RpLP1	Dmel\CG17266	CG5033	Smg6	Sbp2	Prp31	ttm2
+GO:0017076	DNApol-alpha180	Sps2
+GO:0017075	unc-13	unc-13
+GO:0043022	clu	Rack1	RpS21	EF2	sta	sta	eIF2alpha	pelo	Dmel\CG9863	anon-WO0140519.195	Dmel\CG5116	orb	mRF1	kra	CG7414	orb2	CG4638	Jhebp29	anon-WO0140519.90
+GO:0043024	CG4679	eIF4B	eIF4H2	Dmel\CG7488	kra	pix	pix	Dmel\CG11726	eIF1	Zfrp8	eIF4H1
+GO:0003777	Khc-73	Khc-73	Khc-73	Klp54D	Klp54D	BBS4	unc-104	cos	cos	Khc	Khc	Khc	Khc	Khc	nod	nod	nod	ncd	ncd	Dhc64C	Klc	Klc	Klp61F	Klp61F	Klp68D	Klp68D	Kif19A	Kif19A	CG32318-PA	milt	Klp10A	Kif3C	Kif3C	cid	sub	sub	sub	Klp98A	neb	neb	neb	cana	cana	cmet	cmet	Klp31E	Klp31E	CG14535	Klp64D	Klp64D	Klp67A	Klp67A	Kap3	pav	pav	Klp59D	Klp59D	Klp59C	Klp59C	Klp3A	Klp3A
+GO:0017070	Prp8	cg14641	CG31990	CG31990	U4-U6-60K	U4-U6-60K
+GO:0035302	phm
+GO:0004435	norpA	norpA	norpA	Plc21C	sl
+GO:0120147	Dmel\CG7049
+GO:0004430	PI4KIIIalpha	PI4KIIIalpha	Pi4KIIalpha	Pi4KIIalpha	Pi4KIIalpha	fwd	fwd
+GO:0035091	Esyt2	vib	Tusp	rush	rush	ninaC	Itp-r83A	Gprk1	rdgB	rdgB	baz	baz	Snx16	Ttd14	ktub	Akt1	Hip1	rdgBbeta	DmSNX17	DmSNX17	Snx1	melt	Oseg4	CG3130
+GO:0005432	Calx	Calx	Calx	Letm1
+GO:0004439	IPP	Ocrl	Synj	Synj	Dmel\CG6805	PTPMT1	PTPMT1	INPP5E
+GO:0004438	EDTP	Synj	Dmel\CG5026	mtm	mtm	Dmel\CG14411
+GO:0030060	Mdh2	Mdh1	Mdh1	Dmel\CG10748	Dmel\CG10749
+GO:0002196	Dmel\CG10802
+GO:0005347	SCaMC	PMP34
+GO:0008143	ssx	Sxl	pAbp	pAbp	pAbp	Pabp2	Pabp2	shep	Nab2	Nab2	Ddx1	cg4612	cg4612
+GO:0008140	Crtc
+GO:0008146	St3	St4	Hs2st	pip	pip	sfl	St2	CG4826	St1
+GO:0008145	Obp69a
+GO:0008144	CG17793	CG9600
+GO:0004693	Cdc2rk	Cdc2rk	Eip63E	Eip63E	Eip63E	Cdk9	Cdk9	Cdk9	Cdk9	CycH	Cdk1	Cdk1	Cdk1	Cdk2	Cdk2	Cdk5	Cdk5	Cdk5	Cdk7	Cdk7	Cdk4	Cdk4	Mat1	Dmel\CG6800	Pk34A	Cdk1l	Cdk1l	Cdk12	Cdk12	Pitslre	Pitslre	Cdk8
+GO:0004692	Pkg21D	Pkg21D	for	for	Dmel\CG4839
+GO:0004691	Pka-C2	Pka-C3	Dmel\CG12069
+GO:0004697	Pkc53E	inaC	Pkc98E
+GO:0004694	Gcn2	Gcn2	Gcn2	PEK
+GO:0045174	GstO3	GstO3	se	se	GstO2	GstO2	GstO2	GstO1	GstO1
+GO:0004329	pug	pug
+GO:0004322	stw	stw	Fer2LCH	Fer1HCH	Mco3	Mco3	Mco1	Mco1	Mco4	Fer3HCH	fh
+GO:0004321	FACL	FACL
+GO:0004326	CG3390	Fpgs	Fpgs
+GO:0004325	FeCh	FeCh	FeCh
+GO:0005509	Calx	Esyt2	Cad96Cb	Dmel\CG30378	Mctp	Mctp	CG4495	CG40297	Sytalpha	Sytalpha	smp-30	smp-30	CadN	Scp2	EG:114D9.1	SPARC	Amy-p	up	up	RpLP0	Nrg	Syt1	Syt1	Syt1	Syt1	Itp-r83A	ft	Frq1	Cbp53E	Cbp53E	Nca	CanB	Eip63F-1	Acam	Cam	Amy-d	Stim	Stim	Cpn	Cpn	CalpA	CalpA	qua	fliI	fliI	CanB2	shg	RyR	regucalcin	CG9112	Ret	Miro	Dref	Cadps	Cals	Syt7	Syt7	aralar1	aralar1	aralar1	Cad99C	grass	Dmel\CG17271	CG14281	Cad89D	Cad88C	Cad87A	Tctp	Tctp	Cad86C	CadN2	CadN2	Crys	Dmel\CG17593	aay	CalpB	CalpB	CalpB	Sytbeta	Sytbeta	Cad74A	kug	Cnx14D	Clic	Syt12	Syt12	rho-4	scf	CBP7
+GO:0005504	LCAD	CG5009	apolpp	Dmel\CG17544	Acox57D-d	Acox57D-p	Dmel\CG4586
+GO:0005506	Fer2LCH	Fer1HCH	Tet	CG2982	Desat1	CG30022;CG30023	Hph	Dmel\CG9743	Dmel\CG15531	Dmel\CG9747	BcDNA:GH27470	glob1	Dmel\CG8630	Desat2	pix	Fad2	Tsf2	Fer3HCH
+GO:0005507	Dmel\CG42496	Ccs	MtnB	Sod1	CG14757	olf413	Sod3	Tbh	Loxl1	Dmel\CG5948	Dmel\CG17996	COXZ	CG5235	Dmel\CG11590	ATP7
+GO:0005500	gce
+GO:0005501	pinta
+GO:0004103	eas	eas	Dmel\CG2201	Dmel\CG2201
+GO:0004102	ChAT	ChAT	ChAT
+GO:0004100	kkv	kkv	kkv	kkv	Chs2
+GO:0004105	Pcyt1	Pcyt1	Pcyt2	Pcyt2
+GO:0004104	Ace
+GO:0008327	MBD-like	MBD-like
+GO:0004109	Coprox	Coprox
+GO:0008324	Atpalpha	nrv1	nrv2
+GO:0008321	Rgl	Dmel\CG5522
+GO:0008320	tomboy40	Tim17b	Tim22	Tim22	Tim23	Sec61alpha	Tom20	Tom40	Dmel\CG14894	Dmel\CG4520	Tim17a1	tomboy20	Tim17b2	Tim17a2	Tim17b1	Dmel\CG1724
+GO:0046922	O-fut1	O-fut1	O-fut2	O-fut2	O-fut2
+GO:0046921	FucT6	FucT6
+GO:0046920	FucTC	FucTB	FucTA	FucTA	FucTA	FucTD
+GO:0016857	Gip
+GO:0061953	trmt10c
+GO:0016853	y	yellow-h	yellow-e	yellow-e2	yellow-e3	yellow-f2	yellow-f	yellow-b	yellow-c	yellow-k	yellow-g2	yellow-g	yellow-d2	yellow-d
+GO:0004749	Dmel\CG2246	Dmel\CG6767
+GO:0004748	RnrL	RnrL	RnrS	RnrS
+GO:1905394	iPLA2-VIA	iPLA2-VIA
+GO:0042799	PR-Set7	PR-Set7	PR-Set7	PR-Set7	Hmt4-20	Hmt4-20	Hmt4-20
+GO:0004741	Pdp	Pdp
+GO:0099122	Su(var)205
+GO:0004743	PyK	PyK	Dmel\CG7069	Dmel\CG7069	Dmel\CG7362	Dmel\CG11249	Dmel\CG2964	Dmel\CG2964	Dmel\CG12229	Dmel\CG12229
+GO:0004742	muc
+GO:0004745	rdhB	Pdh	Ldsdh1
+GO:0004744	ninaB	ninaB
+GO:0004747	Dmel\CG13369	Dmel\CG17010
+GO:0030378	Srr
+GO:1905172	loqs
+GO:0003973	Dmel\CG18003	L2HGDH
+GO:0003972	RtcB
+GO:0003977	mmy	mmy
+GO:0003976	Cg8027
+GO:0003975	dAlg7
+GO:0003974	Gale
+GO:0003979	sgl
+GO:0016936	galectin
+GO:0016933	Grd
+GO:0070491	Gug	Gug	CtBP	CtBP	sna	sna	kni	kni	knrl	dl	dl	eg	gro	gro	gro	gro	gro	kay	EcR	retn	edl	pan	ebi	HGTX	cic	CG9246
+GO:0032216	PIG-Wa	PIG-Wb
+GO:0070700	gbb	scw	mav	cv-2
+GO:0008240	TppII	TppII	TppII	Dip-B
+GO:0010181	Dmel\CG18003	Nos	Cpr	Dmel\CG13667
+GO:0032036	sqh	Mlc-c	Mlc-c	Mlc-c	Mlc-c	Cam
+GO:0032033	Patj	mib2
+GO:0004020	Papss
+GO:0032038	mib2
+GO:0071837	gro
+GO:0051575	mus308	Irbp
+GO:0051378	SerT	5-HT2A
+GO:0008453	Spat	Spat
+GO:0003842	P5CDh2	P5CDh2	Dmel\CG6661	P5CDh1
+GO:0015131	Dic3	Bmcp	Dic2	Dmel\CG16736	Dmel\CG6893	Dic4	Dic1	Dic1
+GO:0051371	Zasp52	Zasp52	bt	Zasp66
+GO:0051377	PIG-N	PIG-O	Dmel\CG13978	Dmel\CG4907	Dmel\CG5342	Dmel\CG6790
+GO:0015137	Dmel\CG33934	Dmel\CG7309	Indy-2	Indy-2	Indy-2	Indy	Indy	Indy	Indy
+GO:0032450	Mal-A4	Mal-A6	Mal-A7	Mal-A8	Mal-A1	Mal-A2	Mal-A3	Mal-A5	Mal-B2	Mal-B1
+GO:0032451	Dmel\CG4036	Dmel\CG3184
+GO:0032452	Kdm4A	Kdm4B	JHDM2	Utx	lid	Jarid2
+GO:0032453	CG2982	CG2982	lid	lid	Su(var)3-3
+GO:0032454	Kdm4A	Kdm4A	Kdm4B	Kdm4B	Kdm4B	JHDM2	JHDM2
+GO:0042132	fbp
+GO:0015645	mdcds_23070	bgm	CG4500	FACL	e	Dmel\CG11453	Dmel\CG11407	Dmel\CG11391	Dmel\CG11659	Dmel\CG6300	Dmel\CG4830	Dmel\CG12512	Dmel\CG5568	Dmel\CG4563	Dmel\CG9993	Dmel\CG17999
+GO:0047326	Ipk2
+GO:0015643	Dmel\CG13409
+GO:0032143	spel1	Msh6
+GO:0019136	dnk	dnk	dnk	dnk
+GO:0016597	AlaRS	AlaRS-m	Dmel\CG1764	Shmt
+GO:0016595	mGluR
+GO:0016594	Gnmt	Dmel\CG3999
+GO:0052717	Dmel\CG10927	BcDNA:RE41712
+GO:0033039	Ir76b
+GO:0033038	Gr22a	Gr22c	Gr22e	Gr22f	Gr36a	Gr58a	Gr59d	Gr22b	Gr22d	Gr98d	Gr98c	Gr36c	Gr59b	Gr98b	Gr36b	Gr10b	Gr59c	Gr59c	Gr59a	Gr58b
+GO:0045547	Dmel\CG10778
+GO:0030215	Sema2b	Sema1a	Sema1a	Sema2a	otk	Gyc76C	Sema1b	pbl	Sema5c	RhoGAPp190
+GO:0070736	TTLL3A	TTLL3B
+GO:0016209	Cat	Sod1	Trxr-1	Trxr-1	Trxr-1	Sod2	Prx3
+GO:0016208	Aprt	Pfk
+GO:0046030	IPP	Dmel\CG6805	INPP5E
+GO:0047035	scu	Dmel\CG8888	sro
+GO:0070733	Fic	Fic	Fic	Fic
+GO:0019826	Gyc88E
+GO:0019825	glob2	Gyc88E	glob3	glob1	glob1	glob1	glob1
+GO:0044547	ph-p	barr	barr
+GO:0071617	LPCAT	oys	frj	nes
+GO:0016443	Dcr-2	Dcr-1
+GO:0001156	Bdp1
+GO:0001158	apt	sv	hth	en	Dfd	ems	disco	abd-A	CrebA	slp1	exd	Mef2	gcm	Doc1	brk
+GO:0030366	Mocs2	Mocs2	Mocs2
+GO:0035241	Art1	Art4	Art7
+GO:0015183	Eaat2	Eaat1	GC2	aralar1	GC1
+GO:0004854	ry	ry	ry	AOX2	AOX4	AOX3	AOX1
+GO:0061797	pHCl-1	pHCl-2
+GO:0035248	alpha4GT2	alpha4GT1	alpha4GT1
+GO:0004095	whd	CPT2
+GO:0009881	cry	cry	cry	cry	cry	shakB	inaD	SK	Vha100-1
+GO:0009882	cry	cry	cry	cry
+GO:0000339	eIF4E1	eIF4E1	Dmel\CG7907	Cbp80	Cbp20	eIF4E6	eIF4E4	eIF4E5	eIF4E3	LSm1	eIF4E7
+GO:1990605	TBPH
+GO:0030145	arg	Pepck	Sod2	Pepck2	Fen1
+GO:0003995	Dmel\CG4860	CG12262
+GO:0004620	Dmel\CG14034	PAPLA1	PAPLA1
+GO:1990190	vnc
+GO:0001085	Gug	Ptx1	emc	sd	pnr	bin3	Chi	p53	ush	Bap60	Bap60	ebd1
+GO:0050897	Shmt
+GO:0042263	NPFR	NPFR	NPFR
+GO:0005427	yin
+GO:0017080	Teh1	Teh1	Teh2	Teh2	tipE	tipE	Teh4	Teh4	Teh3	Teh3
+GO:0017084	Dmel\CG7470
+GO:0043014	Dmel\CG8800	spas	Dmel\CG10839	Gie
+GO:0043015	DS02252.3	DS02252.3	Mzt1	Grip71	Grip75	Grip75	Dmel\CG7716	Dmel\CG7716	Blos2	Grip163	Grip163	Grip163	Grip128	Grip128	Grip128	Grip84	Grip84	Grip84	Grip91	Grip91	Grip91
+GO:0003746	mEFTu1	mEFTu1	mEFTu1	eEF1beta	eEF1alpha2	eEF1alpha2	EF2	EF2	Dgp-1	mEFTu2	mEFTu2	mEFTu2	Dmel\CG2017	eEF5	eEF5	eEF1gamma	Snu114	EF-G2	mEFTs	mEFTs	eEF1delta	ico	ico	eEFSec	eEFSec
+GO:0003747	eRF3
+GO:0003743	eIF3f2	eIF3f2	NAT1	NAT1	eIF2Bgamma	eIF2Bgamma	eIF3c	eIF3c	eIF4G1	eIF4G1	eIF4G1	eIF4EHP	eIF3i	eIF2Bbeta	eIF2Bbeta	eIF3e	eIF3e	eIF3e	eIF2alpha	eIF2alpha	eIF2alpha	eIF2alpha	eIF2alpha	eIF2alpha	eIF2beta	eIF2beta	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF6	eIF4A	eIF3b	eIF3b	eIF3b	eIF2gamma	eIF2gamma	eIF3j	eIF3j	eIF4B	eIF4B	eIF4B	eIF2D	eIF2D	eIF3h	eIF3h	eIF4H2	eIF4H2	eIF2Balpha	eIF2Balpha	eIF4E6	eIF4E6	mIF2	mIF2	eIF4G2	eIF3d1	eIF3d1	eIF3d1	eIF3g2	eIF3g2	eIF1A	eIF1A	eIF3d2	eIF3d2	eIF3d2	eIF3d2	eIF3a	eIF3a	eIF3a	eIF3f1	eIF3f1	CG7414	CG7414	mxt	mxt	eIF4E4	eIF4E4	eIF4E4	eIF4E5	eIF4E5	eIF4E5	eIF4E3	eIF4E3	eIF4E3	Dmel\CG11726	eIF3l	eIF3l	eIF5	eIF5B	eIF5B	eIF1	eIF1	eIF2Bdelta	eIF2Bdelta	eIF3k	eIF3k	eIF3g1	eIF3g1	eIF2Bepsilon	eIF2Bepsilon	eIF2Bepsilon	eIF4E7	eIF4E7	eIF4E7	eIF4H1	eIF4H1
+GO:0036524	DJ-1alpha	DJ-1alpha	dj-1beta	dj-1beta
+GO:0048306	IP3K2
+GO:0016034	GstZ2	GstZ2	GstZ1	GstZ1
+GO:0005034	ine
+GO:0030544	Dmel\CG15120	HIP	Su(var)205	Dmel\CG30156	HIP-R	Dmel\CG32640	Fic	Fic	spag	Dmel\CG3061	Dmel\CG17349	STUB1
+GO:0030547	kek1	kek1
+GO:0098821	sax	wit
+GO:0022821	Nha2
+GO:0005355	Glut3	Glut3
+GO:0005351	CG11978	Dmel\CG14606	Tret1-1	Dmel\CG8249	Dmel\CG1208	Glut3	Dmel\CG1213	sut4	Dmel\CG6484	CG15407	Tret1-2	Dmel\CG4797	Dmel\CG14605	Dmel\CG15406	Dmel\CG8837	CG15407	Dmel\CG3285	Dmel\CG15408	Dmel\CG10960	Dmel\CG4607
+GO:0008138	Dmel\CG10089	PRL-1	stg	twe	ssh	Pten	Dmel\CG3632	PTPMT1	CG18093	Dmel\CG13197	Dmel\CG15528	puc	puc	puc	cdc14	mtm	mtm	mtm	Mkp3	Mkp3	Mkp3	MKP-4	MKP-4	mRNA-cap	Dmel\CG7378
+GO:0008139	Arts	Fs(2)Ket	Kap-alpha1	Apl	Nup98-96	Nup58	Dmel\CG14712	Karybeta3	Tnpo	Tnpo	148274_at	Nup153	Nup214
+GO:0008137	mt:ND3	mt:ND4L	ND-42	ND-75	ND-75	ND-20L	ND-18	ND-18	ND-20	ND-B16.6	ND-B16.6
+GO:0008134	Dmel\CG43058	HnRNP-K	tou	NFAT	nej	nej	Rbfox1	cos	Cdk9	CtBP	hth	Clk	Clk	E2f2	E2f2	per	per	l(1)sc	ase	ac	sc	sc	sc	da	da	Eip75B	E(spl)m5-HLH	E(spl)m7-HLH	E(spl)m7-HLH	E(spl)m7-HLH	E(spl)m7-HLH	E(spl)m7-HLH	E(spl)	h	h	gro	gro	gro	gro	gro	gro	gro	Jra	emc	arm	Tbp	Tbp	Tbp	Tbp	Ote	vnd	brm	TfIIB	TfIIB	14-3-3zeta	sd	ftz-f1	ftz-f1	EcR	rl	exd	Taf4	Taf4	Taf4	tim	Taf12	Taf12	Taf11	Taf11	Taf11	msl-2	Taf1	Taf1	dod	14-3-3epsilon	E(spl)m3-HLH	E(spl)mbeta-HLH	E(spl)mgamma-HLH	E(spl)mgamma-HLH	E(spl)mgamma-HLH	E(spl)mdelta-HLH	hay	eya	HmgD	HmgZ	ex	Trf2	Trl	Bro	Bgb	DnaJ-1	Hr96	btd	btd	Dp	Dp	Dp	Taf2	Taf2	Iswi	Rbf	Rbf	Rbf	Rbf	Rbf	D	D	bs	Dsp1	Dsp1	dpn	e(y)1	e(y)1	so	so	E2f1	E2f1	E2f1	Trf	Trf	yki	yki	CoRest	Coop	ix	Hey	ind	Chi	p53	Dmel\CG31875	srl	Rpd3	Sobp	foxo	Mlf	bip2	bip2	bip2	bip2	CREG	Brf	Brf	Bin1	Rbf2	Rbf2	Su(fu)	Su(fu)	cwo	Dmel\CG16779	hyx	Taf7	Mondo	Sidpn	nht	NC2beta	Sirt1	chm	chm	hkb	dgrn	Cdk12	ush	ush	Tgi	Tgi	MED19	MED19	MED19	MED19	Su(var)3-3	gce	Bap60	Usp7	Met	Hipk	NC2alpha
+GO:0008135	orb	orb2
+GO:0061815	CYLD
+GO:0042654	ETHR	ETHR
+GO:0031545	Hph
+GO:0031544	PIG-S
+GO:0031543	Hph	sud1	sud1
+GO:0045145	tos
+GO:0008482	CG7280	CG7280	CG7280	CG7280
+GO:0004359	GLS	GLS	CG9940
+GO:0004356	Gs1	Gs2	Gs2
+GO:0004357	Gclc	Gclc	Gclc	Gclc	Gclc
+GO:0004352	Gdh
+GO:0004353	Gdh	Gdh	Gdh	Gdh	Gdh	bb8	bb8
+GO:0004350	Dmel\CG7470
+GO:0004351	Gad1	Gad1	Gad1	Dmel\CG5618
+GO:0004598	Phm	Pal1	Pal1	Pal2	Pal2	Pal2
+GO:0005516	didum	KCNQ	Camta	Pde1c	unc-13	unc-13	ninaC	ninaC	rdgC	rdgC	CanB	CanA1	trpl	trpl	trpl	trpl	trpl	trpl	trpl	MAPk-Ak2	CaMKII	CaMKII	jar	inaD	inaD	CanB2	Nos	Pp2B-14D	Pp2B-14D	CaMKI	CaMKI	Ric	Ric	igl	igl	IP3K2	SK	CG17528	asp	Lk6	Dmel\CG14687	poe	Orco	Orco	CanA-14F	Dmel\CG16984	Dmel\CG16984	Crag	Crag	Vha100-1
+GO:0005515	tacc	pps	hemo	Abi	Abi	Abi	Abi	Abi	Nup358	Nup358	Nup358	sax	mbc	row	row	row	apt	apt	Nrx-1	MBD-like	Synd	Lerp	Not1	Dg	eys	gus	gus	gus	gus	gus	gus	gus	gus	gus	dpr12	dpr12	Bap170	Bap170	Bap170	Eb1	Eb1	ppk25	pk	pk	blow	udd	udd	udd	Asap	PAN2	PAN2	PAN2	PAN2	Rab32	Pkn	Pkn	Pkn	Pkn	Pkn	Lsm11	Lsm11	Prx2540-1	RH54193	Mtor	Mtor	Mtor	ADD1	rho-7	rho-7	Vha36-2	vis	vis	CG33009-ORFA	wuc	wuc	wuc	fsd	fsd	arr	mip120	mip120	shot	Prosap	Blos1	aPKC	aPKC	aPKC	aPKC	aPKC	aPKC	aPKC	aPKC	hbs	Jhe	Jhe	Ptp52F	Dcr-2	Dcr-2	Dlish	dpr13	dpr13	dpr13	DIP-epsilon	DIP-epsilon	DIP-epsilon	DIP-epsilon	DIP-epsilon	DIP-epsilon	DIP-epsilon	DIP-epsilon	NKAIN	tou	tou	pgc	Liprin-gamma	Liprin-gamma	Unc-89	Schip1	dpr7	dpr7	dpr7	dpr7	DIP-delta	DIP-delta	kst	Cip4	Rad9	cmpy	woc	woc	woc	boi	inaF-B	inaF-B	inaF-B	Unr	moi	moi	moi	Tlk	DIP-beta	DIP-beta	DIP-beta	DIP-beta	DIP-beta	Lrt	Cka	Cka	Cka	Cka	Pvr	eIF4EHP	eIF4EHP	nsl1	sdt	SCAR	d	d	Trim9	Trim9	Msp300	nej	nej	Dap160	Dap160	Mnt	ZAP3	zormin	Liprin-alpha	Liprin-alpha	SoxN	Eip63E	Eip63E	mwh	tral	simj	klar	klar	Bx	Bx	Drice	Drice	Dcp-1	mof	mof	CadN	cos	cos	cos	cos	cos	cos	cos	cos	cos	cos	cos	cos	cos	cos	Cdk9	Rab1	Rab1	Rab1	Rab2	Rab2	Rab2	Rab2	Rab2	Rab2	Rab6	Rab6	Rab6	Rab6	Rab6	Rab6	Rab11	Rab11	Rab11	Rab11	Rab11	Rab19	Rab19	ey	ey	ey	ey	Fs(2)Ket	Rpt6	EloB	EloB	wbl	CtBP	CtBP	CtBP	CtBP	CtBP	CtBP	CtBP	CtBP	CtBP	Vinc	Pgam5	Tsp2A	hth	hth	hth	hth	hth	hth	hth	hth	hth	hth	hth	hth	Ten-m	Ten-m	Ten-m	Ten-m	Ten-m	cyc	cyc	Clk	Clk	Clk	Clk	Med	Med	dco	dco	dco	CG11448	Rab27	aub	E2f2	E2f2	E2f2	E2f2	E2f2	cry	cry	cry	cry	cry	Pli	anon-73B1	SkpA	SkpA	SkpA	SkpA	SkpA	SkpA	SkpA	SkpA	Smox	Cdlc2	CkIIbeta2	CDC45L	smt3	smt3	par-6	par-6	par-6	par-6	SAK	SAK	SAK	SAK	SAK	mth	mth	mth	Mi-2	Mi-2	Mi-2	Mi-2	Mi-2	Mi-2	Mi-2	Abl	Abl	Abl	Abl	Src64B	Src64B	His1	His1	His1	His2B	His3	His3	His3	His3	His3	His3	His3	Hsp23	Hsp27	Hsp83	Hsp83	ftz	ftz	Ras64B	Egfr	Egfr	Egfr	Egfr	Egfr	Egfr	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	Su(var)205	SP	ninaE	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Dfd	per	per	per	per	per	dpp	dpp	dpp	sna	sna	sna	Col4a1	CkIIalpha	CkIIalpha	CkIIalpha	CkIIalpha	Sh	Sh	RpLP1	Rap1	Rap1	Ras85D	Ras85D	Lam	Lam	Lam	Tl	Tl	Tl	Tl	Tl	Tl	su(Hw)	su(Hw)	su(Hw)	su(Hw)	su(Hw)	su(Hw)	su(Hw)	vas	vas	vas	vas	vas	vas	vas	vas	vas	Scr	Scr	bcd	bcd	bcd	bcd	bcd	bcd	bcd	bcd	InR	InR	InR	wg	wg	wg	wg	wg	z	z	z	z	z	crb	crb	Dl	Dl	sc	sc	ninaC	ninaC	kni	kni	kni	kni	kni	Act5C	Act5C	Hsc70-4	Raf	Raf	Raf	Raf	mys	mys	tra	MtnB	MtnB	Pka-C1	Pka-C1	Pka-C1	Pka-C1	Pp1-87B	Pp1-87B	Pp1-87B	Pp1-87B	RpS26	RpS26	E(spl)m5-HLH	E(spl)m5-HLH	E(spl)	E(spl)	E(spl)	norpA	norpA	norpA	sev	sev	sev	sev	mod	inaC	inaC	inaC	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	Appl	Appl	Appl	Appl	Appl	Appl	Appl	Appl	Appl	CycA	CycA	dl	dl	dl	dl	dl	dl	dl	dl	Top2	Top2	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	gro	svp	Galphao	Galphao	numb	numb	numb	numb	BicD	BicD	Lar	Lar	Lar	Lar	Pka-C3	snRNP-U1-70K	Khc	Khc	Khc	Dhfr	Prosalpha3	Prosalpha3	Actn	Actn	tll	Ser	Jra	Jra	Jra	Jra	Jra	sgg	sgg	sgg	ptc	ptc	ptc	fz	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	arm	tra2	tra2	Arr2	Rm62	Rm62	trp	trp	trp	trp	trp	trp	Sxl	Sxl	Sxl	Sxl	Sxl	Sxl	Sxl	Sxl	Sxl	up	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	ci	RpLP0	RpI135	RpI135	usp	usp	Su(var)3-7	Tbp	Tbp	Tbp	Ote	Galphai	Galphai	Galphai	Galphai	Galphai	Galphai	Galphai	Cf2	CycB	trx	trx	trx	pAbp	pAbp	pAbp	pAbp	pAbp	pAbp	pAbp	pAbp	pAbp	pAbp	sina	sina	sina	sina	sina	sina	sina	sina	sina	sina	sina	sina	sina	Syt1	Syt1	Syt1	Syt1	Syt1	Syt1	kay	kay	kay	kay	tsh	AnxB9	Z600	Z600	Z600	Ca-P60A	bam	bam	bam	bam	bam	tub	tub	tub	tub	tub	tub	tub	Hsf	run	Hsp67Bc	Hsp67Bc	dsx	me31B	me31B	me31B	me31B	me31B	me31B	me31B	me31B	Map205	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk1	Cdk2	Cdk2	Cdk2	Cdk2	Cdk2	Cdk2	Cdk2	Cdk2	Cdk2	fu	fu	fu	fu	fu	fu	fu	fu	fu	fu	fu	disco	CycC	CycC	CycC	CycC	CycC	CycC	CycC	CycC	CycC	fs(1)Ya	stau	Arl1	brm	brm	brm	brm	brm	brm	brm	brm	brm	brm	brm	nos	nos	tud	tud	chic	chic	chic	chic	chic	eff	eff	Rpn8	Sos	Sos	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	Wnt5	exu	TfIIB	14-3-3zeta	14-3-3zeta	14-3-3zeta	14-3-3zeta	14-3-3zeta	csw	neur	neur	neur	neur	neur	neur	neur	neur	neur	neur	Chc	Chc	Gbeta76C	Hsc70-3	Hsc70-3	sd	sd	sd	dlg1	dlg1	dlg1	dlg1	Hr3	Hr3	ftz-f1	ftz-f1	ft	ft	ft	ft	ft	ft	EcR	EcR	EcR	EcR	EcR	Fas2	Fas2	Fas2	Fas2	Fas2	alpha-Cat	alpha-Cat	alpha-Cat	Parp	Snap25	Bx42	ph-p	ph-p	ph-p	ph-p	ph-p	ph-p	Prosalpha2	Prosalpha2	rl	rl	rl	rl	rl	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	exd	Wnt4	Mef2	Rac1	Rac1	Rac1	Rac1	Rac1	Rac1	Rac1	Cdc42	Cdc42	Cdc42	Cdc42	Cdc42	pnut	pnut	corto	corto	corto	corto	corto	corto	corto	corto	corto	corto	Mad	Mad	Mad	Mad	Mad	Mad	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	Sep1	ttk	ttk	ttk	ttk	ttk	ttk	ttk	thr	thr	grk	snf	snf	snf	Su(var)3-9	Su(var)3-9	Su(var)3-9	Moe	Moe	Moe	Moe	Moe	RpL11	RpL11	Klc	Klc	Klc	Klc	Klp61F	Taf4	Taf4	Taf4	Taf4	Taf4	Rho1	Rho1	Rho1	Rho1	Rho1	Rho1	Pp1alpha-96A	Pp1alpha-96A	Pp1alpha-96A	Pp1alpha-96A	flw	Rac2	Rac2	Rac2	Rac2	Rala	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E1	eIF4E1	dia	dia	dia	dia	Cdk5	Cdk5	Hrb27C	ato	trpl	trpl	trpl	trpl	tim	tim	tim	tim	tim	tim	mago	mago	mago	mago	mago	mago	mago	mnb	mnb	Mcm2	Mcm2	Mcm2	Mcm2	Mcm2	Mcm2	Taf5	Taf6	Taf6	cni	Hr38	Taf11	msl-1	msl-1	pnt	Taf1	Taf1	Taf1	Taf1	dsh	dsh	dsh	dsh	dsh	dsh	dsh	dsh	dsh	dsh	pnr	pnr	pnr	pnr	srp	polo	polo	Ubc4	TfIIA-L	RfC4	Wee1	Mlc-c	Sep2	CkIalpha	FK506-bp1	cnn	cnn	CycE	CycE	CycE	CycE	CycE	CycE	CycE	CycE	Rpn10	Rpn10	Rpn10	Hem	Hem	faf	Cam	Cam	Cam	Cam	Cam	Pka-R2	Pka-R2	Or43a	Pym	Pym	Pym	Pym	Stim	Stim	Ubx	Ubx	Ubx	Ubx	Ubx	Ubx	Ubx	His4	His4	His4	His4	His2A	MED20	MED20	MED20	Max	Max	smo	smo	smo	smo	smo	smo	smo	smo	14-3-3epsilon	14-3-3epsilon	Nelf-E	bsk	Dab	Dif	Dif	Dif	Dif	Dif	CaMKII	aos	aos	E(spl)m3-HLH	E(spl)m3-HLH	E(spl)mdelta-HLH	E(spl)mdelta-HLH	spi	spi	spi	aop	jar	jar	eag	H	eIF4A	hay	hh	hh	hh	hh	cact	cact	cact	cact	cact	twe	twe	slo	slo	slo	slo	slo	slo	slo	slo	Hr39	Hr39	Hr39	Ssrp	Ssrp	Pp1-13C	pll	pll	pll	pll	pll	pll	pll	pll	ATPsynbeta	ATPsynbeta	al	htl	htl	htl	ex	ex	ex	drk	drk	drk	drk	drk	drk	drk	rst	rst	rst	rst	rst	Trl	Trl	Trl	Trl	Trl	Trl	Trl	Trl	Trl	hig	btl	MEP-1	MEP-1	MEP-1	MEP-1	MEP-1	homer	Hil	eIF3b	Drep3	Drep3	sns	sns	sns	sns	sns	sns	Nop17l	Nop17l	Nop17l	Nop17l	Nop17l	Nop17l	Tao	baz	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Myo10A	Pink1	Pink1	Pink1	mesh	mesh	side-VI	side-VI	side-VI	side-VI	side-III	Ance	Ance	Dmel\CG13192	smg	mtrm	mtrm	hep	hep	alphaSnap	alphaSnap	alphaSnap	dx	dx	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	inaD	BicC	sog	Bro	nrv1	mei-9	mei-9	mei-9	mei-9	Snr1	Snr1	Snr1	Snr1	Snr1	hid	hid	hid	hid	hid	hid	dally	ctp	ctp	DnaJ-1	comm	comm	comm	Stat92E	Stat92E	Stat92E	Cks30A	Cks30A	Orc2	CASK	CASK	CASK	stnA	stnA	stnA	stnB	stnB	stnB	CanB2	CanB2	Cdc37	Cdc37	ds	ds	shg	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap1	Diap2	Cul1	Cul1	Cul1	dor	dor	dor	dor	Dp	Dp	Dp	Sema1a	Sema2a	Dsor1	Dsor1	Dsor1	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	esc	Iswi	Iswi	Iswi	Iswi	Iswi	Iswi	Iswi	Lac	noc	noc	bi	ord	pim	Pcl	Pcl	Pcl	Pcl	Pcl	Pcl	Pcl	Pcl	Rbf	Rbf	Rbf	Rbf	Rbf	Rbf	Rbf	Rbf	rpr	rpr	rpr	rpr	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Cp190	Dsp1	Syx1A	Syx1A	Syx1A	Syx1A	U2af50	U2af50	U2af50	Mer	Mer	Mer	Mer	Mer	Mer	Mer	NetB	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	Caf1	dpn	vg	vg	vg	dpa	dpa	e(y)1	e(y)1	e(y)1	spn-A	so	so	so	E2f1	E2f1	E2f1	E2f1	E2f1	E2f1	E2f1	gcm	tam	tam	Pp2B-14D	Pp2B-14D	phyl	phyl	phyl	phyl	phyl	phyl	phyl	phyl	phyl	phyl	phyl	phyl	Rpp20	Rpp20	CG4622	egg	egg	AGO1	AGO1	AGO1	AGO1	AGO1	AGO1	Plp	yki	yki	yki	yki	yki	yki	yki	yki	yki	His1:CG33861	His1:CG33834	His1:CG33807	His1:CG33801	side-II	dpr2	dpr2	dpr2	dpr3	dpr3	dpr3	Dmel\CG33543	CoRest	CoRest	CoRest	Set1	Dad	Dad	DCP2	DCP2	otk	klhl10	klhl10	armi	armi	armi	armi	armi	armi	armi	ATPsynC	Ntmt	BEAF-32	BEAF-32	BEAF-32	Ubx	DUBAI	Snx16	Eaf	Incenp	dgo	trmt10c	ced-6	Pbp49	Pbp49	trsn	trsn	Prp38	dup	wash	EloC	EloC	HipHop	tartan	BcDNA:GH19585	geminin	geminin	Prx2540-2	rhi	Vps25	ClC-b	CG1129	Nup50	FLASH	Gint3	Syx7	Syx7	Myd88	Myd88	Myd88	Myd88	Myd88	edl	edl	Not3	Not3	Prosbeta5	Prosbeta5	CG17847	Ciao1	Ciao1	Rpn13	Dmel\CG17765	Pi3K68D	bin3	bin3	Cbp80	imd	imd	eIF3j	calypso	Ubc10	SkpB	SkpB	Dark	Dark	Rpn6	bic	Ercc1	Ercc1	Rpn9	TER94	TER94	TER94	TER94	LTV1	LTV1	Pabp2	lwr	lwr	lwr	cnk	cnk	Lis-1	lolal	lolal	lolal	lolal	lolal	Trc8	Trc8	Trc8	Trc8	scrib	scrib	Ada2a	Ada2a	sip2	sip2	HDAC3	HDAC3	HDAC3	skd	skd	skd	skd	skd	Ilp5	CT39634	CycD	Chi	Chi	Chi	Rab4	Rab4	Maf1	Rab21	Nipped-B	AGO3	AGO3	chn	Skp2	Skp2	lola	mei-217	unk	unk	mod(mdg4)	mod(mdg4)	mod(mdg4)	pip	Chro	Chro	rig	rig	rig	rig	rig	rig	Hmr	Hmr	lig	spas	Lasp	Ada2b	Ada2b	Ada2b	Ada2b	MED31	MED31	spdo	twin	twin	Miro	Miro	Miro	p53	osa	osa	Akt1	Akt1	PGRP-LB	Cap-H2	bru1	bru1	Slob	Slob	Slob	corn	HP4	HP4	HP4	Mob2	Gorab	mud	mud	Dmel\CG32655	trr	Dredd	Dredd	Dredd	ave	ave	ave	HSPC300	Atg1	Atg1	brat	brat	brat	brat	Reps	Slip1	Slip1	dpr11	dpr11	dpr11	anon-WO0140519.221	BigH1	lva	Sym	Sym	Sym	Sym	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	MED6	Mes-4	egr	egr	egr	pho	pho	pho	Atx2	Atx2	vito	Art8	ntc	ntc	ntc	ntc	ntc	ntc	Dmel\CG8207	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	gw	insv	insv	insv	tant	conu	shrb	hpo	hpo	hpo	hpo	hpo	hpo	hpo	hpo	EndoA	hale	sinah	sinah	Dmel\CG5662	Dmel\CG5662	ena	ena	ena	ena	ena	ena	ena	ena	hfp	Lkb1	Pif2	Pif2	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Rpd3	Nacalpha	Nacalpha	Dlc90F	Rel	Rel	Rel	S6k	U2af38	U2af38	ash2	ash2	Rga	Rga	alien	alien	vn	vn	mats	mats	mats	yps	Git	fax	ebi	ebi	ebi	ebi	ebi	ebi	ebi	ebi	pita	PAN3	PAN3	PAN3	cav	cav	cav	cav	cav	cav	cav	cav	Lhr	Lhr	sip3	wls	CycG	CycG	gwl	unc-5	foxo	foxo	cort	EG:95B7.7	CycK	CycK	CycK	CycK	CycK	CycK	lgs	lgs	lgs	lgs	dpr5	dpr5	dpr5	tutl	beat-IIa	beat-IIa	PGRP-LC	MED10	mbo	mbo	mbo	key	key	MED7	CycB3	CycB3	MAGE	sls	hdc	hdc	Zyx	Zyx	Patj	hiw	hiw	hiw	hiw	trc	trc	trc	SH3PX1	dom	Vha36-3	Sh3beta	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Fmr1	Ggamma30A	Nlg2	GNBP1	GNBP1	GNBP1	Su(z)12	emb	emb	spt4	DIP1	DIP1	DIP1	cic	cic	sbr	sbr	spir	spir	xmas-2	xmas-2	olf186-F	olf186-F	ECSIT	ECSIT	sws	CSN4	CSN4	Vps28	krz	krz	Fadd	Fadd	Fadd	Vhl	Vhl	Vhl	Cpsf100	cyp33	Rpn7	Rab5	Rab5	Rab5	Rab5	Rab5	JIL-1	Dmel\CG15262	wds	wds	wds	rept	rept	rept	rept	rept	rept	Cbp20	THG	Jafrac1	Jafrac2	Tak1	Spc25	Spc25	SF2	IKKepsilon	IKKepsilon	IKKepsilon	trbl	ck	ck	Ilk	vig	Aac11	MED22	MED22	Chrac-14	Chrac-14	Chrac-14	Chrac-16	Chrac-16	Spt5	Mcm6	Mcm6	Mcm6	Mcm6	Mcm6	Nup154	Nup154	Nup154	asf1	asf1	asf1	asf1	asf1	asf1	asf1	asf1	Lim1	PlexA	PlexB	PlexB	Hcf	bip2	bip2	kappaB-Ras	scra	CSN7	CSN7	lin	tsu	tsu	tsu	tsu	tsu	tsu	tsu	stan	cuff	cuff	PI31	PI31	PI31	PI31	PI31	PI31	Nup54	Fsn	Fsn	Fsn	Fsn	cid	cid	cid	Asx	Asx	ttv	ttv	ttv	Vha36-1	NiPp1	NiPp1	Smurf	Smurf	Smurf	Smurf	Topors	Topors	Topors	Topors	Rep	Rep	Ars2	Ars2	Ars2	Acf	pasha	rod	pygo	pygo	pygo	pygo	pygo	spn-F	spn-F	spn-F	Zwilch	wts	wts	wts	wts	wts	wts	ZIPIC	Sas-6	Sas-6	Dmel\CG7824	Vps16B	Slbp	Cul5	DIP-gamma	DIP-gamma	DIP-gamma	DIP-gamma	DIP-gamma	WASp	WASp	Gp93	Gp93	ALiX	Sce	pins	pins	pins	pins	wdb	wdb	l(3)mbt	Dmel\CG14543	Dmel\CG14543	Sld5	Sld5	Sld5	Sld5	Sld5	Tnks	Npl4	Vps33B	dan	dan	dan	danr	danr	danr	Dmel\CG11920	polybromo	polybromo	puf	puf	atl	ana1	ana1	Tsc1	Atg6	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	Nup98-96	eIF3d1	orb	orb	sav	sav	sav	sav	sav	sav	klg	HP1c	HP1c	HP1c	vret	vret	vret	vret	vret	vret	vret	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	Dcr-1	loco	loco	CSN6	CSN6	Gld2	Gld2	lsn	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	cDIP	Usp8	Usp8	Bdbt	Rlip	Rlip	Rlip	mira	mira	Dys	Ino80	Ino80	gukh	gukh	gukh	CT23351	CT23351	Cpsf73	l(3)05822	Rpb4	MED17	MED17	MED17	MED17	MED17	MED17	MED17	Odj	Brf	beat-IIb	beat-IIb	cher	cher	cal1	Dmel\CG3678	Dmel\CG10340	Dmel\CG10340	Bin1	Bin1	Bin1	Bin1	Bin1	Bin1	Dmel\CG5903	msps	IKKbeta	IKKbeta	IKKbeta	IKKbeta	IKKbeta	mor	mor	mor	mor	mor	mor	mor	Pbp45	Pbp45	rec	Trax	Trax	Sra-1	Sra-1	Sra-1	Sra-1	Rpb7	Mau2	dpr9	dpr9	kibra	kibra	kibra	kibra	Pde6	HtrA2	HtrA2	HtrA2	rdx	rdx	rdx	flfl	CG9588	rin	side-IV	side-IV	side-IV	Dmel\CG11656	Paip2	beat-Vb	beat-Va	beat-Vc	Su(fu)	Su(fu)	Su(fu)	Su(fu)	GstD6	GstD6	GstD4	GstD4	MBD-R2	MBD-R2	Dmel\CG10014	aurA	Dmel\CG6959	glo	glo	Tctp	Mcm5	Mcm5	Mcm5	Mcm5	pont	pont	pont	pont	pont	pont	TAF1B	TAF1B	topi	topi	side-VII	side-VII	trbd	Scm	Scm	Scm	Scm	Scm	Scm	Scm	CG16790	Vps45	CG9393	CG9393	Golgin-45	Vps16A	Ibf1	Ibf1	Ibf2	Ibf2	Pif1B	nom	Cks85A	Cks85A	Cks85A	Cks85A	SLIRP2	Atg13	CG7483	CG7483	Gie	Gie	puc	Pbp95	Sas-4	Mcm10	Mcm10	Mcm10	Mcm10	Mcm10	del	del	RPA2	RPA2	RPA2	Cen	barr	swm	Rab9	Dmel\CG17564	l(2)37Cg	Phlpp	Acn	Acn	Nak	tup	kon	grnd	grnd	grnd	grnd	ncm	CLIP-190	CLIP-190	LSm7	LSm7	LSm7	LSm7	CG17904	Prosbeta4	Trpgamma	Trpgamma	wek	wek	wek	wek	NC2beta	NC2beta	mol	elB	elB	elB	elB	loqs	loqs	loqs	loqs	Grx4	Dmel\CG9426	Sfmbt	Sfmbt	Sfmbt	Sfmbt	Sfmbt	Tor	Ced-12	Ced-12	dgt2	Nup160	Ge-1	Ge-1	piwi	piwi	piwi	piwi	piwi	piwi	piwi	piwi	piwi	Nse4	RfC3	CG31990	CG31990	CG31990	CG31990	dpr19	dpr19	dpr19	Cand1	Cand1	Dmel\CG13124	FKBP59	FKBP59	FKBP59	FKBP59	borr	DIP-zeta	DIP-zeta	DIP-zeta	DIP-zeta	DIP-zeta	DIP-zeta	PrBP	Dmel\CG13097	Akap200	Rbsn-5	r2d2	Sem1	Rab30	Rab30	Rab30	Rab30	ihog	ihog	ihog	ihog	ihog	ihog	cup	cup	cup	cup	cup	cup	cup	Daxx	Arpc4	Arpc4	Fbw5	mtm	lid	lid	lid	DIP-theta	DIP-theta	DIP-theta	DIP-theta	DIP-theta	DIP-theta	DIP-eta	DIP-eta	DIP-eta	DIP-eta	DIP-eta	tomb	tomb	tkv	Dmel\CG3756	hkb	slx1	slx1	slx1	Dlip2	Dlip2	atms	Dmel\CG12007	Dmel\CG12007	Dmel\CG12007	cno	rtp	rtp	Orco	Rheb	kra	kra	asl	asl	asl	asl	asl	asl	MED27	dgrn	pzg	ICA69	ICA69	Sin	HIPP1	CG4858	Dmel\CG11454	Dmel\CG11885	ush	dock	dock	erm	erm	erm	erm	papi	papi	papi	papi	papi	papi	robl22E	Arpc5	Arpc5	Snapin	Prx6005	drm	ed	ed	ed	Psf2	Psf2	Psf2	Dmel\CG15443	HP6	HP6	fipi	mxt	wap	wap	S6kII	1504	1504	Syx16	Syx16	cactin	CG10671	sinu	Sse	scny	mad2	Dmel\CG6610	Dmel\CG6610	Dmel\CG6610	Dmel\CG6610	Vps8	Vps8	eIF4E4	melt	melt	mei-P22	MED4	MED4	MED4	MED4	MED4	MED4	MED4	MED4	Rint1	mus312	mus312	mus312	mus312	mus312	CTCF	akirin	akirin	PGRP-SD	eIF4E5	msk	RecQ4	MED24	eIF4E3	Cbl	ZC3H3	ZC3H3	ZC3H3	rhea	orb2	pix	phol	fry	Ilp2	Cdk8	Cdk8	Cdk8	Cdk8	Cdk8	CalpB	Dmel\CG6674	dpr10	dpr10	Blos4	galla-2	galla-2	Blos2	SuUR	APP-BP1	rt	rt	PCID2	PCID2	Pldn	rols	rols	rols	rols	rols	vers	Dmel\CG4328	Smyd4-2	Syx13	SNCF	cmb	Liprin-beta	Nprl3	Ran-like	AGO2	AGO2	AGO2	AGO2	AGO2	AGO2	AGO2	mib1	mib1	Smn	Smn	Smn	TSG101	Dmel\CG13733	Edc3	Edc3	Edc3	Nedd4	Nedd4	BcDNA:SD16138	not	bora	Sgf11	MED11	MED11	Dysb	Dysb	nkd	nkd	nkd	nkd	Gem2	fz2	kto	kto	kto	kto	Ell	Ssk	Ssk	Su(var)3-3	zld	COX6B	Dmel\CG14232	Ubqn	Ubqn	dome	dome	e(y)3	e(y)3	e(y)3	RpS10b	Mec2	wgn	wgn	wgn	upd1	Dmel\CG15059	Taf8	Taf8	ND-24	Nprl2	Rok	mbt	mbt	CanA-14F	CanA-14F	sl	Tob	sun	PGRP-LE	Dmel\CG12708	Lsd-2	opm	Dmel\CG5541	mRpS25	dpr8	dpr8	Dmel\CG13404	jub	jub	DNAlig4	Ndc80	CG12096	CG12096	Bap60	Bap60	Bap60	Ten-a	Ten-a	wisp	prtp	Met	RPA3	RPA3	e(y)2	e(y)2	e(y)2	e(y)2	PGRP-SA	PGRP-SA	Kap3	sisA	sisA	Ran	Ran	ago	ago	Chd64	Ack	Ack	Ack	Ack	Ack	Rcd5	Rcd5	Rcd5	aly	aly	dos	Mfap1	HBS1	Dmel\CG2021	Dmel\CG2021	drpr	drpr	Ptp61F	Ptp61F	Psf1	Psf1	Aplip1	Aplip1	Aplip1	bab2	bab1	dpr20	dpr20	ebd1	ebd1	ebd1	Rev1	MED30	MED30	MED14	Tudor-SN	wac	DIP2	Jhebp29	Jhebp29	Dmel\CG44247	Pof	Pof	Dmel\CG4781	Brca2	Brca2	tamo	tamo	tamo	tamo	tamo	tamo	tamo	gek	DCP1	DCP1	5597	bgcn	bgcn	bgcn	vir	LS2	Nup214	Nup214	MED23	EMC8-9	robo1	robo1	robo1	robo1	Dmel\CG13506	wdp	Vps35	i188	comr	comr	comr	NC2alpha	pirk	Rae1	Rae1	Rae1	Rae1	TAF1C-like	Panx	BcDNA:RE43665	BcDNA:RE43665	insc	X11Lbeta	X11Lbeta	Lst8	Gga	lz	Bap111	Crag	BcDNA:LP02728	BcDNA:LP02728	Traf6	Traf6	Traf6	Gclc	Gclc	Ubr3	hdm	hdm	dpr14	Rab39	Rab39	Rab39	Atg5	shf	Grip	Grip	Grip	Grip	Rab18	Rab18	Rab18	Rab18	Rab18	tyf	tyf	tyf	tyf	DIP-alpha	DIP-alpha	Myc	Myc	Myc	Myc	Myc	Myc	Myc	Myc	Myc	Myc	Myc	dnc	kirre	kirre	dwg	fs(1)Yb	fs(1)Yb	Zw10	Pdfr	temp	temp	temp	mip130	mip130	Vps26	Lrpprc2	futsch	futsch	eIF4E7	TfIIA-S-2	tw	tw	MED21	MED21	MED21	MED21	MED21	RpL5	chico	chico	brk	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc	Dronc	Crk	Prosbeta3	Prosbeta3	Traf4	Traf4	Mcm3	Mcm3	pic	pic	Nup93-1	Rif1	Rif1	Rif1	CSN5	CSN5	CSN5	CSN5	CSN5	betaggt-II	betaggt-II	betaggt-II	sra	sra	sra	sra	sra	sra	Atf3	MED18	Taf10b	fl(2)d	fl(2)d	fl(2)d	MRG15	sip1	sotv	sotv	sotv	car	Apc2	Apc2	nwk
+GO:0004590	r-l
+GO:0004591	Nc73EF	Nc73EF	CG18170	CG18170	CG1544	CG1544
+GO:0005519	mon2
+GO:0005518	SPARC	dpp	sog	Ddr	smal
+GO:0004594	fbl	fbl	Dmel\CG5828
+GO:0004595	Ppat-Dpck
+GO:0004596	Naa20A	CG8481	Dmel\CG31730	Naa20B	Naa30B	Naa30A	Naa30A	Naa60	Naa60	Naa60	san	san	Naa40	psidin	Naa15-16	Naa35
+GO:0004176	Dmel\CG4538	Lon	Dmel\CG5045
+GO:0004177	CG5518	Dmel\CG13423	Dmel\CG1440
+GO:0004174	Etf-QO	Etf-QO
+GO:0004175	Nep2	MP1	Prosbeta1	Prosbeta1	Prosbeta1	rho-7	Psn	Psn	Prosalpha6	Prosalpha6	Jon99Ci	Prosalpha3	Prosalpha3	Prosalpha4	Prosalpha4	Prosalpha2	Prosalpha2	Prosbeta6	Prosbeta6	Prosalpha4T1	Prosalpha4T2	Prosbeta5	Prosbeta5	Prosbeta5	CG8728-RA	Prosbeta5R2	Prosbeta5R2	Dredd	Mmp2	Nep4	Prosbeta4R1	Prosbeta2R2	Prosbeta2R2	Prosalpha5	Prosalpha5	Rpn2	Prosalpha7	Prosalpha7	lincRNA.224	Prosalpha3T	Jon99Fii	Nct	UQCR-C1	SP55	Prosbeta4	Prosbeta4	Semp1	Prosalpha6T	Dmel\CG5355	Jon25Bi	Jon25Biii	Prosbeta7	Prosbeta7	Dmel\CG11396	Prosbeta4R2	aph-1	aph-1	aph-1	Dmel\CG10477	Jon65Aiii	Jon66Ci	Prosbeta2	Prosbeta2	Prosbeta2	Tasp1	UQCR-C2	Rpn1	Prosbeta5R1	Prosbeta5R1	Prosbeta2R1	Prosbeta2R1	Dronc	Prosbeta3	Prosbeta3	Prosalpha1	Prosalpha1	BcDNA:GH08420
+GO:0004170	dUTPase	dUTPase
+GO:0008865	Hex-C	Dmel\CG7551	Hex-t2	Hex-t1	Dmel\CG12289	Dmel\CG7335	Dmel\CG7328	Hex-A
+GO:0008046	Dscam1	CG12873	klg	Dmel\CG7166	Dmel\CG13506	wrapper
+GO:0008047	esc	rictor
+GO:0008048	Frq1	Frq1
+GO:0016846	Eip55E
+GO:0031435	lic	cnk
+GO:0031434	Mekk1	trbl
+GO:0000064	Dmel\CG7255	Dmel\CG1628	Dmel\CG1628	slif	Dmel\CG5535
+GO:0000062	cg7461	Acbp2	CG17896
+GO:0042781	RNaseZ	RNaseZ
+GO:0004778	Scsalpha1
+GO:0004775	Scsalpha1	ScsbetaA	Scsalpha2
+GO:0004776	Scsalpha1	ScsbetaG
+GO:0004777	Ssadh	Ssadh	Ssadh
+GO:0004771	mag
+GO:0070180	RpLP0	RpL23	mRpL11	RpL12
+GO:0004008	ATP7
+GO:0004003	mle	mle	hay	Xpd	Rhau	Rhau	rept	Hel89B	rec	Blm	pont	nbs	rad50	CG4078	CG4078	Dmel\CG11403
+GO:0004000	Adgf-E	Adgf-A2	Adgf-A2	Adgf-C	Adgf-C	Adgf-D	Adgf-D	Ada	Adgf-B	Adgf-B	Adgf-A	Adgf-A
+GO:0004001	Ady43A	DmAdk1	AdenoK	AdenoK
+GO:0004004	pea	vas	Dbp45A	Hel25E	Dmel\CG9143	Rs1	Dhx15	CG8611	Rhau	tst	bel	bel	CG9630	DmRH24	l(2)37Cb	DmRH19	Suv3	Hlc	l(3)72Ab	l(3)72Ab	cg5589	Prp5	l(1)G0007	Upf1	sip1	Mtr4	Mtr4
+GO:0008266	ssx	elav	Sxl	Sxl	pAbp	snf	Hrb27C	shep	hfp	Rbp6	fne	cg4612
+GO:0003904	Dmel\CG18853	phr6-4	phr
+GO:0008597	CanB	CanB2	sra
+GO:0008263	Thd1	Thd1
+GO:0008260	SCOT	SCOT	SCOT
+GO:0008261	AstC-R2	AstC-R2	CCHa1-R	AstA-R2	AstA-R2	AstA-R1	AstA-R1	AstC-R1	AstC-R1
+GO:0016909	p38b	p38a
+GO:0003908	agt
+GO:0008649	Dmel\CG10909	Fib
+GO:0015347	Oatp26F	Oatp33Eb	Oatp33Ea	Oatp30B	Oatp74D	Oatp58Dc	Oatp58Db	Oatp58Da
+GO:0018478	CG17896	CG17896
+GO:0032027	didum	didum	didum	jar	zip	zip	ck	asp
+GO:0070139	velo	Dmel\CG12717
+GO:0008469	Dmel\CG32152	Art8	csul	Art3	Art6	Art9	Art1	Art4	Art4	Art2	Art7
+GO:0015499	Prestin
+GO:0008466	Gyg
+GO:0008467	Hs3st-A	Hs3st-A	Hs3st-B	Hs3st-B	Hs3st-B
+GO:0042656	msn
+GO:0050421	Cbs
+GO:0070006	CG5518	SP1029	CG13825	Dmel\CG14516	Dmel\CG40470	anon-WO0140519.24	GM08240p	Psa	CG5839	CG5839	CG11955	Dmel\CG11951	Dmel\CG42335	Dmel\CG5849	Dmel\CG8774	Dmel\CG8773	ApepP	Dmel\CG7653	Dmel\CG6071	Dmel\CG3502	Dmel\CG2111	Dmel\CG9806
+GO:0035100	usp	EcR	EcR	MSBP	DopEcR
+GO:0070224	BcDNA:GH04863
+GO:0019901	Trap1	Trap1	alc	Unc-89	Msp300	Dmel\CG9044	Dmel\CG9044	RhoBTB	cos	CycA	CycB	rl	rl	Rac1	Rac1	Rac1	Cdc42	Cdc42	Cdc42	Rho1	Rac2	Rac2	CycE	Mitofilin	RhoU	hep	Cks30A	RhoL	drl	Mtl	Mob4	Dmel\CG8441	Dmel\CG11807	POSH	ball	Atg17	CycD	Mob2	spri	mats	CycG	CycB3	chif	Axn	Sin1	mask	SNF4Agamma	Cks85A	Atg13	Tehao	Wdfy2	Mob3	dock	CkIIalpha-i1	Atg101	CycJ	Aplip1	Aplip1	Atg8a	Slmap	Aats-gln
+GO:0019900	CG15925	Pgam5	arm	Rho1	ex	yki	Pi3K21B	pan	SH3PX1	Tsc1	dock	dock	gig	futsch	futsch
+GO:0019903	arm	ckn	APC4
+GO:0019902	Sbf
+GO:0019905	Sytalpha	l(2)gl	Syt1	Syt1	Snap25	alphaSnap	Slh	dor	Vamp7	gammaSnap1	Vps33B	gammaSnap2	Snap24	Snap24	Vps16A	scat	Vps52	Vps52	Sytbeta	Bet1	Tomosyn	Snap29	car	car
+GO:0019904	fra	tub	Ubc6	Arl1	sd	dsh	Ubx	aop	pll	HDAC3	pins	Sirt1	cno	PCID2	Nedd4	Nedd4	Wdr92	pico	Atg101	Bap60
+GO:0043531	blw	Pgk	Dmel\CG9961	Msh6
+GO:0052720	CG6171	RpLP0	Rrp1
+GO:0043539	CG15925	Pgam5	chif
+GO:0050291	schlank	schlank	schlank
+GO:0015016	sfl
+GO:0033558	HDAC4	Sirt1
+GO:0015018	GlcAT-I	GlcAT-I	GlcAT-S	GlcAT-S	GlcAT-P	GlcAT-P
+GO:0035925	Tis11	sqd
+GO:0016274	csul	Art7
+GO:0047536	Dmel\CG6321
+GO:0016279	Dmel\CG33230	Dmel\CG5013	Dmel\CG7889	Setd3
+GO:0047022	scu
+GO:0004450	Idh	Idh
+GO:0030976	Hacl
+GO:0030971	spri	Shc	Cbl	Cbl	Crk
+GO:0019838	sax	put	babo	wit	tkv
+GO:0004452	Idi	Idi
+GO:0016308	fab1	fab1	PIP5K59B	PIP4K	PIP4K	sktl	sktl
+GO:0035258	tai	DOR
+GO:0016303	Pi3K92E	Pi3K92E	Pi3K92E	Pi3K68D	Pi3K68D	Pi3K59F	Pi3K59F	Pi3K59F
+GO:0030371	eIF4EHP	bcd	smg	smg	smg	brat	eIF4E6
+GO:0016301	kri	awd	Doa	Mos	Ret	l(2)k01209	Uck	Lk6	Cdk8	Coq8	Dmel\CG12016	dnk
+GO:0035257	tai	arm	alien	Sirt1	Utx	Utx
+GO:0035256	homer
+GO:0035255	Prosap	dlg1	scrib	Grip
+GO:0030374	tai	tai	DOR	Eip75B	EcR	Hr96	srl	Lpt	Dmel\CG10555
+GO:0005102	Dmel\CG5742	Dmel\CG10459	Pdf	Src64B	Src64B	Lam	usp	usp	Wnt2	Wnt5	Wnt5	EcR	Wnt4	Hr38	trr	trr	BcDNA:RH04491	egr	vn	slow	Capa	Axn	apolpp	Src42A	AstA	Hug	Tk	Wnt10	Wnt6	Pex14	Mip	CNPYb	upd1	upd1	ETH	pirk	pirk	Ir8a	Grip
+GO:0042301	Nmdmc
+GO:0072572	Dmel\CG8786	CG1218	CG1218
+GO:0046790	Toll-7
+GO:0035650	Afti
+GO:0003714	Sin3A	sbb	nvy	MTA1-like	MBD-like	146745_at	Dmel\CG13287	Dmel\CG13293	Smr	Smr	Gug	Gug	Gug	Hira	CtBP	CtBP	CtBP	CtBP	per	sna	E(spl)m5-HLH	E(spl)m7-HLH	E(spl)	h	gro	gro	gro	gro	emc	Ote	acj6	acj6	E(spl)m3-HLH	E(spl)mbeta-HLH	E(spl)mgamma-HLH	E(spl)mdelta-HLH	H	H	dpn	CoRest	CoRest	Coop	DMAP1	Hey	Dmel\CG31875	Dmel\CG4872	insv	Rpd3	Rpd3	alien	alien	ebi	ebi	rept	rept	Bin1	cwo	CG9246	Dmel\CG10631	Dmel\CG17568	Sidpn	Uxt	NC2beta	Sirt1	Tob	jub	uri	Mybbp1A
+GO:0030159	Prosap	dsh	inaD	POSH	syd
+GO:0035438	Sting	Sting
+GO:0008682	Coq7
+GO:1990163	Marcal1
+GO:0031151	gpp	gpp	gpp
+GO:1990165	CG5316
+GO:0042277	CG5518	AstC-R2	mth	SP1029	CG13825	Dmel\CG14516	Dmel\CG40470	anon-WO0140519.24	GM08240p	Psa	CG5839	CG5839	CG11955	AstA-R1	Dmel\CG11951	Dmel\CG42335	Dmel\CG5849	Dmel\CG8774	Dmel\CG8773	Dmel\CG7653	Dmel\CG6071	Rh7	AstC-R1	Dmel\CG3502	Dmel\CG2111	Dmel\CG9806
+GO:0017091	Cpsf5	Rrp42	Rrp45
+GO:0017095	Hs6st
+GO:0003756	Pdi	ERp60	Qsox1	Qsox1	Qsox4	Qsox4	Ero1L	Ero1L	Qsox2	Qsox2	Qsox3	Qsox3	Dmel\CG10029
+GO:0003755	ninaA	ninaA	ninaA	ninaA	ninaA	Cyp1	Cyp1	Cyp1	FK506-bp2	dod	dod	dod	Dmel\CG17266	Dmel\CG17266	CYC4	Dmel\CG7768	Dmel\CG7768	BcDNA:AT31683	BcDNA:AT31683	Dmel\CG32845	Dmel\CG32845	cg11777	Dmel\CG3511	cyp33	cyp33	Moca-cyp	Moca-cyp	Moca-cyp	FKBP59	Dmel\CG2104	Ptpa	Dmel\CG8336	Dmel\CG8336	Dmel\CG10907	Dmel\CG8509	Cypl	Dmel\CG2852	Dmel\CG2852
+GO:0017099	cg7461
+GO:0010997	cort	cort
+GO:0043008	Mitofilin	Pink1
+GO:0000213	CG13470	Dmel\CG31812	Dmel\CG5626
+GO:0016779	CG10438	Uba4
+GO:0009982	Pus1	Nop60B	CG7042	RluA-2	RluA-1	Pus10	Dmel\CG6745	Dmel\CG3045
+GO:0035326	klu	hth	lab	exd	E(spl)mgamma-HLH	dpn
+GO:0030553	CngA	CG13530	CngB
+GO:0030552	bves
+GO:0005184	Pdf	Pdf	Pdf	Dsk	Dsk	Dsk	Ms	Ms	Akh	Akh	Akh	Lk	Eh	ITP	amn	amn	amn	Crz	Crz	CCHa1	SIFa	CCHa2	Capa	Capa	Capa	AstA	CCAP	CCAP	Burs	Burs	NPF	NPF	NPF	Tk	Dh44	sNPF	Pburs	Pburs	Pburs	AstC	Dh31	Proc	Proc	Nplp4	Nplp2	Nplp3	Mip	Mip	CNMa	Nplp1	Nplp1	ETH
+GO:0019784	Den1	Den1	CSN8	CSN4	CSN4	CG4968	CSN5	CSN5
+GO:0097322	Hexim	Hexim	Larp7
+GO:0060698	BI-1
+GO:0008412	Coq2
+GO:0048040	Uxs
+GO:0005160	Actbeta	dpp	dpp	gbb	gbb	gbb	scw	scw	mav	myo	daw
+GO:0008121	UQCR-11	UQCR-11	Dmel\CG43206	UQCR-11L	UQCR-6.4	UQCR-6.4	UQCR-14L	UQCR-14L	UQCR-C1	RFeSP	RFeSP	UQCR-C2	UQCR-Q	UQCR-Q	UQCR-14	UQCR-14	ox	ox
+GO:0008120	GlcT	GlcT
+GO:0005164	Traf-like	egr	Traf6	Traf4
+GO:0031208	psq	ttk	Trl	Cp190	lolal	mod(mdg4)	bip1	bip2	bip2
+GO:0045159	l(2)gl	l(2)gl	l(2)gl
+GO:0000104	SdhAL	SdhA	SdhD
+GO:0045153	Cyt-c1L	Cyt-c1L	Cyt-c1	Cyt-c1
+GO:0004348	Gba1b	Gba1b	Gba1a	Gba1a
+GO:0004345	Zw
+GO:0004347	Pgi	Pgi
+GO:1990381	Diap1	sip3	ago	Myc
+GO:0004341	smp-30	regucalcin
+GO:0004340	Hex-C	Hex-t2	Hex-t1	Hex-A
+GO:0004343	Gnpnat
+GO:0004342	Oscillin	Oscillin	Oscillin
+GO:0016671	Dmel\CG13473
+GO:0004588	r-l
+GO:0004587	Oat	Oat	Oat
+GO:0004586	Odc1	Odc1	Odc2	Odc2
+GO:0004584	PIG-V
+GO:0004583	Alg10
+GO:0004582	Dmel\CG42456	Dmel\CG33977	CG10166	CG10166
+GO:0004581	wol
+GO:0000977	Dmel\CG10543	apt	Drgx	mip120	DM7	Pits	Blimp-1	Lim3	klu	HLH4C	TfAP-2	CG15376	ey	ey	cyc	Clk	prd	Dfd	Dfd	sna	Scr	Scr	gsb	gsb-n	cad	cad	l(1)sc	l(1)sc	ase	ase	ase	ac	sc	sc	sc	ct	da	da	da	da	Eip75B	E(spl)m5-HLH	E(spl)m7-HLH	E(spl)	h	fkh	fkh	dl	dl	dl	dl	dl	vvl	ci	ci	dsx	odd	esg	Su(H)	Su(H)	Su(H)	Su(H)	Su(H)	zfh1	zfh2	ap	ap	Hr3	EcR	EcR	gt	gt	opa	opa	stc	Hr38	Hr38	Gsc	Dif	Dif	Dif	Dif	E(spl)m3-HLH	E(spl)mbeta-HLH	E(spl)mgamma-HLH	E(spl)mdelta-HLH	slbo	Dr	al	Hr78	Hr96	Hr96	br	B-H1	B-H2	retn	dpn	gcm	Dmel\CG12605	unpg	sug	Hey	repo	repo	Awh	Xbp1	Xbp1	Pdp1	foxo	foxo	foxo	foxo	lmd	cic	Lim1	toy	Pur-alpha	dmrt99B	HHEX	dmrt93B	Dmel\CG5245	87A7-9	cwo	rn	crc	Sidpn	tup	tup	salr	Dmel\CG4496	tomb	mid	Dmel\CG14655	Dmel\CG11247	drm	sob	bowl	Dmel\CG4328	Lmx1a	eyg	Dmel\CG7372	l(3)73Ah	CG14202	dmrt11E	Dmel\CG15011	PHDP	Dmel\CG9876	hbn	Rx	Dmel\CG11294	Dmel\CG3847	peb	HLH3B	Pph13	Pph13	Pph13
+GO:0004165	Dmel\CG4592	Dmel\CG4594	Dmel\CG4598	Dci
+GO:0004164	Dph5
+GO:0004167	yellow-f2	yellow-f2	yellow-f	yellow-f
+GO:0004161	Fpps
+GO:0004163	Mvd	Mvd
+GO:0004169	rt	rt	rt	tw	tw	tw
+GO:0004168	Dmel\CG8311	Dmel\CG8311
+GO:0036313	Rab21	Sbf
+GO:0001530	GNBP3	GNBP3	GNBP1	GNBP1	GNBP1	Npc2h	Npc2e	Npc2a	GNBP2	GNBP2
+GO:0009055	mt:CoIII	Cyt-c-d	Fdxh	Dmel\CG7834	Dmel\CG7834	Cyp6a8	wal	wal	SdhAL	Fdx2	SdhA	dare	SdhC	Dmel\CG6629
+GO:0050567	GatC	GatB	GatB	GatB	gatA
+GO:0005369	Eaat2
+GO:0004760	Spat
+GO:0004767	CG3376-RA	alphaSmase	Dmel\CG15533	CG12034
+GO:0004766	SpdS
+GO:0004769	Dmel\CG7724
+GO:0004768	Desat1	Desat1	Dmel\CG9743	Dmel\CG9743	Dmel\CG9743	Dmel\CG15531	Dmel\CG15531	Dmel\CG15531	Dmel\CG9747	Dmel\CG9747	Dmel\CG9747	Dmel\CG8630	Dmel\CG8630	Dmel\CG8630	Desat2	Desat2	Desat2	Fad2	Fad2	Fad2
+GO:0008903	Gip
+GO:0004019	AdSS
+GO:0004018	AdSL	AdSL
+GO:0051287	Dmel\CG8128
+GO:0004013	Ahcy13	Ahcy13	Ahcy13	Ahcy13
+GO:0004012	ATP8A	ATP8A	DmCG33298	DmCG33298	ATP8B	ATP8B	Dmel\CG31729	Dmel\CG31729	CDC50	DmCG4301	DmCG4301	DmCG9981	DmCG9981
+GO:0004014	SamDC
+GO:0004017	Ak6	Ak6	Adk1	Adk1	Adk2	Adk2	Adk2	Adk3	rad50
+GO:0004016	CG12436	CG12436	Ac13E	Ac13E	Ac13E	rut	rut	rut	Dmel\CG32305	Ac3	Ac3	Ac3	ACXE	ACXE	ACXE	ACXA	ACXA	ACXA	ACXB	ACXB	ACXB	ACXC	ACXC	ACXC	Ac78C	Ac78C	Ac78C	Ac76E	Ac76E	Ac76E	Dmel\CG32301	Dmel\CG32301	ACXD	ACXD	ACXD
+GO:0003917	Top3beta	Top1	Top1	Top1
+GO:0003916	Top3beta	Top1	Top3alpha	Top3alpha
+GO:0008270	Dmel\CG17721	Dmel\CG34289	nvy	Dmel\CG10543	Dmel\CG6923	dnr1	bon	CG5518	Dmel\CG5555	Dmel\CG17019	CG4646	anon-EST:GressD1	anon-WO0140519.220	Dmel\CG13442	tn	Dmel\CG8786	CG34375-RA	Trim9	Cnot4	Hakai	Dmel\CG16781	mei-P26	ari-2	fab1	Mi-2	trx	sina	dsx	Rpn3	Su(z)2	neur	Psc	stc	Fdh	Pu	Rpn10	gol	Trl	SP1029	CG13825	dx	Deaf1	Diap1	Diap2	dor	Dmel\CG17048	CG8324	Dmel\CG33552	az2	CG12339	Roc2	Dmel\CG10916	Dmel\CG8569	nopo	d4	POSH	Dmel\CG1909	SmydA-1	lmgA	Mat1	Dmel\CG1815	Trc8	Dmel\CG14516	Dmel\CG8349	lt	Dmel\CG40470	CG31372	unk	unk	isoQC	CG10487	Dmel\CG31053	BcDNA:AT31683	anon-WO0140519.24	GM08240p	SelR	Dmel\CG31807	LUBEL	Dmel\CG32847	Dmel\CG32581	Psa	CG5839	CG5839	Hph	Dmel\CG32850	Vps11	Dmel\CG32335	anon-84Eb	sinah	ari-1	sip3	CG11955	hiw	Roc1b	Rpn2	BcDNA:AT18988	Dmel\CG11360	Topors	Dmel\CG11951	Sce	Dmel\CG17991	Rpb10	Dmel\CG13605	Dmel\CG4813	CG5382	Dmel\CG42335	Dmel\CG5849	mdlc	qin	CG7694	bor	Dmel\CG6752	Dmel\CG9925	Dmel\CG8774	Dmel\CG8773	BcDNA:AT26376	Dmel\CG5245	87A7-9	Blm	CG5135	Timp	RpS29	RpS29	Scm	mura	Dmel\CG11982	CAHbeta	CAHbeta	Dmel\CG9684	godzilla	Dmel\CG2617	mib2	elfless	DS02740.8	Dmel\CG7653	DS08249.3	Acer	strat	strat	Dmel\CG8353	BcDNA:LP03131	Dmel\CG8419	Dmel\CG4496	Nse1	Rchy1	DhpD	Dmel\CG9855	Dmel\CG14655	Dmel\CG2926	CG1218	CG1218	dgrn	Dmel\CG11247	Mkrn1	CT10107	Dmel\CG17260	Bre1	QC	Dmel\CG7376	Vps8	CG13684	Pex2	Cbl	4080	AAN11912.1	Dmel\CG8003	Dmel\CG6168	Dmel\CG6071	Pbgs	Zmynd10	snky	Dmel\CG13481	elgi	mib1	roq	RAF2	l(3)73Ah	Dmel\CG13025	Dmel\CG12477	SmydA-2	nkd	Ltn1	Rpn1	Dmel\CG12200	Dmel\CG15814	Ubr1	Dmel\CG8974	Dmel\CG9215	Dmel\CG5347	Dmel\CG5334	CG11134	x93	Dmel\CG15011	Mul1	Dmel\CG14983	Dmel\CG1317	Pex10	Dmel\CG12099	Dmel\CG9119	Dmel\CG11414	Zfrp8	Lpt	Dmel\CG3502	stl	Rbpn-5	Dmel\CG2111	Dmel\CG9806	Dmel\CG10761	Traf6	Ubr3	Dmel\CG14435	Dmel\CG17717	Shmt	EG:100G10.2	Smyd3	Roc1a	Roc1a	snama	Dmel\CG4325
+GO:0008273	CG40148	zyd	Dmel\CG17167	Nckx30C	Nckx30C	Nckx30C	Nckx30C	Nckx30C	CG1090	CG1090
+GO:0003919	FBgn0032522	Fad1
+GO:0003918	Top2	Top2
+GO:0016918	Cralbp
+GO:0036002	tra	tra2	tra2	Sxl	cg14641	Ythdf	Ythdc1
+GO:0016155	Dmel\CG8665
+GO:0003886	Mt2	Mt2
+GO:0070728	Sesn
+GO:0080007	Fdh
+GO:0015333	yin	Dmel\CG9444	CG32787
+GO:0047555	Pde1c	Pka-R1	Pka-R2	Pde6	Pde6	Pde6	Pde6	Pde6	Pde6	Pde11	Pde11	Pde11
+GO:0004676	Pdk1	Pdk1	Pdk1
+GO:0018467	Fdh
+GO:0004948	Dh31-R	Dh31-R	Dh44-R1	Dh44-R2	hec	hec	Pdfr	Pdfr	Pdfr
+GO:0015275	Mid1
+GO:0071859	NPF	NPF
+GO:0071858	Crz
+GO:0008479	Tgt
+GO:0008478	Pdxk	Pdxk
+GO:0071855	Dsk	Dsk	FMRFa	FMRFa	Ms	SIFa	Capa	Capa	Capa	AstA	CCAP	CCAP	Burs	Hug	sNPF	Pburs	Pburs
+GO:0008476	Tango13
+GO:0008475	Plod	Plod
+GO:0008474	Dmel\CG18815	Dmel\CG6567	Ppt1	Ppt1	Ppt1	Ppt1	Ppt1	Ppt1
+GO:0008470	Dmel\CG6638	Dmel\CG6638
+GO:0015485	CG5077	mGluR
+GO:0050185	PGAP1
+GO:0070034	Smg5	CG7637	Smg6
+GO:0070037	CG3527	CG3527	CG3527
+GO:0018685	Cyp6a8
+GO:0015247	CDC50
+GO:0015245	Fatp2
+GO:0015248	CG5077	Dmel\CG3860	Dmel\CG1513	Osbp
+GO:0019158	Hex-C	Hex-t2	Hex-t1	Hex-A
+GO:0032947	Not1	RtGEF	Dmel\CG34297	d	pnut	Sep1	Sep2	Sep4	Sep5	Atg17	Git	Axn	CG5189	CG5189	sav	Sas-4	CG5110	Sgt	Dmel\CG4935	dp18	CG14977	Apc2
+GO:0052735	metl
+GO:0055105	CG30493;CG30496;l(2)08492
+GO:0001227	CG15295	Dmel\CG1529	BcDNA:LD21969	Blimp-1	klu	CG15376	E2f2	en	kni	E(spl)m5-HLH	E(spl)m7-HLH	E(spl)	h	svp	tsh	tsh	dsx	esg	esg	Su(H)	pros	ttk	ovo	Gsc	aop	aop	aop	aop	CG2120-RA	dpn	Dmel\CG7987	Dmel\CG12605	Dmel\CG1663	chn	Dmel\CG1233	cic	Dmel\CG11398	Pur-alpha	Dmel\CG12071	HHEX	Dmel\CG4360	Dmel\CG31224	Dmel\CG7691	Rbf2	Zif	Ef4A	Dmel\CG12299	Dmel\CG13123	dsf	mid	mid	vri	Dmel\CG14655	Dmel\CG42741	Dmel\CG10959	Dmel\CG12236	CG5113
+GO:0016684	DJ-1alpha	dj-1beta	Sesn	Sesn
+GO:0032542	CG6762
+GO:0030957	Snr1
+GO:0016263	CG33999	CG33999	dC1GalT6	anon-WO0144478.10	C1GalTA	C1GalTA	C1GalTA	Dmel\CG3119	dC1GalT4	dC1GalT3	dC1GalT8	tgy	Dmel\CG34056
+GO:0016262	Eogt
+GO:0047545	L2HGDH	L2HGDH
+GO:0030898	didum	didum	Mhc	Myo31DF	Myo28B1	ck	ck	ck
+GO:0030899	didum	up
+GO:1901981	Asap	anon-WO0118547.145	neur	pbl	Klp98A
+GO:0003906	CG6171	CG6171	RpLP0	Rrp1	Rrp1	RpS3	NTH1	NTH1
+GO:0030943	Tim22	Tom20	tomboy20
+GO:0030946	eya
+GO:0043495	koi	spag4
+GO:0016462	16769716	19527979
+GO:0008265	mal	mal	mal
+GO:0015662	dCOD1
+GO:0061575	CycT	Cks30A	CycK	Cdk5alpha	Cks85A
+GO:0005088	Dmel\CG4853	C3G	Sos	Sos	Sos	Dmel\CG7369	Vav	Vav	Dmel\CG9098	Dmel\CG34393
+GO:0030306	nuf	cbs	GCC185	GCC88	Golgin245
+GO:0016907	mAChR-A	mAChR-A	mAChR-A	mAChR-A	mAChR-A	mAChR-B	mAChR-C
+GO:0016314	Pten	Pten	Pten
+GO:0061578	CYLD	Q9VA71	Duba	Duba
+GO:0061770	GAPsec
+GO:0005125	Gbp1	Actbeta	dpp	gbb	spz	scw	upd3	upd3	Gbp2	mav	myo	Diedel	Gbp3	Dmel\CG14069	Dmel\CG12517	daw	upd1	upd1	upd1	upd2	upd2
+GO:0034647	Kdm2	lid	lid	lid
+GO:0005122	tsl	trk	vap
+GO:0034648	Su(var)3-3
+GO:0047498	sPLA2	sPLA2	CG1672	PLA2	Dmel\CG3009
+GO:0008613	Lk	Lk	Capa	Dh44	Dh31	Dh31	Dh31
+GO:0072509	Trpm
+GO:0003867	Gabat	Gabat
+GO:1904315	Grik	clumsy	GluRIIE	Ekar	GluRIID	DmelCG11155	KaiR1D	Ir93a	GluRIIB	GluRIIA	Ir21a	GluRIIC
+GO:0017136	Sirt2	Sirt2	Sirt2	Sirt1	Sirt1	Sirt1	Sirt1	Sirt1	Sirt1
+GO:0017137	Rim	Lrrk	Lrrk	Lrrk	CG34108	RUFY1	Dmel\CG1116	Dmel\CG1116	anon-WO0118547.145	garz	RN-tre	GAPcenA	plx	plx	nuf	Fife	l(2)gl	BicD	BicD	BicD	BicD	hook	Dmel\CG8155	Pi3K68D	cbs	CG2159	anon-WO0118547.417	Dmel\CG32506	Dmel\CG1695	Gas8	Golgin84	Dmel\CG5745	Rich	Rich	IKKepsilon	rod	ca	Ccdc128	TBC1d7	Sec15	Vps39	ema	ema	Dmel\CG5916	Dmel\CG9590	Dmel\CG12241	TBC1D5	TBC1D5	TBC1D5	GCC185	GCC185	Sbf	Dmel\CG17360	wkd	GCC88	TBC1D16	Vps52	Vps52	spartin	Q9VP46	Tbc1d15-17	Tbc1d15-17	CG31935	CG31935	sau	sau	sau	Sec5	Sec5	GAPsec	RhoGAP68F	Golgin104	Rip11	Rip11	Dmel\CG8578	Gmap	Dmel\CG4645	Tomosyn	Evi5	Evi5	Evi5	Evi5	Golgin245	Vps35	Vps35	GM130	GM130	Rbpn-5	Rph	Crag	AAF46211	Dmel\CG4041	Zw10	EG:BACR7A4.15	CG40289
+GO:0017134	Glg1
+GO:0030414	Sfp24Ba	Acp62F	Acp62F
+GO:0003726	Adar	Adar	Adat1
+GO:0003727	exu	Pep	Zn72D	TBPH	spt4	Dcr-1	Rpb4	Rpb7	Rbp4	Rbp4	CG12375	Dmel\CG11454	Dmel\CG7804	Rbp6
+GO:0003724	mle	eIF4A	eIF4A	Dhx15	Dhx15	p90	pit	spn-E	l(3)72Ab	Dmel\CG5800	mahe
+GO:0003725	Dcr-2	mle	mle	stau	stau	Dmel\CG8441	drosha	drosha	Zn72D	CG5316	Adar	Adar	DIP1	DIP1	DIP1	Adat1	pasha	pasha	Dcr-1	CG5641	Son	loqs	r2d2	mRpL44	Dmel\CG12493
+GO:0003723	cg4896	CG12168	qkr54B	Syp	Syp	Trap1	Phax	Dmel\CG6701	pea	Pcf11	Dmel\CG6967	eIF4G1	Dmel\CG40813	Dmel\CG41562	Dmel\CG7504	Rbp1-like	mbl	RpL15	qkr58E-3	qkr58E-3	SmD3	SmD3	kz	MTPAP	noi	noi	Dmel\CG11417	Dmel\CG2685	ssx	aub	Su(var)205	Hrb98DE	elav	snRNP-U1-70K	crn	tra2	tra2	tra2	Sxl	pAbp	su(sable)	me31B	mle	mle	stau	pum	pum	B52	RpL7A	Hrb27C	Hrb87F	msl-3	RpL22	RpL22	RpL14	Pym	Pym	Nelf-E	Rbp1	Rb97D	SmB	sqd	bru2	bru2	TH1	bol	SmF	SmF	Rsf1	U2af50	armi	AspRS	Dhx15	nito	Pabp2	Ude	CG14730	CG14730	CG18656	AGO3	CG8473	Nelf-A	Mat89Ba	msi	msi	LSm3	nxf4	bru1	bru1	Rrp40	tut	Nxf3	Dmel\CG2990	Dmel\CG32706	shep	U3-55K	Dmel\CG1142	Rhau	mRpS9	TBPH	lark	lark	lark	Dmel\CG17454	Dmel\CG6686	Capr	Fmr1	Fmr1	Fmr1	sbr	hoip	Gtp-bp	c12.1	c12.1	Adat1	SC35	NHP2	x16	x16	SF2	Pur-alpha	Pur-alpha	Dmel\CG11360	Syf2	Dmel\CG11563	RpL6	CG1542	CG12259	Dmel\CG5913	anon-WO0118547.376	Dmel\CG6204	Dmel\CG5986	Nup98-96	Dmel\CG6015	Surf6	Cpsf73	CstF64	SF1	Patr-1	Sf3a1	Sf3a1	spn-E	Dmel\CG5213	RpL10Aa	Rbp4	Dmel\CG10909	RpL24-like	Son	Dmel\CG8043	SLIRP2	mRpL1	Dmel\CG9667	SmD2	RanGAP	l(2)37Cb	RpL30	CG10341	CG10341	ncm	ncm	LSm7	Rnmt	RpL24	CG6712	CG6712	piwi	CG31990	cg4901	Dmel\CG4438	CG13096	cup	Phf5a	Fip1	cg2931	Dmel\CG3436	Rpp30	Sf3b1	dbe	Dmel\CG3542	Sf3b2	Dmel\CG15432	Dmel\CG3225	cactin	Dmel\CG4611	Dmel\CG6610	Dmel\CG6610	orb2	orb2	Q9VT19	PCID2	RpL10Ab	BcDNA:GM14851	BcDNA:GM14851	SmD1	SmD1	Sf3a2	CG11263	bru3	bru3	Dmel\CG9425	Prp31	Dmel\CG7804	roq	nxf2	Pop5	Rbp6	RpL26	Dmel\CG6841	Prp3	CG14230	CG14198	CG6179	Dmel\CG8915	SNRPG	hang	l(1)G0007	Dmel\CG10993	Upf1	CG2145	Dmel\CG1582	Dmel\CG1582	CG15014	Ythdc1	eIF1	CG9004	Dmel\CG2021	Dmel\CG2021	Cdc5	Tudor-SN	Pof	cg4806	Dmel\CG11414	cg4612	bgcn	Rrp4	Dmel\CG12782	RpL22-like	RpL22-like	LS2	Fib	nsr	RpS16	BcDNA:AT29209	cg4021	Rae1	LSm1	BcDNA:RE43665	Dmel\CG2124	Dmel\CG6999	CG6997	Spx	Dmel\CG11444	rop-1	Dmel\CG17168	RpL5	NELF-B	Dmel\CG14414
+GO:0051903	Fdh	Fdh	Fdh
+GO:0051908	tos
+GO:0097682	Trpm
+GO:1903231	Marf1
+GO:0036468	amd
+GO:0120170	Ttc26
+GO:0004972	Nmdar1	Nmdar1	Nmdar1	Nmdar2	Nmdar2
+GO:0004970	GluRIIE	GluRIID	GluRIID	GluRIIB	GluRIIA	GluRIIC
+GO:0004971	Ir25a	Ir31a	GluRIB	GluRIA	Ir84a	Ir64a	Ir75a	Ir75c	Ir75d	Ir76b	Ir8a
+GO:0061599	cin
+GO:0061598	cin
+GO:0005198	Sec31	Sec31	shot	Flo1	Flo2	Mst87F	Lam	hts	LamC	inaD	inaD	inaD	Vps25	Vps25	Rpn6	Rpn9	Skeletor	Sec13	Dys	Mcr	Spec2	Spec2	Eig71Ee	Eig71Ee
+GO:0022843	KCNQ	Elk	Shawl	Sh	Sh	Shaw	eag	eag	sei	NaCP60E
+GO:0022841	CG15470	sand	BcDNA.GH04802	Ork1	Ork1	Dmel\CG10864	Task6	Task7	anon-WO0109301.9	anon-WO0109301.22	CG15654	CG3367
+GO:0022848	nAChRalpha4	nAChRalpha7	nAChRalpha7	nAChRbeta1	nAChRalpha1	nAChRalpha1	nAChRalpha2	nAChRalpha2	nAChRalpha2	nAChRbeta2	nAChRalpha5	nAChRalpha5	nAChRalpha5	nAChRalpha6	nAChRalpha6	nAChRalpha6	nAChRbeta3	nAChRalpha3	nAChRalpha3
+GO:0022849	GluRIIE	GluRIID	KaiR1D	GluRIIB	GluRIIA	GluRIIC
+GO:0004486	BEST:GH18008
+GO:0004487	Nmdmc	Nmdmc
+GO:0004484	mRNA-cap	mRNA-cap	mRNA-cap
+GO:0008113	Eip71CD	Eip71CD
+GO:0089720	Diap1	Diap1	Diap2	eIF3m
+GO:0004483	cmtr2	CG6379	CG6379
+GO:0008117	Sply	Sply	Dmel\CG1486
+GO:0005172	Pvf3	Pvf2	PVRAP	Pvf1	Pvf1
+GO:0004488	pug	pug	Nmdmc	Nmdmc
+GO:0004489	gh18008
+GO:0031210	Esyt2	vib	rdgB	Pcyt1	Pcyt2
+GO:0004370	Dmel\CG8298	Dmel\CG1271	Gk2	Gk2	Gk2	Gk1	Gk1	Gk1
+GO:0070854	CLIP-190
+GO:0047952	CG12757
+GO:0004806	CG9966	bmm	bmm	dob	dob
+GO:0010309	Adi1
+GO:0004805	CG5171-RC	CG5171-RC	Dmel\CG5177	Tps1	Tps1
+GO:0005283	DmNAT4	List	Dmel\CG1698	BG:DS03431.1	Ntl	anon-WO0149848.7	GlyT	NAAT1	NAAT1
+GO:0004379	Nmt	Nmt	Nmt
+GO:0004935	Octalpha2R	Oct-TyrR	Dop1R2	Dop2R	lincRNA.S7704	TyrR	TyrRII	DopEcR
+GO:0004573	GCS1
+GO:0004571	Edem1	alpha-Man-Ia	alpha-Man-Ia	alpha-Man-Ic	LManII	alpha-Man-Ib	alpha-Man-IIb	Edem2	LManI
+GO:0004576	Dad1
+GO:0004577	Alg14
+GO:0004070	r	r	r	r
+GO:0052907	CG7544
+GO:0004398	Hdc	Hdc
+GO:0004392	Ho	Ho
+GO:0004396	Hex-C	Hex-t2	Hex-A
+GO:0004394	Hs2st	Hs2st	Hs2st
+GO:0008066	mtt	mtt	Grik	boss	mGluR	mGluR	mGluR	clumsy	GluRIIE	Ekar	CG7155	CG7155	GluRIID	DmelCG11155	KaiR1D	Ir93a	GluRIIB	GluRIIA	GluRIIA	GluRIIA	Ir21a	GluRIIC	GluRIIC
+GO:0046974	E(z)	Su(var)3-9	Su(var)3-9	Su(var)3-9	esc	Caf1	egg	egg	egg
+GO:0008061	AAF59068	FBpp0072995	verm	Dmel\CG30280	Cht6	Peritrophin-A	Idgf6	Idgf6	obst-H	obst-I	AAF46536	Cht12	Idgf3	Idgf1	Idgf5	CG6676	Idgf2	resilin	Cht5	Cht5	Peritrophin-15a	Peritrophin-15b	obst-E	Gasp	obst-A	obst-G	serp	serp	obst-J	obst-F	Cht7	Cht2	Cht9	Cht4	Cht4	Cht8	Idgf4	Cht11	Cht10	obst-B
+GO:0046976	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	E(z)	esc	esc	esc	esc	Caf1	Caf1	Su(z)12	escl
+GO:0009041	Dmel\CG5757	Dmel\CG5757	Adk1	Dak1
+GO:0016866	Pgi
+GO:0044325	Rim	Fife	CheB42a	CT18477	THADA
+GO:0008068	GluClalpha
+GO:0033819	CG9804	CG9804
+GO:0000009	CG8412
+GO:0004714	Pvr	Pvr	Pvr	Pvr	Pvr	Egfr	InR	sev	tor	tor	tor	tor	tor	tor	tor	htl	htl	htl	btl	btl	Ror	Ddr	otk	Alk	Alk	Ret	Ret	Dmel\CG3277	Eph	Nrk	Nrk	Cad96Ca	Dmel\CG10702	Tie
+GO:0004715	Abl	Abl	Src64B	Src64B	Btk29A	FER	Wsck	Shark	Src42A	Src42A	Src42A	Src42A	Ack
+GO:0004712	Pkc53E	hep	Myt1	aurA	ial
+GO:0004713	Fak	Abl	Abl	Abl	Abl	Abl	Abl	Abl	Abl	Btk29A	Btk29A	Btk29A	InR	InR	FER	FER	Wee1	Wee1	Wee1	htl	htl	btl	Shark	Ror	Ror	hop	hop	hop	hop	hop	hop	Ddr	Alk	Ret	Csk	Csk	Csk	Csk	Dmel\CG3277	Ack-like	Eph	Nrk	Nrk	Src42A	Cad96Ca	Cad96Ca	Cad96Ca	Cad96Ca	Cad96Ca	Tie	Tie	Ack	Ack	Ack	Ack	Ack
+GO:0004711	S6k	S6k	S6k	S6kII	S6kII	S6kII	S6KL
+GO:0005375	Ctr1A	Ctr1A	Ctr1A	Ctr1A	Mvl	Mvl	Ctr1C	Ctr1C	Ctr1B	Ctr1B	Ctr1B	ATP7
+GO:0080048	Dmel\CG3552
+GO:1905502	CG8481
+GO:0004719	Pcmt	Pcmt
+GO:0004028	Aldh-III	Aldh-III
+GO:0004029	Dmel\CG31075	Dmel\CG31075	Dmel\CG8665	Aldh	Aldh	Aldh	Aldh
+GO:0004024	Fdh
+GO:0008241	Ance-4	Ance	Ance	Ance	Ance	Ance-3	Ance-2	Acer	Acer	Acer
+GO:0003922	bur
+GO:0003923	PIG-K	PIG-K	PIG-S	PIG-U	PIG-T
+GO:0003924	Rgk3	Rgk2	Rab32	Rab32	Rab32	mEFTu1	Opa1	Opa1	Rgk1	Arl6	RabX6	RabX6	RhoBTB	Rab10	Rab10	Rab10	Scp2	Rab1	Rab1	Rab1	Rab1	Rab2	Rab2	Rab6	Rab6	Rab6	Rab6	Rab11	Rab11	Rab11	Rab11	Rab8	Rab8	Rab19	Rab19	fzo	fzo	fzo	Rab7	Rab7	Rab7	Rab27	Rab27	Rap2l	eEF1alpha2	Rap1	Ras85D	EF2	Galphao	Galphai	Galphas	Galphaq	Galphaq	Galphaq	cta	cta	Arl1	Rab3	Rab3	shi	shi	Rac1	Rac1	Rac1	Rac1	Rac1	Rac1	Rac1	Cdc42	Cdc42	Cdc42	Cdc42	Cdc42	pnut	pnut	pnut	pnut	pnut	Arf51F	Sep1	Sep1	Sep1	Sep1	Sep1	Rho1	Rho1	Rho1	Rho1	Rho1	Rac2	Rac2	Rac2	Rala	Rala	Sep2	Sep2	Sep2	Sep2	Arf79F	Arf79F	Galphaf	Arl2	14	Sep4	Sep4	Sep4	RhoU	RhoU	RhoL	RhoL	RhoL	Ric	Mtl	Mtl	Ns2	mEFTu2	RagC-D	RagC-D	Sep5	Sep5	Sep5	Rab4	Rab4	Rab21	Rab21	Marf	Marf	Rab14	Rab14	Miro	Miro	Gyc88E	Gyc88E	Rab40	Rab40	Rab9Fb	Rab9Fb	Rab9E	Rab9E	Rab9D	Rab9D	14	Ns1	CenG1A	Gtp-bp	RabX1	RabX1	Rab5	Rab5	Rab5	Dmel\CG3704	RecQ5	mIF2	Snu114	RabX4	RabX4	atl	atl	atl	CG17141	EF-G2	Sar1	Sar1	Sar1	Dmel\CG8500	RagA-B	Dmel\CG2656	Rab9	Rab9	Rab9	eRF3	eRF3	ico	ico	Rab30	Rab30	Rab30	Rheb	Rab23	Rab23	CG7338	Rab26	Rab26	Drp1	Dmel\CG15399	Arl5	SrpRbeta	Dmel\CG10222	Ran-like	Ran-like	CG4638	Dmel\CG7728	Dmel\CG4789	Dmel\CG4789	Ran	Ran	Ran	Rab9Fa	Rab9Fa	HBS1	RabX5	RabX5	eEFSec	Rab9Db	Rab9Db	RabX2	RabX2	Rab39	Rab39	Rab39	Rab18	Rab18	Rab18	Ns3	Rab35	Rab35
+GO:0004022	Adh	Adh	Adh	Adh	Adh	Adh	Adh	Fdh	T3dh
+GO:0070737	TTLL3A	TTLL3B
+GO:0044212	Atac3	Rbfox1	Cdk9	Dmel\CG17829	sna	ci	Tbp	zfh2	sd	sd	msl-1	pnt	Taf1	srp	Taf2	Taf2	Rbf	bs	Caf1	e(y)1	CoRest	CG5098	pan	Dmel\CG31875	ash2	CSN4	mrt	jigr1	Ino80	Dmel\CG17801	Rbf2	Dmel\CG16779	Taf7	Mnn1	mael	Cdk12	pzg	erm	htk	Dmel\CG9215	lz
+GO:0070735	TTLL6A	TTLL12	TTLL4A	TTLL6B	TTLL5	TTLL15	TTLL3A	TTLL3B	TTLL4B	TTLL1A	TTLL1B
+GO:0052381	BEST:LD10347
+GO:0080019	CG8303	CG8303	CG8303	CG5065	CG5065	CG5065	CG10629	CG10629	Dmel\CG1441	Dmel\CG1441	CG18680	CG18680	wat	wat	CG8306	CG8306	Dmel\CG12268	Dmel\CG12268	Dmel\CG4770	Dmel\CG4770	Dmel\CG14893	Dmel\CG14893	Dmel\CG17560	Dmel\CG17560	Dmel\CG17562	Dmel\CG17562	Dmel\CG10097	Dmel\CG10097	Dmel\CG10096	Dmel\CG10096	CT32316	CT32316	Dmel\CG4020	Dmel\CG4020	FarO
+GO:0015321	dmGlut	NaPi-III
+GO:0004159	su(r)
+GO:0004629	norpA
+GO:0018454	scu
+GO:0004622	sws	sws
+GO:0004151	r	r	r
+GO:0004152	Dhod	Dhod	Dhod
+GO:0004153	DhpD	DhpD
+GO:0004155	Dhpr
+GO:0004157	CRMP
+GO:0032795	Octalpha2R
+GO:0032794	Cip4	Rab11	Rab11	Rac1	Cdc42	CG1657	eEFSec
+GO:0071860	Proc
+GO:0071861	Tk	Tk
+GO:0008480	Sardh
+GO:0008486	Aps	Aps
+GO:0008484	Dmel\CG14291	Ids
+GO:0008488	GC	GC
+GO:0070594	FK506-bp1	Chd64
+GO:0015495	VGAT
+GO:1990817	MTPAP
+GO:0000900	heph	elav	Sxl	bam	pum	pum	smg	msi	orb	orb2	orb2	orb2	bgcn	Shmt
+GO:0070026	Gyc88E
+GO:0070025	Gyc88E
+GO:0050353	Dmel\CG4335
+GO:0015250	Eglp4	Eglp2	Prip	Drip	Drip	Drip	Eglp3	Eglp1
+GO:0015252	OtopLc
+GO:0005230	nAChRalpha4	nAChRalpha7	GluRIB	nAChRbeta1	nAChRalpha1	nAChRalpha2	Rdl	nAChRbeta2	Lcch3	Grd	nAChRalpha5	nAChRalpha6	Lcch-47C	GluClalpha	pHCl-2	ort	HisCl1	nAChRbeta3	Ir64a	Dmel\CG7589	Ir75a	Lcch-14A	NtR	Ir8a	Ir8a	nAChRalpha3	Lcch-4D
+GO:0016787	Dmel\CG10474	Gba1b	Gba1b	CG1827	vanin-like	Gba1a	Gba1a	Acyp2	CG3326	Tasp1	CG7860	CG4372	t
+GO:0016782	GstO3	se	GstO2	GstO1
+GO:0016783	CG10189
+GO:0016780	bbc	dCCS3	CG10355
+GO:0015085	Prestin
+GO:0016788	PGAP3	PGAP3	PGAP3	CG30022;CG30023	Dmel\CG32335	Dmel\CG9119
+GO:0008506	CG41087	Slc45-1
+GO:0015075	trpl
+GO:0008157	I-2	I-2	I-2	I-2	ZAP3	ZAP3	ZAP3	ZAP3	ZAP3	CG15217	CG15217	CG15217	CG15217	trx	trx	trx	trx	Nop17l	Nop17l	Nop17l	Nop17l	ec	ec	ec	ec	mars	mars	mars	mars	Sara	Sara	Sara	Sara	PNUTS	PNUTS	PNUTS	PNUTS	Dmel\CG7029	Dmel\CG7029	Dmel\CG7029	Dmel\CG7029	Zasp66	Zasp66	Zasp66	Zasp66	Ppi1	Ppi1	Ppi1	Ppi1	MYPT-75D	CG4639	CG4639	CG4639	CG4639	NiPp1	NiPp1	NiPp1	NiPp1	CG18491	CG18491	CG18491	CG18491	neb	neb	neb	neb	neb	A16	A16	A16	A16	BcDNA:AT31406	Spindly	Spindly	Spindly	Spindly	I-3	I-3	I-3	I-3	I-3	Gbs-70E	Gbs-70E	Gbs-70E	Gbs-70E	Gbs-76A	Gbs-76A	Gbs-76A	Gbs-76A	pico	pico	pico	pico	corolla	corolla	corolla	corolla	PPP1R15	PPP1R15	PPP1R15	PPP1R15
+GO:0015078	VhaPPA1-1	VhaM9.7-b	VhaM9.7-a
+GO:0001872	GNBP3	GNBP3	GNBP3	GNBP1	GNBP1	GNBP1	GNBP2	GNBP2
+GO:0046570	CG11134	CG11134
+GO:0033207	beta4GalNAcTA	beta4GalNAcTB
+GO:0033204	BcDNA:LD45688
+GO:0030882	Npc2h	Npc2e	Npc2a
+GO:0101006	janA	janB	Dmel\CG18662	ocn
+GO:0042071	Lkr
+GO:0051750	Dmel\CG9577
+GO:0062078	TBC1d7
+GO:0019811	DAT
+GO:0038085	Pvr	Pvr
+GO:0042806	lectin-24Db	Fuca
+GO:0071889	yki	gwl	gwl	PlexA
+GO:0016410	Dmel\CG32163
+GO:0034417	Mipp1	Mipp2
+GO:0009019	trmt10c	CG32281	trmt10a
+GO:0071885	Ntmt	Ntmt
+GO:0015923	alpha-Man-IIa
+GO:0035237	CrzR	CrzR	CrzR
+GO:0035242	Dmel\CG32152	Art8	Art3	Art6	Art9	Art1	Art1	Art4	Art4	Art2	Art7
+GO:0017048	Pak	par-6	RacGAP84C	dia	pbl	Spec2	Frl	RhoGAP18B	RhoGAP18B	RhoGAP18B	mbt
+GO:0061749	Blm
+GO:0047485	dre4	sbr	papi
+GO:0033192	CanA1	Pp2B-14D	Pp2B-14D	CanA-14F	CanA-14F
+GO:0002083	Coq2
+GO:0016250	Dmel\CG14291
+GO:0016251	Tbp	Taf4	Taf4	Taf5	Taf5	Taf6	Taf6	Taf12	Taf11	Taf1	Taf1	Taf1	TfIIA-L	TfIIA-S	Trf2	Trf2	e(y)1	Trf	Taf10	Taf7	Taf7	Taf13	Taf13	nht	Taf10b
+GO:0016524	Cirl
+GO:0017128	Dmel\CG9084	scramb1	scramb2	scramb2
+GO:0017125	Rev1	Rev1
+GO:0017124	mim	Abi	cindr	Pak	Pi3K68D	ena	ena	RhoGAP92B	Cbl	Ack
+GO:0047444	NANS
+GO:0001056	CG33005-ORFA	RpIIIC160	RpIII128	RpII18	Rpb12	Rpb5	RpIIIC53	Rpb10	CG5380	Dmel\CG12267	l(2)37Cg	Dmel\CG3756	Rpb8	Sin	lincRNA.S4825	Rcp
+GO:0001054	RpI135	RpI1	RpII18	Rpb12	Rpb5	Rpb10	RpI12	CK01205	l(2)37Cg	Dmel\CG13773	Dmel\CG13773	Dmel\CG3756	Rpb8
+GO:0001055	RpII33	RpII215	RpII140	RpII18	Rpb12	Rpb5	Rpb10	Rpb11	Rpb8
+GO:0050262	Dmel\CG12016
+GO:0004334	Faa
+GO:0003735	mRpL53	mRpL53	mRpS28	mRpS28	RpS28-like	RpS28-like	RpS28-like	RpS14a	RpS14a	RpS14a	RpS14b	RpS14b	RpL39	RpL3	RpL3	RpL15	RpL15	RpL10	RpL10	RpL10	RpS21	RpS21	RpS21	RpL32	RpLP2	RpLP2	RpLP1	RpLP1	RpLP1	RpL4	RpL4	RpL4	tko	tko	tko	tko	tko	RpS26	RpS26	RpS27A	RpS17	RpS17	RpL40	RpL40	RpLP0	RpLP0	RpLP0	RpS6	RpS6	RpS2	RpS2	RpS2	RpL7	RpL7	RpL7	RpL19	RpL19	sta	sta	sta	RpS19a	RpS19a	RpS19a	RpS4	RpS4	RpS4	RpL27A	RpL27A	RpL18A	RpS18	RpL13	RpL13	RpL11	RpL11	RpL11	RpL7A	RpL7A	RpS15Aa	RpS15Aa	RpS15Aa	RpL23	RpL23	RpS25	RpS25	RpL36	RpL36	RpL36	RpL9	RpL9	RpL9	RpL22	RpL22	RpS20	RpS20	RpS20	RpS3A	RpL14	RpL14	RpS9	RpS9	RpS9	RpS12	RpS13	RpS13	RpS13	RpS3	RpS3	RpS3	mRpL34	RpS11	RpS11	RpL29	RpL29	RpS5a	RpS5a	RpS5a	mRpL18	mRpL18	mRpL52	mRpL52	mRpL52	mRpL52	mRpL41	mRpL41	mRpL41	mRpL41	RpS15	RpS15	mRpL42	mRpL42	mRpL42	RpLP0-like	RpS15Ab	RpS15Ab	RpS19b	RpS19b	mRpL27	mRpL27	mRpL27	mRpS21	mRpS21	mRpS21	mRpS23	RpS8	RpS8	RpS8	RpS8	mRpL35	mRpL35	mRpS2	mRpS2	mRpS2	mRpS2	mRpS9	mRpS9	mRpS9	mRpS5	mRpS5	mRpS5	RpS23	RpS23	RpS23	mRpL47	mRpL47	mRpL47	bonsai	bonsai	bonsai	bonsai	RpL41	RpL41	RpL41	mRpL36	mRpL36	mRpL4	mRpL4	mRpL4	mRpL50	RpL8	RpL8	RpL8	RpL31	RpL31	mRpS16	mRpS16	mRpS16	mRpS16	mRpS16	RpL21	RpL21	RpL21	RpL6	RpL6	RpL6	mRpL32	mRpL32	mRpL32	mRpS18C	mRpS18C	mRpS18C	RpS7	RpS28a	RpS28a	RpS28a	mRpS22	mRpS22	mRpS22	mRpS22	mRpS22	mRpS22	mRpS22	mRpS22	RpS10a	RpS10a	RpL34a	RpL27	RpL27	RpS27	RpS27	RpS27	mRpS24	mRpS24	mRpS24	mRpS24	mRpS24	mRpS24	mRpS24	mRpL45	mRpL45	Dmel\CG31156	RpS30	RpS30	mRpL55	mRpL55	mRpL55	mRpL55	mRpS11	mRpS11	mRpS11	mRpS11	mRpS33	mRpS33	mRpL9	mRpL9	mRpL9	mRpS10	mRpS10	RpL10Aa	RpS5b	RpS5b	mRpL11	mRpL11	mRpL11	RpL24-like	RpL24-like	mRpL40	mRpL40	mRpL37	mRpL37	RpS29	RpS29	RpL34b	RpL34b	mRpL19	mRpL19	mRpL19	mRpS18A	mRpS18A	mRpS18A	mRpS18A	mRpL1	mRpL1	mRpS18B	mRpS18B	mRpS18B	RpL30	RpL30	RpL30	mRpL13	mRpL13	mRpL13	RpL24	RpL24	RpL24	RpL7-like	RpL7-like	mRpS7	mRpS7	mRpS7	mRpS7	mRpL51	mRpL51	mRpL51	mRpL51	RpL36A	RpL37A	mRpL28	mRpL28	mRpL28	mRpL24	mRpL24	RpL35A	RpL35A	RpL35A	mRpL44	mRpL44	RpL13A	RpL13A	RpL13A	mRpL15	mRpL15	mRpL15	mRpL10	mRpL10	mRpL10	mRpL10	mRpL48	RpL18	RpL18	mRpL12	mRpL12	mRpL12	mRpL2	mRpL2	mRpL2	RpL10Ab	mRpL20	mRpL20	mRpL20	mRpL39	mRpL39	mRpS31	mRpS31	mRpS34	mRpS34	mRpS26	mRpS26	RpL26	RpL26	RpL26	mRpL21	mRpL21	mRpL21	RpS10b	RpS10b	mRpS14	mRpS14	mRpS14	mRpL22	mRpL22	mRpL22	mRpS30	mRpS30	mRpL3	mRpL3	mRpL3	mRpL3	RpL37a	mRpS25	mRpS25	mRpS25	mRpS25	mRpS25	mRpS25	mRpL38	mRpL38	mRpL49	mRpL49	mRpL49	mRpS6	mRpS6	mRpS6	mRpS6	mRpS6	RpL28	mRpS35	mRpS35	mRpS35	mRpL23	mRpL23	mRpL23	mRpL46	mRpL46	mRpL46	RpL23A	RpL23A	RpL23A	mRpL17	mRpL17	mRpL17	mRpS17	mRpS17	mRpS17	mRpS17	RpL12	RpL12	RpL12	mRpL43	mRpL43	mRpL43	RpL22-like	RpL37b	RpS24	RpS24	RpS16	RpS16	RpS16	mRpS29	mRpS29	mRpS29	mRpS29	mRpL54	mRpL54	mRpL54	RpS28b	RpS28b	RpS28b	RpL17	RpL17	RpL35	RpL35	mRpL30	mRpL30	mRpL33	mRpL33	mRpL14	mRpL14	mRpL16	mRpL16	mRpL16	Dmel\CG14817	RpL38	RpL38	RpL38	RpL5	RpL5	RpL5
+GO:0003730	heph	apt	Dcr-2	Unr	Imp	Rbfox1	how	how	ssx	bcd	Sxl	Sxl	pAbp	pAbp	pAbp	bam	stau	stau	pum	pum	pum	pum	pum	Tis11	Tis11	Hrb27C	Hrb27C	Hrb27C	sqd	sqd	smg	smg	smg	bol	D	Dp1	bru1	bru1	bru1	brat	shep	TBPH	Fmr1	Cpsf160	orb	Rbp4	Rbp4	rump	rump	rump	bsf	Sbp2	orb2	orb2	orb2	orb2	Vps36	Dmel\CG7804	CG9705	cg4612
+GO:0031683	Galphao	Galphai	Galphas	Galphaq	cta	Galphaf	14	14
+GO:0005249	KCNQ	Elk	Elk	Shawl	Hk	Hk	Sh	Sh	Sh	Shab	Shab	Shal	Shal	Shaw	Shaw	eag	eag	eag	sei	sei	CT18477
+GO:0004333	Fum4	Fum3	Fum3	Fum2	Fum2	Fum1
+GO:0004965	GABA-B-R2	GABA-B-R2	GABA-B-R2	GABA-B-R1	GABA-B-R1	GABA-B-R1	GABA-B-R3	GABA-B-R3
+GO:0035236	Proc-R	Proc-R
+GO:0004033	Hk
+GO:0061630	Dmel\CG18605	Dmel\CG6923	Neurl4	anon-EST:GressD1	tn	Herc4	Herc4	Hakai	Dmel\CG15412	ari-2	Pli	sina	eff	neur	neur	neur	neur	msl-2	msl-2	msl-2	hyd	gol	gol	dx	fzy	Diap1	Diap1	Diap1	Diap1	Diap2	Diap2	Diap2	Diap2	Cul1	Cul4	CG12339	Roc2	Roc2	Roc2	POSH	lmgA	lmgA	Trc8	park	park	Skp2	Cul3	LUBEL	Dmel\CG32847	Dmel\CG32581	brat	Slip1	sinah	ari-1	ari-1	ari-1	sip3	sip3	sip3	Cdc23	Roc1b	Roc1b	Roc1b	wech	APC10	Smurf	Smurf	Smurf	Topors	Cul2	Dmel\CG2218	Cul5	Dmel\CG5003	Cdc16	CG7694	BcDNA:AT26376	Dmel\CG11982	godzilla	godzilla	anon-WO0118547.373	dgrn	Dmel\CG4238	Cdc27	Cbl	Cbl	Cbl	AAN11912.1	Ube3a	FBgn0036324	CUL6	mib1	Nedd4	Nedd4	Ltn1	Dmel\CG15814	Ubr1	Dmel\CG8974	shtd	shtd	ida	ida	CG9197	mr	Dmel\CG42797	Dmel\CG42797	Ubr3	Ubr3	APC7	fzr	EG:100G10.2	Roc1a	Roc1a	Roc1a	STUB1	Su(dx)	URE-B1
+GO:0061631	Bruce	Bruce	BcDNA:GH28095	Ubc6	Ubc6	eff	eff	eff	eff	ben	ben	Ubc2	Ubc4	Ubc84D	NICE5	UbcE2H	Ubc10	Ubc10	Dmel\CG40045	Dmel\CG10862	Dmel\CG5823	Ubc87F	Dmel\CG14739	BcDNA:AT16033	CG4502	Dmel\CG5440	Uev1A	Uev1A	Dmel\CG5087	vih	vih	Dmel\CG7656	CG8188	Ubc7	Dmel\CG2574	Dmel\CG17030	Dmel\CG3356	Dmel\CG10254	morgue
+GO:0035243	csul	CG17726	Art7
+GO:0042500	SppL	SppL	Spp	Spp	Spp
+GO:0005242	Irk1	Irk1	Irk2	Irk2	Irk3	Irk3
+GO:0022857	Bmcp	Oatp26F	frc	aralar1	aralar1	Dmel\CG14511	Dmel\CG5646	meigo	sll	nac	Oatp33Eb	Oatp33Eb	Oatp33Ea	Oatp30B	Oatp30B	CG14621	Papst2	Oatp74D	Shawn	Dmel\CG14971	Oatp58Dc	Oatp58Db	Oatp58Da	Efr
+GO:0022851	Rdl	Lcch3	Grd
+GO:0022852	Grd	Lcch-47C	Dmel\CG7589
+GO:0008106	ARY	ESTS:34F4T	Dmel\CG9436	Dmel\CG2767	Dmel\CG6083	anon-WO0172774.89	Dmel\CG12766	AKR2E3
+GO:0004497	Fmo-2	Fmo-1
+GO:0004496	CG16804	CG16804	CG16804
+GO:0004491	CG17896	CG17896	CG17896
+GO:0008108	Galt	Galt
+GO:0031267	CG11448	Sec71	Rbsn-5
+GO:0031593	clone 2.45	Rpn10	Rpn10	TER94	BcDNA:GH26112	Rad23	Rad23	Dmel\CG10694	Dmel\CG3223	Ubqn
+GO:0004367	Gpo2	Gpdh	Gpo1	Gpo3	Gpdh3
+GO:0005549	Obp46a	Obp46a	Obp47a	Obp47a	Obp47a	Obp47b	Obp47b	Obp50a	Obp50a	Obp50b	Obp50b	Obp50c	Obp50c	Obp50d	Obp50d	Obp50e	Obp50e	Obp56b	Obp56b	Obp56b	Obp56c	Obp56c	Obp56c	Obp56g	Obp56g	Obp56g	lush	lush	lush	Or2a	Obp69a	Obp69a	Obp19d	Obp19d	Obp83a	Obp83a	Obp84a	Obp84a	Obp28a	Obp28a	Or22a	Or22b	Or22c	Or23a	Or24a	Or33a	Or33b	Or33c	Or43a	Or43a	Or43b	Or47a	Or47b	Or59a	Or65a	Or65b	Or65c	Or69a	Or82a	Obp83b	Obp83b	Obp56i	Obp56i	Obp56i	Obp49a	Obp49a	Obp44a	Obp44a	Obp56e	Obp56e	Obp56e	Obp56f	Obp56f	Obp56f	Obp51a	Obp51a	Obp51a	Obp73a	Obp59a	Obp59a	Or19b	Obp57b	Obp57b	Obp57b	Obp57b	Obp57a	Obp57a	Obp57a	Obp57a	Obp57d	Obp57d	Obp57d	Obp57d	Obp22a	Obp22a	Obp83g	Obp83g	Obp83g	Obp56d	Obp56d	Obp56d	Obp56d	Or19a	Or46a	Or35a	Or45a	Or45b	Or49a	Or49b	Obp56a	Obp56a	Obp56a	Obp56a	Or56a	Obp56h	Obp56h	Obp56h	Obp56h	Obp57c	Obp57c	Obp57c	Obp57c	Obp57e	Obp57e	Obp57e	Obp57e	Or42a	Or42b	Obp99b	Obp99b	Obp99b	Obp99b	Obp99d	Obp99d	Obp99c	Obp99c	Obp99a	Obp99a	Obp99a	Obp99a	Or98b	Or98a	Or94b	Or94a	Obp93a	Obp93a	Or92a	Or88a	Or85f	Or85d	Or85c	Or85b	Or85b	Or85a	Or30a	Or83a	Orco	Orco	Orco	Or83c	Obp83cd	Obp83cd	Obp83cd	Obp83ef	Obp83ef	Obp83ef	Obp19a	Obp19a	Obp19a	Obp19a	Obp19b	Obp19b	Obp19b	Obp19c	Obp19c	Obp19c	Or67a	Or67a	Or67b	Or67c	Or67d	Or71a	Or74a	Obp18a	Obp18a	Obp18a	Or13a	Or10a	Or63a	Or59c	Or59b	Obp58d	Obp58d	Obp58c	Obp58c	Obp58b	Obp58b	Or9a	Obp8a	Obp8a	Or7a	Or1a
+GO:0004365	Gapdh1	Gapdh1	Gapdh2	Gapdh2	anon-WO0140519.132	anon-WO0140519.132
+GO:0004364	GstT2	GstT2	GstE3	GstE3	GstE4	GstE4	GstE5	GstE5	GstE6	GstE6	GstE7	GstE7	GstE8	GstE8	GstD11	GstD11	GstT3	GstT3	GstD1	GstD1	GstD1	GstD1	GstS1	GstS1	GstE10	GstE10	gfzf	gfzf	GstE13	GstE13	GstE11	GstE11	GstE14	GstE14	GstE2	GstE2	GstT1	GstT1	GstE9	GstE9	GstE1	GstE1	GstT4	Mgstl	Mgstl	GstD8	GstD8	GstD7	GstD7	GstD7	GstD6	GstD6	GstD5	GstD5	GstD4	GstD4	GstD3	GstD3	GstD2	GstD2	GstD2	GstD2	GstD9	GstD9	GstD9	GstD10	GstD10	GstD10	GstZ2	GstZ2	GstZ1	GstZ1	GstO3	se	GstO2	GstO2	GstO1	GstE12	GstE12	Dmel\CG33178
+GO:0004815	AspRS	AspRS	AspRS-m
+GO:0004362	Trxr-1	Grx1	Grx1t
+GO:0004817	CysRS-m	CysRS-m	CysRS	CysRS	CysRS
+GO:0004360	Gfat1	Gfat2
+GO:0030621	Snup	msk	U4-U6-60K	U4-U6-60K
+GO:0004818	GluProRS	GluRS-m	GluRS-m
+GO:0030623	Prp8	Snu114
+GO:0005543	mim	Synd	Synd	Cip4	FER	rpr	FCHo	FCHo	Nup62	Pi3K68D	Amph	Amph	IRSp53	EndoB	EndoA	EndoA	GLE1	CenB1A	RhoGAP92B	Arfip	Arfip	l(2)gd1	Nup35	snz	nwk	Nost	Graf	PICK1	PICK1
+GO:0005544	Esyt2	Esyt2	Sytalpha	Sytalpha	Sytalpha	Syt1	Syt1	Syt1	Syt1	AnxB9	AnxB10	PsGEF	Syt4	Syt4	Syt7	Syt7	Syt7	Sytbeta	Sytbeta	AnxB11	Syt12	Syt12	Rph
+GO:0005545	lap	lap
+GO:0005546	bnk	Moe	dia	beta-Spec	Myo31DF	Myo61F	Myd88	SH3PX1	Sin1	lap	Exo70	Abp1	Sec3	Sec3	nwk
+GO:0004368	Gpo2	Gpo2	Gpo1	Gpo1	Gpo3
+GO:0004561	ESTS:172F5T
+GO:0003810	Tg
+GO:0004563	fdl
+GO:0004565	Ect3	Gal	Gal
+GO:0004567	beta-Man	beta-Man
+GO:0004115	Pde1c	Pde1c	Pde8	Pde11	Pde11	Pde11	dnc	dnc
+GO:0004568	Cht6	LysD	Idgf6	Cht12	Cht5	Cht5	Cht7	Cht2	Cht2	Cht9	Cht9	Cht4	Cht4	Cht8	Cht11	Cht10	Cht10
+GO:0008079	eRF3
+GO:0051119	slv	slv	Dmel\CG7272	Dmel\CG7272
+GO:0008073	Oda	Oda
+GO:0051117	Vha100-3	SK[[66]]	Vha100-2	Vha100-4	Vha100-5	Dmel\CG5045	Vha100-1
+GO:0004383	Dmel\CG33958	Dmel\CG33958	CG9783	CG9783	Gycalpha99B	Gycalpha99B	Gycalpha99B	Gyc32E	Gyc32E	Gyc32E	Gyc76C	Gyc76C	Gyc76C	Gyc76C	Gyc88E	Gyc88E	Gyc88E	Gyc88E	Gyc88E	Gyc88E	GYC	GYC	GYC	Gycbeta100B	Gycbeta100B	Gyc89Db	Gyc89Db	Gyc89Db	Gyc89Db	Gyc89Da	Gyc89Da	Gyc89Da	CG4224	CG4224	CG4224	GYC	GYC	GYC
+GO:0004382	NTPase	Dmel\CG5276
+GO:0004385	sdt	sdt	dlg1	dlg1	Dmel\CG11811
+GO:0004386	Dcr-2	Chd3	mus308	mus308	kz	Mi-2	mle	hay	hay	Dmel\CG7878	Chd1	Chd1	Rhau	CG6994	abs	RecQ5	tst	spn-E	obe	Blm	cg4901	Ddx1	Dbp21E2	Dmel\CG3225	mus301	RecQ4	Q9VT19	DmRH27	CG14198	Dmel\CG8915	Dmel\CG1582	bgcn	CG14443	Dmel\CG11403
+GO:0001517	Dmel\CG31637	d6ST2
+GO:0016891	RNaseZ	zuc
+GO:0004112	pn
+GO:0046961	Vha36-2	Vha36-2	Vha16-4	Vha16-4	Vha100-3	Vha100-3	ATPsyngamma	Vha16-1	Vha16-1	Vha55	Vha55	Vha55	Vha68-1	Vha26	ATPsynbeta	Vha14-1	Vha68-2	Vha68-2	VhaAC45	Vha16-3	Vha16-3	ATPsynbetaL	Vha36-3	Vha36-3	VhaSFD	Vha36-1	Vha36-1	Vha44	Vha44	VhaAC39-2	VhaAC39-2	Vha100-2	Vha100-2	Vha100-2	Vha100-4	Vha100-4	VhaM9.7-d	VhaPPA1-1	VhaPPA1-1	VhaPPA1-2	VhaPPA1-2	Vha68-3	Vha68-3	Vha100-5	Vha100-5	Vha16-5	Vha16-5	VhaM9.7-b	VhaM9.7-b	Vha16-2	Vha16-2	VhaM9.7-c	VhaAC39-1	VhaAC39-1	Vha100-1	Vha100-1	Vha13
+GO:0050509	ttv	ttv	sotv	sotv
+GO:0046969	Sirt1
+GO:0000014	mei-9	Dmel\CG12917	EndoG	Ercc1	Ercc1	Dmel\CG33346	Tengl1	Tengl2	Sid	Dmel\CG14062	Tengl4	Tengl3	Dmel\CG14120	Dmel\CG14118	Dmel\CG6839	CT12789	rad50
+GO:0004705	bsk	bsk	bsk	bsk	bsk	bsk	bsk
+GO:0004707	p38b	p38b	p38b	p38a	p38a	p38a	p38a	p38a	rl	rl	rl	rl	rl	rl	rl	rl	p38c	p38c	p38c	bsk	bsk	Erk7
+GO:0005381	Mvl	Mvl	Zip99C	mfrn	mfrn
+GO:0004703	babo	AMPKalpha	Gprk1	Gprk2
+GO:0005385	Zip42C.2	Zip42C.2	Zip42C.2	Zip71B	Zip71B	Trpm	ZnT63C	Zip42C.1	Zip42C.1	Zip42C.1	Zip48C	ZnT41F	ZnT41F	ZnT41F	Catsup	Catsup	ZnT35C	ZnT35C	Zip99C	Zip99C	Zip89B	Zip89B	Zip88E	ZnT86D	ZnT33D	ZnT33D	ZnT33D	ZnT77C	foi	foi	foi
+GO:0005388	alphalike	CG3701	SPoCk	SPoCk	Ca-P60A	Ca-P60A	rdgB	PMCA
+GO:0004709	Raf	Raf	Tao	Mekk1	Tak1	Tak1	Ask1	Ask1
+GO:0004708	Mkk4	Mkk4	lic	lic	lic	lic	hep	hep	Dsor1	Dsor1	Dsor1	Dsor1
+GO:0018025	Dmel\CG10947
+GO:0004032	ARY	ESTS:34F4T	Dmel\CG9436	Dmel\CG9436	Dmel\CG2767	Dmel\CG2767	Dmel\CG6083	Dmel\CG6083	anon-WO0172774.89	anon-WO0172774.89	Dmel\CG12766	Dmel\CG12766	AKR2E3
+GO:0004031	AOX2	AOX4	AOX3
+GO:0004035	Alp1	Alp1	Alp4	Alp6	Alp5	Alp13	phu	Alp12	Alp10	Alp9	Alp11	Alp8	Alp2	Alp2	Alp7
+GO:0003938	ras	ras
+GO:0034039	Ogg1
+GO:0008255	Hug	ETH	ETH
+GO:0003934	Pu	Pu	Pu	Pu
+GO:0008253	45551045	veil	NT5E-2	28575006	CG6247	cN-IIIB	cN-IIIB
+GO:0008252	cN-IIIB
+GO:0008251	Adar	Adat1	Adat1
+GO:0051020	Whamy	wash	Sec12	Vps8	GAPsec	Frl	Rok
+GO:0080023	Mfe2
+GO:0080025	Atg18a	Hip1	Dmel\CG11975	Atg18b	Trpml
+GO:0015319	NaPi-III
+GO:0000703	Dmel\CG5285	NTH1
+GO:0004639	ade5	ade5
+GO:0004638	ade5
+GO:0018445	Ptth	Ptth
+GO:0004149	alpha-KGDHC
+GO:0004148	E3
+GO:0004631	CG10268	CG10268	CG10268
+GO:0004630	Pld
+GO:0004633	Ppcdc
+GO:0004632	Ppcs
+GO:0004143	CG5875	CG5875	CG5875	CG34384	CG34384	CG34384	CG34384	Dgk	Dgk	Dgk	rdgA	rdgA	rdgA	rdgA	rdgA	Dgkepsilon	Dgkepsilon	Dgkepsilon	Sk1	Sk2
+GO:0004142	bbc
+GO:0004637	ade3	ade3
+GO:0004140	Dpck	Dpck	Ppat-Dpck	Ppat-Dpck
+GO:0032813	egr	egr
+GO:0031418	sud1
+GO:0008494	bol	P32	Dmel\CG8963	Dmel\CG13124	orb2
+GO:0008499	Dmel\CG30036	Dmel\CG30037	GalT1	GalT4	dbeta3GnT
+GO:0008650	CG11447	Dmel\CG8939
+GO:0008656	Dark	Dark	Dredd
+GO:0010436	ninaB	ninaB
+GO:0046933	ATPsyngamma	ATPsynE	mt:ATPase6	mt:ATPase6	mt:ATPase6	blw	blw	ATPsynbeta	ATPsynD	ATPsynD	ATPsynO	ATPsynC	ATPsynC	ATPsynbetaL	ATPsynB	ATPsynB	ATPsynepsilonL	ATPsynG	ATPsynG	ATPsynGL	ATPsynGL	Dmel\CG17300	sun	ATPsyndelta	ATPsyndelta
+GO:0008276	csul	Dmel\CG10584	HemK2
+GO:0019001	gammaTub23C
+GO:0015267	Eglp4	Eglp2	Prip	bib	AQP	CG31722-B	Eglp3	Eglp1
+GO:0050321	par-1	par-1	par-1	lok	KP78a	KP78b	sff
+GO:0046981	brn	brn
+GO:0046983	msl-1	ari-1	PGRP-LC	PGRP-LC	phtf	CSN6	Atg101	STUB1
+GO:0046982	Sin3A	maf-S	GABA-B-R2	ss	tHMG2	et	et	Mnt	Mnt	tgo	tgo	tgo	tgo	tgo	scb	scb	hth	Ten-m	cyc	cyc	cyc	Clk	Clk	Clk	E2f2	sim	per	per	per	dpp	l(1)sc	l(1)sc	l(1)sc	l(1)sc	l(1)sc	ase	ac	ac	ac	sc	sc	sc	sc	lab	twi	da	da	da	da	da	da	da	da	da	da	da	da	da	da	da	da	da	da	mys	mys	mys	if	E(spl)m5-HLH	E(spl)	svp	Jra	emc	emc	emc	emc	emc	trp	usp	usp	usp	cnc	kay	oc	DNApol-alpha180	14-3-3zeta	Gbeta76C	ftz-f1	ftz-f1	EcR	EcR	EcR	exd	exd	tx	cpb	ato	trpl	tim	tim	tim	Hr38	pnr	Gsc	scw	Max	14-3-3epsilon	Ssrp	Ssrp	Trl	HLH54F	Irbp	Bro	Bgb	mei-9	trh	mew	e(y)1	drl	drl	Itgbn	Gpb5	Gpa2	otk	Drl-2	Drl-2	otk2	RagC-D	SMC2	Ercc1	Gyc88E	Gyc88E	Gyc88E	dre4	dre4	Buffy	Ggamma30A	spt4	glu	GABA-B-R1	trbl	dnt	dnt	Chrac-14	Chrac-16	Spt5	ItgaPS4	Debcl	DNApol-alpha73	dysf	dysf	dysf	REPTOR	SMC1	tHMG1	Burs	Gyc89Db	Gyc89Db	Gyc89Da	Task6	Task7	Ibf1	Ibf2	RagA-B	Mondo	nht	Pburs	Rab3-GAP	REPTOR-BP	Saf6	Taf12L	APP-BP1	dome	dome	SMC3	gce	Ten-a	Met	Met	ItgaPS5	cpa	amos
+GO:0015269	SLO2	slo	slo	slo	slo	slo	slo	slo
+GO:0046987	GlcAT-S	GlcAT-P
+GO:0019778	Atg7	Atg7
+GO:0019779	Atg7	Atg7	Atg7
+GO:0016791	Mppe	Phos10352	wun2	Dmel\CG12746	Dmel\CG5577	CG2077	wun	wun	CG13604	CG13604	Dmel\CG17294	LPP-like	Css1beta	LPP-like	LPP-like	laza	aay	Dmel\CG5567	Mkp3	Ssu72	MKP-4	17945012	17945012	24656330	Sac1	Phos11291	EG:100G10.4	EG:100G10.4
+GO:0070273	ptc	Gprk2	smo	Arfip	sau	sau	sau	cert	cert
+GO:0019955	Imp	Tl	Tl	Tl
+GO:0019776	Atg16	Atg12	Atg12	Atg3	Atg3	Atg5	Atg5
+GO:0019777	Atg10
+GO:0045503	Dhc93AB	Dmel\CG9313	DHC3B	kl-3	Dnai2	Dhc64C	btv	DHC5	sw	sw	sw	sw	sw	sw	sw	sw	sw	sw	kl-2	Dmel\CG15701	Dhc62B	Sdic2	Sdic3	Dhc98D	Dhc36C	Dmel\CG10859	Dmel\CG14651	Dmel\CG14838	Dmel\CG13074	Dhc16F	Dnah3	Dmel\CG13930	Dic61B	Dmel\CG1571	Sdic1	Sdic3-RB	Sdic4
+GO:0045504	Dmel\CG9313	Dmel\CG8800	Dnai2	sw	sw	Dmel\CG15701	Sdic2	Sdic3	Dmel\CG10839	CG6971	CG6971	Dmel\CG10859	Dmel\CG3769	Dmel\CG3769	Dmel\CG14838	Dmel\CG13074	Dlic	Dlic	Dmel\CG13930	Dic61B	Dmel\CG1571	Sdic1	Sdic3-RB	Sdic4
+GO:0045505	Dhc93AB	DHC3B	Dmel\CG8407	kl-3	Cdlc2	DCTN1-p150	Dhc64C	Dhc64C	btv	DHC5	ctp	ctp	Dmel\CG10822	kl-2	robls54B	Ubx	robl	robl	Dmel\CG7276	Dhc62B	HEATR2	HEATR2	Dlc90F	Dmel\CG10834	Dhc98D	Dmel\CG5359	robl37BC	robl37BC	Dhc36C	Dmel\CG14651	robl22E	robl22E	Dhc16F	Dnah3	robl62A	robl62A	Dmel\CG16837
+GO:0032561	atl
+GO:0050038	Dmel\CG7322	Dmel\CG7322
+GO:0016667	GILT2
+GO:0033743	SelR	SelR	SelR	SelR
+GO:0042043	Nrx-1	Nlg4	Spn	CASK	Gli	Nlg2	Nlg2	Nlg3	Nlg1	Dmel\CG10339
+GO:0072345	Trpml
+GO:0070300	rdgB	dsh	baz	Ttd14	sau
+GO:0016085	AstC
+GO:0016084	Capa	Hug
+GO:0003921	bur
+GO:0005049	Ranbp16	Ranbp16	emb	Ranbp21	Cse1
+GO:0033699	CG5316
+GO:0016405	mdcds_23070	FACL	e	Dmel\CG11453	Dmel\CG11407	Dmel\CG11391	Dmel\CG11659	Dmel\CG6300	Dmel\CG4830	Dmel\CG12512	Dmel\CG5568	Dmel\CG4563	Dmel\CG9993	Dmel\CG17999
+GO:0016407	Elp3	eco	eco	Dmel\CG5599	Dmel\CG2938
+GO:0016403	Dmel\CG1764
+GO:0016402	LCAD	Dmel\CG17544
+GO:0035800	Asx	bur
+GO:0016409	p16	Dmel\CG5880	por	rasp	rasp	rasp
+GO:0034338	Hydr1	Est-6	Hydr2
+GO:0003676	cg11478	mbl	gfzf	Surf6	Dmel\CG10576	hang	vir	vir
+GO:0035755	zuc
+GO:0061750	CG3376-RA	alphaSmase	Dmel\CG15533
+GO:0030983	CG5316
+GO:0042302	resilin
+GO:0097200	Drice	Dcp-1
+GO:0038187	GNBP1	GNBP1	PGRP-SA
+GO:0016538	CycH	CycT	CycT	CycT	CycA	CycA	CycA	CycB	CycB	CycC	CycC	CycE	CycE	CycD	CycD	CycG	CycG	CycK	CycB3	koko	CycY	CycJ	CycJ	anon-WO03040301.211
+GO:0016247	CG17793	inaF-D	inaF-A	CheB42a	inaF-C	stg1	stg1	CG9600
+GO:0033188	SMSr	SMSr
+GO:0016532	Ccs	Ccs
+GO:0017118	CG8446-RB
+GO:0050699	comm	comm	Dys	Ndfip	Ndfip	Su(dx)
+GO:0017116	RecQ5	RecQ5
+GO:0061133	Rpn13	Rpn13	Elp2	REG	REG	Rpn13R
+GO:0017111	Dmel\CG5276	CG11126
+GO:0017112	Dmel\CG1116	anon-WO0118547.145	anon-WO0118547.145	Trs31	Trs31	spri	Rich	Rich	Rich	Bet5	Bet5	ca	SIDL	Sbf	Sbf	brun	Rab3-GAP	Trs23	Trs23	strat	Als2	Als2	Mon1	Bet3	Bet3	Rab3-GEF	Rab3-GEF	CG1657	Ccz1	pns	Rabex-5	Rabex-5	Crag	Dmel\CG3309
+GO:0017113	su(r)	su(r)
+GO:0001042	Tif-IA
+GO:0001047	usp	Tbp	EcR	Hr38	Trf2	Pbp49	Pbp45	NC2beta	NC2beta	NC2alpha
+GO:0001046	MESR3	Trl	ewg	Trf	Brf	Dmel\CG5694
+GO:1904680	yin	Dmel\CG9444	CG32787
+GO:0047617	Dmel\CG1635	Dmel\CG1635	Dmel\CG1774	Dmel\CG1774	Dmel\CG1638	Dmel\CG13771	Dmel\CG16986	Dmel\CG16986	BcDNA:RE30174	BcDNA:RE30174
+GO:0003700	Rfx	shn	shn	rib	Dmel\CG10321	apt	Dmel\CG9727	Alh	Alh	Alh	Dmel\CG3328	maf-S	maf-S	gem	13204	MESR4	Dmel\CG15073	cg	Dmel\CG10274	MTF-1	Dmel\CG4820	NFAT	Dmel\CG9650	Camta	rgr	CG31372	Mnt	Blimp-1	Dmel\CG10654	tj	TfAP-2	CG15376	Sp1	Sp1	tgo	tgo	tgo	tgo	tgo	Ptx1	hth	E2f2	Dmel\CG17829	ken	ken	Myb	hb	hb	sim	eve	Kr	sna	Kr-h1	bcd	bcd	cad	cad	Abd-B	zen	l(1)sc	l(1)sc	ase	ac	ac	sc	sc	kni	da	da	grh	grh	E(spl)m5-HLH	E(spl)m7-HLH	ems	emc	Dll	Tbp	Cf2	cnc	cnc	su(sable)	tin	slou	vnd	bap	Hsf	Hsf	run	nau	odd	acj6	abd-A	pros	pros	pros	pros	CrebA	sd	pb	gt	opa	opa	exd	stc	E(z)	E(z)	pnr	srp	srp	caup	Max	Max	Dif	E(spl)m3-HLH	E(spl)mbeta-HLH	E(spl)mbeta-HLH	E(spl)mgamma-HLH	E(spl)mgamma-HLH	E(spl)mdelta-HLH	bsh	bsh	Trf2	Trf2	Trf2	Trl	trh	trh	ab	Deaf1	Deaf1	btd	btd	Pcl	Pcl	Pcl	Pcl	D	D	retn	dpn	so	E2f1	E2f1	E2f1	gcm	Trf	unpg	Dmel\CG8388	CG8324	Dmel\CG14667	CoRest	CG12648	az2	CG5098	Dlip3	Dlip3	Dmel\CG12391	ind	cas	scro	CG31372	lola	TFAM	ham	pan	fru	fru	fru	Dmel\CG31627	Dmel\CG31875	Awh	Dmel\CG1602	Dmel\CG17802	Dmel\CG17802	Dmel\CG11906	CG4639	anon-84Eb	anon-84Eb	Dmel\CG4282	Dref	foxo	foxo	EG:95B7.7	lmd	lmd	Dmel\CG18764	HGTX	crp	phtf	Dmel\CG1792	Dmel\CG12071	bigmax	dysf	dysf	dysf	Dmel\CG11902	Dmel\CG10669	dan	danr	HHEX	Dmel\CG4936	Dmel\CG4854	Dmel\CG4424	Dmel\CG7691	Dmel\CG17806	Dmel\CG17806	Dmel\CG17803	NK7.1	87A7-9	fer3	CG17822	Dmel\CG14711	CG17722	CG5135	cwo	cwo	Dmel\CG8319	Dmel\CG16779	sage	M1BP	ranshi	Dmel\CG8159	Ouib	Ouib	Ouib	nom	Dmel\CG7963	Taf7	crc	Mondo	Dmel\CG10462	DS02740.8	DS02740.8	wor	wor	Hand	gcm2	dsf	mia	net	lilli	lilli	lilli	lilli	Dmel\CG17612	D19B	D19A	Dmel\CG7386	Dmel\CG10147	eyg	Dmel\CG17359	Dmel\CG7372	RAF2	l(3)73Ah	zld	Dmel\CG12609	Dmel\CG9215	gce	Dmel\CG4318	Dmel\CG11695	Dmel\CG11696	sisA	Dmel\CG2202	Dmel\CG2202	dar1	bab2	bab1	hng3	Kah	Dmel\CG4707	dve	dve	Dmel\CG2889	lz	lz	org-1	Dmel\CG18262	Dmel\CG10959	Dmel\CG10959	Dmel\CG2116	Dmel\CG3032	Nf-YC	Dmel\CG12219	Vsx1	CG5113	peb	Myc	brk	Nulp1	Nulp1	Vsx2
+GO:0003707	dsf
+GO:0035591	ckn	Myd88	wek
+GO:0097110	stnB	Tnks	Sar1
+GO:0035598	CG6550
+GO:0043295	gfzf	Gss2	GstO2
+GO:0004952	Dop1R1	Dop1R2
+GO:0047804	Dmel\CG6950
+GO:0061629	Su(H)	lilli
+GO:0030506	beta-Spec	nompC
+GO:0072354	Haspin	Haspin
+GO:0052856	Naxe
+GO:0052857	Naxe
+GO:0008098	La
+GO:0043121	kek6
+GO:0048763	Stim	RyR
+GO:0005212	Crys
+GO:0005154	dlg1	grk	grk	aos	aos	spi	spi	spi	spi	drk	drk	vn	vn	Shc	Shc	kek1	kek1	kek1	ed
+GO:0005159	chico
+GO:0005158	Ilp8	Ilp5	Ilp5	poly	dock	Ilp1	Ilp1	Ilp2	Ilp2	Ilp3	Ilp3	Ilp4	Ilp4	Ilp7	Ilp7	Ilp6	Ilp6	chico	chico	chico	chico
+GO:0070878	pasha
+GO:0045182	bcd	eIF4E1	eIF4E1	msi	brat	Fmr1	Fmr1	cup	Dmel\CG13458	Thor	Thor
+GO:0004108	Dmel\CG14740	Dmel\CG14740	kdn	kdn	kdn
+GO:0004824	LysRS	LysRS
+GO:0004825	MetRS	MetRS	Aats-met-m	Aats-met-m	Aats-met-m
+GO:0004826	PheRS-m	PheRS-m	PheRS-m	PheRS-m	beta-PheRS	beta-PheRS	beta-PheRS	alpha-PheRS	alpha-PheRS	alpha-PheRS
+GO:0004827	GluProRS	GluProRS	ProRS-m	ProRS-m
+GO:0030618	Mad
+GO:0030619	sm	Prp8	Snup	snRNP-U1-70K	snf	snf	snf	msk
+GO:0004822	IleRS	IleRS	IleRS-m	IleRS-m
+GO:0004823	LeuRS	LeuRS	LeuRS-m	LeuRS-m	LeuRS-m
+GO:0030616	Med
+GO:0030617	Dad	Dad	Dad
+GO:0004828	SerRS-m	SerRS-m	SerRS-m	SerRS	SerRS
+GO:0004829	ThrRS	ThrRS
+GO:0005550	Obp69a	Obp19d	Obp19d	Obp83a	Obp84a	Obp28a
+GO:0004555	Dmel\CG16965	Treh	Treh
+GO:0004556	Amy-p	Amy-d
+GO:0004557	CT24026	Dmel\CG5731
+GO:0004550	Dmel\CG5757	awd	awd	awd	awd	awd	awd	awd	Scsalpha1	Scsalpha2	nmdyn-D7	nmdyn-D6
+GO:0004552	Fdh
+GO:0004553	tobi
+GO:0004559	alpha-Man-IIa	LManII	LManII	alpha-Man-IIb	LManI	LManVI	LManV	LManIV	LManIII	Dmel\CG14015
+GO:0098599	Ppt2	Ppt1
+GO:0043874	CG12173
+GO:0035259	Hr38
+GO:0045295	Apc	Apc2
+GO:0016309	PIP4K	PIP4K
+GO:0044877	Syx17	Rab11	Rab7	His2B	Su(var)205	His2Av	Slh	Vps28	Spt5	Rab9	kug
+GO:0016887	Kat60	Khc-73	Klp54D	Trap1	Mlh1	Pex6	Pms2	unc-104	Dcr-2	cos	Rpt6	mus308	Torsin	Hsp68	Mi-2	Mi-2	Hsp70Ab	Hsc70-2	Hsc70-4	Khc	nod	ncd	brm	Hsc70-1	Hsc70-3	Hsc70-5	blw	comt	comt	Klp61F	Klp68D	Rpt2	Nsf2	Nsf2	Nsf2	Hsp70Aa	ATPsynCf6	kat-60L1	CG1598	FBgn 33734	SMC2	Rpt1	TER94	Kif19A	CG32318-PA	spas	spas	CG9931	Hsp70Ba	SMC5	Dmel\CG12010	Ns1	CG1354	Klp10A	Hsp70Bc	Hsp70Bb	XNP	dom	glu	Dmel\CG10793	Rpt5	Rpt3	Kif3C	sub	Rpt6R	Klp98A	Ino80	rec	Hsp70Bbb	ATPsynepsilonL	Rpt3R	neb	Dmel\CG5776	cana	cmet	Klp31E	CG3326	Klp64D	smid	Dmel\CG7182	Klp67A	Rpt4R	Pex1	sun	ATPsynCF6L	pav	CG4692	Klp59D	Klp59C	Rpt4	Spg7	Klp3A	Vps4	Vps4
+GO:0016889	mei-W68
+GO:0061929	Tina-1	CG2811
+GO:0031473	inaD
+GO:0004794	Srr
+GO:0000026	PIG-Z
+GO:0004739	Pdhb	Pdha
+GO:0004731	Dmel\CG16758	Dmel\CG18128
+GO:0004732	AOX1	AOX1
+GO:0004733	CG2649	sgll	sgll	Dmel\CG15343
+GO:0004734	se	se	se
+GO:0004736	PCB	PCB	PCB
+GO:0005391	JYalpha	JYalpha	nrv3	Atpalpha	Atpalpha	Atpalpha	Atpalpha	Atpalpha	nrv1	nrv1	nrv2	nrv2	CG15274	Dmel\CG11703	Dmel\CG5250
+GO:0005395	w
+GO:0035252	rumi	CG17138
+GO:0035251	rumi	rumi	CG17138	CG17138
+GO:0004046	Dmel\CG17110	Dmel\CG6465	Dmel\CG6738	Dmel\CG6733	Dmel\CG17109	Dmel\CG6726
+GO:0005548	Mtp	ScpX	Dmel\CG6565
+GO:0004044	Prat	Prat
+GO:0035250	beta3GalTII	RE126B2	Dmel\CG12910	Dmel\CG9395	Dmel\CG12715
+GO:1905773	Blm
+GO:0004043	Dmel\CG9629
+GO:0004040	PGRP-LB
+GO:0030628	U2af50	U2af38	Slu7	Dmel\CG3294	LS2
+GO:0018833	GstD1
+GO:0048019	aos	aos
+GO:0048018	pyr	RYa	wg	wg	wg	wg	Dl	boss	boss	tsl	fog	grk	spz	spz	spz	spi	spi	spi	spi	spi	htl	trk	SIFa	Ilp5	Ilp5	vn	Ilp2	Ilp2	Krn	Pvf1	spz5	spz5	Nplp1
+GO:0004363	Gss2
+GO:0070840	DCTN1-p150	DCTN1-p150	DCTN1-p150	BicD	swa	Lis-1	Lis-1	Lis-1	dtr
+GO:0004361	Dmel\CG9547
+GO:0015301	Dmel\CG6928	Dmel\CG5002	Ndae1	Dmel\CG9717	Dmel\CG9702	Dmel\CG7912	Esp	Dmel\CG5404	Dmel\CG6125	Prestin
+GO:0004816	AsnRS-m	AsnRS
+GO:0004819	Aats-gln	Aats-gln
+GO:0004609	Pisd
+GO:0030620	Prp8	Snup	snf	U2A	msk
+GO:0008821	mms4	spn-B	mus201	mus81	Gen	Gen	mus312
+GO:0008395	Cyp18a1	Cyp18a1	phm
+GO:0004601	Prx2540-1	Prx2540-1	RH54193	RH54193	Pxd	Pxd	Dmel\CG15116	Prx2540-2	Prx2540-2	PHGPx	PHGPx	CG6879	cd	Pxt	Pxt	cysu	Dmel\CG4009	Irc	glob1	Dmel\CG10211	Duox	Prx6005	Prx6005	Pxn
+GO:0004602	GstT2	GstT3	GstS1	GstT1	CG5579	PHGPx	GstT4	Mgstl	GstD8	GstD2	Clic	Dmel\CG33178
+GO:0034713	put
+GO:0030627	CG1646	snRNP-U1-C
+GO:0005547	bnk	step	Abp1
+GO:0010485	Taf1	Hat1	Hat1	Tip60	Naa40	Atac2	chm	chm	Gcn5	enok
+GO:0010484	chm	Gcn5
+GO:0019787	Atg3
+GO:0015279	trp	trpl	trpl	Stim	olf186-F	olf186-F	olf186-F	Trpgamma
+GO:1990837	E(spl)m5-HLH	E(spl)m7-HLH	E(spl)m7-HLH	E(spl)	h	E(spl)m3-HLH	E(spl)m3-HLH	E(spl)mbeta-HLH	E(spl)mbeta-HLH	E(spl)mgamma-HLH	E(spl)mgamma-HLH	E(spl)mdelta-HLH	E(spl)mdelta-HLH	sqd	dpn	dpn	Hey	cwo	Sidpn
+GO:0019781	Uba3	Uba3	Uba3	APP-BP1	APP-BP1	APP-BP1	APP-BP1	APP-BP1
+GO:0004560	Fuca
+GO:0015271	SLO2	slo
+GO:0015277	Grik	Grik	GluRIA	clumsy	clumsy	Ekar	Ekar	GluRIID	DmelCG11155	DmelCG11155	KaiR1D	KaiR1D	GluRIIB	GluRIIB	GluRIIA	GluRIIC
+GO:0015276	Ir41a	Ir47a	Ir48b	Ir48c	Ir51b	Ir52a	Ir52b	Ir52c	Ir52d	Ir54a	Ir56a	Ir56b	Ir56c	Ir56d	Ir76a	Ir10a	Ir60b	Ir60d	Ir75b	Ir94d	Ir7e	Ir7f	Ir7d	Ir25a	Ir31a	Grd	Grd	Ir62a	TrpA1	Ir94f	Ir94c	Ir94b	Ir94a	Ir67c	Ir40a	Ir100a	Ir94h	Ir94g	Ir94e	Ir93a	Ir87a	Ir85a	Ir21a	Ir20a	Ir64a	Ir67a	Ir67b	Ir68a	Ir68b	Ir75a	Ir75c	Ir75d	Ir76b	Ir11a	Ir60e	Ir60a	Ir8a	Ir7g	Ir7c	Ir7b	Ir7a
+GO:0019789	Dmel\CG31053	SMC5	MAGE	jnj	Nse4	Nse1	qjt	Dmel\CG12200	cerv
+GO:0019788	Roc2	Roc1b	Ubc12	Ubc12	Ubc12	Roc1a
+GO:0061507	Sting
+GO:0019010	jhamt
+GO:0015453	mt:CoIII
+GO:0015450	tomboy40	Sec61beta	Tom7	Tim22	Tom20	Tom20	Tom40	Dmel\CG11779	Tim17a1	tomboy20	tomboy20	Tim17b2	Tom70	Tim17a2	Tim17b1	Dmel\CG1724	Tim13	Tim9a	mge	Tim9b	Tim8	Tim8
+GO:0019948	Aos1	Aos1	Uba2	Uba2
+GO:0015459	Dmel\CG2121	Hk	Slip1	CG4928	EG:30B8.6
+GO:0004566	Dmel\CG15117	betaGlu	betaGlu
+GO:0032977	Dmel\CG4942	BcDNA:GH02220
+GO:0008532	brn	EG:BACR37P7.1	BcDNA:GM04393
+GO:0008531	anon-84Ea	anon-84Ea
+GO:0008536	Nup358	RanBPM	Nup50	RanBP3	CG5740	tamo	tamo	tamo	tamo
+GO:0008534	RpS3	RpS3
+GO:0032577	Taz
+GO:0016655	DHRS4	Dmel\CG7322
+GO:0016651	ECSIT	AIF
+GO:0016653	Dmel\CG3803
+GO:0042056	bnl	Pvf2	TyrRS	TyrRS
+GO:0042054	E(z)	E(z)	E(z)	E(z)	Su(var)3-9	Su(var)3-9	Su(var)3-9	Su(var)3-9	esc	esc	esc	Caf1	Caf1	Ntmt	Mes-4	Su(z)12	Su(z)12	Su(z)12	Art1	Art4	Art4	escl	escl	ash1
+GO:0043262	spd-2	Dmel\CG4098
+GO:0008774	Adh	Adh	Aldh
+GO:0016430	Dmel\CG12822
+GO:0016433	Samtor
+GO:0016435	Dmel\CG10903	Dmel\CG8939
+GO:0034431	Aps
+GO:0034432	Aps
+GO:0019166	CG16935	CG16935
+GO:0047372	Hydr1	Hydr2	Hydr2
+GO:0030337	PCNA	PCNA2
+GO:0030332	Eip63E	Eip63E	Cdk9	Z600	Z600	Cdk2	Cdk4	Cdk4	Cdk12	Cdk12	ago
+GO:0030331	Pa1
+GO:0034185	Nrx-1
+GO:0046964	sll	sll	sll	sll	sll	Papst2	Papst2	Papst2
+GO:0016508	Thiolase
+GO:0016509	Mtpalpha	Mtpalpha	Mtpalpha	Thiolase
+GO:0016504	7B2
+GO:0016500	rk	Lgr3	AdipoR	Lgr1	Lgr1	Lgr4
+GO:0016503	Or67d	Or67d
+GO:0050508	ttv	sotv
+GO:0017108	tos	mus201	Fen1	Dmel\CG2990	Gen	Gen	mus312
+GO:0097109	Nrx-1	Nlg1
+GO:0097108	boi	boi	ptc	ptc	ihog	ihog	ihog	dlp
+GO:0043047	moi	RpA-70	ver	rad50
+GO:0030158	oxt	oxt	oxt	oxt	shams	shams	Dmel\CG11388	Dmel\CG11388
+GO:0003713	shn	MTA1-like	13204	Mrtf	nej	nej	nej	mbf1	Ada3	CtBP	Dmel\CG17829	Jra	arm	arm	arm	arm	arm	exd	Mad	Taf11	TfIIA-S	MED20	MED20	eya	Dmel\CG1603	Bro	Bro	Bgb	Bgb	Bgb	Bgb	Snr1	yki	yki	yki	yki	yki	Dlip3	Dlip3	dmpd	Ada2b	MED31	MED31	Dmel\CG31627	Ada1-1	Ada1-1	Ada1-2	Ada1-2	trr	trr	MED6	MED6	Lpin	Lpin	mu2	Hcf	pygo	pygo	pygo	MED17	pont	pont	Taf7	e(y)2b	crc	crc	NC2beta	Ssb-c31a	chm	Dmel\CG11710	MED4	Wbp2	Sgf11	MED11	kto	Dmel\CG12609	Bap60	e(y)2	hng3	Lpt	Setd3	TfIIA-S-2	MED21	MED21
+GO:0003712	Sin3A	MED9	MED8	MED8	CG42830-RA	per	CycC	exd	Bro	Bgb	nab	nab	nab	nab	nab	ix	skd	skd	skd	Nipped-A	srl	MED6	MED6	MED10	MED10	MED7	MED7	MED22	MED26	MED26	MED26	MED28	MED28	MED28	MED28	MED25	MED17	MED17	MED17	Spt3	mtTFB2	Taf13	Uxt	MED27	MED27	Ddx1	MED1	MED1	MED1	MED4	MED4	MED4	akirin	akirin	MED24	MED24	MED24	mtTFB1	Spt20	MED19	MED11	MED11	kto	MED30	MED30	MED30	MED14	MED14	MED14	MED23	MED16	MED16	NC2alpha	MED21	MED21	MED18	MED18	MED18	MED15
+GO:0015101	Orct2
+GO:0000254	Dmel\CG11162	Dmel\CG1998
+GO:0000253	Dmel\CG40486	Dmel\CG40485	Dmel\CG10962	FOHSDR	Dmel\CG9150	DHRS4	Dmel\CG8757	FOHSDR	antdh
+GO:0035368	Sbp2	Sbp2
+GO:0017020	MYPT-75D
+GO:0061656	lwr	lwr	lwr	lwr
+GO:0005496	EcR
+GO:0030515	bys	mRpS4	Nop56	Dmel\CG11920	l(3)07882	nop5	Nufip	EG:25E8.3
+GO:0072320	Best1	Best1	Best1	tty	Dmel\CG14540	CG3638
+GO:0060090	csw	gcl	phyl	phyl	Cul3	dock
+GO:0097367	mtg
+GO:0097363	sxc	sxc	sxc	Eogt	Eogt
+GO:0051864	CG2982	CG2982	Kdm4A	Kdm4A	Kdm4A	Kdm4A	Kdm4B	Kdm4B	Kdm4B	Kdm4B	Kdm2	JMJD5	JMJD5
+GO:0043130	Dmel\CG14322	CG9062	CG9062	Cks30A	Rpn13	Rpn13	p47	Hrs	Rad23	Bub3	Npl4	Dmel\CG10694	Cks85A	Dmel\CG10435	CG4968	Plap	Vps13D	Vps36	Vps36	TSG101	Wdr92	Mvb12	Dmel\CG5445	rngo	Eyc	Eyc	Dmel\CG12782	Rae1	Rpn13R	Rpn13R	Stam
+GO:0043139	mtDNA-helicase
+GO:0043138	CDC45L	CDC45L	Mcm2	hay	dpa	Mcm6	Sld5	Sld5	Fancm	Mcm5	Psf2	Psf2	Psf1	Psf1	Psf3	Mcm7
+GO:0005126	Stat92E	Stat92E	hop	hop	Socs36E
+GO:0036264	PPO1	PPO1	PPO2	PPO3
+GO:0036263	PPO1	PPO2	PPO3
+GO:0005121	NT1	spz	spz	spz	spz	spz	spz	Myd88	Myd88	Tehao	spz4	spz3	spz5	spz6
+GO:0015631	stai	stai	FCHo	Dmel\CG15676	msps	CG9286	mgr	Sas-4	CG45057	futsch
+GO:0048487	mgr	Gie	Uxt	TBCD	TBCD
+GO:0004839	Uba1	Uba1
+GO:1990050	rdgB	slmo	prel
+GO:0004833	v	v	v	v
+GO:0004832	ValRS	ValRS	ValRS-m	ValRS-m
+GO:0004831	TyrRS	TyrRS	TyrRS	TyrRS-m	TyrRS-m	TyrRS-m
+GO:0004830	TrpRS	TrpRS	TrpRS	TrpRS-m	TrpRS-m
+GO:0004837	Tdc1	Tdc2
+GO:0000384	Dmel\CG9667	Dmel\CG10466
+GO:0000386	Prp8	Prp18	Slu7
+GO:0004540	Sid	Smg6	RNaseX25
+GO:0004706	Takl1	slpr	slpr	slpr	slpr	slpr	slpr	Tak1
+GO:0047464	Hsepi
+GO:0002046	Arr1	Arr2
+GO:0005384	Mvl	Mvl	Mvl
+GO:0008017	tacc	Kat60	Khc-73	Klp54D	Eb1	Eb1	Eb1	shot	shot	Opa1	unc-104	Patronin	Dmel\CG18190	kst	ens	pod1	Kebab	Cep135	nuf	stai	BuGZ	bif	cos	cos	awd	Bsg25D	alpha-Spec	DCTN1-p150	Khc	Khc	nod	ncd	Map205	stau	stau	shi	shi	pnut	Moe	Klp61F	Klp61F	Klp68D	cnn	beta-Spec	jar	kat80	capu	capu	hook	hook	Cp190	Cp190	Cp190	kat-60L1	FCHo	Incenp	Map60	mars	Kif19A	CG32318-PA	CG17528	spas	NEST:bs25f07	corn	EB1	CG5095	Dmel\CG11584	lva	Tektin-C	Klp10A	Jupiter	Jupiter	chb	chb	spir	Tektin-A	apolpp	Kif3C	scra	sub	Anp32a	tau	tau	tau	tau	tau	Klp98A	Mink	Mink	KIF26A	asp	asp	asp	anon-WO0140519.212	msps	neb	CLIP-190	CLIP-190	CLIP-190	dgt2	cana	cmet	Klp31E	CG14535	CG14535	Drp1	Dmel\CG2955	Klp64D	CG10099	Klp67A	nudE	nudE	DCX-EMAP	DCX-EMAP	pav	Girdin	wac	anon-WO0140519.109	Klp59D	Klp59C	Dmel\CG15306	futsch	futsch	futsch	futsch	futsch	futsch	Grip84	Grip91	Klp3A	Klp3A	Klp3A
+GO:0008011	Pcp	Pcp	Edg78E	Edg78E	Edg84A	Edg84A	Edg91
+GO:0008010	Dmel\CG15515	Cpr47Ea	Cpr47Ec	Cpr47Ed	Cpr47Ee	Cpr47Ef	Cpr49Ab	Cpr49Ad	Cpr49Af	Cpr49Ag	Cpr49Ah	Cpr49Aa	Cpr65Ay	DmelCpr66Ca	Lcp65Ab1	Lcp65Ab1	Lcp65Ab2	Lcp65Ag1	Lcp65Ag2	Cpr76Bd	Ccp84Ab	Ccp84Ac	Ccp84Ad	Ccp84Ae	Ccp84Af	Ccp84Ag	Lcp1	Lcp1	Lcp2	Lcp2	Lcp3	Lcp3	Lcp4	Pcp	Edg78E	Edg84A	l(3)mbn	Lcp9	Lcp9	Lcp65Ad	Lcp65Ad	Lcp65Aa	Lcp65Aa	Acp65Aa	Lcp65Ae	Lcp65Ae	Lcp65Ac	Lcp65Ac	Lcp65Af	Lcp65Af	Cpr92A	Cpr76Bc	anon-SAGE:Wang-027	Cpr49Ac	Cpr50Ca	Cpr56F	Cpr47Eg	Cpr51A	Cpr47Eb	Cpr50Cb	Cpr57A	Cpr65Av	Cpr31A	Cpr30F	Cpr60D	Cpr65Eb	Cpr49Ae	Cpr65Ax1	Cpr65Au	Lcp65Ag3	Ccp84Aa	Cpr35B	resilin	Cpr100A	Cpr97Eb	Cpr97Ea	TwdlD	TwdlH	Cpr92F	Cpr30B	TwdlF	Cpr78E	Cpr78Cc	Cpr78Cb	Cpr78Ca	Cpr23B	Cpr65Aw	Cpr65Az	Cpr65Ea	Cpr65Ec	Dmel\CG13670	Cpr66Cb	Cpr66D	Cpr67B	Cpr67Fa1	Cpr67Fa2	Cpr67Fb	Cpr72Ea	Cpr72Eb	Cpr72Ec	Cpr73D	Cpr76Ba	Cpr76Bb	Cpr12A	Dmel\CG15756	Cpr11B	Cpr11A	Cpr64Ad	Cpr64Ac	Cpr64Ab	Cpr64Aa	Cpr62Bc	Cpr62Bb	Cpr62Ba	Cpr5C
+GO:0008013	CadN	shg	shg	pan	Axn	Apc	Apc	Exo70	ssp	Hipk	Sec10	Apc2	Apc2	Apc2	Apc2
+GO:0009013	Ssadh
+GO:0000036	ND-ACP	ND-ACP	e
+GO:0000035	ND-ACP
+GO:0031489	Cam
+GO:0000033	Alg2
+GO:0000030	CG4050	PIG-Z	PIG-Z	PIG-V	PIG-V	Alg9	CG5038	CG8412	CG31690	CG6659	PIG-B	PIG-B
+GO:0009383	Nol1Nt
+GO:0004729	Ppox	Ppox
+GO:0004726	csw	csw	csw	csw
+GO:0004725	Ptp52F	Ptp52F	PRL-1	PRL-1	Lar	stg	stg	Ptp99A	Ptp99A	Ptp99A	primo-1	primo-1	primo-1	primo-1	primo-2	primo-2	primo-2	twe	twe	twe	eya	eya	CG14714	Dmel\CG3632	CG9599	ttm3	Dmel\CG14297	Dmel\CG14297	Dmel\CG14297	puc	cdc14	cdc14	IA-2	IA-2	Ptp61F	Ptp61F	Ptp61F	Ptp61F	Ptp61F	Ptp61F	Ptpmeg	Ptpmeg	ttm2	PTP-ER	PTP-ER	Ptpmeg2	Ptpmeg2	Ptpmeg2	Ptp4E	ttm50
+GO:0004724	CG10417	alph	Dmel\CG6036	Dmel\CG10376	Dmel\CG17598	Dmel\CG17746	Ppm1	Pdp	Pp2C1	dPPM1L
+GO:0004723	rdgC	CanA1	Pp2B-14D	Cib2
+GO:0004722	Pp1-Y1	Pp1-Y1	Pgam5	Pp4-19C	PpY-55A	PpY-55A	PpY-55A	PpY-55A	Pp1-87B	Pp1-87B	Pp1-87B	Pp1-87B	Pp1-87B	Pp1-87B	mts	mts	Pp2A-29B	tws	tws	rdgC	rdgC	rdgC	rdgC	CanA1	CanA1	Pp1alpha-96A	Pp1alpha-96A	Pp1alpha-96A	Pp1alpha-96A	Pp1alpha-96A	flw	flw	flw	flw	flw	flw	Pp1-13C	Pp1-13C	Pp1-13C	Pp1-13C	Pp1-13C	PpV	PpV	Pp2B-14D	Pp2B-14D	Pp1-Y2	Pp1-Y2	Dmel\CG8584	CG10417	CG10417	CG10417	Pten	PpN58A	PpN58A	PpN58A	Dmel\CG3632	Dmel\CG11597	Dmel\CG11597	alph	alph	ttm3	fig	fig	fig	Dmel\CG6036	Dmel\CG6036	Dmel\CG6036	Sur-8	PpD3	PpD3	PpD3	Phlpp	Phlpp	Phlpp	Dmel\CG10376	Dmel\CG10376	Dmel\CG10376	cdc14	cdc14	PpD6	PpD6	PpD6	Dmel\CG17598	Dmel\CG17598	Dd	Dd	CanA-14F	CanA-14F	24656659	Dmel\CG17746	Dmel\CG17746	Dmel\CG12091	Dmel\CG12091	Ppm1	Ppm1	ttm2	PpD5	PpD5	PpD5	PpD5	Pdp	Pdp	Dmel\CG15035	Dmel\CG15035	Pp2C1	Pp2C1	Pp2C1	Pp2C1	ttm50	Ublcp1	Ublcp1	dPPM1L	dPPM1L	dPPM1L
+GO:0004721	24664944	Phos10352	Pgam5	eya	ssh	Dmel\CG8584	Pten	Pten	Mkp	ttm3	fig	puc	Dmel\CG17598	Dd	24656659	Dmel\CG17746	Dmel\CG12091	Ppm1	ttm2	Pgam5-2	Phos11291	Pdp	Dmel\CG15035	ttm50	EG:100G10.4
+GO:0004720	Loxl1	Loxl1	Loxl1	Loxl2
+GO:0004055	Ass
+GO:0004054	Argk
+GO:0004057	Ate1	Ate1
+GO:0004056	Argl
+GO:0004053	arg	arg
+GO:0018024	G9a	egg	Mnn1	Set2
+GO:0004059	AANAT1	AANAT1	AANAT1	AANATL2
+GO:0004058	Ddc	Ddc
+GO:0048029	Pgi	Pfk	Gnpnat
+GO:0001664	AAF59068	FBpp0072995	Dmel\CG30280	SP	SP	Galphao	Galphai	Galphas	Galphaq	cta	Gprk1	fog	Dup99B	Galphaf	14	amn	Gpb5	Trissin	Gpa2	AAF46536	14	CG6676	Dh44	Dmel\CG17349	Pburs	Dh31	Dh31	Ilp4	Mip	sun	ETH
+GO:0048027	RpS14a	RpS14b	Hrb98DE	Sxl	Hrb27C	Hrb27C	mRpS11	Shmt
+GO:0003939	Sodh-2	Sodh-1
+GO:0004034	BcDNA:GH08902	Dmel\CG4988	CG14576	Dmel\CG10467	Dmel\CG10996
+GO:0004613	Pepck	Pepck	Pepck2	Pepck2
+GO:0004610	nst
+GO:0004617	Dmel\CG6287	Dmel\CG6287
+GO:0004615	CG10688
+GO:0004614	Pgm	Pgm	Pgm	Pgm	Pgm
+GO:0008384	IKKbeta
+GO:0004618	Pgk	Pgk	Pgk	Pgk	Dmel\CG9961	Dmel\CG9961
+GO:0008381	Tmc	Pzl	Pzl	Piezo	Piezo	Trpgamma	nompC	nompC
+GO:0008832	fal
+GO:0004038	Dmel\CG6106
+GO:0052689	alpha-Est5	alpha-Est5	Dmel\CG10175	Jhedup	Jhe	Jhe	Dmel\CG18815	Dmel\CG18815	Est-6	Est-6	Est-6	Est-P	Est-P	Nrt	Dmel\CG1882	Dmel\CG1882	Gli	Dmel\CG12869	alpha-Est2	Dmel\CG14717	Dmel\CG14717	Dmel\CG6567	alpha-Est7	alpha-Est7	alpha-Est7	Dmel\CG5355	Dmel\CG4382	Dmel\CG5397	clt	clt	Dmel\CG2059	Dmel\CG6414	GH05702
+GO:0003693	Irbp18
+GO:0015193	Ntl
+GO:1990825	Nab2	Slbp	eRF1
+GO:0003837	pyd3	pyd3
+GO:0017154	PlexA	PlexA	PlexB
+GO:0004147	Dmel\CG5599
+GO:0045294	arm
+GO:0001609	AdoR	AdoR	AdoR
+GO:0045296	Abi	Dlish	Dlish	Hakai	CadN	arm	ft	p120ctn	ck	CadN2	siz
+GO:0003832	t	t
+GO:0070679	trp	Itp-r83A	trpl	Trpgamma
+GO:0042954	Tango1
+GO:0019200	Dmel\CG7551	Dmel\CG12289	Dmel\CG7328
+GO:0019206	Uck
+GO:0019207	Pli	CG9286
+GO:0019208	Mbs	mts
+GO:0070095	Pfk
+GO:0008528	CG 13579	CrzR	mth	rk	SIFaR	SPR	SPR	AstA-R2	Lgr3	ETHR	Lgr1	TrissinR	TrissinR	Dmel\CG13575	Lgr4
+GO:0000822	GLE1
+GO:0000823	Ipk2
+GO:1990919	CUT8
+GO:0000827	l(1)G0196	l(1)G0196
+GO:0000828	l(1)G0196
+GO:0000829	l(1)G0196
+GO:0051267	PIG-G
+GO:0008525	vib	rdgB	rdgB	Mtp
+GO:0008527	Gr47a	Gr10a	Gr10a	Gr22a	Gr22a	Gr22c	Gr22c	Gr22c	Gr22c	Gr22e	Gr22e	Gr22f	Gr22f	Gr22f	Gr36a	Gr36a	Gr36a	Gr39a	Gr39a	Gr39a	Gr39b	Gr39b	Gr39b	Gr39b	Gr47b	Gr47b	Gr58a	Gr58a	Gr58a	Gr59d	Gr59d	Gr59d	Gr59d	Gr23a	Gr23a	Gr23a	Gr64a	Gr64a	Gr64b	Gr64c	Gr64f	Gr22b	Gr22b	Gr22d	Gr22d	Gr98d	Gr98c	Gr97a	Gr94a	Gr93d	Gr93d	Gr93b	Gr93b	Gr93b	Gr92a	Gr92a	Gr92a	Gr85a	Gr36c	Gr36c	Gr77a	Gr77a	Gr77a	Gr77a	Gr9a	Gr9a	Gr59b	Gr59b	Gr43a	Gr43a	Gr43a	Gr57a	Gr57a	Gr57a	Gr98b	Gr98a	Gr93c	Gr93c	Gr93c	Gr93a	Gr93a	Gr93a	Gr89a	Gr36b	Gr36b	Gr33a	Gr33a	Gr32a	Gr32a	Gr32a	Gr28b	Gr28b	Gr28b	Gr28a	Gr28a	Gr28a	Gr21a	Gr21a	Gr21a	Gr66a	Gr66a	Gr66a	Gr68a	Gr68a	Gr68a	Gr68a	Gr10b	Gr64d	Gr63a	Gr63a	Gr63a	Gr61a	Gr59f	Gr59f	Gr59f	Gr59e	Gr59e	Gr59e	Gr59c	Gr59c	Gr59c	Gr59c	Gr59a	Gr59a	Gr58b	Gr58b	Gr58b	Gr58c	Gr58c	Gr8a	Gr8a	Gr8a	Gr5a	Gr5a	Gr5a	Gr5a	Gr5a	Gr2a	Gr2a	Gr2a	Gr2a	Gr2a
+GO:0008526	vib	rdgB	rdgB	rdgB	rdgB	rdgB	rdgB	CG2159	rdgBbeta	rdgBbeta
+GO:0070410	fuss
+GO:0070325	Apoltp
+GO:0004813	AlaRS	AlaRS	AlaRS-m	AlaRS-m
+GO:0070628	Ubc4	Rpn13	Usp2	Rpn11	Rad23	Dmel\CG10694	Dmel\CG2046	Ubqn	rngo	Rpn13R
+GO:0016429	trmt10c	Dmel\CG9596	Dmel\CG14544
+GO:1904047	Gnmt
+GO:0016427	Dmel\CG34195
+GO:0003824	Sps2
+GO:0016423	Dmel\CG18596
+GO:0019199	sev
