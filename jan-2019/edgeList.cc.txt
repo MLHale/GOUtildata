@@ -30,7 +30,6 @@ GO:0000137	Golgi cis cisterna	GO:0031985	Golgi cisterna
 GO:0000138	Golgi trans cisterna	GO:0031985	Golgi cisterna
 GO:0000139	Golgi membrane	GO:0044431	Golgi apparatus part
 GO:0000139	Golgi membrane	GO:0098588	bounding membrane of organelle
-GO:0000139	Golgi membrane	GO:0098791	Golgi subcompartment
 GO:0000142	cellular bud neck contractile ring	GO:0110085	mitotic actomyosin contractile ring
 GO:0000142	cellular bud neck contractile ring	GO:0005935	cellular bud neck
 GO:0000144	cellular bud neck septin ring	GO:0000399	cellular bud neck septin structure
@@ -161,6 +160,8 @@ GO:0000438	core TFIIH complex portion of holo TFIIH complex	GO:0000439	transcrip
 GO:0000438	core TFIIH complex portion of holo TFIIH complex	GO:0044451	nucleoplasm part
 GO:0000438	core TFIIH complex portion of holo TFIIH complex	GO:0005675	transcription factor TFIIH holo complex
 GO:0000439	transcription factor TFIIH core complex	GO:0090575	RNA polymerase II transcription factor complex
+GO:0000439	transcription factor TFIIH core complex	GO:0000112	nucleotide-excision repair factor 3 complex
+GO:0000439	transcription factor TFIIH core complex	GO:0005675	transcription factor TFIIH holo complex
 GO:0000440	core TFIIH complex portion of NEF3 complex	GO:0000439	transcription factor TFIIH core complex
 GO:0000440	core TFIIH complex portion of NEF3 complex	GO:0000112	nucleotide-excision repair factor 3 complex
 GO:0000444	MIS12/MIND type complex	GO:0032991	protein-containing complex
@@ -248,11 +249,14 @@ GO:0000806	Y chromosome	GO:0000803	sex chromosome
 GO:0000807	Z chromosome	GO:0000803	sex chromosome
 GO:0000808	origin recognition complex	GO:0032991	protein-containing complex
 GO:0000808	origin recognition complex	GO:0044427	chromosomal part
+GO:0000808	origin recognition complex	GO:0005656	nuclear pre-replicative complex
 GO:0000809	cytoplasmic origin of replication recognition complex	GO:0000808	origin recognition complex
 GO:0000809	cytoplasmic origin of replication recognition complex	GO:0044444	cytoplasmic part
 GO:0000809	cytoplasmic origin of replication recognition complex	GO:0000229	cytoplasmic chromosome
 GO:0000811	GINS complex	GO:0031261	DNA replication preinitiation complex
 GO:0000811	GINS complex	GO:0044454	nuclear chromosome part
+GO:0000811	GINS complex	GO:0071162	CMG complex
+GO:0000812	Swr1 complex	GO:0000118	histone deacetylase complex
 GO:0000812	Swr1 complex	GO:0097346	INO80-type complex
 GO:0000813	ESCRT I complex	GO:0036452	ESCRT complex
 GO:0000813	ESCRT I complex	GO:0098796	membrane protein complex
@@ -281,6 +285,7 @@ GO:0000922	spindle pole	GO:0044430	cytoskeletal part
 GO:0000922	spindle pole	GO:0005819	spindle
 GO:0000923	equatorial microtubule organizing center	GO:0005815	microtubule organizing center
 GO:0000923	equatorial microtubule organizing center	GO:0032155	cell division site part
+GO:0000923	equatorial microtubule organizing center	GO:1990295	post-anaphase microtubule array
 GO:0000924	gamma-tubulin ring complex, centrosomal	GO:0008274	gamma-tubulin ring complex
 GO:0000924	gamma-tubulin ring complex, centrosomal	GO:0000242	pericentriolar material
 GO:0000927	gamma-tubulin small complex, centrosomal	GO:0008275	gamma-tubulin small complex
@@ -313,10 +318,12 @@ GO:0000942	condensed nuclear chromosome outer kinetochore	GO:0044454	nuclear chr
 GO:0000942	condensed nuclear chromosome outer kinetochore	GO:0000778	condensed nuclear chromosome kinetochore
 GO:0000943	retrotransposon nucleocapsid	GO:0044428	nuclear part
 GO:0000974	Prp19 complex	GO:0032991	protein-containing complex
+GO:0000974	Prp19 complex	GO:0071012	catalytic step 1 spliceosome
+GO:0000974	Prp19 complex	GO:0071013	catalytic step 2 spliceosome
 GO:0001114	protein-DNA-RNA complex	GO:0032991	protein-containing complex
 GO:0001400	mating projection base	GO:0120038	plasma membrane bounded cell projection part
 GO:0001400	mating projection base	GO:0005937	mating projection
-GO:0001401	mitochondrial sorting and assembly machinery complex	GO:0098799	outer mitochondrial membrane protein complex
+GO:0001401	SAM complex	GO:0098799	outer mitochondrial membrane protein complex
 GO:0001405	PAM complex, Tim23 associated import motor	GO:0005759	mitochondrial matrix
 GO:0001405	PAM complex, Tim23 associated import motor	GO:0098800	inner mitochondrial membrane protein complex
 GO:0001405	PAM complex, Tim23 associated import motor	GO:0005744	TIM23 mitochondrial import inner membrane translocase complex
@@ -429,6 +436,7 @@ GO:0005579	membrane attack complex	GO:0046930	pore complex
 GO:0005579	membrane attack complex	GO:0098797	plasma membrane protein complex
 GO:0005579	membrane attack complex	GO:0005887	integral component of plasma membrane
 GO:0005581	collagen trimer	GO:0032991	protein-containing complex
+GO:0005581	collagen trimer	GO:0098644	complex of collagen trimers
 GO:0005582	collagen type XV trimer	GO:0098651	basement membrane collagen trimer
 GO:0005583	fibrillar collagen trimer	GO:0005581	collagen trimer
 GO:0005583	fibrillar collagen trimer	GO:0044420	extracellular matrix component
@@ -483,6 +491,7 @@ GO:0005619	ascospore wall	GO:0031160	spore wall
 GO:0005621	cellular bud scar	GO:0044426	cell wall part
 GO:0005621	cellular bud scar	GO:0009277	fungal-type cell wall
 GO:0005622	intracellular	GO:0044464	cell part
+GO:0005622	intracellular	GO:0097653	unencapsulated part of cell
 GO:0005623	cell	GO:0005575	cellular_component
 GO:0005628	prospore membrane	GO:0016020	membrane
 GO:0005628	prospore membrane	GO:0044464	cell part
@@ -526,6 +535,7 @@ GO:0005655	nucleolar ribonuclease P complex	GO:0030681	multimeric ribonuclease P
 GO:0005655	nucleolar ribonuclease P complex	GO:0044452	nucleolar part
 GO:0005656	nuclear pre-replicative complex	GO:0036387	pre-replicative complex
 GO:0005656	nuclear pre-replicative complex	GO:0044451	nucleoplasm part
+GO:0005656	nuclear pre-replicative complex	GO:0031261	DNA replication preinitiation complex
 GO:0005657	replication fork	GO:0044427	chromosomal part
 GO:0005658	alpha DNA polymerase:primase complex	GO:0044454	nuclear chromosome part
 GO:0005658	alpha DNA polymerase:primase complex	GO:0055029	nuclear DNA-directed RNA polymerase complex
@@ -549,6 +559,7 @@ GO:0005669	transcription factor TFIID complex	GO:0044451	nucleoplasm part
 GO:0005669	transcription factor TFIID complex	GO:0090575	RNA polymerase II transcription factor complex
 GO:0005669	transcription factor TFIID complex	GO:0016591	RNA polymerase II, holoenzyme
 GO:0005671	Ada2/Gcn5/Ada3 transcription activator complex	GO:1902562	H4 histone acetyltransferase complex
+GO:0005671	Ada2/Gcn5/Ada3 transcription activator complex	GO:0002929	MECO complex
 GO:0005672	transcription factor TFIIA complex	GO:0044451	nucleoplasm part
 GO:0005672	transcription factor TFIIA complex	GO:0090575	RNA polymerase II transcription factor complex
 GO:0005672	transcription factor TFIIA complex	GO:0016591	RNA polymerase II, holoenzyme
@@ -568,17 +579,55 @@ GO:0005680	anaphase-promoting complex	GO:0031461	cullin-RING ubiquitin ligase co
 GO:0005681	spliceosomal complex	GO:0044428	nuclear part
 GO:0005681	spliceosomal complex	GO:1990904	ribonucleoprotein complex
 GO:0005682	U5 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005682	U5 snRNP	GO:0046540	U4/U6 x U5 tri-snRNP complex
+GO:0005682	U5 snRNP	GO:0071003	penta-snRNP complex
+GO:0005682	U5 snRNP	GO:0071009	U4atac/U6atac x U5 tri-snRNP complex
+GO:0005682	U5 snRNP	GO:0071012	catalytic step 1 spliceosome
+GO:0005682	U5 snRNP	GO:0071013	catalytic step 2 spliceosome
+GO:0005682	U5 snRNP	GO:0071014	post-mRNA release spliceosomal complex
+GO:0005682	U5 snRNP	GO:0071020	post-spliceosomal complex
+GO:0005682	U5 snRNP	GO:0071023	trans spliceosomal complex
 GO:0005683	U7 snRNP	GO:0030532	small nuclear ribonucleoprotein complex
 GO:0005684	U2-type spliceosomal complex	GO:0005681	spliceosomal complex
 GO:0005685	U1 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005685	U1 snRNP	GO:0000243	commitment complex
+GO:0005685	U1 snRNP	GO:0071003	penta-snRNP complex
+GO:0005685	U1 snRNP	GO:0071004	U2-type prespliceosome
+GO:0005685	U1 snRNP	GO:0071005	U2-type precatalytic spliceosome
 GO:0005686	U2 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005686	U2 snRNP	GO:0071003	penta-snRNP complex
+GO:0005686	U2 snRNP	GO:0071004	U2-type prespliceosome
+GO:0005686	U2 snRNP	GO:0071005	U2-type precatalytic spliceosome
+GO:0005686	U2 snRNP	GO:0071006	U2-type catalytic step 1 spliceosome
+GO:0005686	U2 snRNP	GO:0071007	U2-type catalytic step 2 spliceosome
+GO:0005686	U2 snRNP	GO:0071008	U2-type post-mRNA release spliceosomal complex
+GO:0005686	U2 snRNP	GO:0071021	U2-type post-spliceosomal complex
+GO:0005686	U2 snRNP	GO:0071023	trans spliceosomal complex
 GO:0005687	U4 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005687	U4 snRNP	GO:0071001	U4/U6 snRNP
+GO:0005687	U4 snRNP	GO:0071023	trans spliceosomal complex
 GO:0005688	U6 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005688	U6 snRNP	GO:0071001	U4/U6 snRNP
+GO:0005688	U6 snRNP	GO:0071006	U2-type catalytic step 1 spliceosome
+GO:0005688	U6 snRNP	GO:0071007	U2-type catalytic step 2 spliceosome
+GO:0005688	U6 snRNP	GO:0071008	U2-type post-mRNA release spliceosomal complex
+GO:0005688	U6 snRNP	GO:0071021	U2-type post-spliceosomal complex
+GO:0005688	U6 snRNP	GO:0071023	trans spliceosomal complex
 GO:0005689	U12-type spliceosomal complex	GO:0005681	spliceosomal complex
 GO:0005690	U4atac snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005690	U4atac snRNP	GO:0071002	U4atac/U6atac snRNP
 GO:0005691	U6atac snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005691	U6atac snRNP	GO:0071002	U4atac/U6atac snRNP
+GO:0005691	U6atac snRNP	GO:0071017	U12-type catalytic step 1 spliceosome
+GO:0005691	U6atac snRNP	GO:0071018	U12-type catalytic step 2 spliceosome
+GO:0005691	U6atac snRNP	GO:0071022	U12-type post-spliceosomal complex
 GO:0005692	U11 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005692	U11 snRNP	GO:0071016	U12-type precatalytic spliceosome
 GO:0005693	U12 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0005693	U12 snRNP	GO:0071016	U12-type precatalytic spliceosome
+GO:0005693	U12 snRNP	GO:0071017	U12-type catalytic step 1 spliceosome
+GO:0005693	U12 snRNP	GO:0071018	U12-type catalytic step 2 spliceosome
+GO:0005693	U12 snRNP	GO:0071022	U12-type post-spliceosomal complex
 GO:0005694	chromosome	GO:0043232	intracellular non-membrane-bounded organelle
 GO:0005697	telomerase holoenzyme complex	GO:0044428	nuclear part
 GO:0005697	telomerase holoenzyme complex	GO:1990904	ribonucleoprotein complex
@@ -632,6 +681,8 @@ GO:0005736	RNA polymerase I complex	GO:0055029	nuclear DNA-directed RNA polymera
 GO:0005737	cytoplasm	GO:0044424	intracellular part
 GO:0005739	mitochondrion	GO:0043231	intracellular membrane-bounded organelle
 GO:0005739	mitochondrion	GO:0044444	cytoplasmic part
+GO:0005739	mitochondrion	GO:0097423	mitochondrion-associated adherens complex
+GO:0005739	mitochondrion	GO:0097693	ocelloid
 GO:0005740	mitochondrial envelope	GO:0031967	organelle envelope
 GO:0005740	mitochondrial envelope	GO:0044429	mitochondrial part
 GO:0005741	mitochondrial outer membrane	GO:0031966	mitochondrial membrane
@@ -643,23 +694,23 @@ GO:0005744	TIM23 mitochondrial import inner membrane translocase complex	GO:0098
 GO:0005745	m-AAA complex	GO:0098800	inner mitochondrial membrane protein complex
 GO:0005745	m-AAA complex	GO:1905368	peptidase complex
 GO:0005745	m-AAA complex	GO:0031305	integral component of mitochondrial inner membrane
-GO:0005746	mitochondrial respiratory chain	GO:0044455	mitochondrial membrane part
-GO:0005746	mitochondrial respiratory chain	GO:0070469	respiratory chain
-GO:0005746	mitochondrial respiratory chain	GO:0005743	mitochondrial inner membrane
+GO:0005746	mitochondrial respirasome	GO:0044455	mitochondrial membrane part
+GO:0005746	mitochondrial respirasome	GO:0070469	respirasome
+GO:0005746	mitochondrial respirasome	GO:0005743	mitochondrial inner membrane
 GO:0005747	mitochondrial respiratory chain complex I	GO:0045271	respiratory chain complex I
 GO:0005747	mitochondrial respiratory chain complex I	GO:0098800	inner mitochondrial membrane protein complex
 GO:0005747	mitochondrial respiratory chain complex I	GO:1990204	oxidoreductase complex
-GO:0005747	mitochondrial respiratory chain complex I	GO:0005746	mitochondrial respiratory chain
+GO:0005747	mitochondrial respiratory chain complex I	GO:0005746	mitochondrial respirasome
 GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	GO:0045257	succinate dehydrogenase complex (ubiquinone)
 GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	GO:0045283	fumarate reductase complex
 GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	GO:0098800	inner mitochondrial membrane protein complex
-GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	GO:0005746	mitochondrial respiratory chain
+GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	GO:0005746	mitochondrial respirasome
 GO:0005750	mitochondrial respiratory chain complex III	GO:0045275	respiratory chain complex III
 GO:0005750	mitochondrial respiratory chain complex III	GO:0098800	inner mitochondrial membrane protein complex
-GO:0005750	mitochondrial respiratory chain complex III	GO:0005746	mitochondrial respiratory chain
+GO:0005750	mitochondrial respiratory chain complex III	GO:0005746	mitochondrial respirasome
 GO:0005751	mitochondrial respiratory chain complex IV	GO:0045277	respiratory chain complex IV
 GO:0005751	mitochondrial respiratory chain complex IV	GO:0098800	inner mitochondrial membrane protein complex
-GO:0005751	mitochondrial respiratory chain complex IV	GO:0005746	mitochondrial respiratory chain
+GO:0005751	mitochondrial respiratory chain complex IV	GO:0005746	mitochondrial respirasome
 GO:0005753	mitochondrial proton-transporting ATP synthase complex	GO:0045259	proton-transporting ATP synthase complex
 GO:0005753	mitochondrial proton-transporting ATP synthase complex	GO:0098800	inner mitochondrial membrane protein complex
 GO:0005754	mitochondrial proton-transporting ATP synthase, catalytic core	GO:0045267	proton-transporting ATP synthase, catalytic core
@@ -700,6 +751,7 @@ GO:0005770	late endosome	GO:0005768	endosome
 GO:0005771	multivesicular body	GO:0005770	late endosome
 GO:0005773	vacuole	GO:0043231	intracellular membrane-bounded organelle
 GO:0005773	vacuole	GO:0044444	cytoplasmic part
+GO:0005773	vacuole	GO:0012505	endomembrane system
 GO:0005774	vacuolar membrane	GO:0044437	vacuolar part
 GO:0005774	vacuolar membrane	GO:0098588	bounding membrane of organelle
 GO:0005774	vacuolar membrane	GO:0098805	whole membrane
@@ -720,6 +772,7 @@ GO:0005783	endoplasmic reticulum	GO:0043231	intracellular membrane-bounded organ
 GO:0005783	endoplasmic reticulum	GO:0044444	cytoplasmic part
 GO:0005783	endoplasmic reticulum	GO:0012505	endomembrane system
 GO:0005784	Sec61 translocon complex	GO:0071256	translocon complex
+GO:0005784	Sec61 translocon complex	GO:0031205	endoplasmic reticulum Sec complex
 GO:0005785	signal recognition particle receptor complex	GO:0044432	endoplasmic reticulum part
 GO:0005785	signal recognition particle receptor complex	GO:0098796	membrane protein complex
 GO:0005785	signal recognition particle receptor complex	GO:0030867	rough endoplasmic reticulum membrane
@@ -734,7 +787,6 @@ GO:0005789	endoplasmic reticulum membrane	GO:0016020	membrane
 GO:0005789	endoplasmic reticulum membrane	GO:0044425	membrane part
 GO:0005789	endoplasmic reticulum membrane	GO:0044432	endoplasmic reticulum part
 GO:0005789	endoplasmic reticulum membrane	GO:0042175	nuclear outer membrane-endoplasmic reticulum membrane network
-GO:0005789	endoplasmic reticulum membrane	GO:0098827	endoplasmic reticulum subcompartment
 GO:0005790	smooth endoplasmic reticulum	GO:0005783	endoplasmic reticulum
 GO:0005791	rough endoplasmic reticulum	GO:0005783	endoplasmic reticulum
 GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	GO:0043231	intracellular membrane-bounded organelle
@@ -754,6 +806,7 @@ GO:0005811	lipid droplet	GO:0043232	intracellular non-membrane-bounded organelle
 GO:0005813	centrosome	GO:0005815	microtubule organizing center
 GO:0005814	centriole	GO:0043232	intracellular non-membrane-bounded organelle
 GO:0005814	centriole	GO:0044450	microtubule organizing center part
+GO:0005814	centriole	GO:0005813	centrosome
 GO:0005815	microtubule organizing center	GO:0044430	cytoskeletal part
 GO:0005815	microtubule organizing center	GO:0015630	microtubule cytoskeleton
 GO:0005816	spindle pole body	GO:0005815	microtubule organizing center
@@ -787,6 +840,7 @@ GO:0005831	steroid hormone aporeceptor complex	GO:0032991	protein-containing com
 GO:0005831	steroid hormone aporeceptor complex	GO:0044445	cytosolic part
 GO:0005832	chaperonin-containing T-complex	GO:0044445	cytosolic part
 GO:0005832	chaperonin-containing T-complex	GO:0101031	chaperone complex
+GO:0005832	chaperonin-containing T-complex	GO:0002199	zona pellucida receptor complex
 GO:0005833	hemoglobin complex	GO:0032991	protein-containing complex
 GO:0005833	hemoglobin complex	GO:0044445	cytosolic part
 GO:0005834	heterotrimeric G-protein complex	GO:0044424	intracellular part
@@ -855,6 +909,11 @@ GO:0005872	minus-end kinesin complex	GO:0005871	kinesin complex
 GO:0005873	plus-end kinesin complex	GO:0005871	kinesin complex
 GO:0005874	microtubule	GO:0099513	polymeric cytoskeletal fiber
 GO:0005874	microtubule	GO:0015630	microtubule cytoskeleton
+GO:0005874	microtubule	GO:0005930	axoneme
+GO:0005874	microtubule	GO:0097427	microtubule bundle
+GO:0005874	microtubule	GO:0097568	median body
+GO:0005874	microtubule	GO:0097593	ventral disc microtubule array
+GO:0005874	microtubule	GO:0097596	ventral disc supernumerary microtubule array
 GO:0005875	microtubule associated complex	GO:0032991	protein-containing complex
 GO:0005875	microtubule associated complex	GO:0044430	cytoskeletal part
 GO:0005875	microtubule associated complex	GO:0015630	microtubule cytoskeleton
@@ -870,14 +929,21 @@ GO:0005882	intermediate filament	GO:0099513	polymeric cytoskeletal fiber
 GO:0005882	intermediate filament	GO:0045111	intermediate filament cytoskeleton
 GO:0005883	neurofilament	GO:0005882	intermediate filament
 GO:0005883	neurofilament	GO:0044444	cytoplasmic part
+GO:0005883	neurofilament	GO:0060053	neurofilament cytoskeleton
 GO:0005884	actin filament	GO:0099513	polymeric cytoskeletal fiber
 GO:0005884	actin filament	GO:0015629	actin cytoskeleton
+GO:0005884	actin filament	GO:0032432	actin filament bundle
+GO:0005884	actin filament	GO:0098858	actin-based cell projection
+GO:0005884	actin filament	GO:1990819	actin fusion focus
 GO:0005885	Arp2/3 protein complex	GO:0032991	protein-containing complex
 GO:0005885	Arp2/3 protein complex	GO:0044430	cytoskeletal part
 GO:0005885	Arp2/3 protein complex	GO:0015629	actin cytoskeleton
 GO:0005886	plasma membrane	GO:0016020	membrane
 GO:0005886	plasma membrane	GO:0044464	cell part
 GO:0005886	plasma membrane	GO:0071944	cell periphery
+GO:0005886	plasma membrane	GO:0012505	endomembrane system
+GO:0005886	plasma membrane	GO:0030313	cell envelope
+GO:0005886	plasma membrane	GO:0097653	unencapsulated part of cell
 GO:0005887	integral component of plasma membrane	GO:0016021	integral component of membrane
 GO:0005887	integral component of plasma membrane	GO:0031226	intrinsic component of plasma membrane
 GO:0005889	potassium:proton exchanging ATPase complex	GO:0090533	cation-transporting ATPase complex
@@ -910,11 +976,13 @@ GO:0005900	oncostatin-M receptor complex	GO:0098802	plasma membrane receptor com
 GO:0005900	oncostatin-M receptor complex	GO:0005887	integral component of plasma membrane
 GO:0005901	caveola	GO:0044853	plasma membrane raft
 GO:0005902	microvillus	GO:0098858	actin-based cell projection
+GO:0005902	microvillus	GO:0005903	brush border
 GO:0005903	brush border	GO:0098862	cluster of actin-based cell projections
 GO:0005905	clathrin-coated pit	GO:0044425	membrane part
 GO:0005905	clathrin-coated pit	GO:0044464	cell part
 GO:0005905	clathrin-coated pit	GO:0012505	endomembrane system
 GO:0005911	cell-cell junction	GO:0030054	cell junction
+GO:0005911	cell-cell junction	GO:0097423	mitochondrion-associated adherens complex
 GO:0005912	adherens junction	GO:0070161	anchoring junction
 GO:0005913	cell-cell adherens junction	GO:0005911	cell-cell junction
 GO:0005913	cell-cell adherens junction	GO:0005912	adherens junction
@@ -945,6 +1013,7 @@ GO:0005930	axoneme	GO:0044430	cytoskeletal part
 GO:0005930	axoneme	GO:0044441	ciliary part
 GO:0005930	axoneme	GO:0044444	cytoplasmic part
 GO:0005930	axoneme	GO:0097014	ciliary plasm
+GO:0005930	axoneme	GO:0097544	ciliary shaft
 GO:0005931	axonemal nexin link	GO:0032991	protein-containing complex
 GO:0005931	axonemal nexin link	GO:0044447	axoneme part
 GO:0005933	cellular bud	GO:0044464	cell part
@@ -1166,6 +1235,7 @@ GO:0009358	polyphosphate kinase complex	GO:0061695	transferase complex, transfer
 GO:0009359	type II site-specific deoxyribonuclease complex	GO:0044444	cytoplasmic part
 GO:0009359	type II site-specific deoxyribonuclease complex	GO:1905347	endodeoxyribonuclease complex
 GO:0009360	DNA polymerase III complex	GO:0042575	DNA polymerase complex
+GO:0009360	DNA polymerase III complex	GO:0043600	cytoplasmic replisome
 GO:0009361	succinate-CoA ligase complex (ADP-forming)	GO:0042709	succinate-CoA ligase complex
 GO:0009365	protein histidine kinase complex	GO:1902911	protein kinase complex
 GO:0009366	enterobactin synthetase complex	GO:0032991	protein-containing complex
@@ -1261,6 +1331,7 @@ GO:0009535	chloroplast thylakoid membrane	GO:0055035	plastid thylakoid membrane
 GO:0009535	chloroplast thylakoid membrane	GO:0009534	chloroplast thylakoid
 GO:0009536	plastid	GO:0043231	intracellular membrane-bounded organelle
 GO:0009536	plastid	GO:0044444	cytoplasmic part
+GO:0009536	plastid	GO:0097693	ocelloid
 GO:0009537	proplastid	GO:0009536	plastid
 GO:0009538	photosystem I reaction center	GO:0044436	thylakoid part
 GO:0009538	photosystem I reaction center	GO:0098796	membrane protein complex
@@ -1425,6 +1496,7 @@ GO:0012511	monolayer-surrounded lipid storage body	GO:0005811	lipid droplet
 GO:0014069	postsynaptic density	GO:0097458	neuron part
 GO:0014069	postsynaptic density	GO:0099572	postsynaptic specialization
 GO:0014069	postsynaptic density	GO:0032279	asymmetric synapse
+GO:0014069	postsynaptic density	GO:0044327	dendritic spine head
 GO:0014701	junctional sarcoplasmic reticulum membrane	GO:0033017	sarcoplasmic reticulum membrane
 GO:0014702	free sarcoplasmic reticulum membrane	GO:0033017	sarcoplasmic reticulum membrane
 GO:0014704	intercalated disc	GO:0044291	cell-cell contact zone
@@ -1533,6 +1605,7 @@ GO:0016591	RNA polymerase II, holoenzyme	GO:0044451	nucleoplasm part
 GO:0016591	RNA polymerase II, holoenzyme	GO:0055029	nuclear DNA-directed RNA polymerase complex
 GO:0016592	mediator complex	GO:0032991	protein-containing complex
 GO:0016592	mediator complex	GO:0044451	nucleoplasm part
+GO:0016592	mediator complex	GO:0002929	MECO complex
 GO:0016593	Cdc73/Paf1 complex	GO:0008023	transcription elongation factor complex
 GO:0016593	Cdc73/Paf1 complex	GO:0016591	RNA polymerase II, holoenzyme
 GO:0016600	flotillin complex	GO:0098797	plasma membrane protein complex
@@ -1592,6 +1665,7 @@ GO:0019005	SCF ubiquitin ligase complex	GO:0031461	cullin-RING ubiquitin ligase 
 GO:0019008	molybdopterin synthase complex	GO:0032991	protein-containing complex
 GO:0019008	molybdopterin synthase complex	GO:0044464	cell part
 GO:0019012	virion	GO:0005575	cellular_component
+GO:0019012	virion	GO:0039679	viral occlusion body
 GO:0019013	viral nucleocapsid	GO:0044423	virion part
 GO:0019013	viral nucleocapsid	GO:0019028	viral capsid
 GO:0019015	viral genome	GO:0044423	virion part
@@ -1716,6 +1790,8 @@ GO:0022626	cytosolic ribosome	GO:0044445	cytosolic part
 GO:0022627	cytosolic small ribosomal subunit	GO:0015935	small ribosomal subunit
 GO:0022627	cytosolic small ribosomal subunit	GO:0044445	cytosolic part
 GO:0022627	cytosolic small ribosomal subunit	GO:0022626	cytosolic ribosome
+GO:0022627	cytosolic small ribosomal subunit	GO:0016282	eukaryotic 43S preinitiation complex
+GO:0022627	cytosolic small ribosomal subunit	GO:0033290	eukaryotic 48S preinitiation complex
 GO:0022628	chloroplast large ribosomal subunit	GO:0000311	plastid large ribosomal subunit
 GO:0022628	chloroplast large ribosomal subunit	GO:0044434	chloroplast part
 GO:0022628	chloroplast large ribosomal subunit	GO:0043253	chloroplast ribosome
@@ -1794,6 +1870,7 @@ GO:0030117	membrane coat	GO:0044444	cytoplasmic part
 GO:0030117	membrane coat	GO:0098796	membrane protein complex
 GO:0030117	membrane coat	GO:0048475	coated membrane
 GO:0030118	clathrin coat	GO:0030117	membrane coat
+GO:0030118	clathrin coat	GO:0098843	postsynaptic endocytic zone
 GO:0030119	AP-type membrane coat adaptor complex	GO:0044444	cytoplasmic part
 GO:0030119	AP-type membrane coat adaptor complex	GO:0098796	membrane protein complex
 GO:0030119	AP-type membrane coat adaptor complex	GO:0030117	membrane coat
@@ -2075,6 +2152,7 @@ GO:0030981	cortical microtubule cytoskeleton	GO:0015630	microtubule cytoskeleton
 GO:0030988	high molecular weight kininogen receptor complex	GO:0098802	plasma membrane receptor complex
 GO:0030988	high molecular weight kininogen receptor complex	GO:0005887	integral component of plasma membrane
 GO:0030990	intraciliary transport particle	GO:0032991	protein-containing complex
+GO:0030990	intraciliary transport particle	GO:0005929	cilium
 GO:0030991	intraciliary transport particle A	GO:0032991	protein-containing complex
 GO:0030991	intraciliary transport particle A	GO:0030990	intraciliary transport particle
 GO:0030992	intraciliary transport particle B	GO:0032991	protein-containing complex
@@ -2399,6 +2477,7 @@ GO:0031502	dolichyl-phosphate-mannose-protein mannosyltransferase complex	GO:009
 GO:0031502	dolichyl-phosphate-mannose-protein mannosyltransferase complex	GO:0005789	endoplasmic reticulum membrane
 GO:0031510	SUMO activating enzyme complex	GO:0044428	nuclear part
 GO:0031510	SUMO activating enzyme complex	GO:1902494	catalytic complex
+GO:0031510	SUMO activating enzyme complex	GO:1990354	activated SUMO-E1 ligase complex
 GO:0031511	Mis6-Sim4 complex	GO:0032991	protein-containing complex
 GO:0031511	Mis6-Sim4 complex	GO:0044427	chromosomal part
 GO:0031511	Mis6-Sim4 complex	GO:0000939	condensed chromosome inner kinetochore
@@ -2731,6 +2810,7 @@ GO:0032426	stereocilium tip	GO:0120038	plasma membrane bounded cell projection p
 GO:0032426	stereocilium tip	GO:0032420	stereocilium
 GO:0032432	actin filament bundle	GO:0044430	cytoskeletal part
 GO:0032432	actin filament bundle	GO:0015629	actin cytoskeleton
+GO:0032432	actin filament bundle	GO:0005902	microvillus
 GO:0032433	filopodium tip	GO:0120038	plasma membrane bounded cell projection part
 GO:0032433	filopodium tip	GO:0030175	filopodium
 GO:0032437	cuticular plate	GO:0044430	cytoskeletal part
@@ -2767,7 +2847,6 @@ GO:0032584	growth cone membrane	GO:0090723	growth cone part
 GO:0032585	multivesicular body membrane	GO:0031902	late endosome membrane
 GO:0032585	multivesicular body membrane	GO:0005771	multivesicular body
 GO:0032586	protein storage vacuole membrane	GO:0009705	plant-type vacuole membrane
-GO:0032586	protein storage vacuole membrane	GO:0000326	protein storage vacuole
 GO:0032587	ruffle membrane	GO:0031253	cell projection membrane
 GO:0032587	ruffle membrane	GO:0031256	leading edge membrane
 GO:0032587	ruffle membrane	GO:0001726	ruffle
@@ -2778,11 +2857,9 @@ GO:0032589	neuron projection membrane	GO:0031256	leading edge membrane
 GO:0032589	neuron projection membrane	GO:0097458	neuron part
 GO:0032589	neuron projection membrane	GO:0043005	neuron projection
 GO:0032590	dendrite membrane	GO:0032589	neuron projection membrane
-GO:0032590	dendrite membrane	GO:0030425	dendrite
 GO:0032591	dendritic spine membrane	GO:0032589	neuron projection membrane
 GO:0032591	dendritic spine membrane	GO:0097060	synaptic membrane
 GO:0032591	dendritic spine membrane	GO:0032590	dendrite membrane
-GO:0032591	dendritic spine membrane	GO:0043197	dendritic spine
 GO:0032592	integral component of mitochondrial membrane	GO:0031301	integral component of organelle membrane
 GO:0032592	integral component of mitochondrial membrane	GO:0098573	intrinsic component of mitochondrial membrane
 GO:0032593	insulin-responsive compartment	GO:0030141	secretory granule
@@ -2792,6 +2869,7 @@ GO:0032777	Piccolo NuA4 histone acetyltransferase complex	GO:0035267	NuA4 histon
 GO:0032783	ELL-EAF complex	GO:0008023	transcription elongation factor complex
 GO:0032797	SMN complex	GO:0032991	protein-containing complex
 GO:0032797	SMN complex	GO:0044424	intracellular part
+GO:0032797	SMN complex	GO:0034719	SMN-Sm protein complex
 GO:0032798	Swi5-Sfr1 complex	GO:0033061	DNA recombinase mediator complex
 GO:0032798	Swi5-Sfr1 complex	GO:0044454	nuclear chromosome part
 GO:0032798	Swi5-Sfr1 complex	GO:0000790	nuclear chromatin
@@ -2808,7 +2886,7 @@ GO:0032839	dendrite cytoplasm	GO:0120111	neuron projection cytoplasm
 GO:0032839	dendrite cytoplasm	GO:0030425	dendrite
 GO:0032865	ERMES complex	GO:0044432	endoplasmic reticulum part
 GO:0032865	ERMES complex	GO:0098799	outer mitochondrial membrane protein complex
-GO:0032865	ERMES complex	GO:0044233	Mitochondria-associated ER Membrane
+GO:0032865	ERMES complex	GO:0044233	mitochondria-associated endoplasmic reticulum membrane
 GO:0032921	sarcosine oxidase complex	GO:0044444	cytoplasmic part
 GO:0032921	sarcosine oxidase complex	GO:1990204	oxidoreductase complex
 GO:0032936	SREBP-SCAP complex	GO:0098796	membrane protein complex
@@ -2946,6 +3024,7 @@ GO:0033193	Lsd1/2 complex	GO:0032991	protein-containing complex
 GO:0033193	Lsd1/2 complex	GO:0044427	chromosomal part
 GO:0033202	DNA helicase complex	GO:0044424	intracellular part
 GO:0033202	DNA helicase complex	GO:1902494	catalytic complex
+GO:0033202	DNA helicase complex	GO:0030894	replisome
 GO:0033203	DNA helicase A complex	GO:0033202	DNA helicase complex
 GO:0033203	DNA helicase A complex	GO:0044428	nuclear part
 GO:0033254	vacuolar transporter chaperone complex	GO:0044444	cytoplasmic part
@@ -3111,6 +3190,8 @@ GO:0034451	centriolar satellite	GO:0044450	microtubule organizing center part
 GO:0034451	centriolar satellite	GO:0005813	centrosome
 GO:0034455	t-UTP complex	GO:0032991	protein-containing complex
 GO:0034455	t-UTP complex	GO:0044452	nucleolar part
+GO:0034455	t-UTP complex	GO:0030686	90S preribosome
+GO:0034455	t-UTP complex	GO:0032040	small-subunit processome
 GO:0034456	UTP-C complex	GO:0032991	protein-containing complex
 GO:0034456	UTP-C complex	GO:0044452	nucleolar part
 GO:0034456	UTP-C complex	GO:0030686	90S preribosome
@@ -3188,6 +3269,7 @@ GO:0034691	integrin alphaE-beta7 complex	GO:0008305	integrin complex
 GO:0034692	E.F.G complex	GO:0032991	protein-containing complex
 GO:0034692	E.F.G complex	GO:0044428	nuclear part
 GO:0034693	U11/U12 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0034693	U11/U12 snRNP	GO:0071015	U12-type prespliceosome
 GO:0034702	ion channel complex	GO:1902495	transmembrane transporter complex
 GO:0034703	cation channel complex	GO:0034702	ion channel complex
 GO:0034704	calcium channel complex	GO:0034703	cation channel complex
@@ -3237,13 +3319,12 @@ GO:0034749	Scrib-APC complex	GO:0032991	protein-containing complex
 GO:0034749	Scrib-APC complex	GO:0044444	cytoplasmic part
 GO:0034750	Scrib-APC-beta-catenin complex	GO:0032991	protein-containing complex
 GO:0034750	Scrib-APC-beta-catenin complex	GO:0044444	cytoplasmic part
-GO:0034751	aryl hydrocarbon receptor complex	GO:0005667	transcription factor complex
 GO:0034751	aryl hydrocarbon receptor complex	GO:0043235	receptor complex
+GO:0034751	aryl hydrocarbon receptor complex	GO:0044424	intracellular part
 GO:0034752	cytosolic aryl hydrocarbon receptor complex	GO:0034751	aryl hydrocarbon receptor complex
 GO:0034752	cytosolic aryl hydrocarbon receptor complex	GO:0044445	cytosolic part
-GO:0034752	cytosolic aryl hydrocarbon receptor complex	GO:0044797	cytoplasmic transcription factor complex
 GO:0034753	nuclear aryl hydrocarbon receptor complex	GO:0034751	aryl hydrocarbon receptor complex
-GO:0034753	nuclear aryl hydrocarbon receptor complex	GO:0044798	nuclear transcription factor complex
+GO:0034753	nuclear aryl hydrocarbon receptor complex	GO:0044428	nuclear part
 GO:0034774	secretory granule lumen	GO:0060205	cytoplasmic vesicle lumen
 GO:0034774	secretory granule lumen	GO:0030141	secretory granule
 GO:0034777	recycling endosome lumen	GO:0031904	endosome lumen
@@ -3399,6 +3480,7 @@ GO:0035866	alphav-beta3 integrin-PKCalpha complex	GO:0098797	plasma membrane pro
 GO:0035867	alphav-beta3 integrin-IGF-1-IGF1R complex	GO:0098797	plasma membrane protein complex
 GO:0035868	alphav-beta3 integrin-HMGB1 complex	GO:0098797	plasma membrane protein complex
 GO:0035869	ciliary transition zone	GO:0044441	ciliary part
+GO:0035869	ciliary transition zone	GO:0097546	ciliary base
 GO:0035974	meiotic spindle pole body	GO:0005816	spindle pole body
 GO:0035976	transcription factor AP-1 complex	GO:0090575	RNA polymerase II transcription factor complex
 GO:0035985	senescence-associated heterochromatin focus	GO:0000792	heterochromatin
@@ -3450,7 +3532,12 @@ GO:0036126	sperm flagellum	GO:0097223	sperm part
 GO:0036126	sperm flagellum	GO:0097729	9+2 motile cilium
 GO:0036128	CatSper complex	GO:0005891	voltage-gated calcium channel complex
 GO:0036156	inner dynein arm	GO:0005858	axonemal dynein complex
+GO:0036156	inner dynein arm	GO:0097728	9+0 motile cilium
+GO:0036156	inner dynein arm	GO:0097729	9+2 motile cilium
 GO:0036157	outer dynein arm	GO:0005858	axonemal dynein complex
+GO:0036157	outer dynein arm	GO:0097728	9+0 motile cilium
+GO:0036157	outer dynein arm	GO:0097729	9+2 motile cilium
+GO:0036157	outer dynein arm	GO:0097732	9+2 non-motile cilium
 GO:0036186	early phagosome membrane	GO:0030670	phagocytic vesicle membrane
 GO:0036186	early phagosome membrane	GO:0032009	early phagosome
 GO:0036194	muscle cell projection	GO:0120025	plasma membrane bounded cell projection
@@ -3512,6 +3599,7 @@ GO:0036477	somatodendritic compartment	GO:0097458	neuron part
 GO:0036488	CHOP-C/EBP complex	GO:0090575	RNA polymerase II transcription factor complex
 GO:0036501	UFD1-NPL4 complex	GO:0032991	protein-containing complex
 GO:0036501	UFD1-NPL4 complex	GO:0044444	cytoplasmic part
+GO:0036501	UFD1-NPL4 complex	GO:0034098	VCP-NPL4-UFD1 AAA ATPase complex
 GO:0036502	Derlin-1-VIMP complex	GO:0044432	endoplasmic reticulum part
 GO:0036502	Derlin-1-VIMP complex	GO:0098796	membrane protein complex
 GO:0036502	Derlin-1-VIMP complex	GO:0005789	endoplasmic reticulum membrane
@@ -3577,6 +3665,7 @@ GO:0042022	interleukin-12 receptor complex	GO:0098802	plasma membrane receptor c
 GO:0042022	interleukin-12 receptor complex	GO:0005887	integral component of plasma membrane
 GO:0042025	host cell nucleus	GO:0033648	host intracellular membrane-bounded organelle
 GO:0042101	T cell receptor complex	GO:0098802	plasma membrane receptor complex
+GO:0042101	T cell receptor complex	GO:0036398	TCR signalosome
 GO:0042105	alpha-beta T cell receptor complex	GO:0042101	T cell receptor complex
 GO:0042106	gamma-delta T cell receptor complex	GO:0042101	T cell receptor complex
 GO:0042151	nematocyst	GO:0043232	intracellular non-membrane-bounded organelle
@@ -3599,6 +3688,7 @@ GO:0042406	extrinsic component of endoplasmic reticulum membrane	GO:0044432	endo
 GO:0042406	extrinsic component of endoplasmic reticulum membrane	GO:0005789	endoplasmic reticulum membrane
 GO:0042470	melanosome	GO:0048770	pigment granule
 GO:0042555	MCM complex	GO:0032991	protein-containing complex
+GO:0042555	MCM complex	GO:0005656	nuclear pre-replicative complex
 GO:0042564	NLS-dependent protein nuclear import complex	GO:0031074	nucleocytoplasmic transport complex
 GO:0042565	RNA nuclear export complex	GO:0031074	nucleocytoplasmic transport complex
 GO:0042566	hydrogenosome	GO:0043231	intracellular membrane-bounded organelle
@@ -3610,6 +3700,7 @@ GO:0042571	immunoglobulin complex, circulating	GO:0044421	extracellular region p
 GO:0042571	immunoglobulin complex, circulating	GO:0005615	extracellular space
 GO:0042575	DNA polymerase complex	GO:0044424	intracellular part
 GO:0042575	DNA polymerase complex	GO:0061695	transferase complex, transferring phosphorus-containing groups
+GO:0042575	DNA polymerase complex	GO:0030894	replisome
 GO:0042579	microbody	GO:0043231	intracellular membrane-bounded organelle
 GO:0042579	microbody	GO:0044444	cytoplasmic part
 GO:0042580	mannosome	GO:0005777	peroxisome
@@ -3787,6 +3878,7 @@ GO:0043232	intracellular non-membrane-bounded organelle	GO:0043229	intracellular
 GO:0043233	organelle lumen	GO:0031974	membrane-enclosed lumen
 GO:0043233	organelle lumen	GO:0044422	organelle part
 GO:0043235	receptor complex	GO:0032991	protein-containing complex
+GO:0043235	receptor complex	GO:1990270	platelet-derived growth factor receptor-ligand complex
 GO:0043240	Fanconi anaemia nuclear complex	GO:0032991	protein-containing complex
 GO:0043240	Fanconi anaemia nuclear complex	GO:0044451	nucleoplasm part
 GO:0043245	extraorganismal space	GO:0044421	extracellular region part
@@ -4066,7 +4158,7 @@ GO:0044231	host cell presynaptic membrane	GO:0033644	host cell membrane
 GO:0044231	host cell presynaptic membrane	GO:0072556	other organism presynaptic membrane
 GO:0044231	host cell presynaptic membrane	GO:0044221	host cell synapse
 GO:0044232	organelle membrane contact site	GO:0044422	organelle part
-GO:0044233	Mitochondria-associated ER Membrane	GO:0044232	organelle membrane contact site
+GO:0044233	mitochondria-associated endoplasmic reticulum membrane	GO:0044232	organelle membrane contact site
 GO:0044279	other organism membrane	GO:0044217	other organism part
 GO:0044280	subplasmalemmal coating	GO:0044424	intracellular part
 GO:0044280	subplasmalemmal coating	GO:0044459	plasma membrane part
@@ -4105,6 +4197,7 @@ GO:0044307	dendritic branch	GO:0030425	dendrite
 GO:0044308	axonal spine	GO:0033267	axon part
 GO:0044308	axonal spine	GO:0044309	neuron spine
 GO:0044309	neuron spine	GO:0043005	neuron projection
+GO:0044309	neuron spine	GO:0097448	spine mat
 GO:0044310	osmiophilic body	GO:0031410	cytoplasmic vesicle
 GO:0044311	exoneme	GO:0043231	intracellular membrane-bounded organelle
 GO:0044311	exoneme	GO:0020007	apical complex
@@ -4296,6 +4389,7 @@ GO:0044776	DNA polymerase III, core complex	GO:0044424	intracellular part
 GO:0044776	DNA polymerase III, core complex	GO:0009360	DNA polymerase III complex
 GO:0044777	single-stranded DNA-binding protein complex	GO:0032991	protein-containing complex
 GO:0044777	single-stranded DNA-binding protein complex	GO:0009295	nucleoid
+GO:0044777	single-stranded DNA-binding protein complex	GO:0043600	cytoplasmic replisome
 GO:0044796	DNA polymerase processivity factor complex	GO:0032991	protein-containing complex
 GO:0044796	DNA polymerase processivity factor complex	GO:0044424	intracellular part
 GO:0044797	cytoplasmic transcription factor complex	GO:0005667	transcription factor complex
@@ -4307,7 +4401,7 @@ GO:0044799	NarGHI complex	GO:0098797	plasma membrane protein complex
 GO:0044799	NarGHI complex	GO:0098803	respiratory chain complex
 GO:0044799	NarGHI complex	GO:1990204	oxidoreductase complex
 GO:0044799	NarGHI complex	GO:0005887	integral component of plasma membrane
-GO:0044799	NarGHI complex	GO:0070470	plasma membrane respiratory chain
+GO:0044799	NarGHI complex	GO:0070470	plasma membrane respirasome
 GO:0044815	DNA packaging complex	GO:0032991	protein-containing complex
 GO:0044816	Nsk1-Dlc1 complex	GO:0032991	protein-containing complex
 GO:0044834	retroviral intasome	GO:0032993	protein-DNA complex
@@ -4419,25 +4513,25 @@ GO:0045271	respiratory chain complex I	GO:0098803	respiratory chain complex
 GO:0045272	plasma membrane respiratory chain complex I	GO:0045271	respiratory chain complex I
 GO:0045272	plasma membrane respiratory chain complex I	GO:0098797	plasma membrane protein complex
 GO:0045272	plasma membrane respiratory chain complex I	GO:1990204	oxidoreductase complex
-GO:0045272	plasma membrane respiratory chain complex I	GO:0070470	plasma membrane respiratory chain
+GO:0045272	plasma membrane respiratory chain complex I	GO:0070470	plasma membrane respirasome
 GO:0045273	respiratory chain complex II	GO:0044424	intracellular part
 GO:0045273	respiratory chain complex II	GO:0098803	respiratory chain complex
 GO:0045274	plasma membrane respiratory chain complex II	GO:0045273	respiratory chain complex II
 GO:0045274	plasma membrane respiratory chain complex II	GO:0098797	plasma membrane protein complex
-GO:0045274	plasma membrane respiratory chain complex II	GO:0070470	plasma membrane respiratory chain
+GO:0045274	plasma membrane respiratory chain complex II	GO:0070470	plasma membrane respirasome
 GO:0045275	respiratory chain complex III	GO:0044424	intracellular part
 GO:0045275	respiratory chain complex III	GO:0070069	cytochrome complex
 GO:0045275	respiratory chain complex III	GO:0098803	respiratory chain complex
 GO:0045275	respiratory chain complex III	GO:1990204	oxidoreductase complex
 GO:0045276	plasma membrane respiratory chain complex III	GO:0045275	respiratory chain complex III
 GO:0045276	plasma membrane respiratory chain complex III	GO:0098797	plasma membrane protein complex
-GO:0045276	plasma membrane respiratory chain complex III	GO:0070470	plasma membrane respiratory chain
+GO:0045276	plasma membrane respiratory chain complex III	GO:0070470	plasma membrane respirasome
 GO:0045277	respiratory chain complex IV	GO:0044424	intracellular part
 GO:0045277	respiratory chain complex IV	GO:0070069	cytochrome complex
 GO:0045277	respiratory chain complex IV	GO:0098803	respiratory chain complex
 GO:0045278	plasma membrane respiratory chain complex IV	GO:0045277	respiratory chain complex IV
 GO:0045278	plasma membrane respiratory chain complex IV	GO:0098797	plasma membrane protein complex
-GO:0045278	plasma membrane respiratory chain complex IV	GO:0070470	plasma membrane respiratory chain
+GO:0045278	plasma membrane respiratory chain complex IV	GO:0070470	plasma membrane respirasome
 GO:0045281	succinate dehydrogenase complex	GO:0044424	intracellular part
 GO:0045281	succinate dehydrogenase complex	GO:0098803	respiratory chain complex
 GO:0045281	succinate dehydrogenase complex	GO:1990204	oxidoreductase complex
@@ -4469,6 +4563,7 @@ GO:0046536	dosage compensation complex	GO:0044427	chromosomal part
 GO:0046536	dosage compensation complex	GO:0044428	nuclear part
 GO:0046536	dosage compensation complex	GO:0000803	sex chromosome
 GO:0046540	U4/U6 x U5 tri-snRNP complex	GO:0097526	spliceosomal tri-snRNP complex
+GO:0046540	U4/U6 x U5 tri-snRNP complex	GO:0071005	U2-type precatalytic spliceosome
 GO:0046581	intercellular canaliculus	GO:0005911	cell-cell junction
 GO:0046610	lysosomal proton-transporting V-type ATPase, V0 domain	GO:0000220	vacuolar proton-transporting V-type ATPase, V0 domain
 GO:0046610	lysosomal proton-transporting V-type ATPase, V0 domain	GO:0046611	lysosomal proton-transporting V-type ATPase complex
@@ -4506,7 +4601,6 @@ GO:0046859	hydrogenosomal membrane	GO:0042566	hydrogenosome
 GO:0046860	glycosome membrane	GO:0005778	peroxisomal membrane
 GO:0046860	glycosome membrane	GO:0020015	glycosome
 GO:0046861	glyoxysomal membrane	GO:0005778	peroxisomal membrane
-GO:0046861	glyoxysomal membrane	GO:0009514	glyoxysome
 GO:0046862	chromoplast membrane	GO:0042170	plastid membrane
 GO:0046862	chromoplast membrane	GO:0031898	chromoplast envelope
 GO:0046868	mesosome	GO:0044459	plasma membrane part
@@ -4803,6 +4897,13 @@ GO:0062073	histone mRNA stem-loop binding complex	GO:0032991	protein-containing 
 GO:0062073	histone mRNA stem-loop binding complex	GO:0044444	cytoplasmic part
 GO:0062074	pollen aperture	GO:0044462	external encapsulating structure part
 GO:0062074	pollen aperture	GO:0043667	pollen wall
+GO:0062077	phenylacetyl-CoA 1,2-epoxidase complex	GO:1990204	oxidoreductase complex
+GO:0062079	ATG2-ATG18 complex	GO:0044444	cytoplasmic part
+GO:0062079	ATG2-ATG18 complex	GO:0098796	membrane protein complex
+GO:0062079	ATG2-ATG18 complex	GO:0034045	phagophore assembly site membrane
+GO:0062091	Ycf2/FtsHi complex	GO:1904949	ATPase complex
+GO:0062092	Yae1-Lto1 complex	GO:0032991	protein-containing complex
+GO:0062092	Yae1-Lto1 complex	GO:0044445	cytosolic part
 GO:0065010	extracellular membrane-bounded organelle	GO:0043227	membrane-bounded organelle
 GO:0065010	extracellular membrane-bounded organelle	GO:0043230	extracellular organelle
 GO:0070013	intracellular organelle lumen	GO:0043233	organelle lumen
@@ -4812,13 +4913,8 @@ GO:0070014	sucrase-isomaltase complex	GO:0098797	plasma membrane protein complex
 GO:0070014	sucrase-isomaltase complex	GO:1902687	glucosidase complex
 GO:0070014	sucrase-isomaltase complex	GO:0005887	integral component of plasma membrane
 GO:0070017	alphav-beta3 integrin-thrombospondin complex	GO:0098797	plasma membrane protein complex
-GO:0070018	transforming growth factor beta type I receptor homodimeric complex	GO:0070022	transforming growth factor beta receptor complex
-GO:0070019	transforming growth factor beta type II receptor homodimeric complex	GO:0070022	transforming growth factor beta receptor complex
-GO:0070020	transforming growth factor beta1-type II receptor complex	GO:0098797	plasma membrane protein complex
-GO:0070021	transforming growth factor beta1-type II receptor-type I receptor complex	GO:0098797	plasma membrane protein complex
-GO:0070022	transforming growth factor beta receptor complex	GO:0098802	plasma membrane receptor complex
-GO:0070022	transforming growth factor beta receptor complex	GO:1902554	serine/threonine protein kinase complex
-GO:0070022	transforming growth factor beta receptor complex	GO:0005887	integral component of plasma membrane
+GO:0070021	transforming growth factor beta ligand-receptor complex	GO:0098802	plasma membrane receptor complex
+GO:0070021	transforming growth factor beta ligand-receptor complex	GO:1902554	serine/threonine protein kinase complex
 GO:0070023	interleukin-12-interleukin-12 receptor complex	GO:0098797	plasma membrane protein complex
 GO:0070024	CD19-Vav-PIK3R1 complex	GO:0098797	plasma membrane protein complex
 GO:0070029	alphav-beta3 integrin-osteopontin complex	GO:0098797	plasma membrane protein complex
@@ -4965,9 +5061,9 @@ GO:0070465	alpha1-beta1 integrin-alpha3(VI) complex	GO:0098797	plasma membrane p
 GO:0070466	alpha2-beta1 integrin-alpha3(VI) complex	GO:0098797	plasma membrane protein complex
 GO:0070467	RC-1 DNA recombination complex	GO:0032991	protein-containing complex
 GO:0070467	RC-1 DNA recombination complex	GO:0044428	nuclear part
-GO:0070469	respiratory chain	GO:0044425	membrane part
-GO:0070470	plasma membrane respiratory chain	GO:0044459	plasma membrane part
-GO:0070470	plasma membrane respiratory chain	GO:0070469	respiratory chain
+GO:0070469	respirasome	GO:0044425	membrane part
+GO:0070470	plasma membrane respirasome	GO:0044459	plasma membrane part
+GO:0070470	plasma membrane respirasome	GO:0070469	respirasome
 GO:0070477	endospore core	GO:0044424	intracellular part
 GO:0070505	pollen coat	GO:0031012	extracellular matrix
 GO:0070514	SRF-myogenin-E12 complex	GO:0090575	RNA polymerase II transcription factor complex
@@ -5083,11 +5179,13 @@ GO:0070823	HDA1 complex	GO:0044454	nuclear chromosome part
 GO:0070823	HDA1 complex	GO:0000790	nuclear chromatin
 GO:0070824	SHREC complex	GO:0000118	histone deacetylase complex
 GO:0070824	SHREC complex	GO:0090568	nuclear transcriptional repressor complex
+GO:0070824	SHREC complex	GO:0110129	SHREC2 complex
 GO:0070825	micropyle	GO:0044462	external encapsulating structure part
 GO:0070825	micropyle	GO:0042600	chorion
 GO:0070826	paraferritin complex	GO:0032991	protein-containing complex
 GO:0070826	paraferritin complex	GO:0044444	cytoplasmic part
 GO:0070847	core mediator complex	GO:0090575	RNA polymerase II transcription factor complex
+GO:0070847	core mediator complex	GO:0016592	mediator complex
 GO:0070850	TACC/TOG complex	GO:0032991	protein-containing complex
 GO:0070850	TACC/TOG complex	GO:0044424	intracellular part
 GO:0070852	cell body fiber	GO:0043005	neuron projection
@@ -5124,7 +5222,10 @@ GO:0070992	translation initiation complex	GO:1990904	ribonucleoprotein complex
 GO:0070993	translation preinitiation complex	GO:0044444	cytoplasmic part
 GO:0070993	translation preinitiation complex	GO:1990904	ribonucleoprotein complex
 GO:0071001	U4/U6 snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0071001	U4/U6 snRNP	GO:0046540	U4/U6 x U5 tri-snRNP complex
+GO:0071001	U4/U6 snRNP	GO:0071003	penta-snRNP complex
 GO:0071002	U4atac/U6atac snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0071002	U4atac/U6atac snRNP	GO:0071009	U4atac/U6atac x U5 tri-snRNP complex
 GO:0071003	penta-snRNP complex	GO:0097525	spliceosomal snRNP complex
 GO:0071004	U2-type prespliceosome	GO:0005684	U2-type spliceosomal complex
 GO:0071004	U2-type prespliceosome	GO:0071010	prespliceosome
@@ -5137,6 +5238,7 @@ GO:0071007	U2-type catalytic step 2 spliceosome	GO:0071013	catalytic step 2 spli
 GO:0071008	U2-type post-mRNA release spliceosomal complex	GO:0005684	U2-type spliceosomal complex
 GO:0071008	U2-type post-mRNA release spliceosomal complex	GO:0071014	post-mRNA release spliceosomal complex
 GO:0071009	U4atac/U6atac x U5 tri-snRNP complex	GO:0097526	spliceosomal tri-snRNP complex
+GO:0071009	U4atac/U6atac x U5 tri-snRNP complex	GO:0071016	U12-type precatalytic spliceosome
 GO:0071010	prespliceosome	GO:0005681	spliceosomal complex
 GO:0071011	precatalytic spliceosome	GO:0005681	spliceosomal complex
 GO:0071012	catalytic step 1 spliceosome	GO:0005681	spliceosomal complex
@@ -5163,6 +5265,7 @@ GO:0071022	U12-type post-spliceosomal complex	GO:0005689	U12-type spliceosomal c
 GO:0071022	U12-type post-spliceosomal complex	GO:0071020	post-spliceosomal complex
 GO:0071023	trans spliceosomal complex	GO:0005681	spliceosomal complex
 GO:0071024	SL snRNP	GO:0097525	spliceosomal snRNP complex
+GO:0071024	SL snRNP	GO:0071023	trans spliceosomal complex
 GO:0071052	alpha9-beta1 integrin-ADAM1 complex	GO:0098797	plasma membrane protein complex
 GO:0071053	alpha9-beta1 integrin-ADAM2 complex	GO:0098797	plasma membrane protein complex
 GO:0071054	alpha9-beta1 integrin-ADAM3 complex	GO:0098797	plasma membrane protein complex
@@ -5259,6 +5362,7 @@ GO:0071159	NF-kappaB complex	GO:0032991	protein-containing complex
 GO:0071159	NF-kappaB complex	GO:0044424	intracellular part
 GO:0071162	CMG complex	GO:0031261	DNA replication preinitiation complex
 GO:0071162	CMG complex	GO:0044454	nuclear chromosome part
+GO:0071162	CMG complex	GO:0043596	nuclear replication fork
 GO:0071175	MAML2-RBP-Jkappa-ICN1 complex	GO:0032991	protein-containing complex
 GO:0071175	MAML2-RBP-Jkappa-ICN1 complex	GO:0044451	nucleoplasm part
 GO:0071176	MAML2-RBP-Jkappa-ICN2 complex	GO:0032991	protein-containing complex
@@ -5416,6 +5520,8 @@ GO:0071817	MMXD complex	GO:0005819	spindle
 GO:0071818	BAT3 complex	GO:0072379	ER membrane insertion complex
 GO:0071819	DUBm complex	GO:0032991	protein-containing complex
 GO:0071819	DUBm complex	GO:0044451	nucleoplasm part
+GO:0071819	DUBm complex	GO:0000124	SAGA complex
+GO:0071819	DUBm complex	GO:0046695	SLIK (SAGA-like) complex
 GO:0071821	FANCM-MHF complex	GO:0032991	protein-containing complex
 GO:0071821	FANCM-MHF complex	GO:0044451	nucleoplasm part
 GO:0071914	prominosome	GO:1903561	extracellular vesicle
@@ -5517,6 +5623,7 @@ GO:0090543	Flemming body	GO:0044464	cell part
 GO:0090543	Flemming body	GO:0030496	midbody
 GO:0090545	CHD-type complex	GO:0070603	SWI/SNF superfamily-type complex
 GO:0090552	unicellular trichome apex	GO:0044463	cell projection part
+GO:0090552	unicellular trichome apex	GO:0090405	unicellular trichome branch
 GO:0090553	unicellular trichome tip	GO:0044463	cell projection part
 GO:0090553	unicellular trichome tip	GO:0090552	unicellular trichome apex
 GO:0090568	nuclear transcriptional repressor complex	GO:0017053	transcriptional repressor complex
@@ -5579,14 +5686,14 @@ GO:0090730	Las1 complex	GO:1902911	protein kinase complex
 GO:0090730	Las1 complex	GO:1905354	exoribonuclease complex
 GO:0090732	cofilin-actin rod	GO:0031002	actin rod
 GO:0090733	tenascin complex	GO:0044420	extracellular matrix component
-GO:0090733	tenascin complex	GO:0098636	protein complex involved in cell adhesion
+GO:0090733	tenascin complex	GO:0098637	protein complex involved in cell-matrix adhesion
+GO:0090733	tenascin complex	GO:0062023	collagen-containing extracellular matrix
 GO:0090734	site of DNA damage	GO:0044427	chromosomal part
 GO:0090740	integral component of pigment granule membrane	GO:0031301	integral component of organelle membrane
 GO:0090740	integral component of pigment granule membrane	GO:0044433	cytoplasmic vesicle part
 GO:0090740	integral component of pigment granule membrane	GO:0090741	pigment granule membrane
 GO:0090741	pigment granule membrane	GO:0044433	cytoplasmic vesicle part
 GO:0090741	pigment granule membrane	GO:0098588	bounding membrane of organelle
-GO:0090741	pigment granule membrane	GO:0048770	pigment granule
 GO:0097002	mitochondrial inner boundary membrane	GO:0044455	mitochondrial membrane part
 GO:0097002	mitochondrial inner boundary membrane	GO:0005743	mitochondrial inner membrane
 GO:0097013	phagocytic vesicle lumen	GO:0071682	endocytic vesicle lumen
@@ -5667,6 +5774,7 @@ GO:0097208	alveolar lamellar body	GO:0042599	lamellar body
 GO:0097209	epidermal lamellar body	GO:0042599	lamellar body
 GO:0097217	sieve area	GO:0044426	cell wall part
 GO:0097217	sieve area	GO:0009505	plant-type cell wall
+GO:0097217	sieve area	GO:0097218	sieve plate
 GO:0097218	sieve plate	GO:0044426	cell wall part
 GO:0097218	sieve plate	GO:0009505	plant-type cell wall
 GO:0097219	compound sieve plate	GO:0097218	sieve plate
@@ -5697,7 +5805,6 @@ GO:0097233	alveolar lamellar body membrane	GO:0097232	lamellar body membrane
 GO:0097233	alveolar lamellar body membrane	GO:0097208	alveolar lamellar body
 GO:0097234	epidermal lamellar body membrane	GO:0097232	lamellar body membrane
 GO:0097234	epidermal lamellar body membrane	GO:0097209	epidermal lamellar body
-GO:0097249	mitochondrial respiratory chain supercomplex	GO:0098800	inner mitochondrial membrane protein complex
 GO:0097255	R2TP complex	GO:0032991	protein-containing complex
 GO:0097268	cytoophidium	GO:0044464	cell part
 GO:0097311	bacterial biofilm matrix	GO:0062039	biofilm matrix
@@ -5716,6 +5823,7 @@ GO:0097361	CIA complex	GO:0032991	protein-containing complex
 GO:0097361	CIA complex	GO:0044445	cytosolic part
 GO:0097362	MCM8-MCM9 complex	GO:0042555	MCM complex
 GO:0097373	MCM core complex	GO:0032991	protein-containing complex
+GO:0097373	MCM core complex	GO:0042555	MCM complex
 GO:0097381	photoreceptor disc membrane	GO:0060170	ciliary membrane
 GO:0097381	photoreceptor disc membrane	GO:0097458	neuron part
 GO:0097381	photoreceptor disc membrane	GO:0001750	photoreceptor outer segment
@@ -5776,11 +5884,13 @@ GO:0097458	neuron part	GO:0044464	cell part
 GO:0097462	Lewy neurite	GO:0043005	neuron projection
 GO:0097463	gemmule	GO:0043005	neuron projection
 GO:0097464	thorny excrescence	GO:0043197	dendritic spine
+GO:0097464	thorny excrescence	GO:0098686	hippocampal mossy fiber to CA3 synapse
 GO:0097465	somatic spine	GO:0044309	neuron spine
 GO:0097467	type III terminal bouton	GO:0043195	terminal bouton
 GO:0097470	ribbon synapse	GO:0045202	synapse
 GO:0097471	mossy fiber rosette	GO:0032279	asymmetric synapse
 GO:0097478	leaflet of membrane bilayer	GO:0044425	membrane part
+GO:0097478	leaflet of membrane bilayer	GO:0098552	side of membrane
 GO:0097482	muscle cell postsynaptic specialization	GO:0099572	postsynaptic specialization
 GO:0097482	muscle cell postsynaptic specialization	GO:0098975	postsynapse of neuromuscular junction
 GO:0097486	multivesicular body lumen	GO:0031906	late endosome lumen
@@ -5826,13 +5936,17 @@ GO:0097538	ciliary necklace	GO:0035869	ciliary transition zone
 GO:0097538	ciliary necklace	GO:0060170	ciliary membrane
 GO:0097539	ciliary transition fiber	GO:0032991	protein-containing complex
 GO:0097539	ciliary transition fiber	GO:0044441	ciliary part
+GO:0097539	ciliary transition fiber	GO:0097546	ciliary base
 GO:0097540	axonemal central pair	GO:0044447	axoneme part
 GO:0097540	axonemal central pair	GO:1990716	axonemal central apparatus
+GO:0097540	axonemal central pair	GO:0097729	9+2 motile cilium
 GO:0097541	axonemal basal plate	GO:0044447	axoneme part
 GO:0097542	ciliary tip	GO:0044441	ciliary part
 GO:0097543	ciliary inversin compartment	GO:0044441	ciliary part
 GO:0097544	ciliary shaft	GO:0044441	ciliary part
 GO:0097545	axonemal outer doublet	GO:0044447	axoneme part
+GO:0097545	axonemal outer doublet	GO:0097728	9+0 motile cilium
+GO:0097545	axonemal outer doublet	GO:0097729	9+2 motile cilium
 GO:0097546	ciliary base	GO:0044441	ciliary part
 GO:0097547	synaptic vesicle protein transport vesicle	GO:0031410	cytoplasmic vesicle
 GO:0097550	transcriptional preinitiation complex	GO:0032993	protein-DNA complex
@@ -5845,9 +5959,13 @@ GO:0097559	right ventral flagellum	GO:0097729	9+2 motile cilium
 GO:0097560	left caudal flagellum	GO:0097729	9+2 motile cilium
 GO:0097561	right caudal flagellum	GO:0097729	9+2 motile cilium
 GO:0097562	left lateral basal body pair	GO:0044463	cell projection part
+GO:0097562	left lateral basal body pair	GO:0097566	left tetrad
 GO:0097563	left middle basal body pair	GO:0044463	cell projection part
+GO:0097563	left middle basal body pair	GO:0097566	left tetrad
 GO:0097564	right lateral basal body pair	GO:0044463	cell projection part
+GO:0097564	right lateral basal body pair	GO:0097567	right tetrad
 GO:0097565	right middle basal body pair	GO:0044463	cell projection part
+GO:0097565	right middle basal body pair	GO:0097567	right tetrad
 GO:0097566	left tetrad	GO:0044463	cell projection part
 GO:0097567	right tetrad	GO:0044463	cell projection part
 GO:0097568	median body	GO:0044430	cytoskeletal part
@@ -5873,6 +5991,7 @@ GO:0097592	ventral disc overlap zone	GO:0044422	organelle part
 GO:0097592	ventral disc overlap zone	GO:0097597	ventral disc
 GO:0097593	ventral disc microtubule array	GO:0044422	organelle part
 GO:0097593	ventral disc microtubule array	GO:0097597	ventral disc
+GO:0097593	ventral disc microtubule array	GO:0097592	ventral disc overlap zone
 GO:0097594	ventral disc dorsal microribbon	GO:0044422	organelle part
 GO:0097594	ventral disc dorsal microribbon	GO:0097597	ventral disc
 GO:0097595	ventral disc crossbridge	GO:0044422	organelle part
@@ -5984,10 +6103,6 @@ GO:0098009	viral terminase, large subunit	GO:0043493	viral terminase complex
 GO:0098015	virus tail	GO:0044423	virion part
 GO:0098017	viral capsid, major subunit	GO:0046727	capsomere
 GO:0098018	viral capsid, minor subunit	GO:0046727	capsomere
-GO:0098019	virus tail, major subunit	GO:0044423	virion part
-GO:0098019	virus tail, major subunit	GO:0098015	virus tail
-GO:0098020	virus tail, minor subunit	GO:0044423	virion part
-GO:0098020	virus tail, minor subunit	GO:0098015	virus tail
 GO:0098021	viral capsid, decoration	GO:0044423	virion part
 GO:0098021	viral capsid, decoration	GO:0019028	viral capsid
 GO:0098022	viral capsid, fiber	GO:0098021	viral capsid, decoration
@@ -6122,6 +6237,8 @@ GO:0098576	lumenal side of membrane	GO:0031090	organelle membrane
 GO:0098577	inactive sex chromosome	GO:0000803	sex chromosome
 GO:0098578	condensed chromatin of inactivated sex chromosome	GO:0001739	sex chromatin
 GO:0098578	condensed chromatin of inactivated sex chromosome	GO:0098577	inactive sex chromosome
+GO:0098578	condensed chromatin of inactivated sex chromosome	GO:0001740	Barr body
+GO:0098578	condensed chromatin of inactivated sex chromosome	GO:0001741	XY body
 GO:0098579	active sex chromosome	GO:0000803	sex chromosome
 GO:0098580	chromatin of active sex chromosome	GO:0001739	sex chromatin
 GO:0098580	chromatin of active sex chromosome	GO:0098579	active sex chromosome
@@ -6135,6 +6252,7 @@ GO:0098589	membrane region	GO:0044425	membrane part
 GO:0098589	membrane region	GO:0098805	whole membrane
 GO:0098590	plasma membrane region	GO:0016020	membrane
 GO:0098590	plasma membrane region	GO:0044459	plasma membrane part
+GO:0098590	plasma membrane region	GO:0120025	plasma membrane bounded cell projection
 GO:0098591	external side of apical plasma membrane	GO:0009897	external side of plasma membrane
 GO:0098591	external side of apical plasma membrane	GO:0016324	apical plasma membrane
 GO:0098592	cytoplasmic side of apical plasma membrane	GO:0009898	cytoplasmic side of plasma membrane
@@ -6176,6 +6294,7 @@ GO:0098675	intrinsic component of neuronal dense core vesicle membrane	GO:009745
 GO:0098675	intrinsic component of neuronal dense core vesicle membrane	GO:0098956	intrinsic component of dense core granule membrane
 GO:0098675	intrinsic component of neuronal dense core vesicle membrane	GO:0099012	neuronal dense core vesicle membrane
 GO:0098681	synaptic ribbon	GO:0043232	intracellular non-membrane-bounded organelle
+GO:0098681	synaptic ribbon	GO:0097470	ribbon synapse
 GO:0098682	arciform density	GO:0043232	intracellular non-membrane-bounded organelle
 GO:0098682	arciform density	GO:0044456	synapse part
 GO:0098682	arciform density	GO:0097470	ribbon synapse
@@ -6221,9 +6340,8 @@ GO:0098800	inner mitochondrial membrane protein complex	GO:0005743	mitochondrial
 GO:0098802	plasma membrane receptor complex	GO:0043235	receptor complex
 GO:0098802	plasma membrane receptor complex	GO:0098797	plasma membrane protein complex
 GO:0098803	respiratory chain complex	GO:0098796	membrane protein complex
-GO:0098803	respiratory chain complex	GO:0070469	respiratory chain
+GO:0098803	respiratory chain complex	GO:0070469	respirasome
 GO:0098804	non-motile cilium membrane	GO:0060170	ciliary membrane
-GO:0098804	non-motile cilium membrane	GO:0097730	non-motile cilium
 GO:0098805	whole membrane	GO:0016020	membrane
 GO:0098807	chloroplast thylakoid membrane protein complex	GO:0044434	chloroplast part
 GO:0098807	chloroplast thylakoid membrane protein complex	GO:0044436	thylakoid part
@@ -6231,7 +6349,6 @@ GO:0098807	chloroplast thylakoid membrane protein complex	GO:0098796	membrane pr
 GO:0098807	chloroplast thylakoid membrane protein complex	GO:0009535	chloroplast thylakoid membrane
 GO:0098820	trans-synaptic protein complex	GO:0032991	protein-containing complex
 GO:0098826	endoplasmic reticulum tubular network membrane	GO:0005789	endoplasmic reticulum membrane
-GO:0098826	endoplasmic reticulum tubular network membrane	GO:0071782	endoplasmic reticulum tubular network
 GO:0098827	endoplasmic reticulum subcompartment	GO:0031984	organelle subcompartment
 GO:0098827	endoplasmic reticulum subcompartment	GO:0044432	endoplasmic reticulum part
 GO:0098830	presynaptic endosome	GO:0005768	endosome
@@ -6281,12 +6398,12 @@ GO:0098850	extrinsic component of synaptic vesicle membrane	GO:0044456	synapse p
 GO:0098850	extrinsic component of synaptic vesicle membrane	GO:0097458	neuron part
 GO:0098850	extrinsic component of synaptic vesicle membrane	GO:0030672	synaptic vesicle membrane
 GO:0098852	lytic vacuole membrane	GO:0005774	vacuolar membrane
-GO:0098852	lytic vacuole membrane	GO:0000323	lytic vacuole
-GO:0098853	ER-vacuole membrane contact site	GO:0044232	organelle membrane contact site
+GO:0098853	endoplasmic reticulum-vacuole membrane contact site	GO:0044232	organelle membrane contact site
 GO:0098854	podocyte primary projection	GO:0120025	plasma membrane bounded cell projection
 GO:0098855	HCN channel complex	GO:0008076	voltage-gated potassium channel complex
 GO:0098857	membrane microdomain	GO:0098589	membrane region
 GO:0098858	actin-based cell projection	GO:0120025	plasma membrane bounded cell projection
+GO:0098858	actin-based cell projection	GO:0098862	cluster of actin-based cell projections
 GO:0098859	actin filament bundle of actin-based cell projection	GO:0097518	parallel actin filament bundle
 GO:0098859	actin filament bundle of actin-based cell projection	GO:0120038	plasma membrane bounded cell projection part
 GO:0098859	actin filament bundle of actin-based cell projection	GO:0098858	actin-based cell projection
@@ -6510,6 +6627,7 @@ GO:0099115	chromosome, subtelomeric region	GO:0098687	chromosomal region
 GO:0099125	PAK family kinase-Sog2 complex	GO:1902911	protein kinase complex
 GO:0099126	transforming growth factor beta complex	GO:0032991	protein-containing complex
 GO:0099126	transforming growth factor beta complex	GO:0044420	extracellular matrix component
+GO:0099126	transforming growth factor beta complex	GO:0062023	collagen-containing extracellular matrix
 GO:0099128	mitochondrial iron-sulfur cluster assembly complex	GO:0032991	protein-containing complex
 GO:0099143	presynaptic actin cytoskeleton	GO:0015629	actin cytoskeleton
 GO:0099143	presynaptic actin cytoskeleton	GO:0099569	presynaptic cytoskeleton
@@ -6552,7 +6670,6 @@ GO:0099400	caveola neck	GO:0098857	membrane microdomain
 GO:0099400	caveola neck	GO:0005901	caveola
 GO:0099401	caveola bulb	GO:0098857	membrane microdomain
 GO:0099501	exocytic vesicle membrane	GO:0030658	transport vesicle membrane
-GO:0099501	exocytic vesicle membrane	GO:0070382	exocytic vesicle
 GO:0099503	secretory vesicle	GO:0031410	cytoplasmic vesicle
 GO:0099512	supramolecular fiber	GO:0099081	supramolecular polymer
 GO:0099513	polymeric cytoskeletal fiber	GO:0044430	cytoskeletal part
@@ -6603,9 +6720,7 @@ GO:0099738	cell cortex region	GO:0044448	cell cortex part
 GO:0101002	ficolin-1-rich granule	GO:0030141	secretory granule
 GO:0101003	ficolin-1-rich granule membrane	GO:0030667	secretory granule membrane
 GO:0101003	ficolin-1-rich granule membrane	GO:0070820	tertiary granule
-GO:0101003	ficolin-1-rich granule membrane	GO:0101002	ficolin-1-rich granule
 GO:0101004	cytolytic granule membrane	GO:0005765	lysosomal membrane
-GO:0101004	cytolytic granule membrane	GO:0044194	cytolytic granule
 GO:0101019	nucleolar exosome (RNase complex)	GO:0000176	nuclear exosome (RNase complex)
 GO:0101019	nucleolar exosome (RNase complex)	GO:0044452	nucleolar part
 GO:0101031	chaperone complex	GO:0032991	protein-containing complex
@@ -6658,6 +6773,7 @@ GO:0110071	cellularization cleavage furrow invagination front	GO:0032155	cell di
 GO:0110071	cellularization cleavage furrow invagination front	GO:0044459	plasma membrane part
 GO:0110071	cellularization cleavage furrow invagination front	GO:0110070	cellularization cleavage furrow
 GO:0110078	TTT complex	GO:0032991	protein-containing complex
+GO:0110078	TTT complex	GO:0070209	ASTRA complex
 GO:0110085	mitotic actomyosin contractile ring	GO:0005826	actomyosin contractile ring
 GO:0110086	meiotic actomyosin contractile ring	GO:0005826	actomyosin contractile ring
 GO:0110092	nucleus leading edge	GO:0044428	nuclear part
@@ -6667,6 +6783,12 @@ GO:0110115	Cdr2 medial cortical node complex	GO:0032155	cell division site part
 GO:0110115	Cdr2 medial cortical node complex	GO:0044448	cell cortex part
 GO:0110115	Cdr2 medial cortical node complex	GO:1902911	protein kinase complex
 GO:0110115	Cdr2 medial cortical node complex	GO:0071341	medial cortical node
+GO:0110129	SHREC2 complex	GO:0000118	histone deacetylase complex
+GO:0110129	SHREC2 complex	GO:0090568	nuclear transcriptional repressor complex
+GO:0110131	Aim21-Tda2 complex	GO:0032991	protein-containing complex
+GO:0110131	Aim21-Tda2 complex	GO:0044430	cytoskeletal part
+GO:0110131	Aim21-Tda2 complex	GO:0044448	cell cortex part
+GO:0110131	Aim21-Tda2 complex	GO:0030479	actin cortical patch
 GO:0120001	apical plasma membrane urothelial plaque	GO:0005887	integral component of plasma membrane
 GO:0120001	apical plasma membrane urothelial plaque	GO:0016324	apical plasma membrane
 GO:0120002	fusiform vesicle	GO:0031410	cytoplasmic vesicle
@@ -6722,6 +6844,7 @@ GO:0120111	neuron projection cytoplasm	GO:0097458	neuron part
 GO:0120111	neuron projection cytoplasm	GO:0043005	neuron projection
 GO:0120114	Sm-like protein family complex	GO:0032991	protein-containing complex
 GO:0120115	Lsm2-8 complex	GO:0120114	Sm-like protein family complex
+GO:0120115	Lsm2-8 complex	GO:0005688	U6 snRNP
 GO:0120118	flagella connector	GO:0030054	cell junction
 GO:0120119	flagellum attachment zone	GO:0070161	anchoring junction
 GO:0120120	bilobe structure	GO:0044430	cytoskeletal part
@@ -6758,6 +6881,12 @@ GO:0140224	SLAC complex	GO:0032991	protein-containing complex
 GO:0140225	DNA topoisomerase I-TDRD3 complex	GO:0032991	protein-containing complex
 GO:0140240	perforant pathway to dendrate granule cell synapse	GO:0045202	synapse
 GO:0140261	BCOR complex	GO:0000152	nuclear ubiquitin ligase complex
+GO:0140266	Woronin body	GO:0042579	microbody
+GO:0140268	endoplasmic reticulum-plasma membrane contact site	GO:0044232	organelle membrane contact site
+GO:0140275	MIB complex	GO:0098800	inner mitochondrial membrane protein complex
+GO:0140275	MIB complex	GO:0031305	integral component of mitochondrial inner membrane
+GO:0140284	endoplasmic reticulum-endosome membrane contact site	GO:0044232	organelle membrane contact site
+GO:0140288	GBAF complex	GO:0070603	SWI/SNF superfamily-type complex
 GO:0150001	primary dendrite	GO:0030425	dendrite
 GO:0150002	distal dendrite	GO:0030425	dendrite
 GO:0150004	dendritic spine origin	GO:0044456	synapse part
@@ -6825,20 +6954,28 @@ GO:1902636	kinociliary basal body	GO:0097458	neuron part
 GO:1902636	kinociliary basal body	GO:0060091	kinocilium
 GO:1902671	left anterior basal body	GO:0036064	ciliary basal body
 GO:1902671	left anterior basal body	GO:0097554	left anterior flagellum
+GO:1902671	left anterior basal body	GO:0097562	left lateral basal body pair
 GO:1902672	right anterior basal body	GO:0036064	ciliary basal body
 GO:1902672	right anterior basal body	GO:0097555	right anterior flagellum
+GO:1902672	right anterior basal body	GO:0097564	right lateral basal body pair
 GO:1902673	left posteriolateral basal body	GO:0036064	ciliary basal body
 GO:1902673	left posteriolateral basal body	GO:0097556	left posteriolateral flagellum
+GO:1902673	left posteriolateral basal body	GO:0097563	left middle basal body pair
 GO:1902674	right posteriolateral basal body	GO:0036064	ciliary basal body
 GO:1902674	right posteriolateral basal body	GO:0097557	right posteriolateral flagellum
+GO:1902674	right posteriolateral basal body	GO:0097565	right middle basal body pair
 GO:1902675	left ventral basal body	GO:0036064	ciliary basal body
 GO:1902675	left ventral basal body	GO:0097558	left ventral flagellum
+GO:1902675	left ventral basal body	GO:0097562	left lateral basal body pair
 GO:1902676	right ventral basal body	GO:0036064	ciliary basal body
 GO:1902676	right ventral basal body	GO:0097559	right ventral flagellum
+GO:1902676	right ventral basal body	GO:0097564	right lateral basal body pair
 GO:1902677	left caudal basal body	GO:0036064	ciliary basal body
 GO:1902677	left caudal basal body	GO:0097560	left caudal flagellum
+GO:1902677	left caudal basal body	GO:0097563	left middle basal body pair
 GO:1902678	right caudal basal body	GO:0036064	ciliary basal body
 GO:1902678	right caudal basal body	GO:0097561	right caudal flagellum
+GO:1902678	right caudal basal body	GO:0097565	right middle basal body pair
 GO:1902687	glucosidase complex	GO:1902494	catalytic complex
 GO:1902693	superoxide dismutase complex	GO:1902494	catalytic complex
 GO:1902694	superoxide dismutase copper chaperone complex	GO:0150005	enzyme activator complex
@@ -6880,7 +7017,6 @@ GO:1903269	ornithine carbamoyltransferase inhibitor complex	GO:0032991	protein-c
 GO:1903293	phosphatase complex	GO:1902494	catalytic complex
 GO:1903349	omegasome membrane	GO:0044424	intracellular part
 GO:1903349	omegasome membrane	GO:0098588	bounding membrane of organelle
-GO:1903349	omegasome membrane	GO:1990462	omegasome
 GO:1903439	calcitonin family receptor complex	GO:0097648	G protein-coupled receptor complex
 GO:1903440	amylin receptor complex	GO:1903439	calcitonin family receptor complex
 GO:1903502	translation repressor complex	GO:0032991	protein-containing complex
@@ -6925,7 +7061,6 @@ GO:1904856	cytolytic granule lumen	GO:0005775	vacuolar lumen
 GO:1904856	cytolytic granule lumen	GO:0060205	cytoplasmic vesicle lumen
 GO:1904856	cytolytic granule lumen	GO:0044194	cytolytic granule
 GO:1904930	amphisome membrane	GO:0000421	autophagosome membrane
-GO:1904930	amphisome membrane	GO:0044753	amphisome
 GO:1904949	ATPase complex	GO:1902494	catalytic complex
 GO:1904974	heparanase complex	GO:1902494	catalytic complex
 GO:1905103	integral component of lysosomal membrane	GO:0031166	integral component of vacuolar membrane
@@ -6982,6 +7117,7 @@ GO:1990024	C bouton	GO:0043195	terminal bouton
 GO:1990025	F bouton	GO:0043195	terminal bouton
 GO:1990026	hippocampal mossy fiber expansion	GO:0043195	terminal bouton
 GO:1990026	hippocampal mossy fiber expansion	GO:0097457	hippocampal mossy fiber
+GO:1990026	hippocampal mossy fiber expansion	GO:0098686	hippocampal mossy fiber to CA3 synapse
 GO:1990027	S bouton	GO:0043195	terminal bouton
 GO:1990030	pericellular basket	GO:0033267	axon part
 GO:1990031	pinceau fiber	GO:0033267	axon part
@@ -6999,6 +7135,7 @@ GO:1990040	sub-surface cisterna	GO:1990039	hypolemmal cisterna
 GO:1990047	spindle matrix	GO:0044430	cytoskeletal part
 GO:1990060	maltose transport complex	GO:0043190	ATP-binding cassette (ABC) transporter complex
 GO:1990060	maltose transport complex	GO:0005887	integral component of plasma membrane
+GO:1990060	maltose transport complex	GO:1990154	enzyme IIA-maltose transporter complex
 GO:1990061	bacterial degradosome	GO:0000177	cytoplasmic exosome (RNase complex)
 GO:1990061	bacterial degradosome	GO:0044445	cytosolic part
 GO:1990062	RPAP3/R2TP/prefoldin-like complex	GO:0032991	protein-containing complex
@@ -7034,7 +7171,13 @@ GO:1990099	pre-primosome complex	GO:1990077	primosome complex
 GO:1990100	DnaB-DnaC complex	GO:0032991	protein-containing complex
 GO:1990100	DnaB-DnaC complex	GO:0044427	chromosomal part
 GO:1990100	DnaB-DnaC complex	GO:1990077	primosome complex
+GO:1990100	DnaB-DnaC complex	GO:1990157	DnaA-DnaB-DnaC complex
+GO:1990100	DnaB-DnaC complex	GO:1990158	DnaB-DnaC-DnaT-PriA-PriB complex
+GO:1990100	DnaB-DnaC complex	GO:1990159	DnaB-DnaC-DnaT-PriA-PriC complex
+GO:1990100	DnaB-DnaC complex	GO:1990160	DnaB-DnaC-Rep-PriC complex
 GO:1990101	DnaA-oriC complex	GO:1990077	primosome complex
+GO:1990101	DnaA-oriC complex	GO:0036389	bacterial pre-replicative complex
+GO:1990101	DnaA-oriC complex	GO:1990102	DnaA-DiaA complex
 GO:1990102	DnaA-DiaA complex	GO:1990077	primosome complex
 GO:1990103	DnaA-HU complex	GO:1990077	primosome complex
 GO:1990104	DNA bending complex	GO:0032991	protein-containing complex
@@ -7044,8 +7187,11 @@ GO:1990121	H-NS complex	GO:0044422	organelle part
 GO:1990121	H-NS complex	GO:0044445	cytosolic part
 GO:1990121	H-NS complex	GO:1990104	DNA bending complex
 GO:1990121	H-NS complex	GO:0043590	bacterial nucleoid
+GO:1990121	H-NS complex	GO:0036411	H-NS-Cnu complex
+GO:1990121	H-NS complex	GO:0097495	H-NS-Hha complex
 GO:1990124	messenger ribonucleoprotein complex	GO:1990904	ribonucleoprotein complex
 GO:1990125	DiaA complex	GO:0032991	protein-containing complex
+GO:1990125	DiaA complex	GO:1990102	DnaA-DiaA complex
 GO:1990130	GATOR1 complex	GO:0032991	protein-containing complex
 GO:1990130	GATOR1 complex	GO:0035859	Seh1-associated complex
 GO:1990131	Gtr1-Gtr2 GTPase complex	GO:0032991	protein-containing complex
@@ -7065,6 +7211,8 @@ GO:1990158	DnaB-DnaC-DnaT-PriA-PriB complex	GO:1990099	pre-primosome complex
 GO:1990159	DnaB-DnaC-DnaT-PriA-PriC complex	GO:1990099	pre-primosome complex
 GO:1990160	DnaB-DnaC-Rep-PriC complex	GO:1990099	pre-primosome complex
 GO:1990161	DnaB helicase complex	GO:0033202	DNA helicase complex
+GO:1990161	DnaB helicase complex	GO:1990100	DnaB-DnaC complex
+GO:1990161	DnaB helicase complex	GO:1990156	DnaB-DnaG complex
 GO:1990176	MalFGK2 complex	GO:0098797	plasma membrane protein complex
 GO:1990176	MalFGK2 complex	GO:1990060	maltose transport complex
 GO:1990177	IHF-DNA complex	GO:0032993	protein-DNA complex
@@ -7080,6 +7228,7 @@ GO:1990178	HU-DNA complex	GO:0043590	bacterial nucleoid
 GO:1990184	amino acid transport complex	GO:0098797	plasma membrane protein complex
 GO:1990191	cobalamin transport complex	GO:0043190	ATP-binding cassette (ABC) transporter complex
 GO:1990193	BtuCD complex	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:1990193	BtuCD complex	GO:1990191	cobalamin transport complex
 GO:1990195	macrolide transmembrane transporter complex	GO:1902495	transmembrane transporter complex
 GO:1990196	MacAB-TolC complex	GO:1990195	macrolide transmembrane transporter complex
 GO:1990197	ATP-dependent methionine-importing complex	GO:0043190	ATP-binding cassette (ABC) transporter complex
@@ -7091,8 +7240,10 @@ GO:1990200	SsuD-SsuE complex	GO:0032991	protein-containing complex
 GO:1990200	SsuD-SsuE complex	GO:0044445	cytosolic part
 GO:1990201	alkanesulfonate monooxygenase complex	GO:0044445	cytosolic part
 GO:1990201	alkanesulfonate monooxygenase complex	GO:1990204	oxidoreductase complex
+GO:1990201	alkanesulfonate monooxygenase complex	GO:1990200	SsuD-SsuE complex
 GO:1990202	FMN reductase complex	GO:0044445	cytosolic part
 GO:1990202	FMN reductase complex	GO:1990204	oxidoreductase complex
+GO:1990202	FMN reductase complex	GO:1990200	SsuD-SsuE complex
 GO:1990203	MdtBC Complex	GO:0098797	plasma membrane protein complex
 GO:1990203	MdtBC Complex	GO:1902495	transmembrane transporter complex
 GO:1990204	oxidoreductase complex	GO:0044464	cell part
@@ -7134,12 +7285,14 @@ GO:1990252	Syp1 complex	GO:0044433	cytoplasmic vesicle part
 GO:1990252	Syp1 complex	GO:0045334	clathrin-coated endocytic vesicle
 GO:1990257	piccolo-bassoon transport vesicle	GO:0031410	cytoplasmic vesicle
 GO:1990265	platelet-derived growth factor complex	GO:0036454	growth factor complex
+GO:1990265	platelet-derived growth factor complex	GO:1990270	platelet-derived growth factor receptor-ligand complex
 GO:1990270	platelet-derived growth factor receptor-ligand complex	GO:0098797	plasma membrane protein complex
 GO:1990270	platelet-derived growth factor receptor-ligand complex	GO:0005887	integral component of plasma membrane
 GO:1990281	efflux pump complex	GO:1902495	transmembrane transporter complex
 GO:1990295	post-anaphase microtubule array	GO:0044430	cytoskeletal part
 GO:1990295	post-anaphase microtubule array	GO:0015630	microtubule cytoskeleton
 GO:1990298	bub1-bub3 complex	GO:0032991	protein-containing complex
+GO:1990298	bub1-bub3 complex	GO:0033597	mitotic checkpoint complex
 GO:1990302	Bre1-Rad6 ubiquitin ligase complex	GO:0044424	intracellular part
 GO:1990302	Bre1-Rad6 ubiquitin ligase complex	GO:1990234	transferase complex
 GO:1990303	UBR1-RAD6 ubiquitin ligase complex	GO:0044424	intracellular part
@@ -7201,6 +7354,7 @@ GO:1990342	heterochromatin island	GO:0005720	nuclear heterochromatin
 GO:1990343	heterochromatin domain	GO:0005720	nuclear heterochromatin
 GO:1990345	MTREC complex	GO:0032991	protein-containing complex
 GO:1990345	MTREC complex	GO:0044428	nuclear part
+GO:1990345	MTREC complex	GO:1990477	NURS complex
 GO:1990346	BID-BCL-xl complex	GO:0032991	protein-containing complex
 GO:1990350	glucose transporter complex	GO:1990351	transporter complex
 GO:1990351	transporter complex	GO:0032991	protein-containing complex
@@ -7288,6 +7442,7 @@ GO:1990500	eif4e-cup complex	GO:1903502	translation repressor complex
 GO:1990500	eif4e-cup complex	GO:0000932	P-body
 GO:1990501	exon-exon junction subcomplex mago-y14	GO:0035145	exon-exon junction complex
 GO:1990501	exon-exon junction subcomplex mago-y14	GO:1903503	ATPase inhibitor complex
+GO:1990501	exon-exon junction subcomplex mago-y14	GO:1990509	PYM-mago-Y14 complex
 GO:1990503	dendritic lamellar body	GO:0042599	lamellar body
 GO:1990503	dendritic lamellar body	GO:0097458	neuron part
 GO:1990503	dendritic lamellar body	GO:0120038	plasma membrane bounded cell projection part
@@ -7358,8 +7513,6 @@ GO:1990629	phospholamban complex	GO:0033017	sarcoplasmic reticulum membrane
 GO:1990630	IRE1-RACK1-PP2A complex	GO:0032991	protein-containing complex
 GO:1990633	mutator focus	GO:0036464	cytoplasmic ribonucleoprotein granule
 GO:1990633	mutator focus	GO:0048471	perinuclear region of cytoplasm
-GO:1990635	proximal dendrite	GO:0097458	neuron part
-GO:1990635	proximal dendrite	GO:0120038	plasma membrane bounded cell projection part
 GO:1990635	proximal dendrite	GO:0030425	dendrite
 GO:1990647	C/EBP complex	GO:0090575	RNA polymerase II transcription factor complex
 GO:1990657	iNOS-S100A8/A9 complex	GO:1903958	nitric-oxide synthase complex
@@ -7404,6 +7557,7 @@ GO:1990703	integral component of Golgi medial cisterna membrane	GO:1990694	intri
 GO:1990704	integral component of Golgi trans cisterna membrane	GO:0030173	integral component of Golgi membrane
 GO:1990704	integral component of Golgi trans cisterna membrane	GO:1990695	intrinsic component of Golgi trans cisterna membrane
 GO:1990706	MAD1 complex	GO:0032991	protein-containing complex
+GO:1990706	MAD1 complex	GO:1990728	mitotic spindle assembly checkpoint MAD1-MAD2 complex
 GO:1990707	nuclear subtelomeric heterochromatin	GO:0005720	nuclear heterochromatin
 GO:1990707	nuclear subtelomeric heterochromatin	GO:1990421	subtelomeric heterochromatin
 GO:1990710	MutS complex	GO:0032300	mismatch repair complex
@@ -7485,6 +7639,7 @@ GO:1990844	interfibrillar mitochondrion	GO:0005739	mitochondrion
 GO:1990850	H-gal-GP complex	GO:0098796	membrane protein complex
 GO:1990850	H-gal-GP complex	GO:1905368	peptidase complex
 GO:1990851	Wnt-Frizzled-LRP5/6 complex	GO:0098797	plasma membrane protein complex
+GO:1990851	Wnt-Frizzled-LRP5/6 complex	GO:1990909	Wnt signalosome
 GO:1990860	Pho85-Pho80 CDK-cyclin complex	GO:0000307	cyclin-dependent protein kinase holoenzyme complex
 GO:1990861	Ubp3-Bre5 deubiquitination complex	GO:0032991	protein-containing complex
 GO:1990862	nuclear membrane complex Bqt3-Bqt4	GO:0044453	nuclear membrane part
@@ -7529,6 +7684,8 @@ GO:1990957	NPHP complex	GO:0035869	ciliary transition zone
 GO:1990964	actin cytoskeleton-regulatory complex	GO:0032991	protein-containing complex
 GO:1990971	EMILIN complex	GO:0044420	extracellular matrix component
 GO:1990971	EMILIN complex	GO:0098637	protein complex involved in cell-matrix adhesion
+GO:1990971	EMILIN complex	GO:0062023	collagen-containing extracellular matrix
 GO:1990972	multimerin complex	GO:0044420	extracellular matrix component
 GO:1990972	multimerin complex	GO:0098637	protein complex involved in cell-matrix adhesion
+GO:1990972	multimerin complex	GO:0062023	collagen-containing extracellular matrix
 GO:1990973	transmembrane actin-associated (TAN) line	GO:0043232	intracellular non-membrane-bounded organelle
